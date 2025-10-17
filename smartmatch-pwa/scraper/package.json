@@ -1,0 +1,33 @@
+{
+  "name": "smartmatch-scraper",
+  "version": "2.0.0",
+  "description": "AI-powered data pipeline to review phones for the SmartMatch PWA.",
+  "main": "process-reviews.js",
+  "scripts": {
+    "acquire-data": "node acquire-data.js",
+    "verifypics": "node verify-images.js",
+    "validate": "node validate-json.js",
+    "process-reviews": "node process-reviews.js",
+    "smartmatch": "node smartmatch-pipeline.js",
+    "pulse": "node pulse-observer.js",
+    "pulse-score": "node pulse-anomaly-calculator.js",
+    "start": "npm run smartmatch && npm run validate",
+    "minimal": "npm run smartmatch",
+    "test": "mocha test/**/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.4.5",
+    "p-limit": "^7.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "chai": "^4.3.6",
+    "sinon": "^14.0.0",
+    "proxyquire": "^2.1.3",
+    "rewire": "^6.0.0"
+  }
+}

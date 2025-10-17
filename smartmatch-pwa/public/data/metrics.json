@@ -1,0 +1,54 @@
+{
+  "year": 2025,
+  "benchmarks": {
+    "processor": {
+      "topTierKeywords": ["Snapdragon 8 Elite", "A19 Pro", "Dimensity 9400"],
+      "highTierKeywords": ["Snapdragon 8s Gen 4", "A18 Pro", "Dimensity 9300"],
+      "midTierKeywords": ["Snapdragon 7s Gen 3", "Snapdragon 6 Gen 3", "Dimensity 8300", "Tensor G5"],
+      "entryTierKeywords": ["Exynos 1580", "Dimensity 7400"]
+    },
+    "battery": {
+      "capacity": {
+        "excellent": 6000,
+        "good": 5000,
+        "average": 4500,
+        "poor": 4000
+      },
+      "wiredCharging": {
+        "excellent": 120,
+        "good": 67,
+        "average": 45,
+        "poor": 25
+      }
+    },
+    "display": {
+      "peakBrightness": {
+        "excellent": 3000,
+        "good": 2000,
+        "average": 1500,
+        "poor": 1000
+      },
+      "refreshRate": {
+        "excellent": 144,
+        "good": 120,
+        "average": 90,
+        "poor": 60
+      }
+    },
+    "camera": {
+        "mainSensorMP": {
+            "excellent": 200,
+            "good": 108,
+            "average": 50,
+            "poor": 12
+        },
+        "hasTelephoto": true,
+        "hasUltrawide": true
+    },
+    "userExperience": {
+        "hasIp68Rating": true,
+        "fastWirelessCharging": 50,
+        "longSoftwareSupport": 5 
+    }
+  }
+}

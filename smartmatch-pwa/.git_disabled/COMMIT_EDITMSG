@@ -1,0 +1,7 @@
+ Pulse Observer Fix: Add defensive programming for undefined metrics
+
+- Fix 'Cannot read properties of undefined (reading toFixed)' error
+- Add null-default values for metrics.confidenceMean || 0
+- Make all session object fields defensive with proper fallbacks
+- Include pulse-report.json with updated session tracking
+- Previous sessions: 138,936 total tokens, 15 phones processed

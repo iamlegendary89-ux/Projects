@@ -1,0 +1,82 @@
+name: SmartMatch AI Data Pipeline
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 00:00 UTC and 12:00 UTC every day (twice daily)
+    - cron: '0 0,12 * * *'
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    env:
+      TOKEN_LIMIT_PER_RUN: 5000
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # We need to fetch all history for git-auto-commit to work correctly
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scraper/package.json
+
+      - name: Install dependencies
+        run: npm ci --prefer-offline
+        working-directory: ./scraper
+
+      # ===================================================================
+      # Stage 1: Minimal Pipeline - Discovery + AI Analysis + Caching
+      # ===================================================================
+      - name: "Stage 1: Run SmartMatch Minimal Pipeline"
+        run: npm run smartmatch
+        working-directory: ./scraper
+        env:
+          CUSTOM_SEARCH_API_KEY: ${{ secrets.CUSTOM_SEARCH_API_KEY }}
+          SEARCH_ENGINE_ID: ${{ secrets.SEARCH_ENGINE_ID }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          TOKEN_LIMIT_PER_RUN: 5000
+
+      # ===================================================================
+      # Stage 2: Data Validation
+      # ===================================================================
+      - name: "Stage 2: Validate JSON Data Structure"
+        run: npm run validate
+        working-directory: ./scraper
+
+      # ===================================================================
+      # Stage 3: Reporting & Commit
+      # ===================================================================
+      - name: "Stage 3.1: Update System Pulse Metrics"
+        run: |
+          npm run pulse
+          npm run pulse-score
+        working-directory: ./scraper
+        continue-on-error: true
+
+      - name: "Stage 3.2: Upload Pulse Report Artifact"
+        uses: actions/upload-artifact@v4
+        with:
+          name: pulse-report
+          path: scraper/pulse-report.json
+          retention-days: 30
+
+      - name: "Stage 3.3: Sync with Remote Repository"
+        run: |
+          git config user.name "SmartMatch Bot"
+          git config user.email "smartmatch-bot@users.noreply.github.com"
+          git pull --rebase
+
+      - name: "Stage 3.4: Commit and Push Changes"
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "📚 BOT: Update phone database"
+          file_pattern: "public/data/phones.json public/images/phones/ PULSE_STATUS.md"
+          commit_user_name: "SmartMatch Bot"
+          commit_user_email: "smartmatch-bot@users.noreply.github.com"
+          commit_author: "SmartMatch Bot <smartmatch-bot@users.noreply.github.com>"

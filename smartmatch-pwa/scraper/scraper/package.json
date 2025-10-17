@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mocha": "^11.7.4",
+    "smartmatch-scraper": "file:.."
+  }
+}
