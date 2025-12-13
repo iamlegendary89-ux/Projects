@@ -20,6 +20,7 @@ export const TRAIT_NAMES = [
 
     // Group 2: Energy & Endurance
     "batteryStress",
+    "batteryAnxiety",
     "chargingAnxiety",
     "endurancePriority",
 

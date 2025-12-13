@@ -1,10 +1,11 @@
 {
-    "version": "2.0",
+    "version": "2.1",
     "system": "REAL",
-    "description": "Regret-Eliminating Adaptive Logic",
+    "description": "Regret-Eliminating Adaptive Logic — Optimized Phrasing",
     "modes": {
         "ultra-fast": {
             "questions": 9,
+            "minQuestions": 6,
             "accuracy": "91-93%",
             "time": "45-60s",
             "questionIds": [
@@ -21,6 +22,7 @@
         },
         "gold-standard": {
             "questions": 15,
+            "minQuestions": 10,
             "accuracy": "97-98%",
             "time": "90-120s",
             "questionIds": [
@@ -42,38 +44,46 @@
             ]
         }
     },
-    "convergenceThreshold": 0.92,
+    "convergenceThreshold": 0.15,
+    "regretDimensions": [
+        "battery",
+        "performance",
+        "camera",
+        "price",
+        "longevity"
+    ],
     "questions": [
         {
             "id": "q1",
             "phase": "ultra-fast",
             "category": "battery-stress",
             "mandatory": true,
-            "text": "On a typical day, how often does your phone drop below 20%?",
-            "removalImpact": "catastrophic (+25% regret)",
+            "text": "It's late afternoon. Your phone is below 20%. What's your instinct?",
+            "framing": "situational",
             "options": [
                 {
-                    "label": "Almost every day — stresses me out",
+                    "label": "Anxiety kicks in — I need to find a charger now",
                     "delta": {
-                        "batteryStress": 0.30,
+                        "batteryAnxiety": 0.30,
                         "chargingAnxiety": 0.25,
-                        "endurancePriority": 0.20
+                        "patience": -0.15
+                    },
+                    "regretAxis": "battery"
+                },
+                {
+                    "label": "I'll plug in soon — not a big deal",
+                    "delta": {
+                        "batteryAnxiety": 0.05,
+                        "patience": 0.15,
+                        "endurancePriority": 0.10
                     }
                 },
                 {
-                    "label": "Sometimes — I manage it",
+                    "label": "I don't usually check the percentage",
                     "delta": {
-                        "batteryStress": 0.10,
-                        "chargingAnxiety": 0.05,
-                        "patience": 0.15
-                    }
-                },
-                {
-                    "label": "Rarely — not something I think about",
-                    "delta": {
-                        "batteryStress": -0.15,
-                        "chargingAnxiety": -0.10,
-                        "patience": 0.20
+                        "batteryAnxiety": -0.20,
+                        "patience": 0.25,
+                        "batteryStress": -0.15
                     }
                 }
             ]
@@ -82,29 +92,31 @@
             "id": "q2",
             "phase": "ultra-fast",
             "category": "lag-intolerance",
-            "text": "If your phone stutters once a day, how annoyed are you?",
+            "text": "When your phone hesitates for a moment, what happens first?",
+            "framing": "behavioral",
             "options": [
                 {
-                    "label": "Extremely — I'd consider replacing it",
+                    "label": "I notice immediately — and it bothers me",
                     "delta": {
                         "lagSensitivity": 0.30,
                         "performanceFloor": 0.25,
-                        "toleranceVariance": -0.15
-                    }
+                        "patience": -0.15
+                    },
+                    "regretAxis": "performance"
                 },
                 {
-                    "label": "Mildly annoyed but livable",
+                    "label": "Only bothers me if it happens again",
                     "delta": {
                         "lagSensitivity": 0.10,
-                        "performanceFloor": 0.10,
+                        "consistencyBias": 0.20,
                         "patience": 0.10
                     }
                 },
                 {
-                    "label": "Wouldn't really notice",
+                    "label": "I rarely notice these things",
                     "delta": {
                         "lagSensitivity": -0.20,
-                        "performanceFloor": -0.10,
+                        "toleranceVariance": 0.20,
                         "patience": 0.20
                     }
                 }
@@ -113,31 +125,34 @@
         {
             "id": "q3",
             "phase": "ultra-fast",
-            "category": "camera-trust",
-            "text": "When you take a photo, do you expect it to 'just work'?",
+            "category": "upgrade-horizon",
+            "text": "You usually replace a phone when…",
+            "framing": "behavioral",
             "options": [
                 {
-                    "label": "Absolutely — I rely on my camera",
+                    "label": "It starts slowing down noticeably",
                     "delta": {
-                        "cameraReliance": 0.30,
-                        "consistencyBias": 0.20,
-                        "lowLightExpectation": 0.15
-                    }
+                        "longevityExpectation": 0.15,
+                        "performanceFloor": 0.20,
+                        "upgradeImpulse": 0.10
+                    },
+                    "regretAxis": "performance"
                 },
                 {
-                    "label": "Mostly — some manual effort is fine",
+                    "label": "It physically breaks or fails",
                     "delta": {
-                        "cameraReliance": 0.15,
-                        "consistencyBias": 0.10,
-                        "patience": 0.10
-                    }
+                        "longevityExpectation": 0.30,
+                        "depreciationSensitivity": -0.10,
+                        "patience": 0.20
+                    },
+                    "regretAxis": "longevity"
                 },
                 {
-                    "label": "Not really — I rarely use it",
+                    "label": "There's a big leap worth paying for",
                     "delta": {
-                        "cameraReliance": -0.20,
-                        "consistencyBias": -0.10,
-                        "patience": 0.15
+                        "longevityExpectation": -0.10,
+                        "noveltySeeking": 0.25,
+                        "upgradeImpulse": 0.25
                     }
                 }
             ]
@@ -145,33 +160,35 @@
         {
             "id": "q4",
             "phase": "ultra-fast",
-            "category": "regret-orientation",
+            "category": "camera-regret",
             "mandatory": true,
             "coreREAL": true,
-            "text": "Which hurts more: missing a deal, or buying the wrong thing?",
+            "text": "Which camera problem would upset you more?",
+            "framing": "forced-tradeoff",
             "options": [
                 {
-                    "label": "Missing a deal — hate leaving value on the table",
+                    "label": "Missing the moment entirely — too slow to capture",
                     "delta": {
-                        "regretAversion": 0.15,
-                        "riskProfile": 0.20,
-                        "valueElasticity": 0.25
-                    }
+                        "cameraReliance": 0.25,
+                        "consistencyBias": 0.20,
+                        "lowLightExpectation": 0.10
+                    },
+                    "regretAxis": "camera"
                 },
                 {
-                    "label": "Buying wrong — the regret lingers",
+                    "label": "Having the shot, but it looks bad",
                     "delta": {
-                        "regretAversion": 0.30,
-                        "riskProfile": -0.15,
-                        "overbuyPenalty": 0.25
-                    }
+                        "cameraReliance": 0.30,
+                        "visualAcuity": 0.20,
+                        "aestheticAttachment": 0.15
+                    },
+                    "regretAxis": "camera"
                 },
                 {
-                    "label": "Neither bothers me much",
+                    "label": "Neither — I rarely use my camera",
                     "delta": {
-                        "regretAversion": -0.15,
-                        "patience": 0.20,
-                        "riskProfile": 0.05
+                        "cameraReliance": -0.25,
+                        "patience": 0.15
                     }
                 }
             ]
@@ -179,30 +196,35 @@
         {
             "id": "q5",
             "phase": "ultra-fast",
-            "category": "upgrade-horizon",
-            "text": "How long do you realistically keep a phone?",
+            "category": "price-pain",
+            "mandatory": true,
+            "text": "After buying a phone, which thought hurts more?",
+            "framing": "future-regret",
+            "regretWeight": 1.2,
             "options": [
                 {
-                    "label": "1-2 years — I like staying current",
+                    "label": "\"I overpaid for what I got\"",
                     "delta": {
-                        "longevityExpectation": -0.20,
-                        "depreciationSensitivity": 0.10,
-                        "upgradeImpulse": 0.25
+                        "valueElasticity": 0.30,
+                        "valueSensitivity": 0.25,
+                        "overbuyPenalty": 0.20
+                    },
+                    "regretAxis": "price"
+                },
+                {
+                    "label": "\"I compromised too much to save money\"",
+                    "delta": {
+                        "valueElasticity": -0.15,
+                        "regretAversion": 0.20,
+                        "premiumTolerance": 0.20
                     }
                 },
                 {
-                    "label": "2-3 years — standard lifecycle",
+                    "label": "\"I should have waited for something better\"",
                     "delta": {
-                        "longevityExpectation": 0.10,
-                        "OSSupportWeight": 0.15
-                    }
-                },
-                {
-                    "label": "4+ years — until it dies",
-                    "delta": {
-                        "longevityExpectation": 0.30,
-                        "depreciationSensitivity": -0.15,
-                        "OSSupportWeight": 0.25
+                        "noveltySeeking": 0.20,
+                        "depreciationSensitivity": 0.20,
+                        "regretAversion": 0.15
                     }
                 }
             ]
@@ -210,61 +232,67 @@
         {
             "id": "q6",
             "phase": "ultra-fast",
-            "category": "performance-vs-stability",
-            "text": "Would you rather have peak speed or never think about speed?",
+            "category": "heat-tradeoff",
+            "text": "During heavy use, which would bother you most?",
+            "framing": "forced-tradeoff",
             "options": [
                 {
-                    "label": "Peak speed — I want the fastest possible",
+                    "label": "Phone getting uncomfortably warm",
                     "delta": {
-                        "benchmarkBias": 0.30,
-                        "thermalTolerance": 0.15,
-                        "sustainedPerfWeight": 0.20
+                        "thermalAversion": 0.30,
+                        "thermalSensitivity": 0.25
                     }
                 },
                 {
-                    "label": "Never think about it — just smooth and consistent",
+                    "label": "Phone slowing down to stay cool",
                     "delta": {
-                        "benchmarkBias": -0.15,
-                        "thermalTolerance": -0.10,
-                        "consistencyBias": 0.25
-                    }
+                        "thermalAversion": -0.10,
+                        "benchmarkBias": 0.25,
+                        "sustainedLoadBias": 0.20
+                    },
+                    "regretAxis": "performance"
                 },
                 {
-                    "label": "Somewhere in between",
+                    "label": "Battery draining faster than expected",
                     "delta": {
-                        "benchmarkBias": 0.05,
-                        "consistencyBias": 0.10,
-                        "patience": 0.10
-                    }
+                        "thermalAversion": -0.05,
+                        "batteryAnxiety": 0.25,
+                        "endurancePriority": 0.20
+                    },
+                    "regretAxis": "battery"
                 }
             ]
         },
         {
             "id": "q7",
             "phase": "ultra-fast",
-            "category": "storage-pressure",
-            "text": "Have you ever deleted things to free up space?",
+            "category": "software-trust",
+            "text": "Which software scenario scares you more?",
+            "framing": "forced-tradeoff",
             "options": [
                 {
-                    "label": "Yes, regularly — it's frustrating",
+                    "label": "Bugs appearing after updates",
                     "delta": {
-                        "storageAnxiety": 0.30,
-                        "futureGrowthWeight": 0.25,
-                        "regretAversion": 0.10
+                        "OSRiskTolerance": -0.25,
+                        "softwareTrust": -0.20,
+                        "consistencyBias": 0.20
                     }
                 },
                 {
-                    "label": "Occasionally — manageable",
+                    "label": "Never getting updates at all",
                     "delta": {
-                        "storageAnxiety": 0.10,
-                        "futureGrowthWeight": 0.10
-                    }
+                        "OSRiskTolerance": 0.20,
+                        "softwareTrust": 0.25,
+                        "OSSupportWeight": 0.25
+                    },
+                    "regretAxis": "longevity"
                 },
                 {
-                    "label": "Never — I have plenty of space",
+                    "label": "Being forced to change how things work",
                     "delta": {
-                        "storageAnxiety": -0.20,
-                        "futureGrowthWeight": -0.10
+                        "consistencyNeed": 0.30,
+                        "learningTolerance": -0.20,
+                        "riskAversion": 0.15
                     }
                 }
             ]
@@ -272,30 +300,31 @@
         {
             "id": "q8",
             "phase": "ultra-fast",
-            "category": "software-trust",
-            "text": "Do you trust software updates to improve or break things?",
+            "category": "ecosystem-lock",
+            "text": "Switching to a completely different phone brand would feel…",
+            "framing": "behavioral",
             "options": [
                 {
-                    "label": "Improve — I update immediately",
+                    "label": "Painful — I'm deeply invested in my ecosystem",
                     "delta": {
-                        "OSRiskTolerance": 0.25,
-                        "brandTrustWeight": 0.20,
-                        "softwareTrust": 0.25
+                        "ecosystemGravity": 0.35,
+                        "accessoryLockIn": 0.25,
+                        "brandTrustWeight": 0.20
                     }
                 },
                 {
-                    "label": "Break — I delay or skip updates",
+                    "label": "Annoying but I'd adapt",
                     "delta": {
-                        "OSRiskTolerance": -0.20,
-                        "brandTrustWeight": -0.10,
-                        "consistencyBias": 0.20
+                        "ecosystemGravity": 0.10,
+                        "learningTolerance": 0.15
                     }
                 },
                 {
-                    "label": "Don't really notice either way",
+                    "label": "Easy — I've done it before",
                     "delta": {
-                        "OSRiskTolerance": 0.05,
-                        "patience": 0.15
+                        "ecosystemGravity": -0.20,
+                        "learningTolerance": 0.25,
+                        "noveltySeeking": 0.15
                     }
                 }
             ]
@@ -305,46 +334,51 @@
             "phase": "ultra-fast",
             "category": "final-regret-check",
             "convergenceGate": true,
-            "text": "If this recommendation disappoints you, what's the most likely reason?",
+            "text": "If this phone disappoints you in 6 months, it'll probably be because…",
+            "framing": "future-regret",
             "options": [
                 {
-                    "label": "Battery didn't last as expected",
+                    "label": "The battery didn't hold up",
                     "delta": {
                         "batteryStress": 0.20,
-                        "posteriorConfidence": 0.10,
-                        "regretTrigger": "battery"
-                    }
+                        "posteriorConfidence": 0.15
+                    },
+                    "regretAxis": "battery",
+                    "regretTrigger": "battery"
                 },
                 {
-                    "label": "Camera wasn't good enough",
-                    "delta": {
-                        "cameraReliance": 0.20,
-                        "posteriorConfidence": 0.10,
-                        "regretTrigger": "camera"
-                    }
-                },
-                {
-                    "label": "Felt slow over time",
+                    "label": "It felt slow over time",
                     "delta": {
                         "lagSensitivity": 0.20,
-                        "posteriorConfidence": 0.10,
-                        "regretTrigger": "performance"
-                    }
+                        "posteriorConfidence": 0.15
+                    },
+                    "regretAxis": "performance",
+                    "regretTrigger": "performance"
                 },
                 {
-                    "label": "Paid too much for what I got",
+                    "label": "The camera wasn't good enough",
+                    "delta": {
+                        "cameraReliance": 0.20,
+                        "posteriorConfidence": 0.15
+                    },
+                    "regretAxis": "camera",
+                    "regretTrigger": "camera"
+                },
+                {
+                    "label": "It wasn't worth the money",
                     "delta": {
                         "valueElasticity": 0.20,
-                        "posteriorConfidence": 0.10,
-                        "regretTrigger": "value"
-                    }
+                        "posteriorConfidence": 0.15
+                    },
+                    "regretAxis": "price",
+                    "regretTrigger": "value"
                 },
                 {
                     "label": "Honestly, I rarely have regrets",
                     "delta": {
-                        "regretAversion": -0.20,
-                        "posteriorConfidence": 0.25,
-                        "patience": 0.20
+                        "regretAversion": -0.25,
+                        "patience": 0.20,
+                        "posteriorConfidence": 0.30
                     }
                 }
             ]
@@ -352,29 +386,30 @@
         {
             "id": "q10",
             "phase": "gold-standard",
-            "category": "heat-tradeoff",
-            "text": "Warm phone running fast, or cooler phone running slower — which is worse?",
+            "category": "storage-pressure",
+            "text": "Have you ever had to delete things just to free up space?",
+            "framing": "behavioral",
             "options": [
                 {
-                    "label": "Warm phone — heat bothers me",
+                    "label": "Yes, it's frustrating and happens regularly",
                     "delta": {
-                        "thermalAversion": 0.30,
-                        "sustainedLoadBias": -0.15
+                        "storageAnxiety": 0.30,
+                        "futureGrowthWeight": 0.25,
+                        "regretAversion": 0.10
                     }
                 },
                 {
-                    "label": "Slower phone — I need the speed",
+                    "label": "Occasionally, but I manage",
                     "delta": {
-                        "thermalAversion": -0.15,
-                        "sustainedLoadBias": 0.25,
-                        "benchmarkBias": 0.15
+                        "storageAnxiety": 0.10,
+                        "patience": 0.10
                     }
                 },
                 {
-                    "label": "Neither really bothers me",
+                    "label": "Never — I always have plenty of space",
                     "delta": {
-                        "thermalAversion": -0.05,
-                        "patience": 0.15
+                        "storageAnxiety": -0.20,
+                        "futureGrowthWeight": -0.10
                     }
                 }
             ]
@@ -383,24 +418,26 @@
             "id": "q11",
             "phase": "gold-standard",
             "category": "display-sensitivity",
-            "text": "Do you notice screen quality differences instantly?",
+            "text": "When you see two phones side by side, do you notice screen quality differences?",
+            "framing": "behavioral",
             "options": [
                 {
-                    "label": "Yes — I can spot a bad display immediately",
+                    "label": "Instantly — I can spot quality (or lack of it)",
                     "delta": {
                         "visualAcuity": 0.30,
-                        "displayPriority": 0.25
+                        "displayPriority": 0.25,
+                        "aestheticAttachment": 0.15
                     }
                 },
                 {
-                    "label": "Only if I compare side-by-side",
+                    "label": "Only if I really compare them",
                     "delta": {
                         "visualAcuity": 0.10,
                         "displayPriority": 0.10
                     }
                 },
                 {
-                    "label": "Not really — screens look similar to me",
+                    "label": "They all look pretty similar to me",
                     "delta": {
                         "visualAcuity": -0.20,
                         "displayPriority": -0.15,
@@ -413,10 +450,11 @@
             "id": "q12",
             "phase": "gold-standard",
             "category": "weight-sensitivity",
-            "text": "Does phone weight bother you after extended use?",
+            "text": "After an hour of scrolling, does your phone's weight start to bother you?",
+            "framing": "situational",
             "options": [
                 {
-                    "label": "Yes — I prefer lighter phones",
+                    "label": "Yes — I prefer lighter phones for this reason",
                     "delta": {
                         "ergonomicsWeight": 0.30,
                         "designPriority": 0.15
@@ -429,7 +467,7 @@
                     }
                 },
                 {
-                    "label": "No — never think about it",
+                    "label": "No — I never think about phone weight",
                     "delta": {
                         "ergonomicsWeight": -0.20,
                         "patience": 0.10
@@ -440,30 +478,33 @@
         {
             "id": "q13",
             "phase": "gold-standard",
-            "category": "price-pain",
-            "text": "At what point does a phone start feeling overpriced?",
+            "category": "price-threshold",
+            "text": "At what price does a phone start feeling \"overpriced\" to you?",
+            "framing": "value-discovery",
             "options": [
                 {
-                    "label": "Over $600 — that's my limit",
+                    "label": "Over $600 — that's pushing it",
                     "delta": {
                         "priceElasticity": 0.30,
                         "valueSensitivity": 0.25,
                         "valueElasticity": 0.20
-                    }
+                    },
+                    "regretAxis": "price"
                 },
                 {
                     "label": "Over $1000 — flagship territory",
                     "delta": {
                         "priceElasticity": 0.10,
-                        "valueSensitivity": 0.10
+                        "valueSensitivity": 0.10,
+                        "premiumTolerance": 0.10
                     }
                 },
                 {
-                    "label": "Price doesn't matter if it's right",
+                    "label": "Price doesn't matter if it's the right phone",
                     "delta": {
                         "priceElasticity": -0.20,
                         "valueSensitivity": -0.15,
-                        "premiumTolerance": 0.25
+                        "premiumTolerance": 0.30
                     }
                 }
             ]
@@ -471,30 +512,32 @@
         {
             "id": "q14",
             "phase": "gold-standard",
-            "category": "ecosystem-lock",
-            "text": "How annoying would it be to switch phone ecosystems?",
+            "category": "performance-realism",
+            "text": "You'd rather have a phone that…",
+            "framing": "forced-tradeoff",
             "options": [
                 {
-                    "label": "Very — I'm deeply invested",
+                    "label": "Is always the fastest, even if it gets warm",
                     "delta": {
-                        "ecosystemGravity": 0.35,
-                        "accessoryLockIn": 0.25,
-                        "brandTrustWeight": 0.20
+                        "benchmarkBias": 0.30,
+                        "thermalAversion": -0.15,
+                        "sustainedPerfWeight": 0.20
                     }
                 },
                 {
-                    "label": "Somewhat — I'd adapt eventually",
+                    "label": "Is consistently smooth, even if not the fastest",
                     "delta": {
-                        "ecosystemGravity": 0.10,
-                        "accessoryLockIn": 0.10
+                        "consistencyBias": 0.25,
+                        "benchmarkBias": -0.10,
+                        "riskAversion": 0.15
                     }
                 },
                 {
-                    "label": "Not at all — I've done it before",
+                    "label": "Just works — I don't think about performance",
                     "delta": {
-                        "ecosystemGravity": -0.20,
-                        "accessoryLockIn": -0.15,
-                        "noveltySeeking": 0.15
+                        "lagSensitivity": -0.15,
+                        "patience": 0.25,
+                        "consistencyBias": 0.15
                     }
                 }
             ]
@@ -504,39 +547,43 @@
             "phase": "gold-standard",
             "category": "regret-confirmation",
             "finalLock": true,
-            "text": "Which mistake would you hate more in 6 months?",
+            "text": "Six months from now, which mistake would make you say \"I chose wrong\"?",
+            "framing": "future-regret",
             "options": [
                 {
-                    "label": "Chose it for specs but it doesn't feel right",
+                    "label": "Chose it for specs but it doesn't feel right daily",
                     "delta": {
                         "specChasing": -0.20,
-                        "regretAversion": 0.20,
+                        "consistencyBias": 0.20,
                         "posteriorLock": 0.15
-                    }
+                    },
+                    "regretAxis": "performance"
                 },
                 {
                     "label": "Played it safe and now wish I'd gone bigger",
                     "delta": {
                         "riskProfile": 0.20,
-                        "regretAversion": 0.15,
+                        "noveltySeeking": 0.15,
                         "posteriorLock": 0.15
                     }
                 },
                 {
-                    "label": "Overpaid for features I don't use",
+                    "label": "Overpaid for features I don't actually use",
                     "delta": {
                         "valueElasticity": 0.25,
                         "overbuyPenalty": 0.20,
                         "posteriorLock": 0.15
-                    }
+                    },
+                    "regretAxis": "price"
                 },
                 {
-                    "label": "Had to replace it too soon",
+                    "label": "Had to replace it sooner than expected",
                     "delta": {
                         "longevityExpectation": 0.25,
                         "depreciationSensitivity": 0.20,
                         "posteriorLock": 0.15
-                    }
+                    },
+                    "regretAxis": "longevity"
                 }
             ]
         }

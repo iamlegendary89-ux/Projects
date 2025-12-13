@@ -10,7 +10,7 @@ import {
     type TraitDelta,
     createNeutralVector,
     applyDelta,
-    hasConverged,
+    calculateEntropy,
 } from "@/lib/core/traits";
 
 import {
@@ -46,6 +46,173 @@ export interface MatchResult {
     mode: "ultra-fast" | "gold-standard";
     confidence: number;
     regretWarnings: string[];
+    regretProfile: Record<string, number>;
+    stoppedEarly: boolean;
+    questionsAnswered: number;
+}
+
+// =============================================================================
+// REGRET DIMENSIONS (5 Core)
+// =============================================================================
+
+const REGRET_DIMENSIONS = ["battery", "performance", "camera", "price", "longevity"] as const;
+type RegretDimension = typeof REGRET_DIMENSIONS[number];
+
+interface RegretProfile {
+    [key: string]: number;
+}
+
+// Regret time curves (when regret peaks)
+const REGRET_TIMING: Record<RegretDimension, { peakMonth: number; weight: number }> = {
+    battery: { peakMonth: 1, weight: 1.2 },      // Emerges month 1
+    performance: { peakMonth: 0.5, weight: 1.0 }, // Spikes early (week 1-2)
+    camera: { peakMonth: 3, weight: 0.9 },       // Event-driven (holidays)
+    price: { peakMonth: 0.5, weight: 1.3 },      // Strongest at purchase + month 1
+    longevity: { peakMonth: 6, weight: 1.1 },    // Month 6+
+};
+
+// =============================================================================
+// ADAPTIVE STOPPING LOGIC
+// =============================================================================
+
+interface ConvergenceState {
+    previousTop3: string[];
+    currentTop3: string[];
+    top3StableCount: number;
+    maxTraitDelta: number;
+    regretVariance: number;
+}
+
+/**
+ * Check if quiz should stop early based on entropy convergence
+ */
+function shouldStopEarly(
+    traits: TraitVector,
+    mode: string,
+    step: number,
+    minQuestions: number,
+    prevTop3: string[] = []
+): { stop: boolean; reason: string } {
+    // Never stop before minimum
+    if (step < minQuestions) {
+        return { stop: false, reason: "below minimum" };
+    }
+
+    // Calculate entropy (lower = more converged)
+    const entropy = calculateEntropy(traits);
+
+    // Ultra-fast: more aggressive stopping
+    const entropyThreshold = mode === "ultra-fast" ? 0.25 : 0.20;
+
+    if (entropy < entropyThreshold) {
+        return { stop: true, reason: "entropy converged" };
+    }
+
+    // Check trait stability (max delta from neutral)
+    let maxDeviation = 0;
+    let deviationCount = 0;
+
+    for (const value of Object.values(traits)) {
+        const deviation = Math.abs(value - 0.5);
+        if (deviation > 0.2) deviationCount++;
+        if (deviation > maxDeviation) maxDeviation = deviation;
+    }
+
+    // If many traits have strong signals, we've converged
+    if (deviationCount >= 8 && maxDeviation > 0.25) {
+        return { stop: true, reason: "strong trait signals" };
+    }
+
+    return { stop: false, reason: "not converged" };
+}
+
+// =============================================================================
+// REGRET MODELING
+// =============================================================================
+
+/**
+ * Build regret profile from trait vector
+ */
+function buildRegretProfile(traits: TraitVector): RegretProfile {
+    const profile: RegretProfile = {};
+
+    // Battery regret
+    profile.battery = (
+        (traits.batteryAnxiety || 0.5) * 0.5 +
+        (traits.batteryStress || 0.5) * 0.3 +
+        (traits.chargingAnxiety || 0.5) * 0.2
+    );
+
+    // Performance regret
+    profile.performance = (
+        (traits.lagSensitivity || 0.5) * 0.4 +
+        (traits.benchmarkBias || 0.5) * 0.3 +
+        (traits.performanceFloor || 0.5) * 0.3
+    );
+
+    // Camera regret
+    profile.camera = (
+        (traits.cameraReliance || 0.5) * 0.5 +
+        (traits.visualAcuity || 0.5) * 0.3 +
+        (traits.lowLightExpectation || 0.5) * 0.2
+    );
+
+    // Price regret
+    profile.price = (
+        (traits.valueElasticity || 0.5) * 0.4 +
+        (traits.valueSensitivity || 0.5) * 0.3 +
+        (traits.overbuyPenalty || 0.5) * 0.3
+    );
+
+    // Longevity regret
+    profile.longevity = (
+        (traits.longevityExpectation || 0.5) * 0.4 +
+        (traits.depreciationSensitivity || 0.5) * 0.3 +
+        (traits.OSSupportWeight || 0.5) * 0.3
+    );
+
+    return profile;
+}
+
+/**
+ * Calculate regret penalty for a phone based on user's regret profile
+ */
+function calculateRegretPenalty(
+    phoneAttrs: Record<string, number>,
+    regretProfile: RegretProfile,
+    traits: TraitVector
+): { penalty: number; warnings: string[] } {
+    let penalty = 0;
+    const warnings: string[] = [];
+    const regretThreshold = 0.65;
+
+    // Battery regret
+    if (regretProfile.battery > regretThreshold && phoneAttrs.battery < 7) {
+        penalty += (regretThreshold - phoneAttrs.battery / 10) * REGRET_TIMING.battery.weight;
+        warnings.push("Battery may not meet your expectations");
+    }
+
+    // Performance regret
+    if (regretProfile.performance > regretThreshold && phoneAttrs.performance < 7.5) {
+        penalty += (regretThreshold - phoneAttrs.performance / 10) * REGRET_TIMING.performance.weight;
+        warnings.push("Performance may feel sluggish over time");
+    }
+
+    // Camera regret
+    if (regretProfile.camera > regretThreshold && phoneAttrs.camera < 7) {
+        penalty += (regretThreshold - phoneAttrs.camera / 10) * REGRET_TIMING.camera.weight;
+        warnings.push("Camera quality may disappoint");
+    }
+
+    // Apply regret aversion buffer for sensitive users
+    if ((traits.regretAversion || 0.5) > 0.7) {
+        penalty *= 1.3; // Conservative bias
+        if (warnings.length === 0) {
+            // Add general warning for regret-averse users on edge cases
+        }
+    }
+
+    return { penalty, warnings };
 }
 
 // =============================================================================
@@ -54,8 +221,9 @@ export interface MatchResult {
 
 export async function submitQuizStep(formData: FormData) {
     const step = parseInt(formData.get("step") as string) || 1;
-    const mode = formData.get("mode") as string || "ultra-fast";
+    const mode = (formData.get("mode") as string) || "ultra-fast";
     const totalQuestions = parseInt(formData.get("totalQuestions") as string) || 9;
+    const minQuestions = mode === "ultra-fast" ? 6 : 10;
 
     // Get current traits
     const traitsJson = formData.get("traits") as string;
@@ -78,14 +246,15 @@ export async function submitQuizStep(formData: FormData) {
         answered.push(questionId);
     }
 
-    // Check for early convergence (Ultra-Fast only)
-    const canStopEarly = mode === "ultra-fast" && step >= 8 && hasConverged(traits, 0.25);
+    // Check for adaptive early stopping
+    const convergence = shouldStopEarly(traits, mode, step, minQuestions);
 
-    // Check if done
-    if (step >= totalQuestions || canStopEarly) {
+    if (step >= totalQuestions || convergence.stop) {
         const params = new URLSearchParams({
             traits: JSON.stringify(traits),
             mode,
+            stopped: convergence.stop ? "early" : "complete",
+            questions: String(step),
         });
         redirect(`/result?${params.toString()}`);
     }
@@ -106,7 +275,9 @@ export async function submitQuizStep(formData: FormData) {
 
 export async function getQuizResult(
     traitsJson: string,
-    mode: "ultra-fast" | "gold-standard" = "ultra-fast"
+    mode: "ultra-fast" | "gold-standard" = "ultra-fast",
+    stoppedEarly: boolean = false,
+    questionsAnswered: number = 9
 ): Promise<MatchResult> {
     // Parse traits
     let traits: TraitVector;
@@ -119,12 +290,15 @@ export async function getQuizResult(
     // 1. Project archetype
     const archetype = projectArchetype(traits);
 
-    // 2. Synthesize attribute weights
+    // 2. Build regret profile
+    const regretProfile = buildRegretProfile(traits);
+
+    // 3. Synthesize attribute weights
     const attrWeights = synthesizeAttributes(traits);
     const normalizedWeights = normalizeAttributes(attrWeights);
     const topAttrs = getTopAttributes(attrWeights, 3);
 
-    // 3. Get phones from database
+    // 4. Get phones from database
     const phones = await db
         .select()
         .from(dynamicPhones)
@@ -141,17 +315,19 @@ export async function getQuizResult(
             mode,
             confidence: 0,
             regretWarnings: [],
+            regretProfile,
+            stoppedEarly,
+            questionsAnswered,
         };
     }
 
-    // 4. Score each phone
+    // 5. Score each phone with regret modeling
     const scored = phones.map((phone) => {
         let matchScore = 0;
         const reasons: string[] = [];
-        const regretWarnings: string[] = [];
 
         // Phone attribute scores
-        const phoneAttrs: Record<AttributeName, number> = {
+        const phoneAttrs: Record<string, number> = {
             performance: parseFloat(phone.performanceScore || "5"),
             camera: parseFloat(phone.cameraScore || "5"),
             battery: parseFloat(phone.batteryScore || "5"),
@@ -163,33 +339,26 @@ export async function getQuizResult(
 
         // Weighted match
         for (const [attr, weight] of Object.entries(normalizedWeights)) {
-            const phoneScore = phoneAttrs[attr as AttributeName] || 5;
+            const phoneScore = phoneAttrs[attr] || 5;
             matchScore += phoneScore * weight;
         }
+
+        // Apply regret penalty
+        const { penalty, warnings } = calculateRegretPenalty(phoneAttrs, regretProfile, traits);
+        matchScore -= penalty;
 
         // Generate reasons from top attributes
         for (const attr of topAttrs) {
             const score = phoneAttrs[attr];
             if (score >= 8.5) {
-                reasons.push(`Exceptional ${getAttributeLabel(attr).toLowerCase()}`);
+                reasons.push(`Exceptional ${getAttributeLabel(attr as AttributeName).toLowerCase()}`);
             } else if (score >= 7.5) {
-                reasons.push(`Strong ${getAttributeLabel(attr).toLowerCase()}`);
+                reasons.push(`Strong ${getAttributeLabel(attr as AttributeName).toLowerCase()}`);
             }
         }
 
-        // Add archetype-aligned reason
-        reasons.push(`Well-suited for ${archetype.profile.label.toLowerCase()}s`);
-
-        // Check for regret risks based on trait profile
-        if (traits.batteryStress > 0.7 && parseFloat(phone.batteryScore || "5") < 7) {
-            regretWarnings.push("Battery may not meet your expectations");
-        }
-        if (traits.cameraReliance > 0.7 && parseFloat(phone.cameraScore || "5") < 7) {
-            regretWarnings.push("Camera quality may disappoint");
-        }
-        if (traits.lagSensitivity > 0.7 && parseFloat(phone.performanceScore || "5") < 8) {
-            regretWarnings.push("Performance may feel sluggish over time");
-        }
+        // Add archetype reason
+        reasons.push(`Great fit for ${archetype.profile.label.toLowerCase()}s`);
 
         return {
             phone: {
@@ -199,19 +368,20 @@ export async function getQuizResult(
                 score: phone.overallScore,
             },
             matchScore,
-            matchPercent: Math.min(Math.round(matchScore * 10 + 5), 99),
+            matchPercent: Math.max(50, Math.min(Math.round(matchScore * 10 + 5), 99)),
             reasons: reasons.slice(0, 4),
-            regretWarnings,
+            regretWarnings: warnings,
         };
     });
 
-    // 5. Sort and return best
+    // 6. Sort and return best
     scored.sort((a, b) => b.matchScore - a.matchScore);
     const best = scored[0];
 
-    // Adjust confidence based on mode
+    // Adjust confidence based on mode and stopping
     const modeBonus = mode === "gold-standard" ? 0.05 : 0;
-    const finalConfidence = Math.min(archetype.confidence + modeBonus, 0.99);
+    const earlyPenalty = stoppedEarly ? 0.02 : 0;
+    const finalConfidence = Math.min(archetype.confidence + modeBonus - earlyPenalty, 0.99);
 
     return {
         ...best,
@@ -219,5 +389,8 @@ export async function getQuizResult(
         topAttributes: topAttrs.map(a => ({ name: a, label: getAttributeLabel(a) })),
         mode,
         confidence: finalConfidence,
+        regretProfile,
+        stoppedEarly,
+        questionsAnswered,
     };
 }
