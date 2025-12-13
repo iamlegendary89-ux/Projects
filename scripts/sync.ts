@@ -5,28 +5,10 @@ import * as dotenv from "dotenv";
 import { promises as fs } from "fs";
 import { resolve, join, dirname, basename } from "path";
 import { fileURLToPath } from "url";
-import { randomUUID } from "crypto";
+
 import pLimit from "p-limit";
 import { z } from "zod";
-// Telemetry commented out - using no-op stubs
-// import {
-//   initializeTelemetry,
-//   shutdownTelemetry,
-//   startSpan,
-//   endSpan,
-//   recordWorkflowRun,
-//   recordWorkflowStep,
-//   recordDbUpsert,
-// } from "../lib/telemetry/telemetry.js";
 
-// No-op telemetry stubs
-const initializeTelemetry = async () => { };
-const shutdownTelemetry = async () => { };
-const startSpan = () => ({});
-const endSpan = () => { };
-const recordWorkflowRun = () => { };
-const recordWorkflowStep = () => { };
-const recordDbUpsert = () => { };
 
 
 // -----------------------------------------------------------------------------
@@ -409,25 +391,10 @@ async function main() {
   const skipImages = args.includes("--no-images");
   const doExport = args.includes("--export");
 
-  // Initialize telemetry
-  await initializeTelemetry({
-    serviceName: "smartmatch-sync",
-    serviceVersion: "1.0.0",
-    environment: process.env.NODE_ENV || "production",
-    otlpEndpoint: process.env["OTEL_EXPORTER_OTLP_ENDPOINT"] || "",
-    consoleExporter: process.env.NODE_ENV === "development",
-  });
+
 
   const workflowStartTime = Date.now();
-  const workflowSpan = startSpan("sync_workflow", {
-    kind: "server",
-    attributes: {
-      "service.name": "smartmatch-sync",
-      "service.version": "1.0.0",
-      "workflow.name": "sync",
-      "workflow.run_id": randomUUID(),
-    },
-  });
+
 
   try {
     info("Starting SmartMatch Sync...");
@@ -435,7 +402,7 @@ async function main() {
     const registry = await loadRegistry();
     if (registry.length === 0) {
       info("No registry entries found.");
-      recordWorkflowRun("sync", Date.now() - workflowStartTime, "success");
+
       return;
     }
 
@@ -444,7 +411,7 @@ async function main() {
 
     if (toSync.length === 0 && !doExport) {
       info("Nothing to sync.");
-      recordWorkflowRun("sync", Date.now() - workflowStartTime, "success");
+
       return;
     }
 
@@ -456,16 +423,7 @@ async function main() {
     // Process phones
     for (const entry of toSync) {
       const phoneStartTime = Date.now();
-      const phoneSpan = startSpan(`sync_phone_${entry.phoneId}`, {
-        kind: "server",
-        attributes: {
-          "workflow.name": "sync",
-          "workflow.step": "process_phone",
-          "phone.id": entry.phoneId,
-          "phone.brand": entry.brand,
-          "phone.model": entry.model,
-        },
-      });
+
 
       try {
         const dir = join(CONFIG.PROCESSED_CONTENT_DIR, entry.phoneId.toLowerCase());
@@ -490,8 +448,7 @@ async function main() {
 
         if (!enriched) {
           warn(`Skipping ${entry.phoneId}: Invalid or missing enriched data.`);
-          recordWorkflowStep("sync", "process_phone", Date.now() - phoneStartTime, "failure");
-          endSpan(phoneSpan, "failure");
+
           continue;
         }
 
@@ -502,25 +459,16 @@ async function main() {
         dynamicRows.push(buildDbRow(entry, enriched, false));
 
         info(`Successfully processed ${entry.phoneId}`);
-        recordWorkflowStep("sync", "process_phone", Date.now() - phoneStartTime, "success");
-        endSpan(phoneSpan, "success");
+
       } catch (err) {
         warn(`Failed to process ${entry.phoneId}:`, err);
-        recordWorkflowStep("sync", "process_phone", Date.now() - phoneStartTime, "failure");
-        endSpan(phoneSpan, "failure", err as Error);
+
         continue;
       }
 
       if (!skipImages) {
         const imageStartTime = Date.now();
-        const imageSpan = startSpan(`upload_images_${entry.phoneId}`, {
-          kind: "server",
-          attributes: {
-            "workflow.name": "sync",
-            "workflow.step": "upload_images",
-            "phone.id": entry.phoneId,
-          },
-        });
+
 
         try {
           const dir = join(CONFIG.PROCESSED_CONTENT_DIR, entry.phoneId);
@@ -539,12 +487,10 @@ async function main() {
             });
           }
 
-          recordWorkflowStep("sync", "upload_images", Date.now() - imageStartTime, "success");
-          endSpan(imageSpan, "success");
+
         } catch (err) {
           warn(`Failed to upload images for ${entry.phoneId}:`, err);
-          recordWorkflowStep("sync", "upload_images", Date.now() - imageStartTime, "failure");
-          endSpan(imageSpan, "failure", err as Error);
+
         }
       }
     }
@@ -552,15 +498,7 @@ async function main() {
     // DB Upsert - Raw (processed_phones)
     if (rawRows.length > 0) {
       const dbStartTime = Date.now();
-      const dbSpan = startSpan("batch_upsert_raw", {
-        kind: "server",
-        attributes: {
-          "workflow.name": "sync",
-          "workflow.step": "batch_upsert_raw",
-          "db.table": "processed_phones",
-          "db.record_count": rawRows.length,
-        },
-      });
+
 
       try {
         const startTime = Date.now();
@@ -568,13 +506,10 @@ async function main() {
         const duration = Date.now() - startTime;
 
         info(`Upserted ${count} raw records to processed_phones.`);
-        recordDbUpsert("sync", "processed_phones", count, duration);
-        recordWorkflowStep("sync", "batch_upsert_raw", duration, "success");
-        endSpan(dbSpan, "success");
+
       } catch (err) {
         error("Batch upsert raw failed:", err);
-        recordWorkflowStep("sync", "batch_upsert_raw", Date.now() - dbStartTime, "failure");
-        endSpan(dbSpan, "failure", err as Error);
+
         throw err;
       }
     }
@@ -582,15 +517,7 @@ async function main() {
     // DB Upsert - Dynamic (dynamic_phones)
     if (dynamicRows.length > 0) {
       const dbStartTime = Date.now();
-      const dbSpan = startSpan("batch_upsert_dynamic", {
-        kind: "server",
-        attributes: {
-          "workflow.name": "sync",
-          "workflow.step": "batch_upsert_dynamic",
-          "db.table": "dynamic_phones",
-          "db.record_count": dynamicRows.length,
-        },
-      });
+
 
       try {
         const startTime = Date.now();
@@ -598,13 +525,10 @@ async function main() {
         const duration = Date.now() - startTime;
 
         info(`Upserted ${count} dynamic records to dynamic_phones.`);
-        recordDbUpsert("sync", "dynamic_phones", count, duration);
-        recordWorkflowStep("sync", "batch_upsert_dynamic", duration, "success");
-        endSpan(dbSpan, "success");
+
       } catch (err) {
         error("Batch upsert dynamic failed:", err);
-        recordWorkflowStep("sync", "batch_upsert_dynamic", Date.now() - dbStartTime, "failure");
-        endSpan(dbSpan, "failure", err as Error);
+
         throw err;
       }
     }
@@ -612,14 +536,7 @@ async function main() {
     // Image URL Updates
     if (imageUpdates.length > 0) {
       const imageUpdateStartTime = Date.now();
-      const imageUpdateSpan = startSpan("update_image_urls", {
-        kind: "server",
-        attributes: {
-          "workflow.name": "sync",
-          "workflow.step": "update_image_urls",
-          "image.count": imageUpdates.length,
-        },
-      });
+
 
       try {
         const { error: err } = await supabase
@@ -628,55 +545,42 @@ async function main() {
 
         if (err) {
           error("Failed to update image URLs:", err.message);
-          recordWorkflowStep("sync", "update_image_urls", Date.now() - imageUpdateStartTime, "failure");
-          endSpan(imageUpdateSpan, "failure", err);
+
         } else {
           info(`Updated image URLs for ${imageUpdates.length} phones.`);
-          recordWorkflowStep("sync", "update_image_urls", Date.now() - imageUpdateStartTime, "success");
-          endSpan(imageUpdateSpan, "success");
+
         }
       } catch (err) {
         error("Failed to update image URLs:", err);
-        recordWorkflowStep("sync", "update_image_urls", Date.now() - imageUpdateStartTime, "failure");
-        endSpan(imageUpdateSpan, "failure", err as Error);
+
       }
     }
 
     if (doExport) {
       const exportStartTime = Date.now();
-      const exportSpan = startSpan("export_data", {
-        kind: "server",
-        attributes: {
-          "workflow.name": "sync",
-          "workflow.step": "export_data",
-        },
-      });
+
 
       try {
         await exportData();
-        recordWorkflowStep("sync", "export_data", Date.now() - exportStartTime, "success");
-        endSpan(exportSpan, "success");
+
       } catch (err) {
         warn("Export failed:", err);
-        recordWorkflowStep("sync", "export_data", Date.now() - exportStartTime, "failure");
-        endSpan(exportSpan, "failure", err as Error);
+
       }
     }
 
     const workflowDuration = Date.now() - workflowStartTime;
-    recordWorkflowRun("sync", workflowDuration, "success");
+
     info("Sync complete.");
-    endSpan(workflowSpan, "success");
+
   } catch (err) {
     error("Fatal error:", err);
     const workflowDuration = Date.now() - workflowStartTime;
-    recordWorkflowRun("sync", workflowDuration, "failure");
-    endSpan(workflowSpan, "failure", err as Error);
-    await shutdownTelemetry();
+
     process.exit(1);
   }
 
-  await shutdownTelemetry();
+
 }
 
 main().catch(err => {
