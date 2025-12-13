@@ -1,0 +1,24 @@
+{
+  "name": "smartmatch-scraper",
+  "version": "2.0.0",
+  "description": "AI-powered data pipeline to review phones for the SmartMatch PWA.",
+  "main": "enrich.js",
+  "scripts": {
+    "discover": "node discover.js",
+    "enrich": "node enrich.js",
+    "validate": "node validate-json.js",
+    "update-prices": "node update-prices.js",
+    "update-software": "node update-software.js",
+    "verify-links": "node verify-links.js",
+    "deduplicate": "node deduplicate.js",
+    "start": "npm run deduplicate && npm run update-prices && npm run update-software && npm run discover && npm run enrich && npm run verify-links && npm run validate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.4.5",
+    "p-limit": "^7.1.1"
+  }
+}

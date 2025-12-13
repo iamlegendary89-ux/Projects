@@ -1,0 +1,5 @@
+{
+  "name": "SmartMatch",
+  "description": "A lightweight PWA quiz app that uses cosine similarity to find your perfect smartphone. Answer 5 quick questions to get your top 3 personalized recommendations from a database of top phones.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "smartmatch-pulse",
+  "version": "1.0.0",
+  "description": "SmartMatch Pulse variant",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
