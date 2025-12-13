@@ -1,6 +1,0 @@
-{"level":"info","message":"SmartMatch Enrichment Engine v7 - Final","timestamp":"2025-12-05T14:25:45.174Z","elapsed":3}
-{"level":"info","message":"════════════════════════════════════════════════════════════","timestamp":"2025-12-05T14:25:45.185Z","elapsed":14}
-{"level":"info","message":"Account status","timestamp":"2025-12-05T14:25:45.770Z","elapsed":599,"meta":{"credits":"$0.00"}}
-{"level":"warn","message":"Low credits","timestamp":"2025-12-05T14:25:45.770Z","elapsed":599,"meta":{"credits":0,"tip":"Add $10+ for 1000 free/day"}}
-{"level":"info","message":"Queue analysis","timestamp":"2025-12-05T14:25:45.772Z","elapsed":601,"meta":{"total":0,"new":0,"updates":0,"limit":5,"selected":0}}
-{"level":"info","message":"All phones already enriched","timestamp":"2025-12-05T14:25:45.772Z","elapsed":601}

@@ -1,6 +1,0 @@
-{"timestamp":"2025-11-27T07:27:02.678Z","level":"INFO","script":"test","phoneId":"","message":"Logger system initialized","data":{"version":"2.3","status":"operational"}}
-{"timestamp":"2025-11-27T07:27:02.679Z","level":"INFO","script":"enrichment","phoneId":"samsung_galaxy_s25_ultra","message":"Enrichment complete","data":{"confidenceBefore":"85.0%","confidenceAfter":"99.1%","gain":"14.1%","cost":"$0.028"}}
-{"timestamp":"2025-11-27T07:27:02.681Z","level":"INFO","script":"discovery","phoneId":"","message":"Discovery complete","data":{"phonesFound":3,"sourcesAdded":42}}
-{"timestamp":"2025-11-27T07:27:02.682Z","level":"DESTINY","script":"soulmatch","phoneId":"apple_iphone_15_pro","message":"DESTINY OVERRIDE — This phone was waiting","data":{"overallScore":"9.68","confidence":"98.2%","sources":14}}
-{"timestamp":"2025-11-27T07:27:02.684Z","level":"HONESTY","script":"soulmatch","phoneId":"google_pixel_8","message":"Honesty Mode: No perfect match exists yet","data":{"reason":"Missing critical attribute coverage","failedAttribute":"battery_life"}}
-{"timestamp":"2025-11-27T07:27:02.684Z","level":"ERROR","script":"test","phoneId":"","message":"Simulated error for testing","data":{"errorCode":"TEST_001","severity":"low"}}
