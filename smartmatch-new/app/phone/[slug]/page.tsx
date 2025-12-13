@@ -18,9 +18,23 @@ export default async function PhonePage({ params }: PageProps) {
     const parseScore = (score: string | null) =>
         score ? parseFloat(score).toFixed(1) : "—";
 
-    // Get pros/cons from fullData or direct fields
-    const pros = phone.pros || [];
-    const cons = phone.cons || [];
+    // Get pros/cons from fullData - handle string, array, or undefined
+    const parseProsConsOrUndefined = (data: unknown): string[] => {
+        if (!data) return [];
+        if (Array.isArray(data)) return data;
+        if (typeof data === "string") {
+            try {
+                const parsed = JSON.parse(data);
+                return Array.isArray(parsed) ? parsed : [];
+            } catch {
+                return [];
+            }
+        }
+        return [];
+    };
+
+    const pros = parseProsConsOrUndefined(phone.pros);
+    const cons = parseProsConsOrUndefined(phone.cons);
 
     return (
         <main className="min-h-screen p-8">
