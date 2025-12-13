@@ -1,0 +1,238 @@
+Nothing Phone (3) IntroIt has been a good two years since Nothing launched a "flagship" phone. What that would mean is a phone with more powerful hardware and the best tech the company has on hand. Yes, we've seen a Nothing (2a), a (2a) Plus, even a (3a) Pro — whatever Pro is supposed to mean nowadays. But all of these were aggressively-priced, decently specced midrangers.The fans and the community were waiting with bated breath for the real next heavy-hitter. Needless to say, with anticipation built up and expectations so high, there are bound to be dissapointments. But did Nothing stray a bit too far from the original formula that made it popular?The Glyph LED stripes are gone, the price has gone up to Galaxy S25 levels, and the design decisions are a bit divisive to say the least. Does any of that make the Nothing Phone (3) a bad phone? No, it's pretty solid. Does it make it a bad Nothing Phone, though?
+Nothing Phone (3): pre-order at Amazon for $100 off
+$100 off (11%)
+Nothing's latest high-class phone is available at Amazon. Right now, the 16/512GB variant is up for pre-order, with shipping set to begin on July 15. The device boasts a unique design, 6.77-inch AMOLED display, and a Snapdragon 8s Gen 4 chip. Pre-order yours now and save $100!
+Pre-order at Amazon
+Nothing Phone (3)
+What we like
+Unique, fun design
+Nothing OS still offers great customization
+What we don't like
+Redesign is controversial right now
+Speakers are OK, not great
+Flagship-ish price, but still makes comproises
+6.8
+PhoneArena Rating
+7
+Price Class Average
+Battery Life
+6.7
+7.4
+Photo Quality
+6
+6.8
+Video Quality
+5
+5.8
+Charging
+7.4
+6.8
+Performance Heavy
+7.2
+6.7
+Performance Light
+7.6
+7.3
+Display Quality
+7
+7.8
+Design
+8
+7.7
+Wireless Charging
+6.3
+6.7
+Biometrics
+7
+7.3
+Audio
+6
+6.8
+Software
+8
+7.5
+Why the score?
+This device scores 2.9% worse than the average for this price class, which includes devices like the RedMagic 10S Pro, Motorola Razr (2025) and nubia Z70 Ultra
+How do we rate?
+Table of Contents:SpecsDesign and DisplayCameraPerformanceSoftwareBatteryAudioShould you buy it?Nothing Phone (3) SpecsOn the verge of top tierA top shelf phone needs top shelf specs, but Nothing did save a couple of quid here and there:Nothing Phone (3)Samsung Galaxy S25Size and Weight6.32 x 2.98 x 0.35 in(160.6 x 75.6 x 9 mm)218 gSize and Weight5.78 x 2.78 x 0.28 in146.9 x 70.5 x 7.2 mm162 gDisplay6.7-inch OLED120 Hz, 4,500 nits peak2800 x 1260 pxDisplay6.2-inch AMOLED120 Hz, 2,600 nits peak2340 x 1080 pxProcessorQualcomm Snapdragon 8s Gen 44 nm, 3.21 GHzProcessorQualcomm Snapdragon 8 Elite3 nm, 4.47 GHzSoftwareAndroid 15Nothing OS 3.5SoftwareAndroid 15One UI 7Cameras50 MP wide, F1.750 MP ultra-wide, F2.250 MP 3x telephoto, F2.750 MP frontCameras50 MP wide, F1.812 MP ultra-wide, F2.210 MP 3x telephoto, F2.412 MP frontBattery Size5,150 mAhSi-CarbonBattery Size4,000Li-IonCharging Speeds65 W wired15 W wirelessCharging Speeds25 W wired15 W wirelessPrices12 GB / 256 GB - $79916 GB / 512 GB - $899Prices12 GB / 128 GB - $799.9912 GB / 256 GB - $859.99Nothing Phone (3) Design and DisplaySo long Glyph, hello little circle thing
+Yes, I know, I will address the Glyph ordeal, but let's go through the main design things first.The Nothing Phone (3) feels great in the hand. It's a solid aluminum frame with soft edges and a soft matte finish. The back is glossy, due to the whole "transparent" thing, so it does attract fingerprints, but at least it's not very slippery in the hand (on a desk — it's a different deal). The buttons are a bit shallow but not wobbly, and decently clicky.And yes, there are four buttons — one sleep / assistant button, two for volume, and the Essential Key that was introduced with the Nothing Phone (3a) series. It's effectively a screenshot button that can also record a voice note if you hold it, and will use AI to sort and compile the information on said screenshots. Kind of a "reminder" on steroids.Overall — and I know we hate saying this, but it's kind of true — it has a bit of an "iPhone"-ish feel, in a good way.Well, until you flip it over and look at that camera arrangement. I know it's early days, and we may get used to it, but that design has the Internet going wild. It kind of looks like it tries too hard to be different. I am not sure this is a bad thing, really — in the year 2025, we certainly could use "different" in the smartphone world.Receive the latest mobile newsSubscribe
+By subscribing you agree to our terms and conditions and privacy policy.
+It looks kind of geeky, kind of eccentric, but I wouldn't say overbearing. Perhaps pictures and video make it look worse than it is — in real life, I wouldn't say the phone is "ugly". Kind of charming, if I am honest. Do I wish the zoom camera didn't appear "droopy"? Yeah. Am I focusing on that specifically because I read it in an Internet comment? Also yes. Does it bother me otherwise? Not really.But taste is subjective, and I am sure Nothing knew full well not everyone is going to be a fan of this new direction. We could kind of see the seeds being planted with the Nothing Phone (3a) Pro and its scattered camera design. This feels like an evolution of that concept. Might be a misstep, might not — we'll see once the dust settles.However, here's one thing that angered pretty much the entire Nothing fanbase:Let's talk about the Glyph MatrixIt is absolutely not possible to talk about this phone without mentioning the fact that the Glyph LED strips on the back are gone. Why not? Because Nothing has spent a good three years to hammer it into our minds as the "signature thing" of a Nothing phone. It was the very first thing that was teased about the original Nothing Phone (1) — no cameras, no materials, just a cryptic shape that turned out to be the Glyph upon final release.
+<img src="https://web.archive.org/web/20250708235933im_/https://m-cdn.phonearena.com/images/reviews/270086-image/Old-Glyph-2.webp?w=1" alt="Ye olde Glyph (Image credit - PhoneArena) - Nothing Phone (3) review: &quot;Finally!&quot;, but also &quot;Oh no!&quot;"/>
+Ye olde Glyph (Image credit - PhoneArena)
+The Nothing Phone (2) expanded it further with more strips. The midrange (2a) and (3a) series had a smaller version of the Glyph, to kind of underpin that they are not like "the big dogs".It is now replaced by the "Glyph Matrix", which is a fancy way of saying "small, low-res, monochrome screen on the back of the phone". Effectively killing the brand identity and angering the fanbase that Nothing has accrued over the past three years.
+Real talk: the Glyph LEDs were not that useful. They were just fancy, they lit up in different patterns with different ringtones, and two of them acted as progress bars — one for charging the phone, one for a pomodoro timer (could also sync with 3rd party apps like Uber).Recommended StoriesBut, they were cool on multiple levels. The shape, the fact that each of the 900+ LEDs had to be specifically sourced to make sure it matches the white temperature of the others, the fact that they gave the phone a good reason to have a transparent back, you could also use them as a soft light for the camera. Geeky things, but you are a startup brand, the enthusiasts are your core audience.The new Glyph Matrix, by comparison, feels a lot less special. It's a 25x25 display on the back that can show you a clock, actual notification information, as well as play a few games — Magic 8-ball, Rock Paper Scissors, Spin the Bottle. Yup, we've seen something similar on the recent ROG Phones. Come to think of it — it makes more sense on a decked-out, all-in gaming smartphone, not so much on a sleek, clean, "we put transparency between you and technology" type phone.
+<img src="https://web.archive.org/web/20250708235933im_/https://m-cdn.phonearena.com/images/reviews/270066-image/Colors.webp" alt="Pick a color, any color (Image credit - Nothing) - Nothing Phone (3) review: &quot;Finally!&quot;, but also &quot;Oh no!&quot;"/>
+Pick a color, any color (Image credit - Nothing)
+The Nothing Phone (3) comes in two colorways — white and black. Each looking pleasantly sleek and minimalistic. If history teaches us anything, it's that we may see an exclusive "community" color launch in a couple of months, but of course, we have no way of knowing if that'll happen for the new flagship.
+<img src="https://web.archive.org/web/20250708235933im_/https://m-cdn.phonearena.com/images/reviews/270081-image/BK6A9129.webp?w=1" alt="Nothing Phone (3) review: &quot;Finally!&quot;, but also &quot;Oh no!&quot;"/>
+Nothing typically has a slim box with the essentials — booklet, cool cable, and SIM card tool. No changes here!
+The display on the front is a spacious 6.7-inch panel, 20:9 aspect ratio. It's an OLED, as pretty much any top tier phone today, with a 120 Hz refresh rate. Its colors are punchy, as expected, and can be dialed back with a Standard color mode in the settings.Display Measurements:
+Screen measurementsColor charts
+Bright max(20%APL)Higher is betterBright max(100%APL)Higher is betterBright minLower is betterColor tempGammaDelta E rgbcmyLower is betterDelta E grayscaleLower is betterNothing Phone(3)1501(Good)1545(Excellent)2(Good)69302.251.17(Excellent)2.22(Good)Nothing Phone(3a)Pro1408(Good)1303(Excellent)2.3(Average)69372.241.23(Excellent)4.25(Average)Samsung Galaxy S252394(Excellent)1313(Excellent)0.86(Excellent)655422.35(Good)5.52(Average)Apple iPhone 162015(Excellent)1012(Good)0.99(Excellent)65442.162.16(Good)6.31(Average)View
+all
+Color gamutColor accuracyGrayscale accuracyThe CIE 1931 xy color gamut chart represents the set(area)of colors that a display can reproduce,with the sRGB colorspace(the highlighted triangle)serving as reference.The chart also provides a visual representation of a display's color accuracy. The small squares across the boundaries of the triangle are the reference points for the various colors, while the small dots are the actual measurements. Ideally, each dot should be positioned on top of its respective square. The 'x:CIE31' and 'y:CIE31' values in the table below the chart indicate the position of each measurement on the chart. 'Y' shows the luminance (in nits) of each measured color, while 'Target Y' is the desired luminance level for that color. Finally, 'ΔE 2000' is the Delta E value of the measured color. Delta E values of below 2 are ideal.These measurements are made using Portrait Displays' CalMAN calibration software.Nothing Phone(3)Nothing Phone(3a)ProSamsung Galaxy S25Apple iPhone 16The Color accuracy chart gives an idea of how close a display's measured colors are to their referential values. The first line holds the measured (actual) colors, while the second line holds the reference (target) colors. The closer the actual colors are to the target ones, the better.These measurements are made using Portrait Displays' CalMAN calibration software.Nothing Phone(3)Nothing Phone(3a)ProSamsung Galaxy S25Apple iPhone 16The Grayscale accuracy chart shows whether a display has a correct white balance(balance between red,green and blue)across different levels of grey(from dark to bright).The closer the Actual colors are to the Target ones,the better.These measurements are made usingPortrait Displays' CalMAN calibration software.
+Nothing Phone (3)
+Nothing Phone (3a) Pro
+Samsung Galaxy S25
+Apple iPhone 16
+View
+allThe screen's temperature does feel a bit cool when viewing and our measurements confirm that. I did dial the warmth slider in a little bit within settings, for my own preferences. The peak brightness may be listed at 4,500 nits, but that doesn't tell you much about everyday use. We measured 1,500 nits at 20% APL, which is a bit more representative for real life use. And that's an OK brightness, but behind competing top-tier devices.The phone has an under-screen fingerprint scanner. It's optical tech and it works pretty snappy, but is a bit more capricious than ultrasonic tech.Nothing Phone (3) CameraLooks weird, how does it work?
+<img src="https://web.archive.org/web/20250708235933im_/https://m-cdn.phonearena.com/images/reviews/270087-image/BK6A9130.webp?w=1" alt="Nothing Phone (3) review: &quot;Finally!&quot;, but also &quot;Oh no!&quot;"/>
+Nothing Phone (3)
+PhoneArena Camera Score
+BEST 158
+135
+PhoneArena Photo Score
+BEST 165
+147
+Main (wide)
+BEST 87
+79
+Zoom
+BEST 29
+24
+Ultra-wide
+BEST 26
+20
+Selfie
+BEST 30
+25
+PhoneArena Video Score
+BEST 155
+123
+Main (wide)
+BEST 83
+65
+Zoom
+BEST 27
+19
+Ultra-wide
+BEST 24
+15
+Selfie
+BEST 28
+24
+Find out more details about photo and video scores for all phones we have tested on our PhoneArena Camera Score
+pageThe Nothing Phone (3) got a rather good score thanks to a good performance with detail reproduction and not a lot of oversharpening artifacts. It also gives you a high quality preview within the viewfinder, which is a luxury still. It's no industry topper, but the overall camera experience is nice, and the score is in the upper range.
+The photos look fine, quite colorful, with a wide dynamic range. I say that, but in some pictures you can spot the HDR being a bit too heavy-handed and... well, HDR-y (photo 5 indoors, if you want a screaming example).But other than that the colors look really nice. Maybe a bit on the saturated side, but they certainly are shareable photos. Details also look fine with small hints of oversharpening. Zooming in is decent even at the 10x point, and the phone can go up to 60x. Video Quality
+With video, the story is much of the same. Slightly saturated, popping colors, high dynamics, and a decent stabilization. Also, those microphones are pretty good at picking up voice and reducing ambient clutter.Nothing Phone (3) Performance & BenchmarksSnapdragon who?
+<img src="https://web.archive.org/web/20250708235933im_/https://m-cdn.phonearena.com/images/reviews/270139-image/BK6A9136.webp" alt="Nothing Phone (3) review: &quot;Finally!&quot;, but also &quot;Oh no!&quot;"/>
+Apparently, there's such a thing as a Snapdragon 8 Gen 4. To be exact — Snapdragon 8s Gen 4. This is the first publicly-launched phone with the new processor, but what is this silicon?It seems it's been engineered to have about the same performance as the Snapdragon 8 Gen 3, with maybe some slight graphics improvements. It's built on a 4 nm process and hits top speeds of 3.21 GHz. You could look at it as the old chip in new clothes. That kind of mirrors the Nothing Phone (2) launch — it also came with yesteryear's flagship processor at the time (that was the Qualcomm Snapdragon 8+ Gen 1).CPU Performance Benchmarks:Geekbench 6SingleHigher is betterNothing Phone(3)2165Nothing Phone(3a)Pro1187Samsung Galaxy S253031Apple iPhone 163264Geekbench 6MultiHigher is betterNothing Phone(3)6930Nothing Phone(3a)Pro3311Samsung Galaxy S259626Apple iPhone 167899View allAnd there's that performance kicking in — while very definitely better than the midrange Nothing Phone (3a) Pro (ha, "Pro"), it kind of lags behind the mainstream flagships of today. These are just numbers, of course, and bragging rights. We do find the Nothing Phone (3) to be fast, snappy, and responsive as is. But, we still have to look at the numbers for a $800 phone and compare it to other $800 phones, right?GPU Performance3DMark Extreme(High)Higher is betterNothing Phone(3)4111Nothing Phone(3a)Pro1060Samsung Galaxy S255959Apple iPhone 1640293DMarkExtreme(Low)Higher is betterNothing Phone(3)3794Nothing Phone(3a)Pro1054Samsung Galaxy S252500Apple iPhone 162397View allThe GPU scores are pretty good. Yeah, it does get beat out by Snapdragon 8 Elite phones, but notice the "Low" score. This is as low as these phones will go when they throttle. When the heat rises up the Nothing Phone (3) is keeping pace quite well, while the rest fall behind!Nothing Phone (3) Software
+The Nothing Phone (3) ships with Android 15, with the custom Nothing OS 3.5 interface on top. It's mostly a clean Android reskin with a monochrome styling, dot matrix letters, and some cool widgets added. Oh, plus my favorite — large folders for the homescreen, but that feature is slowly gaining popularity among other phone brands as well.And, of course, there's the Essential Space, which is basically a Google Screenshots app on steroids. Take a screenshot of an event poster, a location, a set of phone numbers, or a to-do list and the AI will identify them, create alerts and notifications, or plans for you. You can also look for old screenshots thanks to the AI tags. Useful, sure, we are still not sure if it needs its own hardware button on the phone.Nothing Phone (3) BatterySi-Carbon goodness
+Nothing Phone (3)( 5150 mAh )
+<img src="https://web.archive.org/web/20250708235933im_/https://m-cdn.phonearena.com/images/phones/85385-350/Nothing-Phone-3.webp?w=1"/>
+Battery Life Estimate
+6h
+45m
+Ranks #74 for phones
+tested in the past 2 years
+Average is
+7h
+5m
+Browsing
+14h
+26m
+Average is
+16h
+27m
+Video
+10h
+33m
+Average is
+10h
+4m
+Gaming
+9h
+8m
+Average is
+10h
+9m
+Charging speed
+65W
+Charger
+62%
+30 min
+1h
+1m
+Full charge
+Ranks #64 for phones released in the
+past 2
+years
+Wireless Charging
+15W
+Charger
+N/A
+30 min
+N/A
+Full charge
+Find out more details about battery and charging for all phones we have tested on our
+PhoneArena Battery Score page
+The Nothing Phone (3) comes with a 5,150 mAh battery. Not huge, but definitely breaking that 5,000 mAh barrier of modern flagships. Also, considering the phone's body and weight — pretty impressive.Of course, that's because it uses Si-Carbon. That's a variant of the well-known Li-Ion tech we currently have on most phones. Si-Carbon can hold more capacity or be more powerful, but face challenges with longevity. Time will tell if Nothing broke the code on better-enduring batteries after a few hundred charging cycles are up!PhoneArena Battery Test Results:
+Battery Life
+Charging
+Phone
+Battery Life estimate
+Browsing
+Video
+Gaming
+Nothing Phone (3)
+5150 mAh
+6h 45min
+14h 26min
+10h 33min
+9h 8min
+Nothing Phone (3a) Pro
+5000 mAh
+7h 15min
+16h 13min
+10h 26min
+11h 6min
+Samsung Galaxy S25
+4000 mAh
+7h 6min
+18h 29min
+8h 1min
+12h 20min
+Apple iPhone 16
+3561 mAh
+6h 21min
+16h 48min
+7h 30min
+9h 52min
+Phone
+Full Charging
+30 min Charge
+Wired
+Wireless
+Wired
+Wireless
+Nothing Phone (3)
+5150 mAh
+1h 1min
+Untested
+62%
+Untested
+Nothing Phone (3a) Pro
+5000 mAh
+0h 56min
+N/A
+70%
+N/A
+Samsung Galaxy S25
+4000 mAh
+1h 22min
+1h 37min
+54%
+32%
+Apple iPhone 16
+3561 mAh
+1h 42min
+1h 43min
+59%
+50%
+Find out more details about battery and charging for all phones we have tested on our PhoneArena Battery Score page
+For now — the results show that the Nothing Phone (3) is steady and dependable, though not record-breaking. We've seen phones make their way well to the 20-hour mark on our browsing test. However, 9 hours in the gaming test and 10 hours of non-stop video playback is absolutely nothing to snark at.Real life use pretty much reiterates what the tests say. I can comfortably use the phone throughout the day and forget to charge it at bedtime. Next day — a quick top-up will be enough to keep the red battery icon at bay.
+<img src="https://web.archive.org/web/20250708235933im_/https://m-cdn.phonearena.com/images/reviews/270190-image/BK6A9127.webp" alt="Nothing Phone (3) review: &quot;Finally!&quot;, but also &quot;Oh no!&quot;"/>
+Nothing Phone (3) Audio Quality and HapticsThe Nothing Phone (3) speakers are functional, but not wowing. They do have quite a lot of volume and a roomy projection to them. Not a lot of bass, but they don’t sound thin, too. The mids are pronounced, with the upper midrange being a bit “shouty” — they aren’t amazing for music, but get the job done for alarms, ringtones, podcasts.Clicks and clacks from the feedback engine are quite precise and pleasing. That's a signature of Nothing phones ever since the first one!Should you buy it?
+There's no way around it — the Nothing Phone (3) will disappoint diehard fans of what the company has put out so far. It's more expensive — up to flagship territory, but not as powerful as the big boys on the market. It's done away with the signature Glyph and replaced it with a more bland version of that. The transparent elements on the back? Nothing transparent about that, it's just a design made to look pretty under glass.That said, if you still have an open mind about the brand and its shenanigans, there's a lot of phone to be enjoyed here. The Nothing Phone (3) performs well, the camera may not be top-tier but it's definitely fun, and the overall device feel in the hand is pleasing. Nothing does want to make tech "fun and effortless" and this phone still carries that feeling, even if getting any fun out of the Glyph Matrix feels very effort-ful right now.Should you buy it? I'd say if you are curious about the brand, a Nothing Phone (3a) Pro may be a better point to tip your toes into, for less money. But if you are looking for a solid phone with good specs, and one that's not "just like the other ones" — yes, the Nothing Phone (3) is pretty good!

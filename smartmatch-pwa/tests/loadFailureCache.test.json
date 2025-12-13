@@ -1,0 +1,33 @@
+{
+    "cases": [
+        {
+            "id": "valid-json-file",
+            "input": [
+                "tests/fixtures/test-cache.json"
+            ],
+            "expected": {
+                "url1": {
+                    "retryCount": 1,
+                    "nextRetry": "2024-01-01T00:00:00.000Z"
+                }
+            },
+            "description": "Loads valid JSON cache file"
+        },
+        {
+            "id": "non-existent-file",
+            "input": [
+                "tests/fixtures/does-not-exist.json"
+            ],
+            "expected": {},
+            "description": "Returns empty object for non-existent file"
+        },
+        {
+            "id": "invalid-json-file",
+            "input": [
+                "tests/fixtures/invalid-cache.json"
+            ],
+            "expected": {},
+            "description": "Returns empty object for invalid JSON"
+        }
+    ]
+}

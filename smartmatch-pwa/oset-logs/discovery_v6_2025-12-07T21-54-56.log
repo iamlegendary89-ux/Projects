@@ -1,0 +1,123 @@
+{"timestamp":"2025-12-07T21:54:56.272Z","level":"INFO","phase":"STARTUP","msg":"Validating environment configuration...","elapsed":13}
+{"timestamp":"2025-12-07T21:54:56.288Z","level":"SUCCESS","phase":"STARTUP","msg":"Google CSE configured as fallback","elapsed":17}
+{"timestamp":"2025-12-07T21:54:56.289Z","level":"SUCCESS","phase":"STARTUP","msg":"Environment validation complete","elapsed":18}
+{"timestamp":"2025-12-07T21:54:56.290Z","level":"INFO","phase":"PHASE 1","msg":"Starting CSE Discovery (Parallel)","elapsed":19}
+{"timestamp":"2025-12-07T21:54:56.290Z","level":"INFO","phase":"PHASE 1","msg":"CSE Credentials Check","meta":{"hasApiKey":true,"hasCseId":true,"apiKeyLength":39},"elapsed":19}
+{"timestamp":"2025-12-07T21:54:56.291Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro gsmarena_review - already has 1 URL(s)","elapsed":20}
+{"timestamp":"2025-12-07T21:54:56.291Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro phonearena_review - already has 1 URL(s)","elapsed":20}
+{"timestamp":"2025-12-07T21:54:56.290Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro gsmarena_specs - already has 1 URL(s)","elapsed":19}
+{"timestamp":"2025-12-07T21:54:56.291Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro tomsguide_review - already has 1 URL(s)","elapsed":20}
+{"timestamp":"2025-12-07T21:54:56.291Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro techradar_review - already has 1 URL(s)","elapsed":21}
+{"timestamp":"2025-12-07T21:54:56.292Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro notebookcheck_review - already has 1 URL(s)","elapsed":21}
+{"timestamp":"2025-12-07T21:54:56.292Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro androidcentral_review - already has 1 URL(s)","elapsed":21}
+{"timestamp":"2025-12-07T21:54:56.292Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro androidauthority_review - already has 1 URL(s)","elapsed":21}
+{"timestamp":"2025-12-07T21:54:56.292Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max gsmarena_specs - already has 1 URL(s)","elapsed":21}
+{"timestamp":"2025-12-07T21:54:56.292Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max gsmarena_review - already has 1 URL(s)","elapsed":21}
+{"timestamp":"2025-12-07T21:54:56.292Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max phonearena_review - already has 1 URL(s)","elapsed":21}
+{"timestamp":"2025-12-07T21:54:56.293Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max dxomark_review - already has 1 URL(s)","elapsed":22}
+{"timestamp":"2025-12-07T21:54:56.293Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max tomsguide_review - already has 1 URL(s)","elapsed":22}
+{"timestamp":"2025-12-07T21:54:56.293Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max techradar_review - already has 1 URL(s)","elapsed":22}
+{"timestamp":"2025-12-07T21:54:56.293Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max theverge_review - already has 1 URL(s)","elapsed":22}
+{"timestamp":"2025-12-07T21:54:56.293Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max notebookcheck_review - already has 1 URL(s)","elapsed":22}
+{"timestamp":"2025-12-07T21:54:56.293Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max androidcentral_review - already has 1 URL(s)","elapsed":22}
+{"timestamp":"2025-12-07T21:54:56.293Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max androidauthority_review - already has 1 URL(s)","elapsed":23}
+{"timestamp":"2025-12-07T21:54:56.294Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 gsmarena_specs - already has 1 URL(s)","elapsed":23}
+{"timestamp":"2025-12-07T21:54:56.294Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 gsmarena_review - already has 1 URL(s)","elapsed":23}
+{"timestamp":"2025-12-07T21:54:56.294Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 phonearena_review - already has 1 URL(s)","elapsed":23}
+{"timestamp":"2025-12-07T21:54:56.294Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 dxomark_review - already has 1 URL(s)","elapsed":23}
+{"timestamp":"2025-12-07T21:54:56.294Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 tomsguide_review - already has 1 URL(s)","elapsed":23}
+{"timestamp":"2025-12-07T21:54:56.294Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 techradar_review - already has 1 URL(s)","elapsed":23}
+{"timestamp":"2025-12-07T21:54:56.294Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 theverge_review - already has 1 URL(s)","elapsed":24}
+{"timestamp":"2025-12-07T21:54:56.295Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 notebookcheck_review - already has 1 URL(s)","elapsed":24}
+{"timestamp":"2025-12-07T21:54:56.295Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 androidcentral_review - already has 1 URL(s)","elapsed":24}
+{"timestamp":"2025-12-07T21:54:56.295Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 androidauthority_review - already has 1 URL(s)","elapsed":24}
+{"timestamp":"2025-12-07T21:54:56.295Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 gsmarena_review - already has 1 URL(s)","elapsed":24}
+{"timestamp":"2025-12-07T21:54:56.295Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 gsmarena_specs - already has 1 URL(s)","elapsed":24}
+{"timestamp":"2025-12-07T21:54:56.295Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 phonearena_review - already has 1 URL(s)","elapsed":24}
+{"timestamp":"2025-12-07T21:54:56.295Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 dxomark_review - already has 1 URL(s)","elapsed":24}
+{"timestamp":"2025-12-07T21:54:56.296Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 tomsguide_review - already has 1 URL(s)","elapsed":25}
+{"timestamp":"2025-12-07T21:54:56.296Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 techradar_review - already has 1 URL(s)","elapsed":25}
+{"timestamp":"2025-12-07T21:54:56.296Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 theverge_review - already has 1 URL(s)","elapsed":25}
+{"timestamp":"2025-12-07T21:54:56.296Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 notebookcheck_review - already has 1 URL(s)","elapsed":25}
+{"timestamp":"2025-12-07T21:54:56.291Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro dxomark_review - already has 1 URL(s)","elapsed":20}
+{"timestamp":"2025-12-07T21:54:56.297Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 androidauthority_review - already has 1 URL(s)","elapsed":26}
+{"timestamp":"2025-12-07T21:54:56.296Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 androidcentral_review - already has 1 URL(s)","elapsed":26}
+{"timestamp":"2025-12-07T21:54:56.297Z","level":"INFO","phase":"PHASE 1","msg":"Starting parallel discovery of 1 tasks","elapsed":26}
+{"timestamp":"2025-12-07T21:54:56.297Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 1/1 (1 tasks)","elapsed":26}
+{"timestamp":"2025-12-07T21:54:56.298Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:theverge.com apple iphone 15 pro hands-on -intitle:\"Max\" -inurl:Max\"","elapsed":27}
+{"timestamp":"2025-12-07T21:54:56.924Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":653}
+{"timestamp":"2025-12-07T21:54:56.925Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for apple iphone 15 pro theverge_review with: \"site:theverge.com apple iphone 15 pro hands-on -in...\"","elapsed":654}
+{"timestamp":"2025-12-07T21:54:56.925Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for apple iphone 15 pro: missing_phone_name","elapsed":654}
+{"timestamp":"2025-12-07T21:54:56.925Z","level":"INFO","phase":"PHASE 1","msg":"Discovery Summary","meta":{"tasksProcessed":1,"successful":0,"zeroResults":1,"errors":0,"urlsFound":0},"elapsed":655}
+{"timestamp":"2025-12-07T21:54:56.926Z","level":"INFO","phase":"PHASE 2","msg":"Starting Archive Discovery (Optimized Search Patterns)","elapsed":655}
+{"timestamp":"2025-12-07T21:54:56.926Z","level":"INFO","phase":"PHASE 2","msg":"Already tried today, skipping","elapsed":656}
+{"timestamp":"2025-12-07T21:54:56.927Z","level":"INFO","phase":"PHASE 2","msg":"Already tried today, skipping","elapsed":656}
+{"timestamp":"2025-12-07T21:55:07.595Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 7 snapshots","elapsed":11325}
+{"timestamp":"2025-12-07T21:55:25.106Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 13 snapshots","elapsed":28835}
+{"timestamp":"2025-12-07T21:55:26.847Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 10 snapshots","elapsed":30576}
+{"timestamp":"2025-12-07T21:55:45.582Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 10 snapshots","elapsed":49311}
+{"timestamp":"2025-12-07T21:55:45.583Z","level":"INFO","phase":"PHASE 3","msg":"Starting Content Scraping (Smart Caching)","elapsed":49312}
+{"timestamp":"2025-12-07T21:55:45.585Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 1_gsmarena_specs.txt - already exists","elapsed":49314}
+{"timestamp":"2025-12-07T21:55:45.586Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 2_gsmarena_review.txt - already exists","elapsed":49315}
+{"timestamp":"2025-12-07T21:55:45.586Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 3_phonearena_review.txt - already exists","elapsed":49315}
+{"timestamp":"2025-12-07T21:55:45.587Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 4_dxomark_review.txt - already exists","elapsed":49316}
+{"timestamp":"2025-12-07T21:55:45.587Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 5_tomsguide_review.txt - already exists","elapsed":49316}
+{"timestamp":"2025-12-07T21:55:45.588Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 6_techradar_review.txt - already exists","elapsed":49317}
+{"timestamp":"2025-12-07T21:55:45.588Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 8_notebookcheck_review.txt - already exists","elapsed":49317}
+{"timestamp":"2025-12-07T21:55:45.588Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 10_androidauthority_review.txt - already exists","elapsed":49317}
+{"timestamp":"2025-12-07T21:55:45.588Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 9_androidcentral_review.txt - already exists","elapsed":49318}
+{"timestamp":"2025-12-07T21:55:45.589Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 1_gsmarena_specs.txt - already exists","elapsed":49318}
+{"timestamp":"2025-12-07T21:55:45.589Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 2_gsmarena_review.txt - already exists","elapsed":49318}
+{"timestamp":"2025-12-07T21:55:45.590Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 3_phonearena_review.txt - already exists","elapsed":49319}
+{"timestamp":"2025-12-07T21:55:45.590Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 5_tomsguide_review.txt - already exists","elapsed":49319}
+{"timestamp":"2025-12-07T21:55:45.590Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 6_techradar_review.txt - already exists","elapsed":49319}
+{"timestamp":"2025-12-07T21:55:45.590Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 7_theverge_review.txt - already exists","elapsed":49319}
+{"timestamp":"2025-12-07T21:55:45.591Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 9_androidcentral_review.txt - already exists","elapsed":49320}
+{"timestamp":"2025-12-07T21:55:45.591Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 10_androidauthority_review.txt - already exists","elapsed":49320}
+{"timestamp":"2025-12-07T21:55:45.591Z","level":"INFO","phase":"PHASE 3","msg":"No archive URLs, trying progressive fallback","elapsed":49320}
+{"timestamp":"2025-12-07T21:55:45.591Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 4_dxomark_review.txt - already exists","elapsed":49320}
+{"timestamp":"2025-12-07T21:55:51.832Z","level":"WARNING","phase":"PHASE 3","msg":"recent strategy: no snapshots","elapsed":55561}
+{"timestamp":"2025-12-07T21:55:58.182Z","level":"WARNING","phase":"PHASE 3","msg":"2-year strategy: no snapshots","elapsed":61911}
+{"timestamp":"2025-12-07T21:56:42.010Z","level":"WARNING","phase":"PHASE 3","msg":"5-year strategy: no snapshots","elapsed":105739}
+{"timestamp":"2025-12-07T21:56:42.011Z","level":"ERROR","phase":"PHASE 3","msg":"All fallback strategies exhausted","elapsed":105740}
+{"timestamp":"2025-12-07T21:56:42.011Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 1_gsmarena_specs.txt - already exists","elapsed":105740}
+{"timestamp":"2025-12-07T21:56:42.012Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 2_gsmarena_review.txt - already exists","elapsed":105741}
+{"timestamp":"2025-12-07T21:56:42.012Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 3_phonearena_review.txt - already exists","elapsed":105741}
+{"timestamp":"2025-12-07T21:56:42.012Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 4_dxomark_review.txt - already exists","elapsed":105741}
+{"timestamp":"2025-12-07T21:56:42.013Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 5_tomsguide_review.txt - already exists","elapsed":105742}
+{"timestamp":"2025-12-07T21:56:42.013Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 6_techradar_review.txt - already exists","elapsed":105742}
+{"timestamp":"2025-12-07T21:56:42.014Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 8_notebookcheck_review.txt - already exists","elapsed":105743}
+{"timestamp":"2025-12-07T21:56:42.014Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 9_androidcentral_review.txt - already exists","elapsed":105743}
+{"timestamp":"2025-12-07T21:56:42.014Z","level":"INFO","phase":"PHASE 3","msg":"No archive URLs, trying progressive fallback","elapsed":105743}
+{"timestamp":"2025-12-07T21:56:50.184Z","level":"WARNING","phase":"PHASE 3","msg":"recent strategy: no snapshots","elapsed":113913}
+{"timestamp":"2025-12-07T21:57:35.765Z","level":"WARNING","phase":"PHASE 3","msg":"2-year strategy: no snapshots","elapsed":159494}
+{"timestamp":"2025-12-07T21:58:34.440Z","level":"WARNING","phase":"PHASE 3","msg":"5-year strategy: no snapshots","elapsed":218169}
+{"timestamp":"2025-12-07T21:58:34.440Z","level":"ERROR","phase":"PHASE 3","msg":"All fallback strategies exhausted","elapsed":218169}
+{"timestamp":"2025-12-07T21:58:34.441Z","level":"INFO","phase":"PHASE 3","msg":"Already tried today, skipping","elapsed":218170}
+{"timestamp":"2025-12-07T21:58:34.441Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 1_gsmarena_specs.txt - already exists","elapsed":218170}
+{"timestamp":"2025-12-07T21:58:34.442Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 2_gsmarena_review.txt - already exists","elapsed":218171}
+{"timestamp":"2025-12-07T21:58:34.442Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 3_phonearena_review.txt - already exists","elapsed":218171}
+{"timestamp":"2025-12-07T21:58:34.442Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 4_dxomark_review.txt - already exists","elapsed":218171}
+{"timestamp":"2025-12-07T21:58:34.442Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 5_tomsguide_review.txt - already exists","elapsed":218171}
+{"timestamp":"2025-12-07T21:58:34.442Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 6_techradar_review.txt - already exists","elapsed":218171}
+{"timestamp":"2025-12-07T21:58:34.443Z","level":"INFO","phase":"PHASE 3","msg":"Already tried today, skipping","elapsed":218172}
+{"timestamp":"2025-12-07T21:58:34.443Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 8_notebookcheck_review.txt - already exists","elapsed":218172}
+{"timestamp":"2025-12-07T21:58:34.443Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 9_androidcentral_review.txt - already exists","elapsed":218173}
+{"timestamp":"2025-12-07T21:58:34.444Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 10_androidauthority_review.txt - already exists","elapsed":218173}
+{"timestamp":"2025-12-07T21:58:34.444Z","level":"INFO","phase":"MAIN","msg":"Force-reprocessing hero images for all specs...","elapsed":218174}
+{"timestamp":"2025-12-07T21:58:34.445Z","level":"INFO","phase":"FORCED_HERO","msg":"Starting forced hero image redownload","elapsed":218174}
+{"timestamp":"2025-12-07T21:58:34.445Z","level":"INFO","phase":"FORCED_HERO","msg":"Redownloading hero for apple iphone 15 pro gsmarena_specs","elapsed":218174}
+{"timestamp":"2025-12-07T21:58:35.468Z","level":"INFO","phase":"HERO_IMAGE","msg":"Starting hero image extraction...","elapsed":219197}
+{"timestamp":"2025-12-07T21:58:35.468Z","level":"INFO","phase":"HERO_IMAGE","msg":"Image already exists, skipping download","elapsed":219197}
+{"timestamp":"2025-12-07T21:58:35.468Z","level":"INFO","phase":"FORCED_HERO","msg":"Redownloading hero for apple iphone 17 pro max gsmarena_specs","elapsed":219197}
+{"timestamp":"2025-12-07T21:58:40.386Z","level":"INFO","phase":"HERO_IMAGE","msg":"Starting hero image extraction...","elapsed":224116}
+{"timestamp":"2025-12-07T21:58:40.388Z","level":"INFO","phase":"HERO_IMAGE","msg":"Image already exists, skipping download","elapsed":224117}
+{"timestamp":"2025-12-07T21:58:40.388Z","level":"INFO","phase":"FORCED_HERO","msg":"Redownloading hero for samsung galaxy s25 gsmarena_specs","elapsed":224117}
+{"timestamp":"2025-12-07T21:58:41.471Z","level":"INFO","phase":"HERO_IMAGE","msg":"Starting hero image extraction...","elapsed":225200}
+{"timestamp":"2025-12-07T21:58:41.472Z","level":"INFO","phase":"HERO_IMAGE","msg":"Image already exists, skipping download","elapsed":225201}
+{"timestamp":"2025-12-07T21:58:41.472Z","level":"INFO","phase":"FORCED_HERO","msg":"Redownloading hero for oneplus 13 gsmarena_specs","elapsed":225201}
+{"timestamp":"2025-12-07T21:58:43.672Z","level":"INFO","phase":"HERO_IMAGE","msg":"Starting hero image extraction...","elapsed":227401}
+{"timestamp":"2025-12-07T21:58:43.673Z","level":"INFO","phase":"HERO_IMAGE","msg":"Image already exists, skipping download","elapsed":227402}
+{"timestamp":"2025-12-07T21:58:43.674Z","level":"SUCCESS","phase":"FORCED_HERO","msg":"Completed forced hero image redownload","elapsed":227403}
+{"timestamp":"2025-12-07T21:58:43.674Z","level":"SUCCESS","phase":"PIPELINE","msg":"Discovery Complete","elapsed":227403}
+{"timestamp":"2025-12-07T21:58:43.674Z","level":"INFO","phase":"TELEMETRY","msg":"Session Summary","meta":{"cseCalls":1,"archiveHits":10,"scrapeSuccess":0,"scrapeFailure":0,"startTime":1765144496271},"elapsed":227404}

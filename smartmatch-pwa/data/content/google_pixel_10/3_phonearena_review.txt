@@ -1,0 +1,233 @@
+While typically companies reserve their best features for their Pro phones, creating a clear separation between those premium devices and the more affordable ones, it seems that 2025 is the year that breaks that tradition.Along with Apple introducing ProMotion in its base iPhone 17, Google is also destroying one big barrier by introducing a telephoto camera in the $800 Pixel 10.With the same Tensor G5 chip as the Pro phones, the same AI features, same screen size and same-ish battery size, you get 90% of the experience in a much cheaper package.
+Google Pixel 10
+6.3-inch
+Triple camera
+4970 mAh
+12GB
+$799 at Amazon
+Google Pixel 10
+What we like
+5X telephoto camera
+Qi 2 magnetic charging!
+Solid battery life
+What we don't like
+Only 128GB base storage
+Still not as fast as rivals
+7.3
+PhoneArena Rating
+7.1
+Price Class Average
+Battery Life
+7.3
+7.5
+Photo Quality
+7.6
+6.8
+Video Quality
+6.3
+5.8
+Charging
+5.8
+6.7
+Performance Heavy
+6.1
+6.6
+Performance Light
+7.3
+7.3
+Display Quality
+8
+7.8
+Design
+8
+7.8
+Wireless Charging
+8.4
+6.8
+Biometrics
+8
+7.3
+Audio
+7
+6.9
+Software
+8
+7.5
+Why the score?
+This device scores 2.7% better than the average for this price class, which includes devices like the Samsung Galaxy Z Flip 7 FE, RedMagic 10S Pro and Motorola Razr (2025)
+How do we rate?
+User ScoreBe the first to review this phone
+Add
+Review
+We may receive a small affiliate commission if you purchase from these offers.
+Sim-free
+Amazon$799
+BestBuy$799
+On our PhoneArena Review rating, the Pixel 10 scores very close to the Pro models, with high scores for wireless charging now that includes magnets, and it typically has excellent scores for software thanks to Google's long, seven-year software update commitment.Table of Contents:SpecsDesign and DisplayCameraPerformanceSoftwareBatteryAudioShould you buy it?Pixel 10 SpecsBig battery in a relatively compact phoneLet's start with an overview of the Pixel 10 specs:Pixel 10Pixel 9Size, weight152.8 x 72.0 x 8.6 mm204 gSize, weight152.8 x 72.0 x 8.5 mm198 gScreen6.3" OLED120HzScreen6.3" OLED120HzProcessorGoogle Tensor G53nmProcessorGoogle Tensor G44nmVersions:12/128GB12/256GBLPDDR5XVersions:12/128GB12/256GBLPDDR5XCameras:48 MP main13 MP ultra10.8 MP telephoto10.5 MP frontCameras:50 MP main48 MP ultra-10.5 MP frontBattery:4,970 mAhBattery:4,700 mAhCharging:USB-C30W wired15W Qi2 wirelessCharging:USB-C25W wired15W wirelessPixel 10 Design and DisplayVibrant colors are in
+The Pixel 10 looks a lot like the Pixel 9 from last year — flat matte sides, glass and aluminum sandwich, camera bar.What's new are the colors. The vibrant blue Indigo model is the one that catches the eye the most, but we also love the Lemongrass color option. You also have Frost and Obsidian that are a bit more traditional.
+<img src="https://web.archive.org/web/20250920023144im_/https://m-cdn.phonearena.com/images/reviews/272372-image/pixel-10-colors-.webp" alt="Google Pixel 10 Review: One big upgrade, but one slow start for the AI Phone Era"/>
+Build quality is excellent. The phone feels perfectly sturdy and premium, better than the base Galaxy S25 model that we received with a wobbly power button.IP68 water and dust resistance are a standard on flagships, and the Pixel 10 has them as well.
+Like most modern phones, there is not much included in the box. You get the phone itself, a charging cable, a SIM tool and some user manuals. There is no charging brick, no pre-installed screen protector, no cases included.When it comes to the screen, you get a 6.3-inch OLED screen.The bezels are a bit thicker than on the Pro model, which is a bit annoying. The screen resolution is 1080p, again a bit lower than the 1280p on the Pro version, and if you look closely you can notice some slight pixelization.But at 3,000 nits of peak brightness, it gets almost as bright as the Pro sibling, which can hit 3,300 nits. Both are record holders for outdoor brightness, beating most of the competition. Display Measurements:
+Screen measurementsColor charts
+Bright max(20%APL)Higher is betterBright max(100%APL)Higher is betterBright minLower is betterColor tempGammaDelta E rgbcmyLower is betterDelta E grayscaleLower is betterGoogle Pixel 102822(Excellent)1940(Excellent)2.1(Average)66562.21.34(Excellent)4.11(Average)Google Pixel 92623(Excellent)1970(Excellent)1.8(Good)67282.251.51(Excellent)5.54(Average)Samsung Galaxy S252394(Excellent)1313(Excellent)0.86(Excellent)655422.35(Good)5.52(Average)Apple iPhone 17No dataNo dataNo dataNo dataNo dataNo dataNo dataView
+all
+Color gamutColor accuracyGrayscale accuracyThe CIE 1931 xy color gamut chart represents the set(area)of colors that a display can reproduce,with the sRGB colorspace(the highlighted triangle)serving as reference.The chart also provides a visual representation of a display's color accuracy. The small squares across the boundaries of the triangle are the reference points for the various colors, while the small dots are the actual measurements. Ideally, each dot should be positioned on top of its respective square. The 'x:CIE31' and 'y:CIE31' values in the table below the chart indicate the position of each measurement on the chart. 'Y' shows the luminance (in nits) of each measured color, while 'Target Y' is the desired luminance level for that color. Finally, 'ΔE 2000' is the Delta E value of the measured color. Delta E values of below 2 are ideal.These measurements are made using Portrait Displays' CalMAN calibration software.Google Pixel 10Google Pixel 9Samsung Galaxy S25Apple iPhone 17The Color accuracy chart gives an idea of how close a display's measured colors are to their referential values. The first line holds the measured (actual) colors, while the second line holds the reference (target) colors. The closer the actual colors are to the target ones, the better.These measurements are made using Portrait Displays' CalMAN calibration software.Google Pixel 10Google Pixel 9Samsung Galaxy S25Apple iPhone 17The Grayscale accuracy chart shows whether a display has a correct white balance(balance between red,green and blue)across different levels of grey(from dark to bright).The closer the Actual colors are to the Target ones,the better.These measurements are made usingPortrait Displays' CalMAN calibration software.
+Google Pixel 10
+Google Pixel 9
+Samsung Galaxy S25
+Apple iPhone 17
+View
+allIn our lab tests, we use consistent 20% white level measurements and the Pixel 10 hits over 2,800 nits on that test, beating rival Galaxy S25 by a lot.However, the minimum brightness does not drop as low as on the iPhone 17 or Galaxy S25. The Pixel only reaches around 2 nits, which is still a bit bright when you use the phone in bed at night.As for biometrics, we have the now familiar ultrasonic fingerprint scanner which works very well. You can also register your face and use face recognition to access your banking apps and other sensitive information since the Pixel face scanner is rated a bit higher than other 2D image scanners.Pixel 10 Camera5X zoom, baby
+<img src="https://web.archive.org/web/20250920023144im_/https://m-cdn.phonearena.com/images/reviews/272340-image/BK6A0961.webp" alt="Google Pixel 10 Review: One big upgrade, but one slow start for the AI Phone Era"/>
+The biggest camera upgrade on the Pixel 10 is without a doubt the inclusion of a dedicated telephoto lens, a 5X one. This is the same zoom level as on the Pro versions, but the other two cameras (the main and the ultrawide) actually feature slightly smaller sensors.Receive the latest Google newsSubscribe
+By subscribing you agree to our terms and conditions and privacy policy.You really have to pixel peep to notice the difference with the pros, but it occasionally does show in close-up detail or image noise.
+Google Pixel 10
+PhoneArena Camera Score
+BEST 158
+147
+PhoneArena Photo Score
+BEST 165
+156
+Main (wide)
+BEST 87
+83
+Zoom
+BEST 29
+25
+Ultra-wide
+BEST 26
+22
+Selfie
+BEST 30
+26
+PhoneArena Video Score
+BEST 155
+138
+Main (wide)
+BEST 83
+76
+Zoom
+BEST 27
+19
+Ultra-wide
+BEST 24
+18
+Selfie
+BEST 28
+25
+Find out more details about photo and video scores for all phones we have tested on our PhoneArena Camera Score
+pageOn our PhoneArena Camera Score, the Pixel 10 hit very high scores for the main and selfie cameras, but scored a bit lower for zoom and ultra-wide video where detail was lower than other phones.Before we jump into the new AI camera features, here are some sample photos we took with all the cameras:Main Camera
+Zoom Quality
+<img src="https://web.archive.org/web/20250920023144im_/https://m-cdn.phonearena.com/images/reviews/272373-image/pixel-10-crop-.webp"/>
+<img src="https://web.archive.org/web/20250920023144im_/https://m-cdn.phonearena.com/images/reviews/272374-image/pixel-10-pro-crop-.webp"/>
+< Pixel 10
+Pixel 10 Pro >In the above crop from a 5X zoomed photo, you can see that the Pro model has slightly less noise and there is a difference in the color interpretation, but the difference is not a huge one.
+Ultra-wide Camera
+Selfies
+<img src="https://web.archive.org/web/20250920023144im_/https://m-cdn.phonearena.com/images/reviews/271935-image/9-Pixel-10-selfie-PXL-20250904-134225873.webp"/>
+<img src="https://web.archive.org/web/20250920023144im_/https://m-cdn.phonearena.com/images/reviews/271969-image/9-Pixel-9a-selfie-PXL-20250904-134350862.MP.webp"/>
+< Pixel 10
+Pixel 9a >While Google promised to fix portrait mode capture on the Pixel 10 (a sore point for many years), we did not see much of a change and detail is still lacking in portrait shots.Video QualityIn terms of video quality, the Pixel 10 does a decent job, but it has some issues too.We noticed that when using the 5X zoom camera, the footage was not as stable as on rivals like the Galaxy S25 or iPhones. Also, the lens flaring issues (little reflections from lights at night) is very noticeable on the Pixel, while you don't get that on an iPhone.The Pixel supports 4K resolution natively. One missing feature here is Video Boost (you only get that on the Pro lineup), which can give you 8K quality after your 4K footage has been processed in the cloud. Keep in mind, though, that the Pixel can take more than 20 hours to process a single video and at this point we are not sure many people are willing to wait that long anyway.Pixel 10 Performance & BenchmarksBetter, still not greatThe Tensor G5 inside the Pixel 10 is the first chip made by TSMC, which is known as the more reliable chip manufacturer compared to Samsung's foundries that Google used for previous Tensor chips.This surely helps, but the raw numbers clearly show that the Tensor G5 is no Snapdragon 8 Elite.CPU Performance Benchmarks:Geekbench 6SingleHigher is betterGoogle Pixel 102298Google Pixel 91800Samsung Galaxy S253031Apple iPhone 173527Geekbench 6MultiHigher is betterGoogle Pixel 105579Google Pixel 94573Samsung Galaxy S259626Apple iPhone 178798View allIn single-core CPU performance, the Pixel 10 with Tensor G5 scores around 2,300 points, nearly 30% higher than the previous model, but also 30% behind the Galaxy S25.Recommended StoriesMulti-core scores show an even more modest improvement over the previous model and a much bigger gap with the S25.GPU Performance3DMark Extreme(High)Higher is betterGoogle Pixel 103368Google Pixel 92575Samsung Galaxy S2559593DMark Extreme(Low)Higher is betterGoogle Pixel 102025Google Pixel 91826Samsung Galaxy S252500View allGamers will also find more processing power elsewhere. At first, before it has throttled, the Pixel 10 scores nearly 30% higher than the Pixel 9, but after throttling, the results are almost equal. And again, the disconnect with the Galaxy S25 is clear to see.On the storage front, you get 128GB in the base model, and that is where Google dropped the ball. The newly released iPhone 17, an arguably fuller package than the Pixel 10, offers double the storage at the same price! This is a bad look for Google and we hope to see some price cuts to reflect this new reality, otherwise the phone is just not competitive on price.Pixel 10 Software
+We have mixed feelings about Android 16 on the Pixel 10.On one hand, we like the new look with the quirky visuals and helpful new animations. Google has added some polish to the experience, and there we say, some personality even.But at the same time, you open the camera or photos app and you are greeted with stutter and skipped frames, which is frustrating coming from a Galaxy or an iPhone.When it comes to the new AI features, we found them to be hit and miss.The most advertized feature Magic Cue is supposed to look into your Gmail, Calendar, Keep Notes, Messages and G Board, and pop-up relevant suggestions during certain interactions. Calling a friend about an upcoming trip? Boom, Magic Cue should recognize that and pop up that trip detail on your call screen. In reality, this rarely worked for us. But also, we just don't use half of those services like Google Keep or Google Messages. In fact, very few of my friends use those. That's the problem with AI, it needs to know a lot about you and when you don't give it that data, it's just not very useful.The one new feature that impressed us the most has got to be Voice Translate during calls. For some reason, it's not enabled by default and you have to manually turn it on and wait for a long update until it's ready. But once you have it set up, it can feel absolutely magical. Conversing with my colleague who speaks Spanish worked quite well. Voice Translate would start translating what I'm saying mid-sentence, so it waits a bit to get the context first. What's more impressivce is that it does all of that in my natural voice, even my broken Rs got translated into Spanish. It was a bit eerie, but also very, very cool.Some other features like Camera Coach I found to be gimmicky. The advice you get from the camera is quite trivial (get the person in frame, move so that distracting object is out of the frame, etc) and while I was excited to try out that feature when I first saw it, I doubt I would ever be using it.The other thing about Google software is well, at least the company won't leave you behind. The Pixel 10 will get seven years of OS updates, on par with Samsung, and far ahead of what you get from other Android phone makers.Don't forget that Google will also push those updates very fast to the Pixel, while on Samsung phones you need to wait for months until a One UI based off the latest Android release arrives.Pixel 10 Battery & ChargingQi 2 support, finally!
+Google Pixel 10( 4970 mAh )
+<img src="https://web.archive.org/web/20250920023144im_/https://m-cdn.phonearena.com/images/phones/85493-350/Google-Pixel-10.webp?w=1"/>
+Battery Life Estimate
+7h
+16m
+Ranks #55 for phones
+tested in the past 2 years
+Average is
+7h
+7m
+Browsing
+21h
+Average is
+16h
+44m
+Video
+10h
+Average is
+10h
+6m
+Gaming
+5h
+1m
+Average is
+10h
+4m
+Charging speed
+30W
+Charger
+50%
+30 min
+1h
+29m
+Full charge
+Ranks #104 for phones released in the
+past 2
+years
+Wireless Charging
+15W
+Charger
+N/A
+30 min
+N/A
+Full charge
+Find out more details about battery and charging for all phones we have tested on our
+PhoneArena Battery Score page
+With a nearly 5,000 mAh battery, the Pixel 10 has the capacity of a large phone in a compact phone body.We love that.PhoneArena Battery Test Results:
+Battery Life
+Charging
+Phone
+Battery Life estimate
+Browsing
+Video
+Gaming
+Google Pixel 10
+4970 mAh
+7h 16min
+21h 0min
+10h 0min
+5h 1min
+Google Pixel 9
+4700 mAh
+6h 48min
+17h 34min
+8h 28min
+10h 4min
+Samsung Galaxy S25
+4000 mAh
+7h 6min
+18h 29min
+8h 1min
+12h 20min
+Phone
+Full Charging
+30 min Charge
+Wired
+Wireless
+Wired
+Wireless
+Google Pixel 10
+4970 mAh
+1h 29min
+Untested
+50%
+Untested
+Google Pixel 9
+4700 mAh
+1h 39min
+2h 11min
+51%
+27%
+Samsung Galaxy S25
+4000 mAh
+1h 22min
+1h 37min
+54%
+32%
+Find out more details about battery and charging for all phones we have tested on our PhoneArena Battery Score page
+On our in-house battery tests, we got 21 hours on our lightest web browsing test where we run a script until the battery is completely drained. That beats the 17 and a half hours the Pixel 9 got on the same test. The Pixel 10 also scored 10 hours of non-stop video streaming, a very good score, far above the 8 hours and a half on the previous model.However, all three new Pixel 10 models struggled with some gaming workloads (which we did not expect). The Pixel 10 only got five hours on our gaming test, clearly overheating, while the previous model scored double that.On the charging front, you have 30-watt wired charging, a reasonable speed, even if not the fastest.However, the big news is all about Qi 2 support and magnetic wireless charging.
+Why did it take Google so long to add Qi 2? We don't know, just like we have no clue why Samsung still does not support magnetic wireless charging on its flagships.Whatever the case, Qi 2 is now branded as Pixelsnap on these phones and it's awesome. Snapping your charger to your phone is so much easier now and you ensure you get a proper placement of the charger for optimal speeds every time. In case you missed it, Qi 2 is also MagSafe compatible, so you can easily charge at your friend's home (if they have MagSafe).Pixel 10 Audio Quality and HapticsWith stereo speakers on board, the Pixel 10 sounds quite good, but at the same time, it's also not exceeding any expectations. It's just a decent phone speaker that gets loud enough and gets the job done.The sound quality is very comparable to that of the Pro model, so you are not missing out there.There is no 3.5mm headphone jack, of course, but one thing that is very nice is haptics on this phone, tight and precise.Should you buy it?
+<img src="https://web.archive.org/web/20250920023144im_/https://m-cdn.phonearena.com/images/reviews/272343-image/BK6A0958.webp" alt="Google Pixel 10 Review: One big upgrade, but one slow start for the AI Phone Era"/>
+The Pixel 10 feels like the biggest upgrade this year simply because it gets that 5X telephoto camera that makes your zoomed photos so much better.It also has Qi 2 now (just like the Pro phones). Unless you really care about the Pro camera features, it seems like the base Pixel 10 is the most sensible purchase this year.In the context of other Android phones, the Pixel 10 has more advanced AI and a cleaner interface that we still feel are advantages. But again, there is a caveat to that. Some of the new AI features like Magic Cue seem very over-rated and we found practically no use in having them. Maybe those features will improve as you use your device for months and it gets to know you better, or maybe not.Finally, we have to also mention the A word. Yes, Apple. This year, the Pixel 10 does not look like great value considering that Apple's iPhone 17 now offers double the storage and arguably beats the Pixel, especially in areas like performance and video recording.If you can find a great deal, though, (and with Google you often can) we think the Pixel 10 is absolutely a worthy purchase, offering that AI and zoom camera that you won't find in Apple land.

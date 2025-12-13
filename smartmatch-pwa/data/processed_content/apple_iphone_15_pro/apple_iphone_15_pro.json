@@ -1,0 +1,113 @@
+{
+  "phoneId": "apple_iphone_15_pro",
+  "data": {
+    "brand": "apple",
+    "model": "iphone 15 pro",
+    "overallScore": null,
+    "category": "flagship",
+    "onePageSummary": "The iPhone 15 Pro represents Apple's refined flagship experience with notable upgrades like a titanium frame reducing weight to 187g and USB-C replacing Lightning after EU pressure consensus across reviews highlights its premium build IP68 rating and comfortable handling despite minimal design changes from its predecessor The A17 Pro chip dominates performance benchmarks offering console-level gaming potential though throttling occurs under sustained loads The camera system excels in video quality portraits and main sensor performance but struggles with low-light ultrawide shots and lacks the Pro Max's 5x zoom Battery life averages a day with slow 20W charging criticized universally The brilliant OLED display peaks at over 2000 nits with excellent color accuracy while iOS 17 delivers polished software with long-term updates though customization lags behind Android Key contradictions include overheating concerns noted by Android Authority and PhoneArena versus GSMArena's acknowledgment of post-launch fixes Pros emphasize its camera titanium build and performance while cons cite slow charging high price and limited zoom",
+    "pros": [
+      "Titanium design reduces weight significantly (mentioned: Android Authority GSMArena PhoneArena TechRadar)",
+      "Excellent camera system particularly for video and portraits (mentioned: GSMArena DXOMark NotebookCheck)",
+      "Powerful A17 Pro chipset with top-tier performance (mentioned: GSMArena Tom's Guide NotebookCheck)",
+      "Bright vibrant OLED display with 120Hz refresh rate (mentioned: GSMArena PhoneArena TechRadar)",
+      "USB-C port enables faster data transfer and universal charging (mentioned: Android Authority GSMArena)"
+    ],
+    "cons": [
+      "Slow charging speeds capped at 20W (criticized all sources)",
+      "Limited zoom capabilities compared to iPhone 15 Pro Max (mentioned PhoneArena TechRadar)",
+      "High starting price for base storage configuration (mentioned Android Authority PhoneArena)",
+      "Overheating issues during intensive tasks noted by multiple sources",
+      "iOS lacks customization compared to Android alternatives"
+    ],
+    "originalAttributes": {
+      "Camera": {
+        "score": 8,
+        "explanation": "DXOMark score:154/200(6th globally) Main camera praised for portraits/video by GSMArena DXOMark NotebookCheck Low-light ultrawide weakness noted by Android Authority PhoneArena Selfie quality inconsistent in challenging lighting (real-time normalized: 8.45 → 7.54) (real-time normalized: 7.54 → 8.00)"
+      },
+      "Battery Endurance": {
+        "score": 9.9,
+        "explanation": "GSMArena tested86h endurance average daily use consensus Slow20W charging criticized universally(90min full charge) Degradation mitigated by80%limit feature (real-time normalized: 6.14 → 9.29) (real-time normalized: 9.29 → 9.90)"
+      },
+      "Performance": {
+        "score": 7.17,
+        "explanation": "A17Pro dominates benchmarks(NotebookCheck100% Tom's Guide) Sustained throttling observed under load(AndroidAuthority) Thermals improved post-iOS17patch(GSMArena) (real-time normalized: 9.04 → 7.17)"
+      },
+      "Display": {
+        "score": 7.75,
+        "explanation": "Super Retina XDR OLED praised for2000+nits brightness(GSMArena NotebookCheck) Excellent color accuracy120HzProMotion Eye comfort enhanced by thinner bezels (real-time normalized: 9.18 → 10.00) (real-time normalized: 10.00 → 6.62) (real-time normalized: 6.62 → 7.75)"
+      },
+      "Software Experience": {
+        "score": 9.8,
+        "explanation": "iOS17 offers clean interface long updates(5+years) Features like Action Button welcomed Update policy surpassed by Google Pixel's7years (real-time normalized: 8.24 → 9.80)"
+      },
+      "Design & Build": {
+        "score": 7.75,
+        "explanation": "Titanium frame reduces weight19g vs14Pro(187g) IP68rating matte finish improve grip Contoured edges enhance handling (real-time normalized: 9.26 → 10.00) (real-time normalized: 10.00 → 6.62) (real-time normalized: 6.62 → 7.75)"
+      },
+      "Longevity Value": {
+        "score": 9.8,
+        "explanation": "Apple provides~5years of updates vsPixel's7 Price premium at$999for128GB impacts value Resale remains strong (real-time normalized: 6.72 → 9.80)"
+      }
+    },
+    "metadata": {
+      "confidence": 0.999,
+      "modelUsed": "tngtech/deepseek-r1t2-chimera:free",
+      "processingVersion": "v7-Final",
+      "processedAt": "2025-12-09T06:18:21.569Z",
+      "processingTimeMs": 134431,
+      "sourceCount": 8,
+      "sourceNames": [
+        "Android Authority",
+        "GSMArena",
+        "PhoneArena",
+        "DXOMark",
+        "Tom's Guide",
+        "TechRadar",
+        "NotebookCheck",
+        "Android Central"
+      ],
+      "sourceUrls": [
+        "https://www.androidauthority.com/apple-iphone-15-pro-review-3368360/",
+        "https://www.gsmarena.com/apple_iphone_15_pro-review-2620.php",
+        "https://www.phonearena.com/reviews/apple-iphone-15-pro-review_id5848",
+        "https://www.dxomark.com/smartphones/Apple/iPhone-15-Pro",
+        "https://www.tomsguide.com/reviews/iphone-15-pro",
+        "https://www.techradar.com/phones/iphone/iphone-15-pro-review",
+        "https://www.notebookcheck.net/Apple-iPhone-15-Pro-smartphone-in-review-High-end-phone-as-a-replacement-for-the-PlayStation.761070.0.html",
+        "https://www.androidcentral.com/phones/google-pixel-8-pro-vs-iphone-15-pro"
+      ],
+      "batchMode": true
+    },
+    "attributes": {
+      "Camera": {
+        "score": 4.9,
+        "explanation": "DXOMark score:154/200(6th globally) Main camera praised for portraits/video by GSMArena DXOMark NotebookCheck Low-light ultrawide weakness noted by Android Authority PhoneArena Selfie quality inconsistent in challenging lighting (real-time normalized: 8.45 → 7.54) (real-time normalized: 7.54 → 8.00)"
+      },
+      "Battery Endurance": {
+        "score": 9.9,
+        "explanation": "GSMArena tested86h endurance average daily use consensus Slow20W charging criticized universally(90min full charge) Degradation mitigated by80%limit feature (real-time normalized: 6.14 → 9.29) (real-time normalized: 9.29 → 9.90)"
+      },
+      "Performance": {
+        "score": null,
+        "explanation": "A17Pro dominates benchmarks(NotebookCheck100% Tom's Guide) Sustained throttling observed under load(AndroidAuthority) Thermals improved post-iOS17patch(GSMArena) (real-time normalized: 9.04 → 7.17)"
+      },
+      "Display": {
+        "score": 10,
+        "explanation": "Super Retina XDR OLED praised for2000+nits brightness(GSMArena NotebookCheck) Excellent color accuracy120HzProMotion Eye comfort enhanced by thinner bezels (real-time normalized: 9.18 → 10.00) (real-time normalized: 10.00 → 6.62) (real-time normalized: 6.62 → 7.75)"
+      },
+      "Software Experience": {
+        "score": 9.8,
+        "explanation": "iOS17 offers clean interface long updates(5+years) Features like Action Button welcomed Update policy surpassed by Google Pixel's7years (real-time normalized: 8.24 → 9.80)"
+      },
+      "Design & Build": {
+        "score": 7.75,
+        "explanation": "Titanium frame reduces weight19g vs14Pro(187g) IP68rating matte finish improve grip Contoured edges enhance handling (real-time normalized: 9.26 → 10.00) (real-time normalized: 10.00 → 6.62) (real-time normalized: 6.62 → 7.75)"
+      },
+      "Longevity Value": {
+        "score": 5,
+        "explanation": "Apple provides~5years of updates vsPixel's7 Price premium at$999for128GB impacts value Resale remains strong (real-time normalized: 6.72 → 9.80)"
+      }
+    }
+  }
+}

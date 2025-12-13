@@ -36,19 +36,40 @@
       }
     },
     "camera": {
-        "mainSensorMP": {
-            "excellent": 200,
-            "good": 108,
-            "average": 50,
-            "poor": 12
-        },
-        "hasTelephoto": true,
-        "hasUltrawide": true
+      "mainSensorMP": {
+        "excellent": 200,
+        "good": 108,
+        "average": 50,
+        "poor": 12
+      },
+      "hasTelephoto": true,
+      "hasUltrawide": true
     },
     "userExperience": {
-        "hasIp68Rating": true,
-        "fastWirelessCharging": 50,
-        "longSoftwareSupport": 5 
+      "hasIp68Rating": true,
+      "fastWirelessCharging": 50,
+      "longSoftwareSupport": 5
+    }
+  },
+  "enrichment": {
+    "modelBudget": {
+      "deepseek": { "limit": 17, "groupSize": 3 },
+      "qwen": { "limit": 3 }
+    },
+    "consistencyThreshold": 0.6,
+    "cacheHitRateTarget": 0.8,
+    "qualityThresholds": {
+      "minConsistencyScore": 0.6,
+      "minAttributeScore": 60,
+      "maxErrorsPerRun": 5
+    }
+  },
+  "pipeline": {
+    "phases": ["discovery", "enrichment", "storage"],
+    "maxPhonesPerRun": 50,
+    "rateLimiting": {
+      "baseDelayMs": 1000,
+      "maxDelayMs": 10000
     }
   }
 }

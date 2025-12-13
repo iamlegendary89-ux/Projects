@@ -1,0 +1,236 @@
+{"timestamp":"2025-12-10T05:43:09.161Z","level":"INFO","phase":"STARTUP","msg":"Validating environment configuration...","elapsed":52}
+{"timestamp":"2025-12-10T05:43:09.214Z","level":"SUCCESS","phase":"STARTUP","msg":"Google CSE configured as fallback","elapsed":56}
+{"timestamp":"2025-12-10T05:43:09.215Z","level":"SUCCESS","phase":"STARTUP","msg":"Environment validation complete","elapsed":56}
+{"timestamp":"2025-12-10T05:43:09.216Z","level":"INFO","phase":"PHASE 1","msg":"Starting CSE Discovery (Parallel)","elapsed":57}
+{"timestamp":"2025-12-10T05:43:09.216Z","level":"INFO","phase":"PHASE 1","msg":"CSE Credentials Check","meta":{"hasApiKey":true,"hasCseId":true,"apiKeyLength":39},"elapsed":58}
+{"timestamp":"2025-12-10T05:43:09.217Z","level":"INFO","phase":"PHASE 1","msg":"Starting parallel discovery of 25 tasks for 4 priority phones","elapsed":58}
+{"timestamp":"2025-12-10T05:43:09.218Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 1/13 (2 tasks)","elapsed":59}
+{"timestamp":"2025-12-10T05:43:09.218Z","level":"INFO","phase":"PHASE 1","msg":"Priority Queue: google pixel 10 (2025-10-05), samsung galaxy z fold 7 (2025-07-15), nothing phone 3 (2025-07-11), apple iphone se 4 (2025-03-15)","elapsed":59}
+{"timestamp":"2025-12-10T05:43:09.218Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:phonearena.com apple iphone se 4 review\"","elapsed":60}
+{"timestamp":"2025-12-10T05:43:09.899Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":741}
+{"timestamp":"2025-12-10T05:43:09.900Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for apple iphone se 4 phonearena_review with: \"site:phonearena.com apple iphone se 4 review...\"","elapsed":741}
+{"timestamp":"2025-12-10T05:43:09.900Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for apple iphone se 4: missing_phone_name (https://www.phonearena.com/reviews/iphone-16e-vs-iphone-16_id6743)","elapsed":741}
+{"timestamp":"2025-12-10T05:43:10.220Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:dxomark.com apple iphone se 4\"","elapsed":1061}
+{"timestamp":"2025-12-10T05:43:10.504Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":1345}
+{"timestamp":"2025-12-10T05:43:10.504Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for apple iphone se 4 dxomark_review with: \"site:dxomark.com apple iphone se 4...\"","elapsed":1345}
+{"timestamp":"2025-12-10T05:43:10.505Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":1346}
+{"timestamp":"2025-12-10T05:43:11.011Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 2/13 (2 tasks)","elapsed":1853}
+{"timestamp":"2025-12-10T05:43:11.224Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:tomsguide.com apple iphone se 4 review\"","elapsed":2065}
+{"timestamp":"2025-12-10T05:43:11.225Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:techradar.com apple iphone se 4 review\"","elapsed":2066}
+{"timestamp":"2025-12-10T05:43:11.736Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":2578}
+{"timestamp":"2025-12-10T05:43:11.737Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for apple iphone se 4 tomsguide_review with: \"site:tomsguide.com apple iphone se 4 review...\"","elapsed":2578}
+{"timestamp":"2025-12-10T05:43:11.939Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":2781}
+{"timestamp":"2025-12-10T05:43:11.940Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for apple iphone se 4 techradar_review with: \"site:techradar.com apple iphone se 4 review...\"","elapsed":2781}
+{"timestamp":"2025-12-10T05:43:11.941Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for apple iphone se 4: invalid_pattern (https://www.techradar.com/news/iphone-se-4)","elapsed":2782}
+{"timestamp":"2025-12-10T05:43:11.942Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":2783}
+{"timestamp":"2025-12-10T05:43:12.458Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 3/13 (2 tasks)","elapsed":3299}
+{"timestamp":"2025-12-10T05:43:12.459Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:theverge.com apple iphone se 4 review\"","elapsed":3300}
+{"timestamp":"2025-12-10T05:43:12.961Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":3802}
+{"timestamp":"2025-12-10T05:43:12.961Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for apple iphone se 4 theverge_review with: \"site:theverge.com apple iphone se 4 review...\"","elapsed":3803}
+{"timestamp":"2025-12-10T05:43:12.962Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for apple iphone se 4: invalid_pattern (https://www.theverge.com/news/608210/iphone-se-rumors-release-date-price-specs-face-id-camera-notch)","elapsed":3803}
+{"timestamp":"2025-12-10T05:43:13.460Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:notebookcheck.net apple iphone se 4 review\"","elapsed":4301}
+{"timestamp":"2025-12-10T05:43:13.780Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":4621}
+{"timestamp":"2025-12-10T05:43:13.781Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for apple iphone se 4 notebookcheck_review with: \"site:notebookcheck.net apple iphone se 4 review...\"","elapsed":4622}
+{"timestamp":"2025-12-10T05:43:13.781Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":4623}
+{"timestamp":"2025-12-10T05:43:14.294Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 4/13 (2 tasks)","elapsed":5135}
+{"timestamp":"2025-12-10T05:43:14.463Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:androidcentral.com apple iphone se 4 review\"","elapsed":5304}
+{"timestamp":"2025-12-10T05:43:14.464Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:androidauthority.com apple iphone se 4 review\"","elapsed":5305}
+{"timestamp":"2025-12-10T05:43:14.704Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":5545}
+{"timestamp":"2025-12-10T05:43:14.704Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for apple iphone se 4 androidauthority_review with: \"site:androidauthority.com apple iphone se 4 review...\"","elapsed":5545}
+{"timestamp":"2025-12-10T05:43:14.704Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":5546}
+{"timestamp":"2025-12-10T05:43:14.705Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for apple iphone se 4 androidcentral_review with: \"site:androidcentral.com apple iphone se 4 review...\"","elapsed":5546}
+{"timestamp":"2025-12-10T05:43:14.705Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for apple iphone se 4: missing_phone_name (https://www.androidcentral.com/google-pixel-4-review-iphone-users-perspective)","elapsed":5546}
+{"timestamp":"2025-12-10T05:43:14.706Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":5547}
+{"timestamp":"2025-12-10T05:43:15.207Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 5/13 (2 tasks)","elapsed":6048}
+{"timestamp":"2025-12-10T05:43:15.477Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:gsmarena.com samsung galaxy z fold 7 specs -forum\"","elapsed":6318}
+{"timestamp":"2025-12-10T05:43:15.478Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:gsmarena.com samsung galaxy z fold 7 review -forum\"","elapsed":6320}
+{"timestamp":"2025-12-10T05:43:15.885Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":6726}
+{"timestamp":"2025-12-10T05:43:15.885Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z fold 7 gsmarena_specs with: \"site:gsmarena.com samsung galaxy z fold 7 specs -f...\"","elapsed":6727}
+{"timestamp":"2025-12-10T05:43:15.940Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z fold 7 gsmarena_review with: \"site:gsmarena.com samsung galaxy z fold 7 review -...\"","elapsed":6782}
+{"timestamp":"2025-12-10T05:43:15.940Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":6781}
+{"timestamp":"2025-12-10T05:43:15.941Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":6782}
+{"timestamp":"2025-12-10T05:43:16.446Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 6/13 (2 tasks)","elapsed":7287}
+{"timestamp":"2025-12-10T05:43:16.482Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:phonearena.com samsung galaxy z fold 7 review\"","elapsed":7323}
+{"timestamp":"2025-12-10T05:43:16.483Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:dxomark.com samsung galaxy z fold 7\"","elapsed":7324}
+{"timestamp":"2025-12-10T05:43:16.752Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":7594}
+{"timestamp":"2025-12-10T05:43:16.753Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z fold 7 phonearena_review with: \"site:phonearena.com samsung galaxy z fold 7 review...\"","elapsed":7594}
+{"timestamp":"2025-12-10T05:43:16.754Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for samsung galaxy z fold 7: invalid_pattern (https://www.phonearena.com/news/foldable-iphone-thrashes-galaxy-z-fold-7-where-it-matters_id175907)","elapsed":7595}
+{"timestamp":"2025-12-10T05:43:16.955Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":7796}
+{"timestamp":"2025-12-10T05:43:16.955Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z fold 7 dxomark_review with: \"site:dxomark.com samsung galaxy z fold 7...\"","elapsed":7796}
+{"timestamp":"2025-12-10T05:43:16.956Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":7797}
+{"timestamp":"2025-12-10T05:43:17.457Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 7/13 (2 tasks)","elapsed":8299}
+{"timestamp":"2025-12-10T05:43:17.490Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:tomsguide.com samsung galaxy z fold 7 review\"","elapsed":8331}
+{"timestamp":"2025-12-10T05:43:17.491Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:theverge.com samsung galaxy z fold 7 review\"","elapsed":8332}
+{"timestamp":"2025-12-10T05:43:17.961Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":8802}
+{"timestamp":"2025-12-10T05:43:17.961Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z fold 7 tomsguide_review with: \"site:tomsguide.com samsung galaxy z fold 7 review...\"","elapsed":8802}
+{"timestamp":"2025-12-10T05:43:17.961Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for samsung galaxy z fold 7: missing_phone_name (https://www.tomsguide.com/phones/samsung-phones/i-ditched-my-iphone-and-ipad-for-the-galaxy-z-fold-7-for-2-weeks-heres-what-happened)","elapsed":8802}
+{"timestamp":"2025-12-10T05:43:18.053Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":8894}
+{"timestamp":"2025-12-10T05:43:18.054Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z fold 7 theverge_review with: \"site:theverge.com samsung galaxy z fold 7 review...\"","elapsed":8895}
+{"timestamp":"2025-12-10T05:43:18.054Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for samsung galaxy z fold 7: missing_phone_name (https://www.theverge.com/mobile/708487/trifold-huawei-tecno-samsung-z-fold-7)","elapsed":8895}
+{"timestamp":"2025-12-10T05:43:18.568Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 8/13 (2 tasks)","elapsed":9409}
+{"timestamp":"2025-12-10T05:43:18.569Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:notebookcheck.net samsung galaxy z fold 7 review\"","elapsed":9410}
+{"timestamp":"2025-12-10T05:43:18.796Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":9637}
+{"timestamp":"2025-12-10T05:43:18.796Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z fold 7 notebookcheck_review with: \"site:notebookcheck.net samsung galaxy z fold 7 rev...\"","elapsed":9637}
+{"timestamp":"2025-12-10T05:43:18.796Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for samsung galaxy z fold 7: missing_phone_name (https://www.notebookcheck.net/Galaxy-Z-Fold-7-renders-show-off-thin-chassis-and-tweaked-design.1039892.0.html)","elapsed":9638}
+{"timestamp":"2025-12-10T05:43:19.574Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:androidcentral.com samsung galaxy z fold 7 review\"","elapsed":10415}
+{"timestamp":"2025-12-10T05:43:19.864Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":10705}
+{"timestamp":"2025-12-10T05:43:19.864Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z fold 7 androidcentral_review with: \"site:androidcentral.com samsung galaxy z fold 7 re...\"","elapsed":10705}
+{"timestamp":"2025-12-10T05:43:19.865Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for samsung galaxy z fold 7: missing_phone_name (https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-fold-7-camera-comparison)","elapsed":10706}
+{"timestamp":"2025-12-10T05:43:20.366Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 9/13 (2 tasks)","elapsed":11208}
+{"timestamp":"2025-12-10T05:43:20.586Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:tomsguide.com google pixel 10 review\"","elapsed":11427}
+{"timestamp":"2025-12-10T05:43:20.587Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:androidauthority.com google pixel 10 review\"","elapsed":11428}
+{"timestamp":"2025-12-10T05:43:20.823Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for google pixel 10 androidauthority_review with: \"site:androidauthority.com google pixel 10 review...\"","elapsed":11664}
+{"timestamp":"2025-12-10T05:43:20.823Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":11664}
+{"timestamp":"2025-12-10T05:43:20.824Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for google pixel 10: missing_phone_name (https://www.androidauthority.com/pixel-10-vs-pixel-10-pro-3602612/)","elapsed":11665}
+{"timestamp":"2025-12-10T05:43:20.828Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for google pixel 10 tomsguide_review with: \"site:tomsguide.com google pixel 10 review...\"","elapsed":11669}
+{"timestamp":"2025-12-10T05:43:20.827Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":11668}
+{"timestamp":"2025-12-10T05:43:20.828Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for google pixel 10: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)","elapsed":11669}
+{"timestamp":"2025-12-10T05:43:21.338Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 10/13 (2 tasks)","elapsed":12179}
+{"timestamp":"2025-12-10T05:43:21.595Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:gsmarena.com nothing phone 3 review -forum\"","elapsed":12436}
+{"timestamp":"2025-12-10T05:43:21.594Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:gsmarena.com nothing phone 3 specs -forum\"","elapsed":12435}
+{"timestamp":"2025-12-10T05:43:21.838Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":12679}
+{"timestamp":"2025-12-10T05:43:21.839Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for nothing phone 3 gsmarena_specs with: \"site:gsmarena.com nothing phone 3 specs -forum...\"","elapsed":12680}
+{"timestamp":"2025-12-10T05:43:21.840Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":12681}
+{"timestamp":"2025-12-10T05:43:21.840Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for nothing phone 3 gsmarena_review with: \"site:gsmarena.com nothing phone 3 review -forum...\"","elapsed":12681}
+{"timestamp":"2025-12-10T05:43:21.841Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":12682}
+{"timestamp":"2025-12-10T05:43:22.346Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 11/13 (2 tasks)","elapsed":13187}
+{"timestamp":"2025-12-10T05:43:22.606Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:phonearena.com nothing phone 3 review\"","elapsed":13448}
+{"timestamp":"2025-12-10T05:43:22.608Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:dxomark.com nothing phone 3\"","elapsed":13449}
+{"timestamp":"2025-12-10T05:43:22.896Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":13738}
+{"timestamp":"2025-12-10T05:43:22.897Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for nothing phone 3 phonearena_review with: \"site:phonearena.com nothing phone 3 review...\"","elapsed":13738}
+{"timestamp":"2025-12-10T05:43:22.898Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":13739}
+{"timestamp":"2025-12-10T05:43:22.899Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for nothing phone 3 dxomark_review with: \"site:dxomark.com nothing phone 3...\"","elapsed":13740}
+{"timestamp":"2025-12-10T05:43:22.900Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":13741}
+{"timestamp":"2025-12-10T05:43:23.405Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 12/13 (2 tasks)","elapsed":14246}
+{"timestamp":"2025-12-10T05:43:23.609Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:tomsguide.com nothing phone 3 review\"","elapsed":14450}
+{"timestamp":"2025-12-10T05:43:23.610Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:theverge.com nothing phone 3 review\"","elapsed":14451}
+{"timestamp":"2025-12-10T05:43:23.918Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":14760}
+{"timestamp":"2025-12-10T05:43:23.919Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for nothing phone 3: invalid_pattern (https://www.theverge.com/news/695788/nothing-phone-3-launch-news-specs-price)","elapsed":14760}
+{"timestamp":"2025-12-10T05:43:23.919Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for nothing phone 3 theverge_review with: \"site:theverge.com nothing phone 3 review...\"","elapsed":14760}
+{"timestamp":"2025-12-10T05:43:24.123Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":14964}
+{"timestamp":"2025-12-10T05:43:24.123Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for nothing phone 3 tomsguide_review with: \"site:tomsguide.com nothing phone 3 review...\"","elapsed":14964}
+{"timestamp":"2025-12-10T05:43:24.124Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":14965}
+{"timestamp":"2025-12-10T05:43:24.636Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 13/13 (1 tasks)","elapsed":15478}
+{"timestamp":"2025-12-10T05:43:24.637Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:notebookcheck.net nothing phone 3 review\"","elapsed":15478}
+{"timestamp":"2025-12-10T05:43:24.938Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":15779}
+{"timestamp":"2025-12-10T05:43:24.939Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for nothing phone 3 notebookcheck_review with: \"site:notebookcheck.net nothing phone 3 review...\"","elapsed":15780}
+{"timestamp":"2025-12-10T05:43:24.940Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":15781}
+{"timestamp":"2025-12-10T05:43:24.940Z","level":"INFO","phase":"PHASE 1","msg":"Discovery Summary","meta":{"tasksProcessed":25,"successful":13,"zeroResults":12,"errors":0,"urlsFound":13},"elapsed":15781}
+{"timestamp":"2025-12-10T05:43:24.941Z","level":"INFO","phase":"PHASE 2","msg":"Starting Archive Discovery (Optimized Search Patterns)","elapsed":15782}
+{"timestamp":"2025-12-10T05:44:01.172Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":52014}
+{"timestamp":"2025-12-10T05:44:39.601Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":90442}
+{"timestamp":"2025-12-10T05:44:39.602Z","level":"INFO","phase":"PHASE 2","msg":"Already tried today, skipping","elapsed":90443}
+{"timestamp":"2025-12-10T05:44:39.603Z","level":"INFO","phase":"PHASE 2","msg":"Skipping archive search for: https://www.gsmarena.com/compare.php3?idPhone1=3275&idPhone2...(unarchivable pattern)","elapsed":90444}
+{"timestamp":"2025-12-10T05:44:41.127Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":91968}
+{"timestamp":"2025-12-10T05:44:42.254Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 17 snapshots","elapsed":93095}
+{"timestamp":"2025-12-10T05:44:44.388Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 18 snapshots","elapsed":95229}
+{"timestamp":"2025-12-10T05:44:45.231Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 6 snapshots","elapsed":96072}
+{"timestamp":"2025-12-10T05:44:48.091Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":98932}
+{"timestamp":"2025-12-10T05:44:49.831Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 6 snapshots","elapsed":100672}
+{"timestamp":"2025-12-10T05:44:56.293Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":107134}
+{"timestamp":"2025-12-10T05:44:56.293Z","level":"INFO","phase":"PHASE 2","msg":"Already tried today, skipping","elapsed":107134}
+{"timestamp":"2025-12-10T05:45:04.439Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":115280}
+{"timestamp":"2025-12-10T05:45:06.064Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 9 snapshots","elapsed":116905}
+{"timestamp":"2025-12-10T05:45:07.752Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 2 snapshots","elapsed":118593}
+{"timestamp":"2025-12-10T05:45:09.698Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":120539}
+{"timestamp":"2025-12-10T05:45:11.392Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 6 snapshots","elapsed":122233}
+{"timestamp":"2025-12-10T05:45:16.866Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":127707}
+{"timestamp":"2025-12-10T05:45:31.611Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 13 snapshots","elapsed":142452}
+{"timestamp":"2025-12-10T05:45:32.022Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 10 snapshots","elapsed":142863}
+{"timestamp":"2025-12-10T05:46:34.684Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 10 snapshots","elapsed":205525}
+{"timestamp":"2025-12-10T05:47:23.444Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":254285}
+{"timestamp":"2025-12-10T05:47:37.772Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":268613}
+{"timestamp":"2025-12-10T05:47:45.869Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 3 snapshots","elapsed":276710}
+{"timestamp":"2025-12-10T05:47:52.640Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 7 snapshots","elapsed":283481}
+{"timestamp":"2025-12-10T05:47:54.257Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":285098}
+{"timestamp":"2025-12-10T05:47:56.379Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":287221}
+{"timestamp":"2025-12-10T05:48:03.013Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 2 snapshots","elapsed":293854}
+{"timestamp":"2025-12-10T05:48:03.944Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 4 snapshots","elapsed":294785}
+{"timestamp":"2025-12-10T05:48:10.437Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":301278}
+{"timestamp":"2025-12-10T05:48:33.272Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":324113}
+{"timestamp":"2025-12-10T05:48:38.494Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":329336}
+{"timestamp":"2025-12-10T05:48:45.048Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 13 snapshots","elapsed":335890}
+{"timestamp":"2025-12-10T05:49:10.648Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 4 snapshots","elapsed":361490}
+{"timestamp":"2025-12-10T05:49:21.913Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":372754}
+{"timestamp":"2025-12-10T05:49:22.732Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 3 snapshots","elapsed":373573}
+{"timestamp":"2025-12-10T05:49:24.066Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 8 snapshots","elapsed":374907}
+{"timestamp":"2025-12-10T05:49:25.907Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":376748}
+{"timestamp":"2025-12-10T05:49:25.908Z","level":"INFO","phase":"PHASE 3","msg":"Starting Content Scraping (Smart Caching, Limit: 2)","elapsed":376749}
+{"timestamp":"2025-12-10T05:49:25.909Z","level":"INFO","phase":"PHASE 3","msg":"Queued 67 scraping tasks","elapsed":376750}
+{"timestamp":"2025-12-10T05:49:25.910Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 1_gsmarena_specs.txt - already exists","elapsed":376751}
+{"timestamp":"2025-12-10T05:49:25.910Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 2_gsmarena_review.txt - already exists","elapsed":376751}
+{"timestamp":"2025-12-10T05:49:25.911Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 3_phonearena_review.txt - already exists","elapsed":376752}
+{"timestamp":"2025-12-10T05:49:25.911Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 4_dxomark_review.txt - already exists","elapsed":376752}
+{"timestamp":"2025-12-10T05:49:25.911Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 5_tomsguide_review.txt - already exists","elapsed":376753}
+{"timestamp":"2025-12-10T05:49:25.912Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 6_techradar_review.txt - already exists","elapsed":376753}
+{"timestamp":"2025-12-10T05:49:25.913Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 8_notebookcheck_review.txt - already exists","elapsed":376754}
+{"timestamp":"2025-12-10T05:49:25.913Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 10_androidauthority_review.txt - already exists","elapsed":376754}
+{"timestamp":"2025-12-10T05:49:25.913Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 9_androidcentral_review.txt - already exists","elapsed":376754}
+{"timestamp":"2025-12-10T05:49:25.914Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 1_gsmarena_specs.txt - already exists","elapsed":376755}
+{"timestamp":"2025-12-10T05:49:25.914Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 2_gsmarena_review.txt - already exists","elapsed":376755}
+{"timestamp":"2025-12-10T05:49:25.915Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 3_phonearena_review.txt - already exists","elapsed":376756}
+{"timestamp":"2025-12-10T05:49:25.915Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 5_tomsguide_review.txt - already exists","elapsed":376756}
+{"timestamp":"2025-12-10T05:49:25.916Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 6_techradar_review.txt - already exists","elapsed":376757}
+{"timestamp":"2025-12-10T05:49:25.916Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 7_theverge_review.txt - already exists","elapsed":376757}
+{"timestamp":"2025-12-10T05:49:25.916Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 9_androidcentral_review.txt - already exists","elapsed":376757}
+{"timestamp":"2025-12-10T05:49:25.917Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 10_androidauthority_review.txt - already exists","elapsed":376758}
+{"timestamp":"2025-12-10T05:49:25.917Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 4_dxomark_review.txt - already exists","elapsed":376758}
+{"timestamp":"2025-12-10T05:49:25.917Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] No archive URLs, trying progressive fallback","elapsed":376758}
+{"timestamp":"2025-12-10T05:49:25.917Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone se 4] No archive URLs, trying progressive fallback","elapsed":376758}
+{"timestamp":"2025-12-10T05:49:28.673Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone se 4] Skipping 1_gsmarena_specs.txt - already exists","elapsed":379514}
+{"timestamp":"2025-12-10T05:49:28.674Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone se 4] Skipping 1_gsmarena_specs.txt - already exists","elapsed":379515}
+{"timestamp":"2025-12-10T05:49:28.675Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone se 4] Already tried today, skipping","elapsed":379516}
+{"timestamp":"2025-12-10T05:49:30.966Z","level":"SUCCESS","phase":"PHASE 3","msg":"[apple iphone se 4] Saved 4_dxomark_review.txt (4038 chars)","elapsed":381807}
+{"timestamp":"2025-12-10T05:49:48.235Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 1_gsmarena_specs.txt - already exists","elapsed":399076}
+{"timestamp":"2025-12-10T05:49:48.236Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 2_gsmarena_review.txt - already exists","elapsed":399077}
+{"timestamp":"2025-12-10T05:49:48.236Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 3_phonearena_review.txt - already exists","elapsed":399077}
+{"timestamp":"2025-12-10T05:49:48.237Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 4_dxomark_review.txt - already exists","elapsed":399078}
+{"timestamp":"2025-12-10T05:49:48.237Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 5_tomsguide_review.txt - already exists","elapsed":399078}
+{"timestamp":"2025-12-10T05:49:48.238Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 6_techradar_review.txt - already exists","elapsed":399079}
+{"timestamp":"2025-12-10T05:49:48.238Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 8_notebookcheck_review.txt - already exists","elapsed":399079}
+{"timestamp":"2025-12-10T05:49:48.238Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 9_androidcentral_review.txt - already exists","elapsed":399079}
+{"timestamp":"2025-12-10T05:49:48.239Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] No archive URLs, trying progressive fallback","elapsed":399080}
+{"timestamp":"2025-12-10T05:49:59.959Z","level":"SUCCESS","phase":"PHASE 3","msg":"[samsung galaxy z fold 7] Saved 1_gsmarena_specs.txt (3406 chars)","elapsed":410800}
+{"timestamp":"2025-12-10T05:49:59.959Z","level":"INFO","phase":"HERO_IMAGE","msg":"Starting hero image extraction...","elapsed":410800}
+{"timestamp":"2025-12-10T05:49:59.970Z","level":"INFO","phase":"HERO_IMAGE","msg":"Found image src: https://web.archive.org/web/20251202081222im_/https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold7.jpg","elapsed":410811}
+{"timestamp":"2025-12-10T05:49:59.969Z","level":"INFO","phase":"HERO_IMAGE","msg":"Loaded HTML, looking for image selectors...","elapsed":410810}
+{"timestamp":"2025-12-10T05:49:59.970Z","level":"INFO","phase":"HERO_IMAGE","msg":"Final image URL: https://web.archive.org/web/20251202081222im_/https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold7.jpg","elapsed":410811}
+{"timestamp":"2025-12-10T05:49:59.970Z","level":"INFO","phase":"HERO_IMAGE","msg":"Downloading image binary data...","elapsed":410811}
+{"timestamp":"2025-12-10T05:50:02.224Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"Downloaded 8942 bytes in 2253ms","elapsed":413065}
+{"timestamp":"2025-12-10T05:50:02.224Z","level":"INFO","phase":"HERO_IMAGE","msg":"Original dir: data\\content\\samsung_galaxy_z_fold_7","elapsed":413065}
+{"timestamp":"2025-12-10T05:50:02.225Z","level":"INFO","phase":"HERO_IMAGE","msg":"Target processed dir: data\\content\\samsung_galaxy_z_fold_7","elapsed":413066}
+{"timestamp":"2025-12-10T05:50:02.225Z","level":"INFO","phase":"HERO_IMAGE","msg":"Creating directory structure...","elapsed":413066}
+{"timestamp":"2025-12-10T05:50:02.225Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"Directory created successfully","elapsed":413067}
+{"timestamp":"2025-12-10T05:50:02.226Z","level":"INFO","phase":"HERO_IMAGE","msg":"Writing image to: data\\content\\samsung_galaxy_z_fold_7\\hero_1.jpg","elapsed":413067}
+{"timestamp":"2025-12-10T05:50:02.226Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"Image saved successfully to data\\content\\samsung_galaxy_z_fold_7\\hero_1.jpg","elapsed":413067}
+{"timestamp":"2025-12-10T05:50:02.227Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"✅ File exists, size: 8942 bytes","elapsed":413068}
+{"timestamp":"2025-12-10T05:50:10.684Z","level":"SUCCESS","phase":"PHASE 3","msg":"[samsung galaxy z fold 7] Saved 4_dxomark_review.txt (1633 chars)","elapsed":421525}
+{"timestamp":"2025-12-10T05:50:10.685Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy z fold 7] Skipping 6_techradar_review.txt - already exists","elapsed":421526}
+{"timestamp":"2025-12-10T05:50:10.685Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy z fold 7] Skipping 10_androidauthority_review.txt - already exists","elapsed":421526}
+{"timestamp":"2025-12-10T05:50:10.686Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 1_gsmarena_specs.txt - already exists","elapsed":421527}
+{"timestamp":"2025-12-10T05:50:10.687Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 2_gsmarena_review.txt - already exists","elapsed":421528}
+{"timestamp":"2025-12-10T05:50:10.687Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 3_phonearena_review.txt - already exists","elapsed":421528}
+{"timestamp":"2025-12-10T05:50:10.687Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 4_dxomark_review.txt - already exists","elapsed":421528}
+{"timestamp":"2025-12-10T05:50:10.687Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 5_tomsguide_review.txt - already exists","elapsed":421528}
+{"timestamp":"2025-12-10T05:50:10.688Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 6_techradar_review.txt - already exists","elapsed":421529}
+{"timestamp":"2025-12-10T05:50:10.688Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Already tried today, skipping","elapsed":421529}
+{"timestamp":"2025-12-10T05:50:10.688Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 8_notebookcheck_review.txt - already exists","elapsed":421529}
+{"timestamp":"2025-12-10T05:50:10.688Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 9_androidcentral_review.txt - already exists","elapsed":421529}
+{"timestamp":"2025-12-10T05:50:10.689Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 10_androidauthority_review.txt - already exists","elapsed":421530}
+{"timestamp":"2025-12-10T05:50:10.689Z","level":"INFO","phase":"PHASE 3","msg":"[google pixel 10] Already tried today, skipping","elapsed":421530}
+{"timestamp":"2025-12-10T05:50:10.689Z","level":"INFO","phase":"PHASE 3","msg":"[google pixel 10] Already tried today, skipping","elapsed":421530}
+{"timestamp":"2025-12-10T05:50:10.689Z","level":"INFO","phase":"PHASE 3","msg":"[google pixel 10] Skipping 3_phonearena_review.txt - already exists","elapsed":421530}
+{"timestamp":"2025-12-10T05:50:10.689Z","level":"INFO","phase":"PHASE 3","msg":"[google pixel 10] Skipping 4_dxomark_review.txt - already exists","elapsed":421530}
+{"timestamp":"2025-12-10T05:50:10.690Z","level":"INFO","phase":"PHASE 3","msg":"[google pixel 10] Skipping 6_techradar_review.txt - already exists","elapsed":421531}
+{"timestamp":"2025-12-10T05:50:10.690Z","level":"INFO","phase":"PHASE 3","msg":"[google pixel 10] Already tried today, skipping","elapsed":421531}
+{"timestamp":"2025-12-10T05:50:10.690Z","level":"INFO","phase":"PHASE 3","msg":"[google pixel 10] Skipping 8_notebookcheck_review.txt - already exists","elapsed":421531}
+{"timestamp":"2025-12-10T05:50:10.690Z","level":"INFO","phase":"PHASE 3","msg":"[google pixel 10] Already tried today, skipping","elapsed":421531}
+{"timestamp":"2025-12-10T05:50:14.778Z","level":"SUCCESS","phase":"PHASE 3","msg":"[nothing phone 3] Saved 3_phonearena_review.txt (20897 chars)","elapsed":425619}
+{"timestamp":"2025-12-10T05:50:17.293Z","level":"SUCCESS","phase":"PHASE 3","msg":"[nothing phone 3] Saved 4_dxomark_review.txt (3425 chars)","elapsed":428134}
+{"timestamp":"2025-12-10T05:50:20.031Z","level":"SUCCESS","phase":"PHASE 3","msg":"[nothing phone 3] Saved 5_tomsguide_review.txt (11493 chars)","elapsed":430872}
+{"timestamp":"2025-12-10T05:50:20.031Z","level":"INFO","phase":"PHASE 3","msg":"[nothing phone 3] Already tried today, skipping","elapsed":430872}
+{"timestamp":"2025-12-10T05:50:22.334Z","level":"INFO","phase":"PHASE 3","msg":"[nothing phone 3] Already tried today, skipping","elapsed":433175}
+{"timestamp":"2025-12-10T05:50:22.335Z","level":"INFO","phase":"PHASE 3","msg":"[nothing phone 3] Skipping 10_androidauthority_review.txt - already exists","elapsed":433176}
+{"timestamp":"2025-12-10T05:50:23.750Z","level":"SUCCESS","phase":"PHASE 3","msg":"[nothing phone 3] Saved 8_notebookcheck_review.txt (65035 chars)","elapsed":434591}
+{"timestamp":"2025-12-10T05:50:23.752Z","level":"SUCCESS","phase":"PIPELINE","msg":"Discovery Complete","elapsed":434593}
+{"timestamp":"2025-12-10T05:50:23.752Z","level":"INFO","phase":"TELEMETRY","msg":"Session Summary","meta":{"cseCalls":25,"archiveHits":42,"scrapeSuccess":7,"scrapeFailure":0,"heroDownloads":1,"heroSkipped":0,"heroFailed":0,"urlRejected":12,"startTime":1765345389159},"elapsed":434593}

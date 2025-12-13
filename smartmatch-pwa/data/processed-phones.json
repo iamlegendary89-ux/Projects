@@ -1,0 +1,271 @@
+{
+  "phones": {
+    "apple_iphone_15_pro": {
+      "phoneId": "apple_iphone_15_pro",
+      "brand": "apple",
+      "model": "iphone 15 pro",
+      "lastProcessedAt": "2025-12-09T06:18:21.570Z",
+      "enrichmentStatus": "completed",
+      "factsVersion": "v7-Final",
+      "filename": "apple_iphone_15_pro.json",
+      "processingStats": {
+        "totalUrlsProcessed": 8,
+        "reviewSources": [
+          "Android Authority",
+          "GSMArena",
+          "PhoneArena",
+          "DXOMark",
+          "Tom's Guide",
+          "TechRadar",
+          "NotebookCheck",
+          "Android Central"
+        ],
+        "processingTimeMs": 134431
+      },
+      "qualityMetrics": {
+        "confidence": 0.999,
+        "overallScore": 8.23,
+        "category": "flagship"
+      }
+    },
+    "apple_iphone_17_pro_max": {
+      "phoneId": "apple_iphone_17_pro_max",
+      "brand": "apple",
+      "model": "iphone 17 pro max",
+      "lastProcessedAt": "2025-12-09T20:29:14.168Z",
+      "enrichmentStatus": "completed",
+      "factsVersion": "v7-Final",
+      "filename": "apple_iphone_17_pro_max.json",
+      "processingStats": {
+        "totalUrlsProcessed": 9,
+        "reviewSources": [
+          "Androidauthority",
+          "GSMArena",
+          "Gsmarena",
+          "Phonearena",
+          "Dxomark",
+          "Tomsguide",
+          "Techradar",
+          "Theverge",
+          "Androidcentral"
+        ],
+        "processingTimeMs": 68567
+      },
+      "qualityMetrics": {
+        "confidence": 0.999,
+        "overallScore": 8.89,
+        "category": "flagship"
+      }
+    },
+    "samsung_galaxy_s25": {
+      "phoneId": "samsung_galaxy_s25",
+      "brand": "samsung",
+      "model": "galaxy s25",
+      "lastProcessedAt": "2025-12-09T20:29:10.110Z",
+      "enrichmentStatus": "completed",
+      "factsVersion": "v7-Final",
+      "filename": "samsung_galaxy_s25.json",
+      "processingStats": {
+        "totalUrlsProcessed": 8,
+        "reviewSources": [
+          "GSMArena",
+          "Gsmarena",
+          "Phonearena",
+          "Dxomark",
+          "Tomsguide",
+          "Techradar",
+          "Notebookcheck Net",
+          "Androidcentral"
+        ],
+        "processingTimeMs": 64509
+      },
+      "qualityMetrics": {
+        "confidence": 0.999,
+        "overallScore": 8.16,
+        "category": "flagship"
+      }
+    },
+    "oneplus_13": {
+      "phoneId": "oneplus_13",
+      "brand": "oneplus",
+      "model": "13",
+      "lastProcessedAt": "2025-12-09T20:52:26.063Z",
+      "enrichmentStatus": "completed",
+      "factsVersion": "v7-Final",
+      "filename": "oneplus_13.json",
+      "processingStats": {
+        "totalUrlsProcessed": 9,
+        "reviewSources": [
+          "Android Authority",
+          "GSMArena (Specs)",
+          "GSMArena",
+          "Phonearena",
+          "DXOMark",
+          "Tomsguide",
+          "Techradar",
+          "Notebookcheck Net",
+          "Androidcentral"
+        ],
+        "processingTimeMs": 85100
+      },
+      "qualityMetrics": {
+        "confidence": 0.999,
+        "overallScore": 8.91,
+        "category": "flagship"
+      }
+    },
+    "samsung_galaxy_z_fold_7": {
+      "phoneId": "samsung_galaxy_z_fold_7",
+      "brand": "samsung",
+      "model": "galaxy z fold 7",
+      "lastProcessedAt": "2025-12-10T02:09:17.594Z",
+      "enrichmentStatus": "completed",
+      "factsVersion": "v7-Final",
+      "filename": "samsung_galaxy_z_fold_7.json",
+      "processingStats": {
+        "totalUrlsProcessed": 2,
+        "reviewSources": [
+          "Android Authority",
+          "TechRadar"
+        ],
+        "processingTimeMs": 43839
+      },
+      "qualityMetrics": {
+        "confidence": 0.9708,
+        "overallScore": 8.94,
+        "category": "flagship"
+      }
+    },
+    "apple_iphone_se_4": {
+      "phoneId": "apple_iphone_se_4",
+      "brand": "apple",
+      "model": "iphone se 4",
+      "lastProcessedAt": "2025-12-10T02:09:54.283Z",
+      "enrichmentStatus": "completed",
+      "factsVersion": "v7-Final",
+      "filename": "apple_iphone_se_4.json",
+      "processingStats": {
+        "totalUrlsProcessed": 1,
+        "reviewSources": [
+          "GSMArena (Specs)"
+        ],
+        "processingTimeMs": 36686
+      },
+      "qualityMetrics": {
+        "confidence": 0.9544285714285714,
+        "overallScore": 6.37,
+        "category": "upper_midrange"
+      }
+    },
+    "honor_magic_7_pro": {
+      "phoneId": "honor_magic_7_pro",
+      "brand": "honor",
+      "model": "magic 7 pro",
+      "lastProcessedAt": "2025-12-12T02:22:12.820Z",
+      "enrichmentStatus": "completed",
+      "factsVersion": "v7-Final",
+      "filename": "honor_magic_7_pro.json",
+      "processingStats": {
+        "totalUrlsProcessed": 9,
+        "reviewSources": [
+          "Android Authority",
+          "GSMArena",
+          "PhoneArena",
+          "DXOMark",
+          "Tom's Guide",
+          "TechRadar",
+          "The Verge",
+          "NotebookCheck",
+          "Android Central"
+        ],
+        "processingTimeMs": 92940
+      },
+      "qualityMetrics": {
+        "confidence": 0.999,
+        "overallScore": 8.6,
+        "category": "flagship"
+      }
+    },
+    "samsung_galaxy_z_flip_7": {
+      "phoneId": "samsung_galaxy_z_flip_7",
+      "brand": "samsung",
+      "model": "galaxy z flip 7",
+      "lastProcessedAt": "2025-12-12T02:22:48.478Z",
+      "enrichmentStatus": "completed",
+      "factsVersion": "v7-Final",
+      "filename": "samsung_galaxy_z_flip_7.json",
+      "processingStats": {
+        "totalUrlsProcessed": 9,
+        "reviewSources": [
+          "Android Authority",
+          "GSMArena",
+          "PhoneArena",
+          "DXOMark",
+          "Tom's Guide",
+          "TechRadar",
+          "The Verge",
+          "NotebookCheck",
+          "Android Central"
+        ],
+        "processingTimeMs": 128599
+      },
+      "qualityMetrics": {
+        "confidence": 0.999,
+        "overallScore": 7.34,
+        "category": "premium"
+      }
+    },
+    "nothing_phone_3": {
+      "phoneId": "nothing_phone_3",
+      "brand": "nothing",
+      "model": "phone 3",
+      "lastProcessedAt": "2025-12-12T02:24:02.675Z",
+      "enrichmentStatus": "completed",
+      "factsVersion": "v7-Final",
+      "filename": "nothing_phone_3.json",
+      "processingStats": {
+        "totalUrlsProcessed": 5,
+        "reviewSources": [
+          "Android Authority",
+          "PhoneArena",
+          "DXOMark",
+          "Tom's Guide",
+          "NotebookCheck"
+        ],
+        "processingTimeMs": 109853
+      },
+      "qualityMetrics": {
+        "confidence": 0.879,
+        "overallScore": 7.71,
+        "category": "flagship"
+      }
+    },
+    "google_pixel_10": {
+      "phoneId": "google_pixel_10",
+      "brand": "google",
+      "model": "pixel 10",
+      "lastProcessedAt": "2025-12-12T02:24:06.567Z",
+      "enrichmentStatus": "completed",
+      "factsVersion": "v7-Final",
+      "filename": "google_pixel_10.json",
+      "processingStats": {
+        "totalUrlsProcessed": 4,
+        "reviewSources": [
+          "PhoneArena",
+          "DXOMark",
+          "TechRadar",
+          "NotebookCheck"
+        ],
+        "processingTimeMs": 78087
+      },
+      "qualityMetrics": {
+        "confidence": 0.879,
+        "overallScore": 8.18,
+        "category": "flagship"
+      }
+    }
+  },
+  "metadata": {
+    "totalProcessedPhones": 10
+  }
+}

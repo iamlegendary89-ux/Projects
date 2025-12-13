@@ -1,0 +1,455 @@
+{
+  "targetName": "cleanWhitespace",
+  "targetType": "function",
+  "runAt": "2025-12-09T09:18:34.446Z",
+  "totalTestCases": 8,
+  "variants": [
+    {
+      "variant": "v0-original",
+      "file": "variants\\cleanWhitespace\\v0-original.ts",
+      "passed": 0,
+      "failed": 0,
+      "errors": [
+        "No function \"cleanWhitespace\" exported"
+      ],
+      "metrics": {
+        "avgDurationMs": 0,
+        "maxDurationMs": 0,
+        "memoryKB": 0
+      },
+      "testResults": []
+    },
+    {
+      "variant": "v1",
+      "file": "variants\\cleanWhitespace\\v1.ts",
+      "passed": 6,
+      "failed": 2,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.0023825000000005756,
+        "maxDurationMs": 0.01325000000000216,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "simple-spaces",
+          "passed": true,
+          "expected": "hello world",
+          "actual": "hello world",
+          "metrics": {
+            "durationMs": 0.01325000000000216
+          }
+        },
+        {
+          "testId": "tabs-to-space",
+          "passed": true,
+          "expected": "hello world",
+          "actual": "hello world",
+          "metrics": {
+            "durationMs": 0.0007100000000036744
+          }
+        },
+        {
+          "testId": "mixed-whitespace",
+          "passed": true,
+          "expected": "hello world",
+          "actual": "hello world",
+          "metrics": {
+            "durationMs": 0.0009699999999980946
+          }
+        },
+        {
+          "testId": "multiline-trim",
+          "passed": true,
+          "expected": "line1\nline2",
+          "actual": "line1\nline2",
+          "metrics": {
+            "durationMs": 0.001599999999996271
+          }
+        },
+        {
+          "testId": "collapse-newlines",
+          "passed": false,
+          "expected": "hello\n\nworld",
+          "actual": "helloworld",
+          "metrics": {
+            "durationMs": 0.0008000000000009777
+          }
+        },
+        {
+          "testId": "preserve-double-newline",
+          "passed": false,
+          "expected": "hello\n\nworld",
+          "actual": "helloworld",
+          "metrics": {
+            "durationMs": 0.00048000000000456564
+          }
+        },
+        {
+          "testId": "empty-string",
+          "passed": true,
+          "expected": "",
+          "actual": "",
+          "metrics": {
+            "durationMs": 0.0007000000000005002
+          }
+        },
+        {
+          "testId": "only-whitespace",
+          "passed": true,
+          "expected": "",
+          "actual": "",
+          "metrics": {
+            "durationMs": 0.0005499999999983629
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v2",
+      "file": "variants\\cleanWhitespace\\v2.ts",
+      "passed": 6,
+      "failed": 2,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.0007262499999999507,
+        "maxDurationMs": 0.0021800000000041565,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "simple-spaces",
+          "passed": true,
+          "expected": "hello world",
+          "actual": "hello world",
+          "metrics": {
+            "durationMs": 0.0021800000000041565
+          }
+        },
+        {
+          "testId": "tabs-to-space",
+          "passed": true,
+          "expected": "hello world",
+          "actual": "hello world",
+          "metrics": {
+            "durationMs": 0.0004199999999997317
+          }
+        },
+        {
+          "testId": "mixed-whitespace",
+          "passed": true,
+          "expected": "hello world",
+          "actual": "hello world",
+          "metrics": {
+            "durationMs": 0.0007599999999996498
+          }
+        },
+        {
+          "testId": "multiline-trim",
+          "passed": true,
+          "expected": "line1\nline2",
+          "actual": "line1\nline2",
+          "metrics": {
+            "durationMs": 0.0006899999999973261
+          }
+        },
+        {
+          "testId": "collapse-newlines",
+          "passed": false,
+          "expected": "hello\n\nworld",
+          "actual": "helloworld",
+          "metrics": {
+            "durationMs": 0.0004400000000032378
+          }
+        },
+        {
+          "testId": "preserve-double-newline",
+          "passed": false,
+          "expected": "hello\n\nworld",
+          "actual": "helloworld",
+          "metrics": {
+            "durationMs": 0.00037999999999840386
+          }
+        },
+        {
+          "testId": "empty-string",
+          "passed": true,
+          "expected": "",
+          "actual": "",
+          "metrics": {
+            "durationMs": 0.0004899999999963712
+          }
+        },
+        {
+          "testId": "only-whitespace",
+          "passed": true,
+          "expected": "",
+          "actual": "",
+          "metrics": {
+            "durationMs": 0.0004500000000007276
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v3",
+      "file": "variants\\cleanWhitespace\\v3.ts",
+      "passed": 8,
+      "failed": 0,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.0012099999999996669,
+        "maxDurationMs": 0.004050000000000864,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "simple-spaces",
+          "passed": true,
+          "expected": "hello world",
+          "actual": "hello world",
+          "metrics": {
+            "durationMs": 0.004050000000000864
+          }
+        },
+        {
+          "testId": "tabs-to-space",
+          "passed": true,
+          "expected": "hello world",
+          "actual": "hello world",
+          "metrics": {
+            "durationMs": 0.0006100000000003547
+          }
+        },
+        {
+          "testId": "mixed-whitespace",
+          "passed": true,
+          "expected": "hello world",
+          "actual": "hello world",
+          "metrics": {
+            "durationMs": 0.000770000000002824
+          }
+        },
+        {
+          "testId": "multiline-trim",
+          "passed": true,
+          "expected": "line1\nline2",
+          "actual": "line1\nline2",
+          "metrics": {
+            "durationMs": 0.0008199999999959573
+          }
+        },
+        {
+          "testId": "collapse-newlines",
+          "passed": true,
+          "expected": "hello\n\nworld",
+          "actual": "hello\n\nworld",
+          "metrics": {
+            "durationMs": 0.0012099999999975353
+          }
+        },
+        {
+          "testId": "preserve-double-newline",
+          "passed": true,
+          "expected": "hello\n\nworld",
+          "actual": "hello\n\nworld",
+          "metrics": {
+            "durationMs": 0.0006900000000001682
+          }
+        },
+        {
+          "testId": "empty-string",
+          "passed": true,
+          "expected": "",
+          "actual": "",
+          "metrics": {
+            "durationMs": 0.0007199999999954798
+          }
+        },
+        {
+          "testId": "only-whitespace",
+          "passed": true,
+          "expected": "",
+          "actual": "",
+          "metrics": {
+            "durationMs": 0.0008100000000041518
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v4",
+      "file": "variants\\cleanWhitespace\\v4.ts",
+      "passed": 8,
+      "failed": 0,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.0017312500000016939,
+        "maxDurationMs": 0.01026000000000522,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "simple-spaces",
+          "passed": true,
+          "expected": "hello world",
+          "actual": "hello world",
+          "metrics": {
+            "durationMs": 0.01026000000000522
+          }
+        },
+        {
+          "testId": "tabs-to-space",
+          "passed": true,
+          "expected": "hello world",
+          "actual": "hello world",
+          "metrics": {
+            "durationMs": 0.00043999999999755346
+          }
+        },
+        {
+          "testId": "mixed-whitespace",
+          "passed": true,
+          "expected": "hello world",
+          "actual": "hello world",
+          "metrics": {
+            "durationMs": 0.0006699999999995043
+          }
+        },
+        {
+          "testId": "multiline-trim",
+          "passed": true,
+          "expected": "line1\nline2",
+          "actual": "line1\nline2",
+          "metrics": {
+            "durationMs": 0.0006400000000041928
+          }
+        },
+        {
+          "testId": "collapse-newlines",
+          "passed": true,
+          "expected": "hello\n\nworld",
+          "actual": "hello\n\nworld",
+          "metrics": {
+            "durationMs": 0.00039999999999906777
+          }
+        },
+        {
+          "testId": "preserve-double-newline",
+          "passed": true,
+          "expected": "hello\n\nworld",
+          "actual": "hello\n\nworld",
+          "metrics": {
+            "durationMs": 0.0003000000000042746
+          }
+        },
+        {
+          "testId": "empty-string",
+          "passed": true,
+          "expected": "",
+          "actual": "",
+          "metrics": {
+            "durationMs": 0.0006800000000026785
+          }
+        },
+        {
+          "testId": "only-whitespace",
+          "passed": true,
+          "expected": "",
+          "actual": "",
+          "metrics": {
+            "durationMs": 0.00046000000000105955
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v5",
+      "file": "variants\\cleanWhitespace\\v5.ts",
+      "passed": 6,
+      "failed": 2,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.0008999999999996788,
+        "maxDurationMs": 0.003639999999998622,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "simple-spaces",
+          "passed": true,
+          "expected": "hello world",
+          "actual": "hello world",
+          "metrics": {
+            "durationMs": 0.003639999999998622
+          }
+        },
+        {
+          "testId": "tabs-to-space",
+          "passed": true,
+          "expected": "hello world",
+          "actual": "hello world",
+          "metrics": {
+            "durationMs": 0.0005000000000023874
+          }
+        },
+        {
+          "testId": "mixed-whitespace",
+          "passed": true,
+          "expected": "hello world",
+          "actual": "hello world",
+          "metrics": {
+            "durationMs": 0.0008700000000004593
+          }
+        },
+        {
+          "testId": "multiline-trim",
+          "passed": true,
+          "expected": "line1\nline2",
+          "actual": "line1\nline2",
+          "metrics": {
+            "durationMs": 0.000699999999997658
+          }
+        },
+        {
+          "testId": "collapse-newlines",
+          "passed": false,
+          "expected": "hello\n\nworld",
+          "actual": "helloworld",
+          "metrics": {
+            "durationMs": 0.00040999999999655754
+          }
+        },
+        {
+          "testId": "preserve-double-newline",
+          "passed": false,
+          "expected": "hello\n\nworld",
+          "actual": "helloworld",
+          "metrics": {
+            "durationMs": 0.00037999999999840386
+          }
+        },
+        {
+          "testId": "empty-string",
+          "passed": true,
+          "expected": "",
+          "actual": "",
+          "metrics": {
+            "durationMs": 0.00019000000000630736
+          }
+        },
+        {
+          "testId": "only-whitespace",
+          "passed": true,
+          "expected": "",
+          "actual": "",
+          "metrics": {
+            "durationMs": 0.0005099999999970351
+          }
+        }
+      ]
+    }
+  ],
+  "winner": "v3",
+  "winnerReason": "Best score with fastest profile"
+}

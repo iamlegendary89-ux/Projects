@@ -1,0 +1,84 @@
+{
+    "attributes": [
+        "Camera",
+        "BatteryEndurance",
+        "Performance",
+        "Display",
+        "SoftwareExperience",
+        "DesignBuild",
+        "LongevityValue"
+    ],
+    "archetype_definitions": [
+        {
+            "id": "photographer",
+            "name": "The Photographer",
+            "description": "Priories camera quality above all else.",
+            "signature": {
+                "Camera": 0.6,
+                "BatteryEndurance": 0.1,
+                "Display": 0.15,
+                "LongevityValue": 0.15,
+                "Performance": 0.0,
+                "SoftwareExperience": 0.0,
+                "DesignBuild": 0.0
+            }
+        },
+        {
+            "id": "gamer",
+            "name": "The Gamer",
+            "description": "Needs raw performance and sustained power.",
+            "signature": {
+                "Performance": 0.5,
+                "BatteryEndurance": 0.2,
+                "Display": 0.2,
+                "SoftwareExperience": 0.1,
+                "Camera": 0.0,
+                "DesignBuild": 0.0,
+                "LongevityValue": 0.0
+            }
+        },
+        {
+            "id": "value_seeker",
+            "name": "Value Seeker",
+            "description": "Max features for min price.",
+            "signature": {
+                "LongevityValue": 0.5,
+                "BatteryEndurance": 0.2,
+                "Performance": 0.1,
+                "Camera": 0.1,
+                "SoftwareExperience": 0.1,
+                "Display": 0.0,
+                "DesignBuild": 0.0
+            }
+        }
+    ],
+    "types": {
+        "Archetype": {
+            "id": "string",
+            "name": "string",
+            "signature": "Record<Attribute, number>"
+        },
+        "UserProfile": {
+            "id": "string",
+            "createdAt": "string",
+            "mindprint": {
+                "mu": "number[]",
+                "sigma": "number[]"
+            },
+            "archetypeProb": "number[]",
+            "attributeTargets": "Record<Attribute, {score: number, weight: number, uncertainty: number}>",
+            "brandAffinities": "Record<string, number>",
+            "dealbreakers": "string[]",
+            "overallConfidence": "number"
+        },
+        "PhoneProfile": {
+            "id": "string",
+            "brand": "string",
+            "model": "string",
+            "attributes": "Record<Attribute, number>",
+            "latentSignature": "number[]",
+            "price_usd": "number",
+            "flags": "string[]"
+        }
+    }
+}

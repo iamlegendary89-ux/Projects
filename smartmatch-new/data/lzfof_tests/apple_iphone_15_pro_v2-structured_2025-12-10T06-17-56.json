@@ -1,0 +1,80 @@
+{
+  "variant": "v2-structured",
+  "phone": "apple iphone 15 pro",
+  "timestamp": "2025-12-10T06:17:56.143Z",
+  "model": "tngtech/deepseek-r1t2-chimera:free",
+  "metrics": {
+    "promptLength": 243887,
+    "promptTokens": 65559,
+    "completionTokens": 2348,
+    "totalTokens": 67907,
+    "elapsedMs": 141651
+  },
+  "result": {
+    "summary_1_page": "The Apple iPhone 15 Pro combines premium design with top-tier performance. Its titanium frame reduces weight by 19g compared to its predecessor, enhancing comfort while maintaining durability. The switch to USB-C enables faster data transfers and universal charging compatibility. The new Action Button replaces the mute switch, offering customizable shortcuts. Powered by the A17 Pro chip, it delivers class-leading performance, excelling in gaming and multitasking. The 6.1-inch OLED display boasts 2000 nits peak brightness and 120Hz ProMotion. Camera improvements include 24MP default shots, enhanced low-light performance, and ProRes video recording, though the 3x telephoto lags behind the Pro Max's 5x zoom. Battery life is adequate (12-13h active use) but charging remains slow at 20W. Software support is strong with iOS 17, though Android rivals now offer longer update commitments. Criticisms include initial overheating issues (partially resolved via update), high price, and limited storage options.",
+    "pros": [
+      "Titanium design reduces weight and improves durability (GSMArena, TechRadar)",
+      "USB-C port enables universal charging and faster data transfers (Android Authority, PhoneArena)",
+      "Customizable Action Button enhances functionality (Tom's Guide, TechRadar)",
+      "A17 Pro chip delivers best-in-class performance (GSMArena, NotebookCheck)",
+      "Excellent camera system with superb video capabilities (DXOMark, Tom's Guide)"
+    ],
+    "cons": [
+      "Overheating issues during intensive tasks (partially addressed in updates) (Android Authority, Tom's Guide)",
+      "Slow wired charging (20W) compared to competitors (GSMArena, PhoneArena)",
+      "High starting price with limited 128GB base storage (PhoneArena, TechRadar)",
+      "3x telephoto zoom lacks the Pro Max's 5x optical reach (Android Authority, Tom's Guide)",
+      "Battery life is average for the premium segment (DXOMark, GSMArena)"
+    ],
+    "attributes": [
+      {
+        "name": "Camera",
+        "score": 9,
+        "explanation": "48MP main sensor excels in daylight and video (DXOMark 154), but low-light and zoom trail rivals. Scoring weights: main 38%, lowlight 32%, video 20%, selfie 10%."
+      },
+      {
+        "name": "Battery Endurance",
+        "score": 7.5,
+        "explanation": "3274mAh battery provides 12h58m active use (GSMArena), but slow charging and no significant improvement over 14 Pro. Weights: efficiency 38%, capacity 32%, charging 18%, degradation 12%."
+      },
+      {
+        "name": "Performance",
+        "score": 9.8,
+        "explanation": "A17 Pro dominates benchmarks (Geekbench 2900/7200, Antutu 1.56M) with sustained performance. Weights: sustained 44%, peak 34%, thermals 18%, NPU 4%."
+      },
+      {
+        "name": "Display",
+        "score": 9.2,
+        "explanation": "6.1\" OLED with 2000 nits HDR, 120Hz ProMotion, and excellent color accuracy (DXOMark 151). Weights: comfort 34%, brightness 30%, color 22%, refresh 10%, HDR 4%."
+      },
+      {
+        "name": "Software Experience",
+        "score": 9.5,
+        "explanation": "iOS 17 is polished with 5+ years of updates. Clean interface but less customizable than Android. Weights: clean 46%, updates 28%, features 18%, bugs 8%."
+      },
+      {
+        "name": "Design & Build",
+        "score": 9.3,
+        "explanation": "Titanium frame reduces weight, IP68 rating, improved grip. Weights: weight 38%, materials 34%, haptics 18%, durability 10%."
+      },
+      {
+        "name": "Longevity Value",
+        "score": 9,
+        "explanation": "5+ years of software updates and high resale value. Weights: policy 58%, price_perf 32%, resale 10%."
+      }
+    ],
+    "antutu": 1566329,
+    "geekbench": 7172,
+    "dxocamera": 154,
+    "dxodisplay": 151,
+    "batteryActiveUse": 778,
+    "softwareSupportYears": 5,
+    "currentPrice": {
+      "usd": "$999",
+      "eur": "€999"
+    },
+    "launchPrice": {
+      "usd": "$999"
+    }
+  }
+}

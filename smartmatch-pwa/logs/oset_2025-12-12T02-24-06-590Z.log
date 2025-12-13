@@ -1,0 +1,37 @@
+OSET v6.1 — Dynamic Truth Correction
+==================================
+
+📊 Pass 1: Analyzing dataset distributions...
+   Performance Top 1%: 11635.699999999999
+   Camera Top 1%: 187.45
+   Display Top 1%: 180.54999999999998
+   Battery Top 1%: 18.216
+
+⚡ Pass 2: Applying normalized scores...
+✅ Corrected apple_iphone_15_pro
+✅ Corrected apple_iphone_17_pro_max
+❌ Error processing apple_iphone_se_4 TypeError: Cannot read properties of undefined (reading 'Performance')
+    at main (/home/runner/work/smartmatch-pwa/smartmatch-pwa/scripts/OSET.ts:485:31)
+❌ Error processing google_pixel_10 TypeError: Cannot read properties of undefined (reading 'Performance')
+    at main (/home/runner/work/smartmatch-pwa/smartmatch-pwa/scripts/OSET.ts:485:31)
+❌ Error processing honor_magic_7_pro TypeError: Cannot read properties of undefined (reading 'Performance')
+    at main (/home/runner/work/smartmatch-pwa/smartmatch-pwa/scripts/OSET.ts:485:31)
+❌ Error processing nothing_phone_3 TypeError: Cannot read properties of undefined (reading 'Performance')
+    at main (/home/runner/work/smartmatch-pwa/smartmatch-pwa/scripts/OSET.ts:485:31)
+✅ Corrected oneplus_13
+✅ Corrected samsung_galaxy_s25
+❌ Error processing samsung_galaxy_z_flip_7 TypeError: Cannot read properties of undefined (reading 'Performance')
+    at main (/home/runner/work/smartmatch-pwa/smartmatch-pwa/scripts/OSET.ts:485:31)
+❌ Error processing samsung_galaxy_z_fold_7 TypeError: Cannot read properties of undefined (reading 'Performance')
+    at main (/home/runner/work/smartmatch-pwa/smartmatch-pwa/scripts/OSET.ts:485:31)
+
+=== Summary ===
+✅ Processed: 4
+💾 Snapshot saved to data/benchmarks_snapshot.json
+
+📦 Pass 3: Generating Worker Catalog & Vectors...
+✅ Catalog wrote 10 phones to /home/runner/work/smartmatch-pwa/smartmatch-pwa/worker/data/phones.json
+✅ Vectors wrote 1120 bytes to /home/runner/work/smartmatch-pwa/smartmatch-pwa/worker/data/vectors.bin
+✅ Index wrote to /home/runner/work/smartmatch-pwa/smartmatch-pwa/worker/data/phones-list.json
+
+Dynamic benchmarking & Catalog Generation complete!

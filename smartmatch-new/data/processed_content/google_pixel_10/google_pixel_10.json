@@ -1,0 +1,117 @@
+{
+  "phoneId": "google_pixel_10",
+  "data": {
+    "brand": "google",
+    "model": "pixel 10",
+    "overallScore": 9.22,
+    "category": "flagship",
+    "onePageSummary": "The Google Pixel 10 emerges as a competitive mid-range flagship with notable upgrades like a 5X telephoto camera and Qi2 magnetic charging. Reviews from PhoneArena, DXOMark, TechRadar, and NotebookCheck highlight its strengths in camera versatility (DXOMark score: 163), vibrant display (up to 3,000 nits brightness), and industry-leading seven-year software update promise. However, it lags behind rivals in raw performance (Tensor G5 trails Snapdragon 8 Elite in benchmarks) and gaming endurance. The base model's 128GB storage feels outdated compared to competitors. While AI features like Live Translate impress, Magic Cue remains inconsistent. Battery life is solid for daily use but dips under heavy loads. Priced at $799, it's best purchased during discounts.",
+    "pros": [
+      "5X telephoto camera praised for zoom quality (mentioned: PhoneArena, DXOMark)",
+      "Qi2/MagSafe-compatible magnetic charging (mentioned: PhoneArena, TechRadar)",
+      "Seven years of OS updates (mentioned: PhoneArena, NotebookCheck)",
+      "Bright 3,000-nit OLED display (mentioned: PhoneArena, TechRadar)",
+      "Advanced AI features like Live Translate (mentioned: TechRadar, NotebookCheck)"
+    ],
+    "cons": [
+      "Performance lags rivals (Tensor G5 vs Snapdragon 8 Elite) (mentioned: PhoneArena, NotebookCheck)",
+      "128GB base storage lacks competitiveness (mentioned: PhoneArena, TechRadar)",
+      "PWM flickering at low brightness affects eye comfort (mentioned: NotebookCheck, TechRadar)",
+      "Inconsistent AI features (Magic Cue) (mentioned: TechRadar, NotebookCheck)",
+      "Subpar gaming battery life and throttling (mentioned: PhoneArena, NotebookCheck)"
+    ],
+    "originalAttributes": {
+      "Camera": {
+        "score": 8.45,
+        "explanation": "DXOMark score: 163/200 (5th globally). PhoneArena praises telephoto versatility but notes noise in low-light (7.6 photo score). TechRadar highlights Pro-like results but flags detail loss in zoom/ultra-wide."
+      },
+      "Battery Endurance": {
+        "score": 7.2,
+        "explanation": "PhoneArena measured 21h browsing but only 5h gaming. TechRadar reported 13h15m mixed use. Efficient daily use but heavy throttling under load."
+      },
+      "Performance": {
+        "score": 6.8,
+        "explanation": "Geekbench 6: 2298 single/5579 multi-core (PhoneArena). NotebookCheck shows Tensor G5 trails Snapdragon 8 Elite by ~30% in GPU tests. Sustained gaming performance weak."
+      },
+      "Display": {
+        "score": 8.9,
+        "explanation": "3,000-nit peak brightness (PhoneArena), excellent color accuracy. NotebookCheck flags PWM flickering at 240Hz affecting eye comfort."
+      },
+      "Software Experience": {
+        "score": 8.6,
+        "explanation": "Clean Android 16 with Gemini AI. Seven-year updates (all sources). TechRadar criticizes missing Pro-exclusive features like call screening."
+      },
+      "Design & Build": {
+        "score": 8.7,
+        "explanation": "Premium aluminum/glass build with IP68 rating (PhoneArena, NotebookCheck). Qi2 magnets add minimal bulk."
+      },
+      "Longevity Value": {
+        "score": 9.1,
+        "explanation": "Seven-year update policy (highest weight). $799 launch price undercuts rivals but storage concerns hurt price/performance."
+      }
+    },
+    "antutu": null,
+    "geekbench": 5579,
+    "dxocamera": 163,
+    "dxodisplay": null,
+    "batteryActiveUse": null,
+    "softwareSupportYears": 7,
+    "currentPrice": {
+      "usd": "$799"
+    },
+    "launchPrice": {
+      "usd": "$799"
+    },
+    "metadata": {
+      "confidence": 0.879,
+      "modelUsed": "tngtech/deepseek-r1t2-chimera:free",
+      "processingVersion": "v7-Final",
+      "processedAt": "2025-12-12T02:24:06.566Z",
+      "processingTimeMs": 78087,
+      "sourceCount": 4,
+      "sourceNames": [
+        "PhoneArena",
+        "DXOMark",
+        "TechRadar",
+        "NotebookCheck"
+      ],
+      "sourceUrls": [
+        "https://www.phonearena.com/reviews/google-pixel-10-review_id7661",
+        "https://www.dxomark.com/smartphones/Google/Pixel-10-Pro-XL",
+        "https://www.techradar.com/phones/google-pixel-phones/google-pixel-10-review",
+        "https://www.notebookcheck.net/Google-Pixel-10-Pro-Smartphone-Review-Compact-AI-monster-with-top-cameras.1129342.0.html"
+      ],
+      "batchMode": true
+    },
+    "attributes": {
+      "Camera": {
+        "score": 7.93,
+        "explanation": "DXOMark score: 163/200 (5th globally). PhoneArena praises telephoto versatility but notes noise in low-light (7.6 photo score). TechRadar highlights Pro-like results but flags detail loss in zoom/ultra-wide. (real-time normalized: 8.45 → 7.93)"
+      },
+      "Battery Endurance": {
+        "score": 9.81,
+        "explanation": "PhoneArena measured 21h browsing but only 5h gaming. TechRadar reported 13h15m mixed use. Efficient daily use but heavy throttling under load. (real-time normalized: 7.2 → 9.81)"
+      },
+      "Performance": {
+        "score": 7.98,
+        "explanation": "Geekbench 6: 2298 single/5579 multi-core (PhoneArena). NotebookCheck shows Tensor G5 trails Snapdragon 8 Elite by ~30% in GPU tests. Sustained gaming performance weak. (real-time normalized: 6.8 → 7.98)"
+      },
+      "Display": {
+        "score": 10,
+        "explanation": "3,000-nit peak brightness (PhoneArena), excellent color accuracy. NotebookCheck flags PWM flickering at 240Hz affecting eye comfort. (real-time normalized: 8.9 → 10.00)"
+      },
+      "Software Experience": {
+        "score": 9.8,
+        "explanation": "Clean Android 16 with Gemini AI. Seven-year updates (all sources). TechRadar criticizes missing Pro-exclusive features like call screening. (real-time normalized: 8.6 → 9.80)"
+      },
+      "Design & Build": {
+        "score": 8.7,
+        "explanation": "Premium aluminum/glass build with IP68 rating (PhoneArena, NotebookCheck). Qi2 magnets add minimal bulk."
+      },
+      "Longevity Value": {
+        "score": 9.8,
+        "explanation": "Seven-year update policy (highest weight). $799 launch price undercuts rivals but storage concerns hurt price/performance. (real-time normalized: 9.1 → 9.80)"
+      }
+    }
+  }
+}

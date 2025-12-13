@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "table": "processed_phones",
+    "record_count": 4,
+    "exported_at": "2025-12-08T18:50:15.472Z"
+  },
+  "data": [
+    {
+      "id": 2,
+      "phone_id": "apple_iphone_17_pro_max",
+      "brand": "apple",
+      "model": "iphone 17 pro max",
+      "release_date": null,
+      "overall_score": 8.76,
+      "category": "flagship",
+      "summary": "The iPhone 17 Pro Max introduces a bold aluminum unibody design with a polarizing full-width 'camera plateau' housing upgraded 48MP triple cameras. While the Cosmic Orange color receives universal praise, GSMArena and PhoneArena note durability concerns with scratch-prone aluminum and visible material gaps. The 6.9-inch OLED display reaches 3000 nits brightness with improved anti-reflective coating (GSMArena, DXOMark), though DXOMark flags low-light luminance issues. Performance excels with Apple's A19 Pro chip and 12GB RAM, enhanced by a vapor chamber for sustained workloads—though GSMArena's stress tests show throttling contradicts Apple's 40% improvement claims. Battery life sees meaningful gains (GSMArena: 17:58h active use), while 40W wired charging remains slower than Android rivals. Camera upgrades include a versatile 48MP telephoto (4x optical/8x crop) praised for portraits but limited in max zoom versus competitors. The 18MP Center Stage front camera's auto-orientation is a standout innovation. iOS 26's Liquid Glass UI refreshes aesthetics but introduces usability quirks, while Apple Intelligence lags behind Google/Samsung in implementation. Video capabilities remain class-leading with ProRes RAW and superb stabilization. Priced identically to predecessors despite storage increases up to 2TB.",
+      "pros": "Excellent telephoto camera with improved portrait capabilities (mentioned: Androidauthority, GSMArena, Techradar)\nCrisp 120Hz display with industry-leading brightness (mentioned: GSMArena, DXOMark, Theverge)\nLong battery endurance with meaningful capacity increase (mentioned: GSMArena, Phonearena, Techradar)\nDurable Ceramic Shield protection front/back (mentioned: GSMArena, Phonearena)\nSuperior video recording and stabilization (mentioned: Androidauthority, GSMArena, DXOMark)",
+      "cons": "Aluminum body prone to scratches (mentioned: GSMArena, Phonearena)\nApple Intelligence still underdeveloped vs competitors (mentioned: Androidauthority, Theverge)\nCharging speeds lag behind Android flagships (mentioned: Androidauthority, GSMArena)\nThermal throttling observed in stress tests (mentioned: GSMArena, Phonearena)\niOS 26 interface has usability quirks (mentioned: Theverge, Techradar)",
+      "camera_score": 9.05,
+      "battery_score": 8.72,
+      "performance_score": 9.38,
+      "display_score": 8.91,
+      "software_score": 7.84,
+      "design_score": 8.45,
+      "longevity_score": 9.2,
+      "last_processed_at": "2025-12-08T12:48:08.224",
+      "enrichment_status": "completed",
+      "facts_version": "v7-Final",
+      "confidence": 100,
+      "processing_time_ms": 89003,
+      "full_data": {
+        "cons": [
+          "Aluminum body prone to scratches (mentioned: GSMArena, Phonearena)",
+          "Apple Intelligence still underdeveloped vs competitors (mentioned: Androidauthority, Theverge)",
+          "Charging speeds lag behind Android flagships (mentioned: Androidauthority, GSMArena)",
+          "Thermal throttling observed in stress tests (mentioned: GSMArena, Phonearena)",
+          "iOS 26 interface has usability quirks (mentioned: Theverge, Techradar)"
+        ],
+        "pros": [
+          "Excellent telephoto camera with improved portrait capabilities (mentioned: Androidauthority, GSMArena, Techradar)",
+          "Crisp 120Hz display with industry-leading brightness (mentioned: GSMArena, DXOMark, Theverge)",
+          "Long battery endurance with meaningful capacity increase (mentioned: GSMArena, Phonearena, Techradar)",
+          "Durable Ceramic Shield protection front/back (mentioned: GSMArena, Phonearena)",
+          "Superior video recording and stabilization (mentioned: Androidauthority, GSMArena, DXOMark)"
+        ],
+        "brand": "apple",
+        "model": "iphone 17 pro max",
+        "category": "flagship",
+        "metadata": {
+          "confidence": 0.999,
+          "processingTimeMs": 89003
+        },
+        "overallScore": 8.76,
+        "onePageSummary": "The iPhone 17 Pro Max introduces a bold aluminum unibody design with a polarizing full-width 'camera plateau' housing upgraded 48MP triple cameras. While the Cosmic Orange color receives universal praise, GSMArena and PhoneArena note durability concerns with scratch-prone aluminum and visible material gaps. The 6.9-inch OLED display reaches 3000 nits brightness with improved anti-reflective coating (GSMArena, DXOMark), though DXOMark flags low-light luminance issues. Performance excels with Apple's A19 Pro chip and 12GB RAM, enhanced by a vapor chamber for sustained workloads—though GSMArena's stress tests show throttling contradicts Apple's 40% improvement claims. Battery life sees meaningful gains (GSMArena: 17:58h active use), while 40W wired charging remains slower than Android rivals. Camera upgrades include a versatile 48MP telephoto (4x optical/8x crop) praised for portraits but limited in max zoom versus competitors. The 18MP Center Stage front camera's auto-orientation is a standout innovation. iOS 26's Liquid Glass UI refreshes aesthetics but introduces usability quirks, while Apple Intelligence lags behind Google/Samsung in implementation. Video capabilities remain class-leading with ProRes RAW and superb stabilization. Priced identically to predecessors despite storage increases up to 2TB.",
+        "originalAttributes": {
+          "Camera": {
+            "score": 9.05,
+            "explanation": "Main camera praised for dynamic range (GSMArena), new 48MP telephoto excels at portraits (Techradar), but max zoom trails Android rivals (Phonearena). Low-light shows minor noise (DXOMark). Video stabilization rated best-in-class by DXOMark (154 score). Selfie innovation with Center Stage orientation noted by multiple sources."
+          },
+          "Display": {
+            "score": 8.91,
+            "explanation": "3000-nit peak brightness verified by GSMArena/DXOMark; anti-reflective coating reduces glare (Phonearena). DXOMark noted low contrast in dark environments. Color accuracy slightly trails Pixel 10 Pro XL per Phonearena."
+          },
+          "Performance": {
+            "score": 9.38,
+            "explanation": "A19 Pro dominates benchmarks (Geekbench 6: 3891/10118 single/multi-core), sustained performance improved by vapor chamber (Techradar), though GSMArena observed throttling to 65% stability vs claimed 40% gain."
+          },
+          "Design & Build": {
+            "score": 8.45,
+            "explanation": "Aluminum unibody improves heat dissipation (Techradar) but shows visible gaps (GSMArena). Weight increases marginally; IP68 rating maintained with enhanced Ceramic Shield protection."
+          },
+          "Longevity Value": {
+            "score": 9.2,
+            "explanation": "Apple's 7-year update policy cited by multiple sources; price/performance ratio maintained despite $1,199 starting price. Resale/repairability not extensively covered."
+          },
+          "Battery Endurance": {
+            "score": 8.72,
+            "explanation": "GSMArena measured 17:58h active use; capacity up to 5088mAh (eSIM). Charging peaks at 40W wired (50% in 20 mins per GSMArena), but slower than OnePlus/Xiaomi. Degradation not explicitly tested."
+          },
+          "Software Experience": {
+            "score": 7.84,
+            "explanation": "iOS 26's Liquid Glass UI praised for aesthetics but criticized for inconsistent transparency effects (Theverge). Update policy remains industry-leading; Apple Intelligence features incomplete vs Gemini (Androidcentral)."
+          }
+        }
+      },
+      "created_at": "2025-12-05T21:00:54.893742",
+      "updated_at": "2025-12-08T18:45:45.617",
+      "camera_main": null,
+      "camera_telephoto": null,
+      "camera_video": null
+    },
+    {
+      "id": 4,
+      "phone_id": "oneplus_13",
+      "brand": "oneplus",
+      "model": "13",
+      "release_date": null,
+      "overall_score": 8.72,
+      "category": "flagship",
+      "summary": "The OnePlus 13 emerges as a formidable flagship with significant improvements across key areas. Consensus among reviewers highlights its exceptional battery life from a 6000mAh silicon-carbon battery (Android Authority, Techradar), lasting up to two days with 80W/100W fast charging. The Snapdragon 8 Elite chip delivers top-tier performance (NotebookCheck, GSMArena), though thermal throttling occurs under sustained load. The 6.82-inch AMOLED display earns praise for its A++ rating from DisplayMate (PhoneArena), vibrant colors, and high brightness, though DXOMark notes HDR limitations in low light. Hasselblad-tuned cameras excel in main and zoom capabilities (Android Authority, Tomsguide), but ultrawide and low-light performance show minor weaknesses. Design upgrades include an IP69 rating for durability (Techradar) and premium materials like eco-leather options. Software runs OxygenOS 15 with useful AI features but suffers from bloatware and a shorter update policy (4 years OS) compared to rivals (GSMArena). While the $899 price undercuts competitors, the absence of Qi2 wireless charging without accessories and inconsistent telephoto performance are noted drawbacks.",
+      "pros": "Exceptional battery endurance with 6000mAh capacity (mentioned: Android Authority, Techradar, NotebookCheck)\nBlazing-fast wired charging up to 100W internationally (highlighted: Tomsguide, AndroidCentral)\nVibrant 6.82-inch AMOLED display with A++ rating and high brightness (cited: PhoneArena, DXOMark)\nPowerful Snapdragon 8 Elite performance for gaming and multitasking (noted: GSMArena, NotebookCheck)\nPremium IP69-rated design with durable materials and flat display (praised: Techradar, Android Authority)",
+      "cons": "Shorter software update policy than Samsung/Google (criticized: GSMArena, AndroidCentral)\nWireless charging requires magnetic accessories (mentioned: Android Authority, Tomsguide)\nTelephoto camera struggles at high zoom levels (noted: NotebookCheck, PhoneArena)\nPre-installed bloatware and aggressive app management in OxygenOS (cited: GSMArena, NotebookCheck)\n$100 price hike over OnePlus 12 despite similar base specs (mentioned: Android Authority, Tomsguide)",
+      "camera_score": 7.87,
+      "battery_score": 8.62,
+      "performance_score": 7.83,
+      "display_score": 9.86,
+      "software_score": 9.8,
+      "design_score": 9.86,
+      "longevity_score": 9.8,
+      "last_processed_at": "2025-12-08T12:51:45.447",
+      "enrichment_status": "completed",
+      "facts_version": "v7-Final",
+      "confidence": 100,
+      "processing_time_ms": 86649,
+      "full_data": {
+        "cons": [
+          "Shorter software update policy than Samsung/Google (criticized: GSMArena, AndroidCentral)",
+          "Wireless charging requires magnetic accessories (mentioned: Android Authority, Tomsguide)",
+          "Telephoto camera struggles at high zoom levels (noted: NotebookCheck, PhoneArena)",
+          "Pre-installed bloatware and aggressive app management in OxygenOS (cited: GSMArena, NotebookCheck)",
+          "$100 price hike over OnePlus 12 despite similar base specs (mentioned: Android Authority, Tomsguide)"
+        ],
+        "pros": [
+          "Exceptional battery endurance with 6000mAh capacity (mentioned: Android Authority, Techradar, NotebookCheck)",
+          "Blazing-fast wired charging up to 100W internationally (highlighted: Tomsguide, AndroidCentral)",
+          "Vibrant 6.82-inch AMOLED display with A++ rating and high brightness (cited: PhoneArena, DXOMark)",
+          "Powerful Snapdragon 8 Elite performance for gaming and multitasking (noted: GSMArena, NotebookCheck)",
+          "Premium IP69-rated design with durable materials and flat display (praised: Techradar, Android Authority)"
+        ],
+        "brand": "oneplus",
+        "model": "13",
+        "category": "flagship",
+        "metadata": {
+          "confidence": 0.999,
+          "processingTimeMs": 86649
+        },
+        "attributes": {
+          "Camera": {
+            "score": 7.87,
+            "explanation": "Main camera excels with Hasselblad tuning and strong zoom (Android Authority). Low-light shows minor noise (NotebookCheck). Video captures Dolby Vision HDR but lacks stabilization consistency (DXOMark). Selfie camera is capable but fixed-focus. (real-time normalized: 8.92 → 7.87)"
+          },
+          "Display": {
+            "score": 9.86,
+            "explanation": "6.82-inch LTPO AMOLED with A++ rating from DisplayMate achieves 1600 nits HBM and excellent color accuracy (PhoneArena). DXOMark flags poor HDR brightness in low light. Eye comfort features include 2160Hz PWM dimming. (real-time normalized: 9.18 → 9.86)"
+          },
+          "Performance": {
+            "score": 7.83,
+            "explanation": "Snapdragon 8 Elite dominates benchmarks but throttles under load by ~50% after sustained use (NotebookCheck). Peak performance tops rivals including iPhone 16 Pro in multi-core tests (GSMArena). Thermals managed via vapor chamber but still warm. (real-time normalized: 8.85 → 7.83)"
+          },
+          "Design & Build": {
+            "score": 9.86,
+            "explanation": "IP69 rating withstands high-pressure jets and dust (Techradar). Eco-leather option praised for grip; flat aluminum frame improves ergonomics over curved predecessors. Haptics refined but fingerprint sensor placement criticized. (real-time normalized: 9.03 → 9.86)"
+          },
+          "Longevity Value": {
+            "score": 9.8,
+            "explanation": "Update policy trails industry leaders despite improved security patches (AndroidCentral). Strong price/performance at $899 undercuts Galaxy S24 Ultra by $500+ (Tomsguide). Resale/repairability not discussed in reviews. (real-time normalized: 7.10 → 9.80)"
+          },
+          "Battery Endurance": {
+            "score": 8.62,
+            "explanation": "6000mAh silicon-carbon battery delivers 2-day life (Techradar). Fast 100W wired charging refills in ~30 mins internationally; US limited to 80W (AndroidCentral). Degradation not tested but efficient Snapdragon 8 Elite aids longevity. (real-time normalized: 9.45 → 8.62)"
+          },
+          "Software Experience": {
+            "score": 9.8,
+            "explanation": "OxygenOS 15 offers fluid UI and AI tools like Pass Scan but includes bloatware (GSMArena). Update policy limited to 4 years OS updates vs. 7 from competitors. Minor bugs reported in early releases. (real-time normalized: 7.52 → 9.80)"
+          }
+        },
+        "overallScore": 8.72,
+        "onePageSummary": "The OnePlus 13 emerges as a formidable flagship with significant improvements across key areas. Consensus among reviewers highlights its exceptional battery life from a 6000mAh silicon-carbon battery (Android Authority, Techradar), lasting up to two days with 80W/100W fast charging. The Snapdragon 8 Elite chip delivers top-tier performance (NotebookCheck, GSMArena), though thermal throttling occurs under sustained load. The 6.82-inch AMOLED display earns praise for its A++ rating from DisplayMate (PhoneArena), vibrant colors, and high brightness, though DXOMark notes HDR limitations in low light. Hasselblad-tuned cameras excel in main and zoom capabilities (Android Authority, Tomsguide), but ultrawide and low-light performance show minor weaknesses. Design upgrades include an IP69 rating for durability (Techradar) and premium materials like eco-leather options. Software runs OxygenOS 15 with useful AI features but suffers from bloatware and a shorter update policy (4 years OS) compared to rivals (GSMArena). While the $899 price undercuts competitors, the absence of Qi2 wireless charging without accessories and inconsistent telephoto performance are noted drawbacks.",
+        "originalAttributes": {
+          "Camera": {
+            "score": 7.87,
+            "explanation": "Main camera excels with Hasselblad tuning and strong zoom (Android Authority). Low-light shows minor noise (NotebookCheck). Video captures Dolby Vision HDR but lacks stabilization consistency (DXOMark). Selfie camera is capable but fixed-focus. (real-time normalized: 8.92 → 7.87)"
+          },
+          "Display": {
+            "score": 9.86,
+            "explanation": "6.82-inch LTPO AMOLED with A++ rating from DisplayMate achieves 1600 nits HBM and excellent color accuracy (PhoneArena). DXOMark flags poor HDR brightness in low light. Eye comfort features include 2160Hz PWM dimming. (real-time normalized: 9.18 → 9.86)"
+          },
+          "Performance": {
+            "score": 7.83,
+            "explanation": "Snapdragon 8 Elite dominates benchmarks but throttles under load by ~50% after sustained use (NotebookCheck). Peak performance tops rivals including iPhone 16 Pro in multi-core tests (GSMArena). Thermals managed via vapor chamber but still warm. (real-time normalized: 8.85 → 7.83)"
+          },
+          "Design & Build": {
+            "score": 9.86,
+            "explanation": "IP69 rating withstands high-pressure jets and dust (Techradar). Eco-leather option praised for grip; flat aluminum frame improves ergonomics over curved predecessors. Haptics refined but fingerprint sensor placement criticized. (real-time normalized: 9.03 → 9.86)"
+          },
+          "Longevity Value": {
+            "score": 9.8,
+            "explanation": "Update policy trails industry leaders despite improved security patches (AndroidCentral). Strong price/performance at $899 undercuts Galaxy S24 Ultra by $500+ (Tomsguide). Resale/repairability not discussed in reviews. (real-time normalized: 7.10 → 9.80)"
+          },
+          "Battery Endurance": {
+            "score": 8.62,
+            "explanation": "6000mAh silicon-carbon battery delivers 2-day life (Techradar). Fast 100W wired charging refills in ~30 mins internationally; US limited to 80W (AndroidCentral). Degradation not tested but efficient Snapdragon 8 Elite aids longevity. (real-time normalized: 9.45 → 8.62)"
+          },
+          "Software Experience": {
+            "score": 9.8,
+            "explanation": "OxygenOS 15 offers fluid UI and AI tools like Pass Scan but includes bloatware (GSMArena). Update policy limited to 4 years OS updates vs. 7 from competitors. Minor bugs reported in early releases. (real-time normalized: 7.52 → 9.80)"
+          }
+        }
+      },
+      "created_at": "2025-12-05T21:00:55.660547",
+      "updated_at": "2025-12-08T18:45:45.769",
+      "camera_main": null,
+      "camera_telephoto": null,
+      "camera_video": null
+    },
+    {
+      "id": 1,
+      "phone_id": "apple_iphone_15_pro",
+      "brand": "apple",
+      "model": "iphone 15 pro",
+      "release_date": null,
+      "overall_score": 8.8,
+      "category": "flagship",
+      "summary": "The iPhone 15 Pro represents Apple's refined flagship experience with notable upgrades including a titanium frame reducing weight by 19g (GSMArena), USB-C connectivity for faster data transfers and universal charging (TechRadar), and the versatile Action Button replacing the mute switch (Android Authority). Its A17 Pro chip delivers class-leading performance (NotebookCheck), while the 6.1-inch Super Retina XDR display boasts 2000-nit HDR brightness and slimmer bezels (GSMArena). Camera improvements include a 48MP main sensor with enhanced low-light capabilities and computational photography features like 24MP default shots and post-capture depth editing, though it lacks the Pro Max's 5x telephoto (DXOMark). Battery life remains consistent with the 14 Pro at ~86h endurance (GSMArena), but 20W charging is slow versus Android rivals. Software receives iOS 17 updates with Focus modes and StandBy, though Google now leads in update longevity. Key trade-offs include a $999 starting price for 128GB storage and thermal throttling during sustained loads.",
+      "pros": "Titanium design reduces weight significantly (mentioned: GSMArena, TechRadar, Android Authority)\nUSB-C enables faster data transfers and universal charging (mentioned: TechRadar, NotebookCheck, Tom's Guide)\nExcellent camera system with improved low-light and computational photography (mentioned: DXOMark, PhoneArena, Android Central)\nIndustry-leading A17 Pro performance for gaming and productivity (mentioned: NotebookCheck, Tom's Guide)\nLong-term iOS updates and premium build quality (mentioned: GSMArena, Android Central)",
+      "cons": "Slow 20W charging speeds criticized by multiple sources (mentioned: Android Authority, GSMArena, PhoneArena)\nNo charger included in box despite premium price (mentioned: TechRadar, NotebookCheck)\nBase model starts at $999 with only 128GB storage (mentioned: Tom's Guide, Android Central)\nLimited 3x optical zoom vs. Pro Max's 5x telephoto (mentioned: DXOMark, PhoneArena)\nInitial overheating issues requiring software patches (mentioned: Android Authority, NotebookCheck)",
+      "camera_score": 9.12,
+      "battery_score": 7.5,
+      "performance_score": 9.3,
+      "display_score": 9.2,
+      "software_score": 8.8,
+      "design_score": 9,
+      "longevity_score": 8.5,
+      "last_processed_at": "2025-12-08T12:53:40.404",
+      "enrichment_status": "completed",
+      "facts_version": "v7-Final",
+      "confidence": 100,
+      "processing_time_ms": 114955,
+      "full_data": {
+        "cons": [
+          "Slow 20W charging speeds criticized by multiple sources (mentioned: Android Authority, GSMArena, PhoneArena)",
+          "No charger included in box despite premium price (mentioned: TechRadar, NotebookCheck)",
+          "Base model starts at $999 with only 128GB storage (mentioned: Tom's Guide, Android Central)",
+          "Limited 3x optical zoom vs. Pro Max's 5x telephoto (mentioned: DXOMark, PhoneArena)",
+          "Initial overheating issues requiring software patches (mentioned: Android Authority, NotebookCheck)"
+        ],
+        "pros": [
+          "Titanium design reduces weight significantly (mentioned: GSMArena, TechRadar, Android Authority)",
+          "USB-C enables faster data transfers and universal charging (mentioned: TechRadar, NotebookCheck, Tom's Guide)",
+          "Excellent camera system with improved low-light and computational photography (mentioned: DXOMark, PhoneArena, Android Central)",
+          "Industry-leading A17 Pro performance for gaming and productivity (mentioned: NotebookCheck, Tom's Guide)",
+          "Long-term iOS updates and premium build quality (mentioned: GSMArena, Android Central)"
+        ],
+        "brand": "apple",
+        "model": "iphone 15 pro",
+        "category": "flagship",
+        "metadata": {
+          "confidence": 0.999,
+          "processingTimeMs": 114955
+        },
+        "overallScore": 8.8,
+        "onePageSummary": "The iPhone 15 Pro represents Apple's refined flagship experience with notable upgrades including a titanium frame reducing weight by 19g (GSMArena), USB-C connectivity for faster data transfers and universal charging (TechRadar), and the versatile Action Button replacing the mute switch (Android Authority). Its A17 Pro chip delivers class-leading performance (NotebookCheck), while the 6.1-inch Super Retina XDR display boasts 2000-nit HDR brightness and slimmer bezels (GSMArena). Camera improvements include a 48MP main sensor with enhanced low-light capabilities and computational photography features like 24MP default shots and post-capture depth editing, though it lacks the Pro Max's 5x telephoto (DXOMark). Battery life remains consistent with the 14 Pro at ~86h endurance (GSMArena), but 20W charging is slow versus Android rivals. Software receives iOS 17 updates with Focus modes and StandBy, though Google now leads in update longevity. Key trade-offs include a $999 starting price for 128GB storage and thermal throttling during sustained loads.",
+        "originalAttributes": {
+          "Camera": {
+            "score": 9.12,
+            "explanation": "DXOMark score: 154/200 (6th globally). Main camera praised for 48MP sensor and 24MP computational shots (PhoneArena), excellent video stabilization and ProRes support (TechRadar). Low-light shows minor noise vs. Pixel 8 Pro (Android Central). Telephoto limited to 3x zoom; ultrawide weakest in dim conditions. Selfies exhibit oversharpening."
+          },
+          "Display": {
+            "score": 9.2,
+            "explanation": "6.1-inch OLED hits 2000 nits HBM with perfect color accuracy (ΔE<1). GSMArena measured 1786nits adaptive brightness. Dynamic Island enhances usability. PWM flickering at 240Hz noted by NotebookCheck may affect sensitive users."
+          },
+          "Performance": {
+            "score": 9.3,
+            "explanation": "A17 Pro dominates benchmarks: Geekbench 6 Single/Multi-core scores of 2900/7200 crush Snapdragon rivals (NotebookCheck). GPU enables console-grade gaming with ray tracing. Sustained loads show minor throttling (-15% in stress tests). Thermals improved post-iOS 17.0.3 patch."
+          },
+          "Design & Build": {
+            "score": 9,
+            "explanation": "Titanium frame reduces weight to 187g (-9% vs steel). Contoured edges improve grip vs iPhone 14 Pro. IP68 rating maintained but back glass fragility concerns noted by GSMArena."
+          },
+          "Longevity Value": {
+            "score": 8.5,
+            "explanation": "Apple guarantees ~5 years of iOS updates but lags behind Pixel's 7-year pledge. High resale value offsets $999 entry cost. Easier back glass replacement lowers repair costs."
+          },
+          "Battery Endurance": {
+            "score": 7.5,
+            "explanation": "GSMArena measured 86h endurance rating matching 14 Pro. NotebookCheck recorded 13h52m Wi-Fi browsing. Capacity increased to 3274mAh (+2.3%), but real-world gains minimal. Charging remains slow at 20W (90min full charge). New 80% charge limit aids degradation."
+          },
+          "Software Experience": {
+            "score": 8.8,
+            "explanation": "iOS 17 offers polished features like StandBy mode and Contact Posters. Action Button customization praised via Shortcuts app. Clean interface lacks bloatware but trails Google's 7-year update promise."
+          }
+        }
+      },
+      "created_at": "2025-12-05T21:00:54.281709",
+      "updated_at": "2025-12-08T18:45:45.528",
+      "camera_main": null,
+      "camera_telephoto": null,
+      "camera_video": null
+    },
+    {
+      "id": 3,
+      "phone_id": "samsung_galaxy_s25",
+      "brand": "samsung",
+      "model": "galaxy s25",
+      "release_date": null,
+      "overall_score": 7.63,
+      "category": "flagship",
+      "summary": "The Samsung Galaxy S25 is a compact flagship offering a powerful Snapdragon 8 Elite chipset with significant AI enhancements and One UI 7 software improvements across all seven reviews. Its lightweight design (162g) and IP68 rating are universally praised, though its camera hardware remains unchanged since the Galaxy S22—criticized for low-light and ultrawide weaknesses despite software tweaks (GSMArena, PhoneArena, TechRadar). The display is bright and vibrant but lacks Gorilla Armor and uses PWM dimming at 240Hz (NotebookCheck). Battery endurance is adequate with a 4,000mAh cell but hampered by slow 25W wired charging across multiple sources (PhoneArena, TomsGuide). Performance benchmarks lead Android flagships but show thermal throttling under sustained loads per GSMArena and PhoneArena tests.",
+      "pros": "Compact lightweight design praised by GSMArena, PhoneArena, AndroidCentral\nPowerful Snapdragon 8 Elite chipset noted by TomsGuide, NotebookCheck\nBright AMOLED display with HDR10+ highlighted by DXOMark, TechRadar\nSeven years of software updates emphasized by NotebookCheck, AndroidCentral\nImproved Galaxy AI features across multiple sources including PhoneArena",
+      "cons": "Unchanged camera hardware since S22 criticized by GSMArena, TechRadar\nSlow 25W wired charging mentioned by PhoneArena, NotebookCheck\nThermal throttling under load per GSMArena and PhoneArena\nNo Gorilla Armor glass on base model noted by GSMArena, AndroidCentral\n128GB base storage in some markets criticized by NotebookCheck",
+      "camera_score": 6.78,
+      "battery_score": 6.82,
+      "performance_score": 7.58,
+      "display_score": 8.02,
+      "software_score": 8.42,
+      "design_score": 8.38,
+      "longevity_score": 8.16,
+      "last_processed_at": "2025-12-08T12:50:18.796",
+      "enrichment_status": "completed",
+      "facts_version": "v7-Final",
+      "confidence": 100,
+      "processing_time_ms": 130569,
+      "full_data": {
+        "cons": [
+          "Unchanged camera hardware since S22 criticized by GSMArena, TechRadar",
+          "Slow 25W wired charging mentioned by PhoneArena, NotebookCheck",
+          "Thermal throttling under load per GSMArena and PhoneArena",
+          "No Gorilla Armor glass on base model noted by GSMArena, AndroidCentral",
+          "128GB base storage in some markets criticized by NotebookCheck"
+        ],
+        "pros": [
+          "Compact lightweight design praised by GSMArena, PhoneArena, AndroidCentral",
+          "Powerful Snapdragon 8 Elite chipset noted by TomsGuide, NotebookCheck",
+          "Bright AMOLED display with HDR10+ highlighted by DXOMark, TechRadar",
+          "Seven years of software updates emphasized by NotebookCheck, AndroidCentral",
+          "Improved Galaxy AI features across multiple sources including PhoneArena"
+        ],
+        "brand": "samsung",
+        "model": "galaxy s25",
+        "category": "flagship",
+        "metadata": {
+          "confidence": 0.999,
+          "processingTimeMs": 130569
+        },
+        "overallScore": 7.63,
+        "onePageSummary": "The Samsung Galaxy S25 is a compact flagship offering a powerful Snapdragon 8 Elite chipset with significant AI enhancements and One UI 7 software improvements across all seven reviews. Its lightweight design (162g) and IP68 rating are universally praised, though its camera hardware remains unchanged since the Galaxy S22—criticized for low-light and ultrawide weaknesses despite software tweaks (GSMArena, PhoneArena, TechRadar). The display is bright and vibrant but lacks Gorilla Armor and uses PWM dimming at 240Hz (NotebookCheck). Battery endurance is adequate with a 4,000mAh cell but hampered by slow 25W wired charging across multiple sources (PhoneArena, TomsGuide). Performance benchmarks lead Android flagships but show thermal throttling under sustained loads per GSMArena and PhoneArena tests.",
+        "originalAttributes": {
+          "Camera": {
+            "score": 6.78,
+            "explanation": "Same hardware as S22/S24 with GN3 sensor; praised for telephoto versatility but criticized for low-light softness and lack of autofocus on ultrawide by GSMArena and TechRadar."
+          },
+          "Display": {
+            "score": 8.02,
+            "explanation": "Bright AMOLED panel with HDR10+ praised by DXOMark; PWM dimming at 240Hz flagged by NotebookCheck."
+          },
+          "Performance": {
+            "score": 7.58,
+            "explanation": "Snapdragon 8 Elite leads benchmarks per TomsGuide but sustained performance drops to ~50% due to throttling as per GSMArena."
+          },
+          "Design & Build": {
+            "score": 8.38,
+            "explanation": "Premium matte aluminum frame and IP68 rating highlighted by multiple sources including AndroidCentral."
+          },
+          "Longevity Value": {
+            "score": 8.16,
+            "explanation": "Seven-year update policy commended by NotebookCheck; hardware stagnation may affect resale per TechRadar."
+          },
+          "Battery Endurance": {
+            "score": 6.82,
+            "explanation": "4,000mAh battery shows efficiency gains from Snapdragon Elite but slow charging at 25W noted by PhoneArena and TomsGuide."
+          },
+          "Software Experience": {
+            "score": 8.42,
+            "explanation": "One UI 7 with Galaxy AI features widely praised; bloatware noted by TechRadar."
+          }
+        }
+      },
+      "created_at": "2025-12-05T21:00:55.298773",
+      "updated_at": "2025-12-08T18:45:45.676",
+      "camera_main": null,
+      "camera_telephoto": null,
+      "camera_video": null
+    }
+  ]
+}

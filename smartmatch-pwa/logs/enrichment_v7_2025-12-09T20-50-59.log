@@ -1,0 +1,18 @@
+{"level":"info","message":"SmartMatch Enrichment Engine v7 - Final","timestamp":"2025-12-09T20:50:59.878Z","elapsed":3}
+{"level":"info","message":"════════════════════════════════════════════════════════════","timestamp":"2025-12-09T20:50:59.889Z","elapsed":14}
+{"level":"info","message":"Account status","timestamp":"2025-12-09T20:51:00.949Z","elapsed":1074,"meta":{"credits":"$0.00"}}
+{"level":"info","message":"Queue analysis","timestamp":"2025-12-09T20:51:00.953Z","elapsed":1078,"meta":{"total":2,"new":0,"updates":1,"missing":1,"limit":5,"selected":2}}
+{"level":"info","message":"Queued (update)","timestamp":"2025-12-09T20:51:00.953Z","elapsed":1078,"meta":{"phone":"apple iphone 15 pro","sources":"8 → 9","newSources":1}}
+{"level":"info","message":"Queued (update)","timestamp":"2025-12-09T20:51:00.953Z","elapsed":1078,"meta":{"phone":"oneplus 13","sources":"9 → 9","newSources":0}}
+{"level":"info","message":"Processing queue","timestamp":"2025-12-09T20:51:00.954Z","elapsed":1079,"meta":{"count":1}}
+{"level":"info","message":"Filtering queue","timestamp":"2025-12-09T20:51:00.954Z","elapsed":1079,"meta":{"filter":"oneplus 13","matches":1}}
+{"level":"info","message":"[1/1] oneplus 13 (App: 1)","timestamp":"2025-12-09T20:51:00.958Z","elapsed":1083}
+{"level":"info","message":"Starting enrichment","timestamp":"2025-12-09T20:51:00.959Z","elapsed":1084,"meta":{"phone":"oneplus 13","reviewCount":9,"depth":0}}
+{"level":"info","message":"Sending prompt to LLM","timestamp":"2025-12-09T20:51:00.960Z","elapsed":1085,"meta":{"brand":"oneplus","model":"13","promptLength":224536}}
+{"level":"info","message":"Received response from LLM","timestamp":"2025-12-09T20:52:26.054Z","elapsed":86179,"meta":{"brand":"oneplus","model":"13","responseLength":4073}}
+{"level":"info","message":"Enrichment complete","timestamp":"2025-12-09T20:52:26.059Z","elapsed":86184,"meta":{"brand":"oneplus","model":"13","overallScore":8.91,"attributesCount":7}}
+{"level":"info","message":"Enrichment complete","timestamp":"2025-12-09T20:52:26.060Z","elapsed":86185,"meta":{"phone":"oneplus 13","score":8.91,"category":"flagship","confidence":0.999,"ms":85100}}
+{"level":"info","message":"Done","timestamp":"2025-12-09T20:52:26.063Z","elapsed":86188,"meta":{"phone":"oneplus 13","reviews":9,"score":8.91,"conf":"99.9%"}}
+{"level":"info","message":"Report generated","timestamp":"2025-12-09T20:52:26.065Z","elapsed":86190,"meta":{"path":"enrichment-report.md"}}
+{"level":"info","message":"════════════════════════════════════════════════════════════","timestamp":"2025-12-09T20:52:26.065Z","elapsed":86190}
+{"level":"info","message":"Pipeline complete","timestamp":"2025-12-09T20:52:26.065Z","elapsed":86190,"meta":{"totalReviews":9,"success":1,"total":1}}

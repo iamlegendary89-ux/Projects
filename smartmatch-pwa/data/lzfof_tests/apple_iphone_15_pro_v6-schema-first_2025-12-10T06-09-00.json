@@ -1,0 +1,86 @@
+{
+  "variant": "v6-schema-first",
+  "phone": "apple iphone 15 pro",
+  "timestamp": "2025-12-10T06:09:00.797Z",
+  "model": "tngtech/deepseek-r1t2-chimera:free",
+  "metrics": {
+    "promptLength": 243698,
+    "promptTokensEstimate": 76156,
+    "actualTokens": 68049,
+    "promptTokens": 65505,
+    "completionTokens": 2544,
+    "elapsedMs": 154321
+  },
+  "result": {
+    "summary_1_page": "The Apple iPhone 15 Pro features a titanium design that's lighter and more durable than previous models, alongside the new USB-C port for universal charging. Powered by the A17 Pro chip, it delivers top-tier performance for gaming and multitasking. The camera system includes a 48MP main sensor with 24MP default output, improved low-light capabilities, and excellent video recording, though it lacks the Pro Max's 5x zoom. The 6.1-inch OLED display offers 120Hz ProMotion and up to 2000 nits brightness. Battery life lasts up to 13 hours of active use, but charging remains slow at 20W. iOS 17 provides a clean experience with at least five years of software updates. However, the base model starts at $999 with only 128GB storage, and no charger is included.",
+    "pros": [
+      "Titanium design makes the phone lighter and more durable (TechRadar, NotebookCheck)",
+      "USB-C port enables universal charging and faster data transfer (Android Authority, TechRadar)",
+      "A17 Pro chip offers best-in-class performance for gaming and productivity (GSMArena, Tom's Guide)",
+      "Advanced camera system with 48MP sensor and improved video capabilities (DXOMark, PhoneArena)",
+      "iOS 17 with long-term software support and regular updates (TechRadar, Android Central)"
+    ],
+    "cons": [
+      "Slow charging speeds (20W) take 90 minutes for full charge (Android Authority, PhoneArena)",
+      "No charger included in the box despite USB-C transition (TechRadar, NotebookCheck)",
+      "Overheating issues during sustained performance loads (NotebookCheck, Tom's Guide)",
+      "High starting price of $999 for the base 128GB model (Android Authority, Tom's Guide)",
+      "Limited 3x optical zoom compared to Pro Max's 5x capability (Tom's Guide, Android Central)"
+    ],
+    "attributes": [
+      {
+        "name": "Camera",
+        "score": 9.45,
+        "explanation": "Excellent photo and video quality with 48MP main sensor, 24MP default output, and improved low-light performance. Scores 154 on DXOMark but lacks Pro Max's 5x zoom (DXOMark, TechRadar)."
+      },
+      {
+        "name": "Battery Endurance",
+        "score": 8.5,
+        "explanation": "Lasts up to 12.97 hours of active use with efficient A17 Pro chip. Slow 20W charging limits quick top-ups (GSMArena, PhoneArena)."
+      },
+      {
+        "name": "Performance",
+        "score": 9.8,
+        "explanation": "A17 Pro chip dominates benchmarks (Geekbench 7172 multi-core), handles intensive tasks effortlessly, though throttles under sustained load (GSMArena, NotebookCheck)."
+      },
+      {
+        "name": "Display",
+        "score": 9.26,
+        "explanation": "Bright 6.1-inch OLED with 120Hz ProMotion, 2000 nits HBM peak, and excellent color accuracy. Scores 151 on DXOMark (DXOMark, GSMArena)."
+      },
+      {
+        "name": "Software Experience",
+        "score": 9.5,
+        "explanation": "Clean iOS 17 interface with at least five years of updates, though less customizable than Android (TechRadar, Android Central)."
+      },
+      {
+        "name": "Design & Build",
+        "score": 9.7,
+        "explanation": "Premium titanium build reduces weight, IP68 rating, and refined edges improve grip (TechRadar, NotebookCheck)."
+      },
+      {
+        "name": "Longevity Value",
+        "score": 9,
+        "explanation": "Apple's update policy ensures 5+ years of support, high resale value, but 128GB base storage may limit future use (Android Central, TechRadar)."
+      }
+    ],
+    "antutu": 1566329,
+    "geekbench": 7172,
+    "dxocamera": 154,
+    "dxodisplay": 151,
+    "batteryActiveUse": 12.97,
+    "softwareSupportYears": 5,
+    "currentPrice": {
+      "usd": "999",
+      "eur": "999",
+      "gbp": "949",
+      "inr": null
+    },
+    "launchPrice": {
+      "usd": "999",
+      "eur": "999",
+      "gbp": "999",
+      "inr": null
+    }
+  }
+}

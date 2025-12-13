@@ -1,0 +1,80 @@
+{
+  "variant": "v7-optimized",
+  "run": 2,
+  "phone": "apple iphone 15 pro",
+  "timestamp": "2025-12-10T09:12:37.500Z",
+  "model": "tngtech/deepseek-r1t2-chimera:free",
+  "metrics": {
+    "promptLength": 247860,
+    "promptTokens": 66875,
+    "completionTokens": 1860,
+    "elapsedMs": 70711
+  },
+  "result": {
+    "summary_1_page": "The iPhone 15 Pro receives widespread praise for its premium titanium design reducing weight (187g) while maintaining durability, with all reviewers highlighting the welcome addition of USB-C replacing Lightning (Android Authority, GSMArena, PhoneArena). Performance is exceptional thanks to the 3nm A17 Pro chip, achieving Geekbench multi-core scores around 7200, though some thermal throttling occurs under sustained loads (NotebookCheck, TechRadar). The camera system excels in daylight and video with DXOMark's 154 score, particularly praised for portrait modes and 24MP default shots, though low-light performance and ultrawide quality draw criticism (DXOMark, Android Central). Battery life averages 12-13 hours of active use (GSMArena), but 20W charging is considered slow versus competitors. iOS 17 offers polished software with 5+ years of updates, though customization remains limited versus Android. Key drawbacks include the high starting price ($999), limited 128GB base storage, and Pro Max-exclusive 5x telephoto creating segmentation (Tom's Guide, TechRadar).",
+    "pros": [
+      "Titanium design reduces weight by 19g vs. predecessor while improving durability (GSMArena, NotebookCheck)",
+      "USB-C port enables faster data transfers (10Gbps) and universal charging compatibility (Android Authority, TechRadar)",
+      "A17 Pro chip delivers class-leading performance (Geekbench 7200 multi-core) (NotebookCheck, Tom's Guide)",
+      "Main camera excels in daylight/video with 24MP processing and advanced ProRes features (DXOMark, PhoneArena)",
+      "iOS 17 provides smooth experience with 5+ years of software updates (Android Central, TechRadar)"
+    ],
+    "cons": [
+      "20W charging is slow compared to Android rivals (90+ minute full charge) (GSMArena, PhoneArena)",
+      "Base model starts at 128GB storage despite Pro branding (PhoneArena, Tom's Guide)",
+      "No 5x telephoto camera unlike Pro Max model (Android Authority, TechRadar)",
+      "Thermal throttling occurs during extended gaming/video sessions (NotebookCheck, Android Central)",
+      "High starting price ($999) noted by 4+ sources (Tom's Guide, DXOMark, TechRadar)"
+    ],
+    "attributes": [
+      {
+        "name": "Camera",
+        "score": 9.15,
+        "explanation": "DXOMark 154. Main 48MP sensor praised for daylight/video (PhoneArena, TechRadar), but low-light and ultrawide performance criticized (Android Authority, GSMArena)"
+      },
+      {
+        "name": "Battery Endurance",
+        "score": 7.25,
+        "explanation": "GSMArena measured 12.97h active use. Slow 20W charging (90min full) criticized by 4 sources (PhoneArena, NotebookCheck)"
+      },
+      {
+        "name": "Performance",
+        "score": 9.1,
+        "explanation": "Geekbench 7172 multi-core (NotebookCheck). Thermal throttling to 85% noted under sustained loads (GSMArena, TechRadar)"
+      },
+      {
+        "name": "Display",
+        "score": 9.05,
+        "explanation": "DXOMark Display 151. 2000-nit HDR praised, but PWM flickering at low brightness noted (NotebookCheck, PhoneArena)"
+      },
+      {
+        "name": "Software Experience",
+        "score": 8.9,
+        "explanation": "iOS 17 with 5+ years updates (TechRadar). Minor bugs post-launch required patches (Android Authority, GSMArena)"
+      },
+      {
+        "name": "Design & Build",
+        "score": 9.3,
+        "explanation": "Titanium frame (187g) praised for premium feel (PhoneArena, Tom's Guide). IP68 rating standard (All sources)"
+      },
+      {
+        "name": "Longevity Value",
+        "score": 8.2,
+        "explanation": "5+ years software support. High $999 price criticized by 5 sources (Tom's Guide, DXOMark, Android Central)"
+      }
+    ],
+    "antutu": 1566329,
+    "geekbench": 7172,
+    "dxocamera": 154,
+    "dxodisplay": 151,
+    "batteryActiveUse": 12.97,
+    "softwareSupportYears": 5,
+    "currentPrice": {
+      "usd": "$999",
+      "eur": "€733"
+    },
+    "launchPrice": {
+      "usd": "$999"
+    }
+  }
+}

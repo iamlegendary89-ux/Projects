@@ -1,0 +1,174 @@
+{
+    "cases": [
+        {
+            "id": "specs-type",
+            "input": [
+                "1_gsmarena_specs"
+            ],
+            "expected": {
+                "wordCount": {
+                    "min": 500,
+                    "max": 1200
+                },
+                "fileSize": {
+                    "min": 3,
+                    "max": 6
+                },
+                "minContentLength": 200
+            }
+        },
+        {
+            "id": "dxomark-type",
+            "input": [
+                "4_dxomark_review"
+            ],
+            "expected": {
+                "wordCount": {
+                    "min": 200,
+                    "max": 1000
+                },
+                "fileSize": {
+                    "min": 4,
+                    "max": 12
+                },
+                "minContentLength": 200
+            }
+        },
+        {
+            "id": "gsmarena-review",
+            "input": [
+                "2_gsmarena_review"
+            ],
+            "expected": {
+                "wordCount": {
+                    "min": 2000,
+                    "max": 27000
+                },
+                "fileSize": {
+                    "min": 12,
+                    "max": 80
+                },
+                "minContentLength": 500
+            }
+        },
+        {
+            "id": "notebookcheck-review",
+            "input": [
+                "notebookcheck_review"
+            ],
+            "expected": {
+                "wordCount": {
+                    "min": 2000,
+                    "max": 27000
+                },
+                "fileSize": {
+                    "min": 12,
+                    "max": 80
+                },
+                "minContentLength": 500
+            }
+        },
+        {
+            "id": "techradar-review",
+            "input": [
+                "techradar_review"
+            ],
+            "expected": {
+                "wordCount": {
+                    "min": 2000,
+                    "max": 13500
+                },
+                "fileSize": {
+                    "min": 12,
+                    "max": 80
+                },
+                "minContentLength": 500
+            }
+        },
+        {
+            "id": "phonearena-review",
+            "input": [
+                "phonearena_review"
+            ],
+            "expected": {
+                "wordCount": {
+                    "min": 2000,
+                    "max": 10500
+                },
+                "fileSize": {
+                    "min": 12,
+                    "max": 80
+                },
+                "minContentLength": 500
+            }
+        },
+        {
+            "id": "androidcentral-review",
+            "input": [
+                "androidcentral_review"
+            ],
+            "expected": {
+                "wordCount": {
+                    "min": 2000,
+                    "max": 10500
+                },
+                "fileSize": {
+                    "min": 12,
+                    "max": 80
+                },
+                "minContentLength": 500
+            }
+        },
+        {
+            "id": "theverge-review",
+            "input": [
+                "theverge_review"
+            ],
+            "expected": {
+                "wordCount": {
+                    "min": 2000,
+                    "max": 9000
+                },
+                "fileSize": {
+                    "min": 12,
+                    "max": 80
+                },
+                "minContentLength": 500
+            }
+        },
+        {
+            "id": "unknown-source",
+            "input": [
+                "random_website"
+            ],
+            "expected": {
+                "wordCount": {
+                    "min": 2000,
+                    "max": 7875
+                },
+                "fileSize": {
+                    "min": 12,
+                    "max": 80
+                },
+                "minContentLength": 500
+            }
+        },
+        {
+            "id": "empty-string",
+            "input": [
+                ""
+            ],
+            "expected": {
+                "wordCount": {
+                    "min": 2000,
+                    "max": 7875
+                },
+                "fileSize": {
+                    "min": 12,
+                    "max": 80
+                },
+                "minContentLength": 500
+            }
+        }
+    ]
+}

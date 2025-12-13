@@ -1,0 +1,76 @@
+{
+    "cases": [
+        {
+            "id": "gsmarena-specs-samsung",
+            "input": [
+                "Samsung",
+                "Galaxy S25",
+                "gsmarena_specs"
+            ],
+            "expected": [
+                "site:gsmarena.com Samsung Galaxy S25 specs -forum -intitle:\"edge\" -inurl:edge -intitle:\"fe\" -inurl:fe -intitle:\"ultra\" -inurl:ultra -intitle:\"plus\" -inurl:plus -intitle:\"+\" -inurl:+"
+            ],
+            "description": "GSMArena specs for Galaxy S25 with exclusions"
+        },
+        {
+            "id": "gsmarena-review-samsung",
+            "input": [
+                "Samsung",
+                "Galaxy S25 Ultra",
+                "gsmarena_review"
+            ],
+            "expected": [
+                "site:gsmarena.com Samsung Galaxy S25 Ultra review -forum"
+            ],
+            "description": "GSMArena review - model contains variant so no exclusions"
+        },
+        {
+            "id": "phonearena-review",
+            "input": [
+                "Apple",
+                "iPhone 16 Pro",
+                "phonearena_review"
+            ],
+            "expected": [
+                "site:phonearena.com Apple iPhone 16 Pro review"
+            ],
+            "description": "PhoneArena review basic query"
+        },
+        {
+            "id": "dxomark-review",
+            "input": [
+                "Google",
+                "Pixel 9 Pro",
+                "dxomark_review"
+            ],
+            "expected": [
+                "site:dxomark.com Google Pixel 9 Pro"
+            ],
+            "description": "DxOMark review query"
+        },
+        {
+            "id": "theverge-review",
+            "input": [
+                "OnePlus",
+                "13",
+                "theverge_review"
+            ],
+            "expected": [
+                "site:theverge.com OnePlus 13 review -intitle:\"r\" -inurl:r -intitle:\"pro\" -inurl:pro"
+            ],
+            "description": "TheVerge review with OnePlus 13 exclusions"
+        },
+        {
+            "id": "unknown-source",
+            "input": [
+                "Xiaomi",
+                "14 Ultra",
+                "custom_review"
+            ],
+            "expected": [
+                "Xiaomi 14 Ultra custom review review"
+            ],
+            "description": "Fallback for unknown source type"
+        }
+    ]
+}

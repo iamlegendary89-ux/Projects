@@ -1,0 +1,44 @@
+{
+    "cases": [
+        {
+            "id": "no-credentials",
+            "input": [
+                "https://example.com/test",
+                "",
+                ""
+            ],
+            "expected": false,
+            "description": "Returns false when credentials are missing"
+        },
+        {
+            "id": "empty-access-key",
+            "input": [
+                "https://example.com/test",
+                "",
+                "secret123"
+            ],
+            "expected": false,
+            "description": "Returns false when access key is empty"
+        },
+        {
+            "id": "empty-secret-key",
+            "input": [
+                "https://example.com/test",
+                "access123",
+                ""
+            ],
+            "expected": false,
+            "description": "Returns false when secret key is empty"
+        },
+        {
+            "id": "invalid-credentials-real-call",
+            "input": [
+                "https://example.com/test-page",
+                "invalid-access-key",
+                "invalid-secret-key"
+            ],
+            "expected": false,
+            "description": "Returns false for invalid credentials (real network call to Archive.org)"
+        }
+    ]
+}

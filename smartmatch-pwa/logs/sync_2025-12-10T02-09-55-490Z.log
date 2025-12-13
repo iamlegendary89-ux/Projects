@@ -1,0 +1,82 @@
+[dotenv@17.2.3] injecting env (0) from .env.local -- tip: ⚙️  write to custom object with { processEnv: myObject }
+
+📡 [Telemetry] Initialized for smartmatch-sync (production)
+➡️  Starting: sync_workflow
+ℹ️ Starting SmartMatch Sync...
+ℹ️ Found 6 phones needing sync.
+➡️  Starting: sync_phone_apple_iphone_15_pro
+⚠️ Schema validation failed for apple_iphone_15_pro.json: {
+  _errors: [],
+  data: {
+    _errors: [],
+    overallScore: { _errors: [Array] },
+    attributes: { _errors: [], Performance: [Object] }
+  }
+}
+⚠️ Skipping apple_iphone_15_pro: Invalid or missing enriched data.
+❌ Failed: sync_phone_apple_iphone_15_pro (5.55ms) - Unknown error
+➡️  Starting: sync_phone_apple_iphone_17_pro_max
+ℹ️ Successfully processed apple_iphone_17_pro_max
+✅ Completed: sync_phone_apple_iphone_17_pro_max (1.60ms)
+➡️  Starting: upload_images_apple_iphone_17_pro_max
+✅ Completed: upload_images_apple_iphone_17_pro_max (145.33ms)
+➡️  Starting: sync_phone_samsung_galaxy_s25
+ℹ️ Successfully processed samsung_galaxy_s25
+✅ Completed: sync_phone_samsung_galaxy_s25 (1.29ms)
+➡️  Starting: upload_images_samsung_galaxy_s25
+✅ Completed: upload_images_samsung_galaxy_s25 (115.86ms)
+➡️  Starting: sync_phone_oneplus_13
+ℹ️ Successfully processed oneplus_13
+✅ Completed: sync_phone_oneplus_13 (0.81ms)
+➡️  Starting: upload_images_oneplus_13
+✅ Completed: upload_images_oneplus_13 (120.37ms)
+➡️  Starting: sync_phone_samsung_galaxy_z_fold_7
+ℹ️ Successfully processed samsung_galaxy_z_fold_7
+✅ Completed: sync_phone_samsung_galaxy_z_fold_7 (0.80ms)
+➡️  Starting: upload_images_samsung_galaxy_z_fold_7
+✅ Completed: upload_images_samsung_galaxy_z_fold_7 (135.12ms)
+➡️  Starting: sync_phone_apple_iphone_se_4
+ℹ️ Successfully processed apple_iphone_se_4
+✅ Completed: sync_phone_apple_iphone_se_4 (0.83ms)
+➡️  Starting: upload_images_apple_iphone_se_4
+✅ Completed: upload_images_apple_iphone_se_4 (134.47ms)
+➡️  Starting: batch_upsert_raw
+ℹ️ Upserted 5 raw records to processed_phones.
+✅ Completed: batch_upsert_raw (313.76ms)
+➡️  Starting: batch_upsert_dynamic
+ℹ️ Upserted 5 dynamic records to dynamic_phones.
+✅ Completed: batch_upsert_dynamic (120.24ms)
+➡️  Starting: export_data
+ℹ️ Exported processed_phones -> processed_phones.json
+ℹ️ Exported dynamic_phones -> dynamic_phones.json
+ℹ️ Exported phones -> phones.json
+ℹ️ Exported processing_metadata -> processing_metadata.json
+ℹ️ Exported reviews -> reviews.json
+✅ Completed: export_data (524.71ms)
+ℹ️ Sync complete.
+✅ Completed: sync_workflow (2111.25ms)
+
+📊 [Telemetry] Session Summary:
+----------------------------------------
+Counters:
+  db.upsert.count.dynamic_phones           : 5
+  db.upsert.count.processed_phones         : 5
+  step.batch_upsert_dynamic.success        : 1
+  step.batch_upsert_raw.success            : 1
+  step.export_data.success                 : 1
+  step.process_phone.failure               : 1
+  step.process_phone.success               : 5
+  step.upload_images.success               : 5
+  workflow.run.success                     : 1
+
+Histograms (Avg / Max):
+  db.upsert.duration.dynamic_phones        : 120.00ms / 120.00ms
+  db.upsert.duration.processed_phones      : 314.00ms / 314.00ms
+  step.batch_upsert_dynamic.duration       : 120.00ms / 120.00ms
+  step.batch_upsert_raw.duration           : 314.00ms / 314.00ms
+  step.export_data.duration                : 525.00ms / 525.00ms
+  step.process_phone.duration              : 1.83ms / 6.00ms
+  step.upload_images.duration              : 130.20ms / 145.00ms
+  workflow.run.duration                    : 2111.00ms / 2111.00ms
+----------------------------------------
+

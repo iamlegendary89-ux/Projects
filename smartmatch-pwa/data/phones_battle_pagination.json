@@ -1,0 +1,16 @@
+{
+    "brands": {
+        "apple": {
+            "iphone_15_pro": {
+                "releaseDate": "2023-09-22",
+                "urls": {
+                    "gsmarena_review": [
+                        {
+                            "archive": "https://web.archive.org/web/20231001000000/https://www.gsmarena.com/apple_iphone_15_pro-review-2618.php"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

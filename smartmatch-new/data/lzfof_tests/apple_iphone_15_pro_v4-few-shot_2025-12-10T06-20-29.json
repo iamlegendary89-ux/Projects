@@ -1,0 +1,13 @@
+{
+  "variant": "v4-few-shot",
+  "phone": "apple iphone 15 pro",
+  "timestamp": "2025-12-10T06:20:29.430Z",
+  "model": "tngtech/deepseek-r1t2-chimera:free",
+  "metrics": {
+    "promptLength": 247711,
+    "elapsedMs": 1760
+  },
+  "result": {
+    "error": "API error (429): {\"error\":{\"message\":\"Provider returned error\",\"code\":429,\"metadata\":{\"raw\":\"tngtech/deepseek-r1t2-chimera:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumu"
+  }
+}

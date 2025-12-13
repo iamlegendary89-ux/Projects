@@ -1,0 +1,206 @@
+iPhone 15 Pro IntroThis year, Apple has made quite a few big changes to the iPhone 15 Pro: a switch to titanium which made the phone so much lighter, some welcome camera changes that can up your photo game, and the world's first 3nm chip as well as a number of smaller improvements.But it seems that as cool as those changes are it is actually the simple switch to a USB-C port — the same port all other gadgets use — that most people are really excited for.And while Apple has tweaked and changed many things, battery life, the one area where everyone was hoping to see improvement, well... it hasn't improved much, if at all.
+Apple iPhone 15 Pro
+6.1-inch
+Triple camera
+3274 mAh
+8GB
+$710 at GameStop,Inc.Also, reminder: if you are looking for that cool new 5X zoom lens on this smaller iPhone 15 Pro... well, it's not here! That lens is only available on the larger Pro Max model, and you can learn more about it in our iPhone 15 Pro Max review.
+Apple iPhone 15 Pro
+7.4
+PhoneArena Rating
+Battery Life
+5.7
+Photo Quality
+7.4
+Video Quality
+6.7
+Charging
+5.1
+Performance Heavy
+6.6
+Performance Light
+8
+Display Quality
+8
+Design
+8
+Wireless Charging
+8
+Biometrics
+8
+Audio
+8
+Software
+10
+How do we rate?
+/
+All our scores
+10.0
+User Score
+(1 review)
+Add
+Review
+We may receive a small affiliate commission if you purchase from these offers.
+GameStop,Inc.$710
+BestBuyU.S$730
+Target$950
+As you can see above, the iPhone 15 Pro total score is now lower than one might expect. That is not because of some new iPhone flaw, but because we have implemented a new rating system at PhoneArena that gives readers a better idea of the performance of a phone across different categories. Remember to look at the scores and compare them to the average for the class, and we belive you will find these scores tremendously useful. Learn more about the new PhoneArena Review Scoring system here.What’s new in the iPhone 15 Pro:Lighter titanium bodyUSB-C port instead of LightningNew and faster A17 Pro chip, same storage configurationsSame 6.1" screen size, but with smaller bezelsImproved cameras, automatic portrait modeNew Action Button instead of Mute switchSame-ish battery lifeUnchanged charging speedsNew colorsTable of Contents:SpecsDesign and ColorsDisplayCameraPerformanceSoftwareBattery and ChargingAudio QualitySummaryiPhone 15 Pro Unboxing
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/253299-image/iPhone-15-Pro-unboxing.webp?w=1" alt="(Image Credit - PhoneArena) iPhone 15 Pro has a USB-C cable, but no charger in the box - iPhone 15 Pro Review: enter the era of USB-C"/>
+(Image Credit - PhoneArena) iPhone 15 Pro has a USB-C cable, but no charger in the box
+The box the iPhone 15 Pro comes in is nice and slim, but that also means that you don't get a charger there.You do get a white, braided USB-C cable, however, this cable only supports USB 2 speeds, while the iPhone itself supports the faster USB 3 standard. So if you want to connect this to an SSD and transfer files at faster rates, you'd need to buy a USB 3 cable separately.iPhone 15 Pro SpecsThe main highlights include the 3nm A17 Pro chip and the new USB-C portBefore we dive deeper in individual features, here is an overview of the iPhone 15 Pro specs:SpecsiPhone 15 ProSize and Weight146.6 x 70.6 x 8.25mm187 gramsDisplay6.1" OLED120Hz ProMotionSmaller bezelProcessorA17 Pro3nmRAM, Storage and Price8/128GB8/256GB8/512GB8/1TBLPDDR5SoftwareiOS 17Cameras48MP main12MP ultra12MP 3X zoom12MP frontBattery Size3,274 mAhCharging Speeds23W wired15W MagSafeiPhone 15 Pro Design & ColorsReduced weight and a new titanium frame
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/253026-image/Apple-iPhone-15-Pro-lineup-color-lineup-230912.webp" alt="The four new colors of the iPhone 15 Pro - iPhone 15 Pro Review: enter the era of USB-C"/>
+The four new colors of the iPhone 15 Pro
+The iPhone 15 Pro keeps the familiar compact 6.1-inch form factor, but while the overall shape and size remain similar, it is not exactly the same as the previous 14 Pro model.First, Apple switches to titanium: a more durable and lighter-weight material used for the railing of the phone (the internal frame is still aluminum). Titanium replaces the shiny stainless steel rails we had before, and the reduced weight alone makes it worth it. The darker models still catch fingerprint smudges, but the lighter models do not, so keep that in mind.Receive the latest Apple newsSubscribe
+By subscribing you agree to our terms and conditions and privacy policy.iPhone 15 colors: all the official hues
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/255720-image/BK6A8702-Edit.webp?w=1" alt="iPhone 15 Pro Review: enter the era of USB-C"/>
+Camera SpecsiPhone 15 ProiPhone 14 ProMain (Wide)8.25 mm7.85 mmTelephoto146.6 mm147.5 mmUltra-wide70.6 mm71.5 mmFront187 grams206 gramsThe other big change is the new USB-C port on the bottom. To that we say: finally!Apple has already been using USB-C for years on Macbooks and iPads, and Android phones also use a USB-C port, so this will definitely make our lives easier. No more cable clutter!You also get faster transfer rates via USB-C at 10Gbps speeds, an improvement of 20X over the slow Lightning connector. Keep in mind though that the USB-C cable included in the box does not support these faster transfer rates, but here is a selection of the best USB-C cables for iPhone 15 Pro if you need these faster speeds.
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/253834-image/BK6A7053.webp?w=1" alt="(Image Credit - PhoneArena) The new Action button - iPhone 15 Pro Review: enter the era of USB-C"/>
+(Image Credit - PhoneArena) The new Action button
+In terms of buttons, we have the familiar power (on the right) and volume (on the left) physical keys, but instead of the Mute Switch above the volume buttons, we now have the new Action Button.
+You quickly get the hang of it and it requires a long press to work, which is nice so that you don't accidentally do something while you fiddle with your phone in your pocket. It defaults to a mute switch function, but you can change it to launch the camera or... well, literally anything via the Shortcuts app. Some clever suggestions what to do with the Action button are to start Google Assistant (smarter than Siri!), or to start your Spotify music playback. Let us know in the comments what have you set the Action button for.iPhone 15 Pro Display
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/253832-image/BK6A7051.webp?w=1" alt="(Image Credit - PhoneArena) iPhone 15 Pro has thinner borders around the screen compared to 14 Pro on the right - iPhone 15 Pro Review: enter the era of USB-C"/>
+(Image Credit - PhoneArena) iPhone 15 Pro has thinner borders around the screen compared to 14 Pro on the right
+The iPhone 15 Pro sticks with a 6.1-inch screen size just as previous models, but the borders around the screen are now slimmer by one third. This is subtle but it helps achieve a more modern, edge-to-edge look.The screen technology has not changed much: it's OLED, it's Retina, and it supports 120Hz ProMotion for buttery smooth scrolling. And yes, the Always-On feature from the previous model is of course also available.Recommended StoriesDisplay Benchmarks
+Screen measurementsColor charts
+Bright max(100%APL)Higher is betterBright minLower is betterColor tempGammaDelta E rgbcmyLower is betterDelta E grayscaleLower is betterApple iPhone 15 Pro1069(Good)2(Good)69022.252.51(Good)7.08(Average)Apple iPhone 14 Pro1048(Good)1.9(Good)66662.231.87(Excellent)5.45(Average)Samsung Galaxy S231076(Good)0.9(Excellent)65601.912.82(Good)7.95(Average)Google Pixel 7934(Good)1.9(Good)66292.231.32(Excellent)4.63(Average)View
+all
+Color gamutColor accuracyGrayscale accuracyThe CIE 1931 xy color gamut chart represents the set(area)of colors that a display can reproduce,with the sRGB colorspace(the highlighted triangle)serving as reference.The chart also provides a visual representation of a display's color accuracy. The small squares across the boundaries of the triangle are the reference points for the various colors, while the small dots are the actual measurements. Ideally, each dot should be positioned on top of its respective square. The 'x:CIE31' and 'y:CIE31' values in the table below the chart indicate the position of each measurement on the chart. 'Y' shows the luminance (in nits) of each measured color, while 'Target Y' is the desired luminance level for that color. Finally, 'ΔE 2000' is the Delta E value of the measured color. Delta E values of below 2 are ideal.These measurements are made using Portrait Displays' CalMAN calibration software.Apple iPhone 15 ProApple iPhone 14 ProSamsung Galaxy S23Google Pixel 7The Color accuracy chart gives an idea of how close a display's measured colors are to their referential values. The first line holds the measured (actual) colors, while the second line holds the reference (target) colors. The closer the actual colors are to the target ones, the better.These measurements are made using Portrait Displays' CalMAN calibration software.Apple iPhone 15 ProApple iPhone 14 ProSamsung Galaxy S23Google Pixel 7The Grayscale accuracy chart shows whether a display has a correct white balance(balance between red,green and blue)across different levels of grey(from dark to bright).The closer the Actual colors are to the Target ones,the better.These measurements are made usingPortrait Displays' CalMAN calibration software.
+Apple iPhone 15 Pro
+Apple iPhone 14 Pro
+Samsung Galaxy S23
+Google Pixel 7
+View
+allYou can see that the maximum brightness level on the iPhone 15 Pro remains about the same as on the previous model, but the one improvement we hoped to see - a lower minimum brightness for more comfortable night use - has not made it.Interestingly, in our measurements, the color balance is a bit worse on this new model, the difference is not huge but we were surprised to see this.And for biometrics, no change: we still have Face ID built in the Dynamic Island.iPhone 15 Pro CameraA familiar triple camera system with tweaks and tune-ups!
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/255713-image/BK6A8694.webp?w=1" alt="(Image Credit - PhoneArena) - iPhone 15 Pro Review: enter the era of USB-C"/>
+(Image Credit - PhoneArena)
+Speaking of cameras, the ones on the iPhone 15 Pro have all gone through our new in-depth camera testing, with each getting its own score. You will find our iPhone 15 Pro's camera score in this review's 'Camera' section. Feel free to check out our PhoneArena Camera Score benchmark page for more details about our scoring process.The iPhone 15 Pro comes with a very familiar looking triple rear camera system with a main 1X shooter, an ultra-wide camera and a 3X telephoto lens.In terms of hardware and sensor sizes, all three cameras appear to have the same specs as the iPhone 14 Pro.28mm and 35mm
+28mm focal length or 1.2X
+35mm or 1.5X
+However, thanks to the new A17 Pro chip and a new processing pipeline, the iPhone 15 Pro now supports sensor crop at 1.2X and 1.5X zoom, aka 28mm and 35mm focal lengths. Apple says these are practically two new "lenses", and we can indeed confirm that the quality is very similar to that of a dedicated physical camera lens. Best of all, these new "lenses" are perfect for everyday photography. The standard 24mm 1X camera is just a bit too wide and we have immediately changed the default setting on the iPhone 15 Pro to 1.5X which is so much better.24MP photos with more detail
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/254216-image/iphone-15-pm-24mp-crop.webp"/>
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/254217-image/iphone-14-12mp-crop.webp"/>
+< Crop from iPhone 15 Pro Max 24MP photo
+Crop from 14 Por Max 12MP photo >Another new processing trick that makes a huge difference for quality is what Apple calls Super High Res picture mode. Essentially, this is a new default resolution: the iPhone 15 Pro now shoots pictures in 24-megapixel size, up from 12MP on previous models. This is a great middle ground between low-detail 12MP shots and high-detail but very large 48MP files.
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/254214-image/iPhone-15-PM-24MP-crop-detail.webp"/>
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/254215-image/iPhone-14-PM-12MP-crop-detail.webp"/>
+< Crop from iPhone 15 Pro Max 24MP photo
+Crop from iPhone 14 Pro Max 12MP photo >With this new image format, the excessive over-sharpening from the 14 Pro is now also fixed. This is great news and it elevates the camera quality of the iPhone 15 Pro so much higher than before.Zoom Quality
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/254218-image/3X-zoom-crop-pro.webp"/>
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/254219-image/3X-zoom-crop-pro-max.webp"/>
+< 3X zoom (crop) on iPhone 15 Pro
+3X zoom (crop) on iPhone 15 Pro Max >The iPhone 15 Pro keeps the familiar 3X zoom lens. Some people are really excited about the 5X zoom lens on the Pro Max model, which you don't get here, but that one comes at the expense of quality in the 3X to 4.9X zoom range, and even at 5X zoom level, the iPhone 15 Pro model has a good amount of detail and is not too far behind the 15 Pro Max.If you often take pictures at 10X zoom or further, then sure, the iPhone 15 Pro Max will take noticeably better shots, but if you rarely go that far, you will still be very happy with the 3X zoom lens and you can also use it for portrait mode photos.There are no big changes to the ultra-wide camera and it still takes photos at the same 12-megapixel resolution as before. This is one lens we expect Apple to upgrade next year on the iPhone 16 Pro series.
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/254220-image/iPhone-15-Pro-IMG-0053-2.webp"/>
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/254221-image/iPhone-14-Pro-IMG-0041.webp"/>
+< iPhone 15 Pro
+iPhone 14 Pro >There are subtle tweaks to front camera images with improved skin tones and HDR, and most of the cases you will not notice any difference in quality, but every once in a while you get to see the new iPhone 15 Pro capture a much better looking selfie when the 14 Pro fails.Low Light Camera Quality
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/254223-image/15pro-night-crop.webp"/>
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/254224-image/14pro-night-crop.webp"/>
+< Crop from iPhone 15 Pro main camera
+Crop from iPhone 14 Pro main camera >In low light, the iPhone 15 Pro automatically captures 12MP images and the new 24MP resolution is not available. The reason for that is that Apple combines four pixels into one with the quad pixel binning process to reduce noise at night. But despite the 15 Pro having the same 12MP resolution as the previous model, in low light images look a bit cleaner. It's not a huge difference, but if you look closer you will spot less noise and less oversharpening which is a good thing. You really need to pixel peep for that though.Unfortunately, despite improvements in the lens coating, you still get lots of flaring when you point the iPhone 15 Pro towards a bright light at night.
+Ultra-wide
+Ultra-wide
+The ultra-wide camera captures good looking shots at night too.Video Quality
+Video quality on the iPhone 15 Pro is improved in some very minor ways, but it remains ahead of the competition, so Apple is in no rush to improve here.The main camera records up to 4K60 footage with clean, crisp detail and excellent video stabilization. You also have smooth transition between the various cameras.
+But if you are a professional you know the one feature you are coming for: ProRes video. And yes, you can record to an external SSD super easy, just plug it in and you see a USB-C signage appear that indicates that the footage goes directly to the SSD. Keep in mind that those files are gigantic, but the quality is really something else and it gives all the freedom to edit in post.The iPhone 15 Pro will also support Spatial Video, which is captured with both the ultra-wide and main cameras shooting simultaneously to capture depth. You can then re-live those video moments in a very immersive way on the Apple Vision Pro headset. That feature, however, is only coming later this year and is not immediately available.
+Apple iPhone 15 Pro
+PhoneArena Camera Score
+BEST 158
+153
+PhoneArena Photo Score
+BEST 165
+156
+Main (wide)
+BEST 87
+82
+Zoom
+BEST 29
+23
+Ultra-wide
+BEST 26
+23
+Selfie
+BEST 30
+27
+PhoneArena Video Score
+BEST 155
+149
+Main (wide)
+BEST 83
+78
+Zoom
+BEST 27
+22
+Ultra-wide
+BEST 24
+23
+Selfie
+BEST 28
+27
+Find out more details about photo and video scores for all phones we have tested on our PhoneArena Camera Score
+pageWe have rigorously tested the camera on the iPhone 15 Pro and above you can see the results of those tests. We carefully measure the performance of all cameras in various test scenes, ranking the performance across important metrics like exposure, subject exposure, color accuracy, detail, artifacts and more. We do these tests for both photos and videos. You can learn more about our PhoneArena Camera Score testing protocol here.iPhone 15 Pro Performance & BenchmarksWorld's first and finest 3nm chip inside
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/255707-image/BK6A8686.webp?w=1" alt="iPhone 15 Pro Review: enter the era of USB-C"/>
+Apple launches new chips with every iPhone release, but this year is special: the new Apple A17 Pro processor inside the iPhone 15 Pro makes the jump to a more advanced 3nm technology, which is a bigger leap than your average yearly upgrade.Better yet: Apple has booked practically the full manufacturing capacity of TSMC, the only foundry capable of making these super advanced chips, so it theoretically has a big advantage over the competition.This new manufacturing technology is cutting edge, and here are the exact improvements that Apple says we get:10% faster performance cores, fastest mobile CPU4-efficiency cores with unmatched with three times the performance per watt compared to competitionNeural engine 2X faster with 35 trillion ops per secondDedicated engines for Pro features - ProRes codec, Pro Display engine, AV1 decoder for more efficient video experiencePerformance Benchmarks:Geekbench 6SingleHigher is betterApple iPhone 15 Pro2920Apple iPhone 14 Pro2517Apple iPhone 13 Pro2300Samsung Galaxy S23 Ultra1971Google Pixel 7 Pro1412Geekbench 6MultiHigher is betterApple iPhone 15 Pro7447Apple iPhone 14 Pro6289Apple iPhone 13 Pro5732Samsung Galaxy S23 Ultra5115Google Pixel 7 Pro33033DMark Extreme(High)Higher is betterApple iPhone 15 Pro3628Apple iPhone 14 Pro3375Apple iPhone 13 Pro2659Samsung Galaxy S23 Ultra3828Google Pixel 7 Pro18363DMarkExtreme(Low)Higher is betterApple iPhone 15 Pro2801Apple iPhone 14 Pro2117Apple iPhone 13 Pro2080Samsung Galaxy S23 Ultra1951Google Pixel 7 Pro1292View allAs you can see, the iPhone 15 Pro really delivers with big improvements in CPU speeds. The GPU also does better for long-term use and scores nearly 30% higher in our testing.In the first weeks when it launched, an iOS bug left a few apps run rampant and overheat the iPhone. Thankfully, Apple quickly released iOS 17.0.3 that fixed those issues, and we no longer observe overheating issues.The iPhone 15 Pro now also comes with 8GB RAM, more than the 6GB RAM used in previous models, but the same LPDDR5 technology.You also have the new Qualcomm X70 modem here, which helps the phone get better and more consistent signal. You also have Wi-Fi 6E for the first time on an iPhone.Another thing to remember is that the iPhone 15 Pro only works with eSIM in the United States, so you cannot just pop in your physical SIM card. International models, however, still use a regular, physical SIM card.iPhone 15 Pro Software: iOS 17
+Personalized phone calls
+The new Journal app
+Make stickers out of your photos
+Live transcript of voice mail
+The iPhone 15 Pro launches with the new iOS 17 software, which all previous supported iPhones get as well.And remember, iOS 17 is making its way to even older models, going back to the iPhone XR.iOS 17 brings significant improvements to the Phone, Messages and FaceTime apps, plus a few smaller quality of life changes including better autocorrect (finally!), as well as a new way to trigger Siri by just saying “Siri” instead of “Hey Siri”.The changes to the Phone app will probably end up most noticeable as you can now now set a Contact Poster for yourself which will be displayed full-screen on other iPhones when they receive a call from you. NameDrop is another new trick where you just bring your iPhone close to another one to exchange contact info. And in the messages app, you will be able to reply with animated stickers created from your Live Photos, a nice personal touch to the experience.We also love the new Standby Mode where your phone will act like a mini home hub displaying useful information while it’s charging.Other new features include interactive widgets, mood tracking in the Health app, as well as a brand new journaling app.The best part of owning an iPhone is the software update support. Apple typically deliver five or even six years of software updates, so this means an iPhone 15 Pro will get the following:iOS 18 — 2024iOS 19 — 2025iOS 20 — 2026iOS 21 — 2027iOS 22 — 2028Talk about a future-proof device!iPhone 15 Pro BatteryNo changes and you may even see a downgrade
+Apple iPhone 15 Pro( 3274 mAh )
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/phones/84097-350/Apple-iPhone-15-Pro.webp?w=1"/>
+Battery Life Estimate
+5h
+43m
+Ranks #116 for phones
+tested in the past 2 years
+Average is
+7h
+3m
+Browsing
+14h
+54m
+Average is
+16h
+22m
+Video
+6h
+54m
+Average is
+10h
+1m
+Gaming
+8h
+51m
+Average is
+10h
+7m
+Charging speed
+25W
+Charger
+53%
+30 min
+1h
+42m
+Full charge
+Ranks #121 for phones released in the
+past 2
+years
+Wireless Charging
+15W
+Charger
+37%
+30 min
+2h
+Full charge
+Ranks #21 for phones released in the
+past 2
+years
+Find out more details about battery and charging for all phones we have tested on our
+PhoneArena Battery Score page
+The iPhone 15 Pro comes with a 3,274 mAh battery, which is ever so slightly larger (+2.3% larger) than the previous model.However, the actual iPhone 15 Pro battery life remains the same as on the previous model, at least according to the official iPhone 15 Pro battery life numbers by Apple:SpecsiPhone 15 ProiPhone 14 ProVideo PlaybackUp to 23 hoursUp to 23 hoursVideo Playback (Streamed)Up to 20 hoursUp to 20 hoursAudio PlaybackUp to 75 hoursUp to 75 hoursBut let's put this phone to the test and see if this is indeed the battery life you will see in real life.PhoneArena Battery Test Results:Video Streaming(hours)Higher is betterApple iPhone 15 Pro6h 54 minApple iPhone 15 Pro Max9h 45 minApple iPhone 14 Pro9h 14 minSamsung Galaxy S238h 6 minGoogle Pixel 79h 13 minWeb Browsing(hours)Higher is betterApple iPhone 15 Pro14h 54 minApple iPhone 15 Pro Max19h 20 minApple iPhone 14 Pro16h 18 minSamsung Galaxy S2315h 21 minGoogle Pixel 713h 56 min3D Gaming(hours)Higher is betterApple iPhone 15 Pro8h 51 minApple iPhone 15 Pro Max9h 36 minApple iPhone 14 Pro5h 38 minSamsung Galaxy S238h 1 minGoogle Pixel 76h 8 minView allIn our testing, the iPhone 15 Pro scored lower than the previous model, and chances are that this is because of the higher clock speed of the processor that puts an extra strain and you can feel the phone getting a bit warmer than usual. For just regular use, without much multitasking, you should see similar battery numbers on the 15 Pro as on the 14 Pro, but with more intense use, the newer 15 Pro would probably last you a bit less than before.iPhone 15 Pro Charging Speeds
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/253836-image/BK6A7055.webp?w=1" alt="iPhone 15 Pro - on top - now comes with a USB-C port (Image by PhoneArena) - iPhone 15 Pro Review: enter the era of USB-C"/>
+iPhone 15 Pro - on top - now comes with a USB-C port (Image by PhoneArena)
+Speaking of the charging situation... USB-C is in!This is a bigger deal than it may sound. USB-C on iPhones means we get closer to that one-cable-for-everything future, and we get far less cable clutter. But it also opens a world of possibilities. You can now easier connect an external drive directly to your iPhone or an SD card reader to transfer pictures from your DSLR or mirrorless camera to name just a few prospects.The iPhone 15 Pro unfortunately does NOT support faster charging speeds.Full ChargeLower is better15 Mins(%)Higher is better30 Mins(%)Higher is betterApple iPhone 15 Pro1h 42 min30%53%Apple iPhone 14 Pro1h 31 min31%60%View
+allOne bright spot however are the faster USB 3 transfer rates that go up to 10Gbps, nearly 20 times faster than before. Keep in mind, though, that you need a special cable for that and that cable is not included in the box.iPhone 15 Pro Audio Quality and HapticsApple tweaks the loudspeaker quality of iPhones a little bit every year, and the last bigger change happened with the iPhone 13 Pro. The iPhone 15 Pro introduces some very slight tweaks to audio quality, but essentially it sounds very similar to the previous model. For haptics, for years Apple has treated us to the Taptic Engine, which has been a gold standard with its nice and tight vibration feedback. No changes on that front in the iPhone 15 Pro.iPhone 15 Pro Summary
+<img src="https://web.archive.org/web/20250725230145im_/https://m-cdn.phonearena.com/images/reviews/255708-image/BK6A8688.webp?w=1" alt="(Image Credit - PhoneArena) - iPhone 15 Pro Review: enter the era of USB-C"/>
+(Image Credit - PhoneArena)
+The iPhone 15 Pro comes with a lighter weight, which is a bigger upgrade than you may think, and Apple has upgraded the camera fixing the annoying over-sharpening issue from the previous model.Other changes like the new USB-C port make life so much easier, and so does the new Action button. All of that also comes at the same starting price in the US, while in the UK and Europe Apple is even slashing the prices.At the end of the day, the iPhone 15 Pro is a nice upgrade, but with some very specific features that you may or may not care about, and it doesn't changes the battery life which most people would care about.

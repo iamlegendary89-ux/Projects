@@ -1,0 +1,150 @@
+{
+  "config": {
+    "version": "2.0",
+    "type": "phones-config",
+    "lastUpdated": "2025-11-08T13:26:23.348Z",
+    "description": "Smart phone configuration with targeted review URLs and images"
+  },
+  "brands": {
+    "apple": {
+      "iphone 15 pro": {
+        "releaseDate": "2025-11-09",
+        "urls": {
+          "gsmarena_specs": [
+            {
+              "cse": "https://www.gsmarena.com/apple_iphone_15_pro-12557.php",
+              "archive": "http://web.archive.org/web/20251012014338/https://www.gsmarena.com/apple_iphone_15_pro-12557.php"
+            }
+          ],
+          "gsmarena_review": [
+            {
+              "cse": "https://www.gsmarena.com/apple_iphone_15_pro_long_term-review-2692.php",
+              "archive": "http://web.archive.org/web/20241217094557/https://www.gsmarena.com/apple_iphone_15_pro_long_term-review-2692.php"
+            }
+          ],
+          "phonearena_review": [
+            {
+              "cse": "https://www.phonearena.com/reviews/apple-iphone-15-pro-review_id5848",
+              "archive": "http://web.archive.org/web/20250725230145/https://www.phonearena.com/reviews/apple-iphone-15-pro-review_id5848"
+            }
+          ],
+          "dxomark_camera": [
+            {
+              "cse": "https://www.dxomark.com/smartphones/Apple/iPhone-15-Pro",
+              "archive": "http://web.archive.org/web/20250613010424/https://www.dxomark.com/smartphones/Apple/iPhone-15-Pro"
+            }
+          ],
+          "quality_reviews": [
+            {
+              "cse": "https://www.tomsguide.com/phones/i-tested-the-iphone-15-pro-vs-galaxy-s24-ultra-vs-pixel-8-pro-vs-oneplus-12-for-a-solar-eclipse-face-off-heres-the-winner",
+              "archive": "http://web.archive.org/web/20250709032147/https://www.tomsguide.com/phones/i-tested-the-iphone-15-pro-vs-galaxy-s24-ultra-vs-pixel-8-pro-vs-oneplus-12-for-a-solar-eclipse-face-off-heres-the-winner"
+            },
+            {
+              "cse": "https://www.notebookcheck.net/Apple-iPhone-15-Pro-smartphone-in-review-High-end-phone-as-a-replacement-for-the-PlayStation.761070.0.html",
+              "archive": "http://web.archive.org/web/20250816091830/https://www.notebookcheck.net/Apple-iPhone-15-Pro-smartphone-in-review-High-end-phone-as-a-replacement-for-the-PlayStation.761070.0.html"
+            },
+            {
+              "cse": "https://www.notebookcheck.net/Apple-iPhone-15-Pro.755543.0.html",
+              "archive": "http://web.archive.org/web/20250821004933/https://www.notebookcheck.net/Apple-iPhone-15-Pro.755543.0.html"
+            },
+            {
+              "cse": "https://www.theverge.com/23879619/apple-iphone-15-pro-max-review",
+              "archive": "http://web.archive.org/web/20250915134802/https://www.theverge.com/23879619/apple-iphone-15-pro-max-review"
+            }
+          ]
+        },
+        "images": {
+          "hero": []
+        },
+        "metadata": {
+          "lastUpdated": "2025-11-10T04:44:55.195Z",
+          "imageCompleteness": 0
+        }
+      },
+      "iphone 14 pro": {
+        "releaseDate": "2022-09-16",
+        "urls": {
+          "gsmarena_specs": [],
+          "gsmarena_review": [],
+          "phonearena_review": [],
+          "dxomark_camera": [],
+          "quality_reviews": []
+        },
+        "images": {
+          "hero": []
+        },
+        "metadata": {
+          "lastUpdated": "2025-11-19T00:00:00.000Z",
+          "imageCompleteness": 0
+        }
+      },
+      "iphone 17 pro max": {
+        "releaseDate": "2025-11-09",
+        "urls": {
+          "gsmarena_specs": [
+            {
+              "cse": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+              "archive": "http://web.archive.org/web/20251009100151/https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php"
+            }
+          ],
+          "gsmarena_review": [
+            {
+              "cse": "https://www.gsmarena.com/apple_iphone_17_pro_max-review-2884.php",
+              "archive": "http://web.archive.org/web/20250929124242/https://www.gsmarena.com/apple_iphone_17_pro_max-review-2884.php"
+            }
+          ],
+          "phonearena_review": [
+            {
+              "cse": "https://www.phonearena.com/reviews/iphone-17-pro-max-review_id7690",
+              "archive": "http://web.archive.org/web/20250926022254/https://www.phonearena.com/reviews/iphone-17-pro-max-review_id7690"
+            }
+          ],
+          "dxomark_camera": [
+            {
+              "cse": "https://www.dxomark.com/smartphones/Apple/iPhone-17-Pro-Max",
+              "archive": "http://web.archive.org/web/20250918213308/https://www.dxomark.com/smartphones/Apple/iPhone-17-Pro-Max"
+            }
+          ],
+          "quality_reviews": [
+            {
+              "cse": "https://www.notebookcheck.net/iPhone-17-Pro-Max-durability-test-Scratchgate-is-Apple-s-fault.1120658.0.html",
+              "archive": "http://web.archive.org/web/20250926122500/https://www.notebookcheck.net/iPhone-17-Pro-Max-durability-test-Scratchgate-is-Apple-s-fault.1120658.0.html"
+            },
+            {
+              "cse": "https://www.notebookcheck.net/Surprising-Xiaomi-17-Pro-Max-vs-iPhone-17-Pro-Max-battery-life-test-shows-raw-capacity-isn-t-everything.1133304.0.html",
+              "archive": "http://web.archive.org/web/20251008062325/https://www.notebookcheck.net/Surprising-Xiaomi-17-Pro-Max-vs-iPhone-17-Pro-Max-battery-life-test-shows-raw-capacity-isn-t-everything.1133304.0.html"
+            },
+            {
+              "cse": "https://www.androidcentral.com/phones/apple-iphone/apple-iphone-17-pro-review",
+              "archive": "https://web.archive.org/web/20251002054926/https://www.androidcentral.com/phones/apple-iphone/apple-iphone-17-pro-review"
+            },
+            {
+              "cse": "https://www.androidcentral.com/iphone-x",
+              "archive": "http://web.archive.org/web/20250421183611/https://www.androidcentral.com/iphone-x"
+            },
+            {
+              "cse": "https://www.androidcentral.com/phones/google-pixel/the-pixel-9a-is-everything-the-iphone-16e-wished-it-was",
+              "archive": "https://web.archive.org/web/20250322192733/https://www.androidcentral.com/phones/google-pixel/the-pixel-9a-is-everything-the-iphone-16e-wished-it-was"
+            }
+          ]
+        },
+        "images": {
+          "hero": []
+        },
+        "metadata": {
+          "lastUpdated": "2025-11-10T04:44:57.799Z",
+          "imageCompleteness": 0
+        }
+      }
+    }
+  },
+  "metadata": {
+    "totalPhones": 2,
+    "totalUrls": 17,
+    "avgCompleteness": 0.9,
+    "newestRelease": "2025-09-15",
+    "oldestRelease": "2023-09-15",
+    "lastUpdated": "2025-11-14T16:40:15.882Z"
+  },
+  "archiveFailureCache": {}
+}

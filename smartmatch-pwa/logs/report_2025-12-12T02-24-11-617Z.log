@@ -1,0 +1,6 @@
+📊 Generating Unified Pipeline Report...
+Analyzing LATEST log file for 'discovery': logs/discovery_v6_2025-12-12T01-59-59.log (Key: 2025-12-12T01-59-59)
+Analyzing LATEST log file for 'oset': logs/oset_2025-12-12T02-24-06-590Z.log (Key: 2025-12-12T02-24-06)
+Analyzing LATEST log file for 'sync': logs/sync_2025-12-12T02-24-07-264Z.log (Key: 2025-12-12T02-24-07)
+✅ Report generated: PIPELINE_REPORT.md
+✅ Logs consolidated: PIPELINE_FULL_LOGS.txt

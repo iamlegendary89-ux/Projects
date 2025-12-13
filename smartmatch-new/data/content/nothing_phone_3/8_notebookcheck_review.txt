@@ -1,0 +1,544 @@
+Verdict: The Phone (3) is a flagship only in Nothing'sWith the Phone (3), Nothing remains true to its philosophy of developing smartphones that are a little different from the competition. This is evident in the transparent back, the asymmetrical arrangement of the cameras, the slim and fast Nothing OS 3.5, and extras such as the Glyph Matrix with its 486 LEDs.With five years of OS updates and software support until 2032, the Nothing Phone (3) provides further reasons for consideration. Other plus points include the bright AMOLED screen, the good camera system, and the large and fast-charging battery, which should last a whole day of intensive use.
+good (85%)
+Nothing Phone (3)
+Qualcomm Snapdragon 8s Gen 4 SM8735Qualcomm Adreno 825
+Smartphone - 08/25/2025 - v8
+Test device courtesy of Nothing Germany
+Download your licensed rating image as PNG / SVG
+That being said, the Nothing Phone (3) also has some minor weaknesses. The Snapdragon 8s Gen 4 is fast but doesn't quite match the €799 asking price purchase price for the base variant.Additionally, you don't get an LTPO AMOLED but only an LPTS display. Nothing also cuts corners on the display glass. While many similarly priced smartphones rely on Gorilla Glass Victus, the Nothing Phone (3) only features the less resistant Gorilla Glass 7i.
+Pros+ bright 120 Hz display
++ high performance
++ good camera with 3x 50 MP sensors
++ 16 GB RAM and 512 GB storage
++ Dual SIM and eSIM support
++ Bluetooth 6.0, Wi-Fi 7, and good GPS
++ good battery life
++ 65 W fast charging
++ IP68 certification
++ Glyph Matrix mini display ...Cons- ... is more gimmicky than useful
+- no LTPO display
+- Performance not at flagship level
+- strong heating under load
+- no Qi2 support
+Price and availabilityThe Nothing Phone (3) with 12 GB RAM and 256 GB storage has an RRP of €799 while the 16 GB / 512 GB version will set you back by €899. Both versions are available for around €100 less at online stores such as Amazon DE.The smartphone can also be currently had unlocked for $719 for the 12 GB / 256 GB variant while the 16 GB / 512 GB version retails for $799 on Amazon US.
+$899.00Nothing Phone (3) Cell Phone, 2025 New 5G Unlocked Phones 512GB, Android 15, Snapdragon 8s Gen4, AI Mobile Phones with Four 50MP Cameras & AMOLED Display, 5150mAh, Glyph Interface, Smartphone White
+Bestpreis 799.99 € Media Markt.atNothing Phone (3) 512GB weiß2. 799.99 € galaxus.at3. 805 € Cyberport Stores Österreich4. 806 € galaxus
+Table of ContentsVerdict: The Phone (3) is a flagship only in Nothing'sSpecificationsBuild: Glyph Matrix replaces the Glyph interfaceFeatures: Up to 16 GB RAM and 512 GB storageSoftware: Android updates until 2032 and an SDK for the Glyph MatrixCommunication and GNSS: Fast Wi-Fi 7 and accurate navigationPhone functions and voice qualityCamera: 50 MP in a pack of fourAccessories and Warranty: No power adapter includedInput devices and operation: Responsive Nothing phoneDisplay: 120 Hz LTPS AMOLED with 90 Hz PWMPerformance: Nothing Phone (3) with Snapdragon 8s Gen 4Gaming: Smooth gameplay guaranteedEmissions: Hot Nothing smartphoneEnergy: Nothing Phone (3) with silicon-carbon batteryNotebookcheck's overall impressions of the Nothing Phone (3)Potential alternatives in comparison
+The Nothing Phone (3) is a real flagship smartphone, claims the company. What is certain is that it outshines all previous Nothing phones in terms of performance, battery size, and software support.However, our review also shows that Nothing has scaled back the hardware ingredients just enough in some areas so that there is no noticeable disadvantage for users.The Nothing Phone (3), therefore, feels like a high-end smartphone, without actually being one.
+Specifications
+Nothing Phone (3) (Phone Series)ProcessorQualcomm Snapdragon 8s Gen 4 SM8735 8 x 2 - 3.2 GHz, Cortex-A720 / Cortex-X4Graphics adapterQualcomm Adreno 825Memory16 GB  , LPDDR5XDisplay6.67 inch 20:9, 2800 x 1260 pixel 460 PPI, capacitive touchscreen, AMOLED, LTPS (60, 90, 120 Hz), 10-bit, 1000 Hz touch sampling rate, 960 Hz PWM dimming, 800 nits typical brightness, 4500 nits peak brightness, glossy: yes, HDR, 120 HzStorage512 GB UFS 4.0 Flash, 512 GB  , 486 GB freeConnections1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: In-display fingerprint sensor, Accelerometer, Electronic compass, Gyroscope, Proximity sensor, DRM Widevine L1, Camera2 API Level 3Networking802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850/​900/​1800/​1900 MHz), 3G (Band 1/2/4/5/6/8/19), 4G (Band 1/2/3/4/5/7/8/12/17/18/19/20/25/26/28/30/34/38/39/40/41/42/48/66/71), 5G (Band n1/​n2/​n3/​n5/​n7/​n8/​n12/​n20/n25/​n28/​n30/n38/​n40/​n41/​n48/​n66/n71/​n77/​n78), Dual SIM, LTE, 5G, GPSSizeheight x width x depth (in mm): 8.99 x 160.6 x 75.59 ( = 0.35 x 6.32 x 2.98 in)Battery5150 mAh Silicon-Carbon, 65W max. charging speed, 15W wireless charging (Qi 1.3), 7.5W reverse wired charging, 5W reverse wireless charging (Qi 1.3)Chargingwireless charging, fast charging / QuickchargeOperating SystemAndroid 15CameraPrimary Camera: 50 MPix (1/1.3" sensor, f/1.68, OIS & EIS, AF, 2x2 OCL PDAF, 2x in-sensor-zoom) + 50 MP tele (1/2.75" sensor, f/2.68, OIS & EIS, AF, PDAF, 3x optical zoom, 6x in-sensor-zoom, 60x ultra zoom) + 50 MP ultrawide (1/2.76" sensor, f/2.2, EIS, 114° FOV), video recording up to 4K@60fpsSecondary Camera: 50 MPix (1/2.76" sensor, f/2.2. EIS, 81.2° FOV), video recording up to 4K@60fpsAdditional featuresSpeakers: stereo speakers, Keyboard: virtual, USB-C cable, screen protector (pre-applied), SIM tool, Safety card, Nothing OS 3.5, 24 Months Warranty, IP68 certified, Corning Gorilla Glass 7i (front), Corning Gorilla Glass Victus (back), aluminium frame; HDR support: HDR10, HDR10+, HLG; GPS: GPS (L1, L5), Glonass (L1), Galileo (E1, E5a), Beidou (B1, B2a), QZSS (L1, L5), NavIC (L5), SBAS (L1); Connectivity: Dual Nano SIM + eSIM, VoLTE/WiFI calling; Bluetooth codecs: SBC, AAC, aptX, aptX HD, aptX Adaptive, aptX TWS+, LDAC, LC3, Opus, LHDC V1, LHDC V2, LHDC V3, LHDC V5; SAR: Head SAR 1.290 W/kg, Body SAR 1.496 W/kg; Update policy: 5 years of Android updates, 7 years of security patches; CO2 footprint 53.2 kg, fanless, waterproofWeight218 g ( = 7.69 oz / 0.48 pounds) ( = 0 oz / 0 pounds)
+Price899 EuroAmazon$899.00LinksNothing homepageNote: The manufacturer may use components from different suppliers including display panels, drives or memory sticks with similar specifications.see all specifications  [+] Add to comparison» Compare devices
+Build: Glyph Matrix replaces the Glyph interfaceWith its 1.86 mm thin display frame, the Nothing Phone (3), which is available in black and white, makes a high-quality visual impression. There is also nothing to complain about in terms of workmanship. However, the phone does make a subtle crackling noise when twisted.The biggest innovation compared to its predecessor is on the transparent back. The iconic Nothing design is still there, but the Glyph interface has been replaced by the Glyph Matrix — a small monochrome display with 489 LEDs.The Glyph Matrix is located in the top right-hand corner and shows, for example, the battery level or provides information about incoming messages. The displays (aka Glyph Toys) can be switched via a white button underneath. The red LED signals ongoing audio and video recordings by flashing.
+Size comparison
+OnePlus 13       Nothing Phone (2)       Nothing Phone (3)       Samsung Galaxy S25+       Google Pixel 9 Pro       Xiaomi 15       DIN A6 ❌162.9 mm / 6.41 in
+76.5 mm / 3.01 in
+8.5 mm / 0.3346 in
+213 g0.4696 lbs162.1 mm / 6.38 in
+76.4 mm / 3.01 in
+8.6 mm / 0.3386 in
+201.2 g0.4436 lbs160.6 mm / 6.32 in
+75.59 mm / 2.98 in
+8.99 mm / 0.3539 in
+218 g0.4806 lbs158.4 mm / 6.24 in
+75.8 mm / 2.98 in
+7.3 mm / 0.2874 in
+190 g0.4189 lbs152.8 mm / 6.02 in
+72 mm / 2.83 in
+8.5 mm / 0.3346 in
+199 g0.4387 lbs152.3 mm / 6 in
+71.2 mm / 2.8 in
+8.08 mm / 0.3181 in
+191 g0.4211 lbs148 mm / 5.83 in
+105 mm / 4.13 in
+1 mm / 0.03937 in
+1.5 g0.00331 lbs
+Features: Up to 16 GB RAM and 512 GB storageThe Nothing Phone (3) offers NFC, Bluetooth 6.0, and Wi-Fi 7. Two nano SIMs fit into the SIM slot. An eSIM can also be used instead of the second physical SIM.The USB-C port only works at USB 2.0 speeds and achieves 36.7 MB/s in the copy test with the Samsung PSSD T7.Left: Volume rocker
+Right: Power button, AI button (Essential Space)
+Top: Loudspeaker, microphone
+Bottom: Speaker, USB-C 2.0, microphone, dual SIM
+Software: Android updates until 2032 and an SDK for the Glyph MatrixThe Nothing Phone (3) runs Nothing OS 3.5, which is based on Android 15. Nothing promises five years of OS upgrades up to Android 20. Android security updates will be available every 2 months for seven years.Nothing OS 3.5 extends the standard Android interface with an independent design and the Essential Space — an AI hub that helps users with everyday tasks.Essential Space receives its input from the user. If you press the Essential button, it takes a screenshot or takes the image from the camera app along with an optional note. The button can also be used to start audio recordings.Captured information is automatically transcribed and added to the AI hub. This can be called up and browsed by pressing the button twice.With the Glyph Matrix, users do not have to make do with the ready-made Glyph Toys. Interested users can join the Nothing developer programs on GitHub, download the SDK, and develop their own Glyph Toys.
+SustainabilityThe frame, buttons, and SIM tray are made from 100% recycled aluminum. The product packaging is plastic-free and consists of 30% recycled paper fibers.Nothing does not offer spare parts or repair manuals. However, the smartphone can be sent directly to the manufacturer for repair.Communication and GNSS: Fast Wi-Fi 7 and accurate navigationIn addition to strong cellular frequency coverage, the Nothing Phone (3) scores with fast and stable Wi-Fi 7.We measured transfer rates of up to 1,856 Mbps in combination with our reference Asus ROG Rapture GT-AXE11000 reference router.
+NetworkingNothing Phone (3)802.11 a/​b/​g/​n/​ac/​ax/​be iperf3 transmit AXE11000
+980 (min: 492) MBit/s ∼90%
+iperf3 receive AXE11000
+834 (min: 774) MBit/s ∼72%
+iperf3 transmit AXE11000 6GHz
+1856 (min: 1764) MBit/s ∼100%
+iperf3 receive AXE11000 6GHz
+1577 (min: 1279) MBit/s ∼88%
+Google Pixel 9 ProWi-Fi 7 iperf3 transmit AXE11000
+955 (min: 858) MBit/s ∼87%
+iperf3 receive AXE11000
+795 (min: 680) MBit/s ∼69%
+iperf3 transmit AXE11000 6GHz
+1830 (min: 1666) MBit/s ∼99%
+iperf3 receive AXE11000 6GHz
+1602 (min: 1387) MBit/s ∼89%
+Nothing Phone (2)Wi-Fi 6E iperf3 transmit AXE11000 6GHz
+1513 (min: 1097) MBit/s ∼82%
+iperf3 receive AXE11000 6GHz
+799 (min: 577) MBit/s ∼45%
+OnePlus 13Wi-Fi 7 iperf3 transmit AXE11000
+820 (min: 704) MBit/s ∼75%
+iperf3 receive AXE11000
+791 (min: 705) MBit/s ∼69%
+iperf3 transmit AXE11000 6GHz
+1791 (min: 1704) MBit/s ∼96%
+iperf3 receive AXE11000 6GHz
+1464 (min: 769) MBit/s ∼82%
+Samsung Galaxy S25+Wi-Fi 7 iperf3 transmit AXE11000
+1094 (min: 655) MBit/s ∼100%
+iperf3 receive AXE11000
+1154 (min: 1048) MBit/s ∼100%
+iperf3 transmit AXE11000 6GHz
+1311 (min: 984) MBit/s ∼71%
+iperf3 receive AXE11000 6GHz
+1204 (min: 1187) MBit/s ∼67%
+Xiaomi 15Wi-Fi 7 iperf3 transmit AXE11000
+876 (min: 445) MBit/s ∼80%
+iperf3 receive AXE11000
+871 (min: 785) MBit/s ∼75%
+iperf3 transmit AXE11000 6GHz
+1386 (min: 628) MBit/s ∼75%
+iperf3 receive AXE11000 6GHz
+1793 (min: 1671) MBit/s ∼100%
+Average 802.11 a/​b/​g/​n/​ac/​ax/​be  iperf3 transmit AXE11000
+956 (min: 595) MBit/s ∼87%
+iperf3 receive AXE11000
+1137 (min: 755) MBit/s ∼99%
+iperf3 transmit AXE11000 6GHz
+1244 (min: 508) MBit/s ∼67%
+iperf3 receive AXE11000 6GHz
+1483 (min: 719) MBit/s ∼83%
+Average of class Smartphone  iperf3 transmit AXE11000
+728 (min: 49.8) MBit/s ∼67%
+iperf3 receive AXE11000
+747 (min: 52) MBit/s ∼65%
+iperf3 transmit AXE11000 6GHz
+1350 (min: 508) MBit/s ∼73%
+iperf3 receive AXE11000 6GHz
+1409 (min: 451) MBit/s ∼79%
+050100150200250300350400450500550600650700750800850900950100010501100115012001250130013501400145015001550160016501700175018001850TooltipNothing Phone (3) 802.11 a/​b/​g/​n/​ac/​ax/​be; iperf3 transmit AXE11000 6GHz; iperf 3.1.3: Ø1856 (1764-1884) Xiaomi 15 Wi-Fi 7; iperf3 transmit AXE11000 6GHz; iperf 3.1.3: Ø1365 (628-1900) Nothing Phone (3) 802.11 a/​b/​g/​n/​ac/​ax/​be; iperf3 receive AXE11000 6GHz; iperf 3.1.3: Ø1576 (1279-1627) Xiaomi 15 Wi-Fi 7; iperf3 receive AXE11000 6GHz; iperf 3.1.3: Ø1791 (1671-1841) Nothing Phone (3) 802.11 a/​b/​g/​n/​ac/​ax/​be; iperf3 transmit AXE11000; iperf 3.1.3: Ø964 (492-1002) Xiaomi 15 Wi-Fi 7; iperf3 transmit AXE11000; iperf 3.1.3: Ø861 (445-968) Nothing Phone (3) 802.11 a/​b/​g/​n/​ac/​ax/​be; iperf3 receive AXE11000; iperf 3.1.3: Ø833 (774-857) Xiaomi 15 Wi-Fi 7; iperf3 receive AXE11000; iperf 3.1.3: Ø869 (785-951)
+GPS reception in the building
+GPS reception outdoorsThe Nothing Phone (3) is well suited for navigation. In the test, it guided us almost as precisely to our destination on a 10 km cycle route as the Garmin Venu 2 fitness smartwatch.GPS test: Summary
+GPS test: Circumnavigation of the lake
+GPS test: Turning pointPhone functions and voice qualityThe Nothing Phone (3) supports VoLTE and Wi-Fi calls. It delivers good voice quality during calls and also suppresses ambient noise efficiently.Camera: 50 MP in a pack of fourRecording with the selfie cameraThe main, ultra-wide-angle, and telephoto cameras of the Nothing Phone (3) each have a resolution of 50 MP.The selfie camera also has a 50 MP sensor, which allows the smartphone to take appealing portraits and deliver very usable quality for video chats. Videos can be recorded with all lenses in good quality at a maximum of 4K 60 fps.In daylight, the main camera equipped with a fast 1/1.3-inch sensor takes beautiful photos that impress with their high dynamic range and realistic colors but sometimes appear blurred. In low light, the large sensor manages to capture many details.The ultra-wide-angle camera does a good job, but its photos are quite washed out at the edges. The telephoto camera also takes on the task of a macro lens and achieves good image quality if you limit yourself to the 3x optical zoom. The digital zoom works up to 60x, but subjects already become blurred at 5x magnification.
+Image comparisonChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.Main CameraMain CameraUltra-wide5x ZoomLow lightclick to load imagesNothing Phone (3)Canon EOS 90DOppo Find X8 UltraXiaomi 15 Ultra0.2x2 MPixel4 Mpixel1xclick to load imagesNothing Phone (3)Canon EOS 90DOppo Find X8 UltraXiaomi 15 Ultra0.2x2 MPixel4 Mpixel1xclick to load imagesNothing Phone (3)Canon EOS 90DOppo Find X8 UltraXiaomi 15 Ultra0.2x2 MPixel4 Mpixel1xclick to load imagesNothing Phone (3)Canon EOS 90DOppo Find X8 UltraXiaomi 15 Ultra0.2x2 MPixel4 Mpixel1xclick to load imagesNothing Phone (3)Canon EOS 90DOppo Find X8 UltraXiaomi 15 Ultra0.2x2 MPixel4 Mpixel1x
+3.6 ∆E1.8 ∆E3.1 ∆E3.8 ∆E3 ∆E7.4 ∆E2.1 ∆E5.6 ∆E2.5 ∆E1.3 ∆E4 ∆E3.6 ∆E5.3 ∆E2.9 ∆E2.1 ∆E8 ∆E2.6 ∆E12.9 ∆E9.1 ∆E3.9 ∆E5 ∆E3.5 ∆E1.3 ∆E2.8 ∆EColorChecker Nothing Phone (3): 4.23 ∆E min: 1.29 - max: 12.93 ∆E18.2 ∆E21.5 ∆E20.3 ∆E22 ∆E23.8 ∆E32.1 ∆E24.3 ∆E13.5 ∆E14.6 ∆E16.6 ∆E29.5 ∆E32.7 ∆E13.2 ∆E25.3 ∆E9.8 ∆E22.6 ∆E19 ∆E25.1 ∆E20 ∆E19.7 ∆E21.9 ∆E24.3 ∆E19.9 ∆E12.2 ∆EColorChecker Nothing Phone (3): 20.93 ∆E min: 9.78 - max: 32.69 ∆E
+Nothing Phone (3)Nothing Phone (3)
+Accessories and Warranty: No power adapter includedThe scope of delivery includes a USB-C cable, a SIM eject tool, and a booklet with safety instructions. A protective film is applied to the display at the factory. Nothing does not offer a 65 W power adapter in its online store.The Nothing Phone (3) comes with a 24-month warranty in the EU.Input devices and operation: Responsive Nothing phoneThanks to the clear Nothing OS 3.5, the fast Snapdragon 8s Gen 4, and the high touch sampling rate of the responsive AMOLED screen, the Nothing Phone (3) is very smooth to use. The linear vibration motor fits in well with this, as it provides precise haptic feedback.The optical fingerprint sensor under the display unlocks the smartphone without any noticeable delay. The smartphone can also be unlocked using 2D Face Unlock, which also works reliably, but is much less secure.Keyboard in portrait format
+Keyboard in landscape formatDisplay: 120 Hz LTPS AMOLED with 90 Hz PWMSubpixel matrixThe AMOLED screen can get very bright but does not reach the peak brightness of 4,500 cd/m² promised by Nothing for a long time in the test.With a pure white background, the display has an average brightness of 1,535 cd/m². The brightness values are roughly the same in small picture areas (1,517 cd/m²) and in HDR mode (1,475 cd/m²).The screen accommodates sensitive users with a fairly high PWM dimming frequency of 1,086 Hz (manufacturer's specification 960 Hz), which is also characterized by a low amplitude.
+1541cd/m²1543cd/m²1546cd/m²1526cd/m²1548cd/m²1537cd/m²1517cd/m²1527cd/m²1534cd/m²
+Distribution of brightnesstested with X-Rite i1Pro 3Maximum: 1548 cd/m² (Nits) Average: 1535.4 cd/m² Minimum: 2.68 cd/m²Brightness Distribution: 98 %Center on Battery: 1548 cd/m²Contrast: ∞:1 (Black: 0 cd/m²)ΔE ColorChecker Calman: 2.2 | ∀{0.5-29.43 Ø4.81}ΔE Greyscale Calman: 3.7 | ∀{0.09-98 Ø5.1}95.5% sRGB (Calman 2D)Gamma: 2.26CCT: 6787 K
+Nothing Phone (3)AMOLED, 2800x1260, 6.7"Google Pixel 9 ProOLED, 2856x1280, 6.3"Nothing Phone (2)OLED, 2412x1080, 6.7"OnePlus 13AMOLED, 3168x1440, 6.8"Samsung Galaxy S25+Dynamic AMOLED 2X, 3120x1440, 6.7"Xiaomi 15OLED, 2670x1200, 6.4"Screen42%16%22%4%10%Brightness middle (cd/m²)15482083 35%951 -39%1155 -25%1371 -11%1021 -34%Brightness (cd/m²)15352016 31%948 -38%1155 -25%1370 -11%1018 -34%Brightness Distribution (%)9884 -14%98 0%98 0%96 -2%98 0%Black Level * (cd/m²)Colorchecker dE 2000 *2.20.7 68%1 55%1 55%2.7 -23%1.3 41%Colorchecker dE 2000 max. *5.52 64%2.2 60%1.8 67%4.2 24%2.9 47%Greyscale dE 2000 *3.71.1 70%1.6 57%1.6 57%2 46%2.2 41%Gamma2.26 97%2.22 99%2.203 100%2.3 96%2.03 108%2.25 98%CCT6787 96%6560 99%6516 100%6503 100%6450 101%6658 98%* ... smaller is better
+Screen Flickering / PWM (Pulse-Width Modulation)ℹTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.Screen flickering / PWM detected 90 HzAmplitude: 12.96 %Secondary Frequency: 1086 HzThe display backlight flickers at 90 Hz (worst case, e.g., utilizing PWM) . The frequency of 90 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.In comparison: 53 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 8228 (minimum: 5 - maximum: 343500) Hz was measured.
+min.
+25 %
+50 %
+75 %
+100 %Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)The AMOLED panel's color profiles are well tuned. We found the colors to be most accurate in the Standard color mode (the default setting is Vivid).ColorChecker (Standard color mode, Target color space: sRGB)
+Colorspace (Standard color mode, Target color space sRGB)
+Grayscale (Standard color mode, Target color space sRGB)
+Saturation sweeps (Standard color mode, Target color space sRGB)
+Display Response TimesℹDisplay response times show how fast the screen is able to change from one color to the next. Slow response times can lead to afterimages and can cause moving objects to appear blurry (ghosting). Gamers of fast-paced 3D titles should pay special attention to fast response times.   ↔    Response Time Black to White1.17 ms ... rise ↗ and fall ↘ combined↗ 0.5895 ms rise↘ 0.5825 ms fallThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 4 % of all devices are better.This means that the measured response time is better than the average of all tested devices (20.4 ms).   ↔    Response Time 50% Grey to 80% Grey7.86 ms ... rise ↗ and fall ↘ combined↗ 0.9615 ms rise↘ 6.902 ms fallThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 19 % of all devices are better.This means that the measured response time is better than the average of all tested devices (31.8 ms).
+The Nothing Phone (3) performs well outdoors. Its fast-responding brightness sensor can increase the brightness of the viewing-angle-stable screen to such an extent that it is easy to read even on sunny days. If the brightness sensor is deactivated, the maximum brightness drops to 774 cd/m².Outdoor use
+Stable viewing anglesPerformance: Nothing Phone (3) with Snapdragon 8s Gen 4Nothing equips the Phone (3) with the Snapdragon 8s Gen 4. The 4 nm SoC is officially considered a cheaper alternative to the Snapdragon 8 Elite.The Nothing Phone (3) therefore has more than enough power for all everyday tasks and, supported by 12 GB or 16 GB of RAM, is not slowed down by many apps being opened at the same time.
+Geekbench 6.5 | Antutu v10 | PCMark for Android | BaseMark OS II | UL Procyon AI Inference for Android | AImark | Geekbench AI | AI Benchmark Geekbench 6.5
+Single-CoreSamsung Galaxy S25+Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+3136 Points +42%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+3087 Points +40%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+3001 Points +36%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+2212 Points Average Qualcomm Snapdragon 8s Gen 4 SM8735  (2129 - 2212, n=2)
+2171 Points -2%Google Pixel 9 ProGoogle Tensor G4, Mali-G715 MP7, 16384
+1971 Points -11%Nothing Phone (2)Qualcomm Snapdragon 8+ Gen 1, Adreno 730, 12288
+1719 Points -22%Average of class Smartphone  (196 - 3785, n=201, last 2 years)
+1692 Points -24% Multi-CoreSamsung Galaxy S25+Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+10029 Points +40%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+9369 Points +31%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+9202 Points +29%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+7161 Points Average Qualcomm Snapdragon 8s Gen 4 SM8735  (6792 - 7161, n=2)
+6977 Points -3%Average of class Smartphone  (830 - 10401, n=201, last 2 years)
+4934 Points -31%Google Pixel 9 ProGoogle Tensor G4, Mali-G715 MP7, 16384
+4820 Points -33%Nothing Phone (2)Qualcomm Snapdragon 8+ Gen 1, Adreno 730, 12288
+4584 Points -36%Antutu v10 - Total Score
+OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+2762122 Points +40%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+2677100 Points +36%Samsung Galaxy S25+Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+2271821 Points +15%Average Qualcomm Snapdragon 8s Gen 4 SM8735  (1975046 - 2043045, n=2)
+2009046 Points +2%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+1975046 Points Average of class Smartphone  (142748 - 3015111, n=146, last 2 years)
+1394452 Points -29%Google Pixel 9 ProGoogle Tensor G4, Mali-G715 MP7, 16384
+1139380 Points -42%PCMark for Android - Work 3.0
+Samsung Galaxy S25+Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+20673 Points +30%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+19793 Points +24%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+19192 Points +20%Nothing Phone (2)Qualcomm Snapdragon 8+ Gen 1, Adreno 730, 12288
+16612 Points +4%Average Qualcomm Snapdragon 8s Gen 4 SM8735  (15928 - 15973, n=2)
+15951 Points 0%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+15928 Points Average of class Smartphone  (4507 - 27169, n=184, last 2 years)
+14504 Points -9%Google Pixel 9 ProGoogle Tensor G4, Mali-G715 MP7, 16384
+11823 Points -26%BaseMark OS II
+OverallSamsung Galaxy S25+Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+13223 Points +33%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+11031 Points +11%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+10937 Points +10%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+9953 Points Average Qualcomm Snapdragon 8s Gen 4 SM8735  (9930 - 9953, n=2)
+9942 Points 0%Nothing Phone (2)Qualcomm Snapdragon 8+ Gen 1, Adreno 730, 12288
+7839 Points -21%Google Pixel 9 ProGoogle Tensor G4, Mali-G715 MP7, 16384
+7716 Points -22%Average of class Smartphone  (1196 - 14066, n=143, last 2 years)
+7373 Points -26% SystemSamsung Galaxy S25+Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+17481 Points +57%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+16439 Points +47%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+14039 Points +26%Nothing Phone (2)Qualcomm Snapdragon 8+ Gen 1, Adreno 730, 12288
+12171 Points +9%Average Qualcomm Snapdragon 8s Gen 4 SM8735  (11169 - 12947, n=2)
+12058 Points +8%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+11169 Points Average of class Smartphone  (2368 - 20776, n=143, last 2 years)
+11076 Points -1%Google Pixel 9 ProGoogle Tensor G4, Mali-G715 MP7, 16384
+8029 Points -28% MemoryXiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+16961 Points +21%Samsung Galaxy S25+Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+16264 Points +16%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+13961 Points Average Qualcomm Snapdragon 8s Gen 4 SM8735  (11058 - 13961, n=2)
+12510 Points -10%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+11536 Points -17%Google Pixel 9 ProGoogle Tensor G4, Mali-G715 MP7, 16384
+10197 Points -27%Nothing Phone (2)Qualcomm Snapdragon 8+ Gen 1, Adreno 730, 12288
+8458 Points -39%Average of class Smartphone  (962 - 20652, n=143, last 2 years)
+8361 Points -40% GraphicsSamsung Galaxy S25+Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+45691 Points +36%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+44189 Points +31%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+43637 Points +30%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+33672 Points Average Qualcomm Snapdragon 8s Gen 4 SM8735  (33256 - 33672, n=2)
+33464 Points -1%Average of class Smartphone  (1046 - 384996, n=143, last 2 years)
+24527 Points -27%Google Pixel 9 ProGoogle Tensor G4, Mali-G715 MP7, 16384
+23041 Points -32%Nothing Phone (2)Qualcomm Snapdragon 8+ Gen 1, Adreno 730, 12288
+19110 Points -43% WebSamsung Galaxy S25+Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+2353 Points +26%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+2091 Points +12%Average Qualcomm Snapdragon 8s Gen 4 SM8735  (1869 - 2042, n=2)
+1956 Points +5%Nothing Phone (2)Qualcomm Snapdragon 8+ Gen 1, Adreno 730, 12288
+1919 Points +3%Google Pixel 9 ProGoogle Tensor G4, Mali-G715 MP7, 16384
+1879 Points +1%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+1869 Points Average of class Smartphone  (858 - 2363, n=143, last 2 years)
+1665 Points -11%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+1202 Points -36%UL Procyon AI Inference for Android - Overall Score NNAPI
+Google Pixel 9 ProGoogle Tensor G4, Mali-G715 MP7, 16384
+36578 Points +113%Samsung Galaxy S25+Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+23141 Points +34%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+22767 Points +32%Average of class Smartphone  (3769 - 81594, n=135, last 2 years)
+19809 Points +15%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+18154 Points +5%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+17213 Points Average Qualcomm Snapdragon 8s Gen 4 SM8735  (16446 - 17213, n=2)
+16830 Points -2%Nothing Phone (2)Qualcomm Snapdragon 8+ Gen 1, Adreno 730, 12288
+13807 Points -20%AImark - Score v3.x
+Nothing Phone (2)Qualcomm Snapdragon 8+ Gen 1, Adreno 730, 12288
+128240 Points +8600%Average of class Smartphone  (82 - 307528, n=124, last 2 years)
+27500 Points +1766%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+1982 Points +34%Samsung Galaxy S25+Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+1891 Points +28%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+1790 Points +21%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+1474 Points Average Qualcomm Snapdragon 8s Gen 4 SM8735  (1389 - 1474, n=2)
+1432 Points -3%Google Pixel 9 ProGoogle Tensor G4, Mali-G715 MP7, 16384
+1146 Points -22%Geekbench AI
+Single Precision NPU 1.5Average of class Smartphone  (153 - 5210, n=32, last 2 years)
+923 Points +105%Average Qualcomm Snapdragon 8s Gen 4 SM8735  (451 - 468, n=2)
+460 Points +2%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+451 Points Half Precision NPU 1.5Average of class Smartphone  (178 - 35890, n=32, last 2 years)
+4260 Points +845%Average Qualcomm Snapdragon 8s Gen 4 SM8735  (451 - 466, n=2)
+459 Points +2%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+451 Points Quantized NPU 1.5Average of class Smartphone  (133 - 49889, n=32, last 2 years)
+6160 Points +518%Average Qualcomm Snapdragon 8s Gen 4 SM8735  (997 - 1028, n=2)
+1013 Points +2%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+997 Points AI Benchmark
+Score V5Average of class Smartphone  (46.4 - 3334, n=42, last 2 years)
+904 Points +417%Samsung Galaxy S25+Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+245 Points +40%Average Qualcomm Snapdragon 8s Gen 4 SM8735  (175 - 194, n=2)
+184.5 Points +5%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+175 Points Score V6Samsung Galaxy S25+Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+10534 Points +81%Average Qualcomm Snapdragon 8s Gen 4 SM8735  (5828 - 6000, n=2)
+5914 Points +1%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735, Adreno 825, 16384
+5828 Points Average of class Smartphone  (55.6 - 12845, n=64, last 2 years)
+4130 Points -29%Google Pixel 9 ProGoogle Tensor G4, Mali-G715 MP7, 16384
+1112 Points -81%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+991 Points -83%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+734 Points -87%
+3DMark: Wild Life Extreme Unlimited | Wild Life Extreme | Wild Life Unlimited Score | Solar Bay Score | Solar Bay Unlimited Score | Steel Nomad Light Unlimited Score | Steel Nomad Light Score GFXBench (DX / GLBenchmark) 2.7: T-Rex Onscreen | 1920x1080 T-Rex Offscreen GFXBench 3.0: on screen Manhattan Onscreen OGL | 1920x1080 1080p Manhattan Offscreen GFXBench 3.1: on screen Manhattan ES 3.1 Onscreen | 1920x1080 Manhattan ES 3.1 Offscreen GFXBench: on screen Car Chase Onscreen | 1920x1080 Car Chase Offscreen | on screen Aztec Ruins High Tier Onscreen | 2560x1440 Aztec Ruins High Tier Offscreen | on screen Aztec Ruins Normal Tier Onscreen | 1920x1080 Aztec Ruins Normal Tier Offscreen | 3840x2160 4K Aztec Ruins High Tier Offscreen 3DMark / Wild Life Extreme Unlimited
+Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+6885 Points +53%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+6789 Points +51%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+5845 Points +30%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+4490 Points Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+2605 Points -42%Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+2538 Points -43%3DMark / Wild Life Extreme
+Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+7029 Points +55%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+6754 Points +49%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+5995 Points +32%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+4529 Points Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+2754 Points -39%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+2547 Points -44%3DMark / Wild Life Unlimited Score
+Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+26616 Points +49%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+25785 Points +44%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+24960 Points +40%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+17885 Points Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+9476 Points -47%3DMark / Solar Bay Score
+Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+12400 Points +48%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+11821 Points +41%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+10764 Points +29%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+8357 Points Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+Points -100%3DMark / Solar Bay Unlimited Score
+Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+12747 Points +48%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+11879 Points +38%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+11649 Points +35%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+8624 Points Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+Points -100%3DMark / Steel Nomad Light Unlimited Score
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+2567 Points +45%Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+2525 Points +42%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+2258 Points +27%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+1775 Points Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+1026 Points -42%3DMark / Steel Nomad Light Score
+Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+2698 Points +51%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+2599 Points +46%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+2362 Points +32%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+1784 Points Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+1001 Points -44%GFXBench (DX / GLBenchmark) 2.7 / T-Rex Onscreen
+Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+120 fps +100%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+120 fps +100%Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+120 fps +100%Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+60 fps 0%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+60 fps 0%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+60 fps GFXBench (DX / GLBenchmark) 2.7 / T-Rex Offscreen
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+768 fps +31%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+718 fps +23%Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+697 fps +19%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+585 fps Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+415 fps -29%Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+349 fps -40%GFXBench 3.0 / Manhattan Onscreen OGL
+Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+120 fps +100%Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+120 fps +100%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+119 fps +98%Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+60 fps 0%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+60 fps 0%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+60 fps GFXBench 3.0 / 1080p Manhattan Offscreen
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+502 fps +51%Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+450 fps +36%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+423 fps +27%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+332 fps Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+245 fps -26%Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+211 fps -36%GFXBench 3.1 / Manhattan ES 3.1 Onscreen
+Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+120 fps +100%Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+120 fps +100%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+104 fps +73%Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+60 fps 0%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+60 fps 0%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+60 fps GFXBench 3.1 / Manhattan ES 3.1 Offscreen
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+365 fps +44%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+308 fps +22%Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+283 fps +12%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+253 fps Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+165 fps -35%Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+134 fps -47%GFXBench / Car Chase Onscreen
+Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+120 fps +100%Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+120 fps +100%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+60 fps 0%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+60 fps Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+59 fps -2%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+54 fps -10%GFXBench / Car Chase Offscreen
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+214 fps +50%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+192 fps +34%Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+178 fps +24%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+143 fps Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+85 fps -41%Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+76 fps -47%GFXBench / Aztec Ruins High Tier Onscreen
+Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+120 fps +100%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+115 fps +92%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+60 fps 0%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+60 fps Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+59 fps -2%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+47 fps -22%GFXBench / Aztec Ruins High Tier Offscreen
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+115 fps +46%Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+107 fps +35%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+100 fps +27%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+79 fps Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+44 fps -44%Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+42 fps -47%GFXBench / Aztec Ruins Normal Tier Onscreen
+Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+120 fps +100%Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+120 fps +100%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+77 fps +28%Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+60 fps 0%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+60 fps 0%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+60 fps GFXBench / Aztec Ruins Normal Tier Offscreen
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+321 fps +54%Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+286 fps +38%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+274 fps +32%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+208 fps Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+119 fps -43%Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+113 fps -46%GFXBench / 4K Aztec Ruins High Tier Offscreen
+Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+52 fps +49%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+52 fps +49%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+47 fps +34%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+35 fps Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+20 fps -43%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+20 fps -43%
+Jetstream 2 | Speedometer 2.0 | Speedometer 3.0 | WebXPRT 4 | Octane V2 | Mozilla Kraken 1.1 Jetstream 2 - 2.0 Total Score
+Samsung Galaxy S25+ (Chrome 133.0.6943.137)
+334.386 Points +44%OnePlus 13 (Chrome 131)
+238.78 Points +2%Average Qualcomm Snapdragon 8s Gen 4 SM8735 (233 - 237, n=2)
+235 Points +1%Nothing Phone (3) (Chrome 138.0.7204.179)
+232.968 Points Xiaomi 15 (Chrome 131.0.6778.104)
+191.986 Points -18%Nothing Phone (2) (Chrome 114)
+178.548 Points -23%Average of class Smartphone (13.8 - 387, n=148, last 2 years)
+151.8 Points -35%Google Pixel 9 Pro (Chrome 131.0.6778.81)
+108.429 Points -53%Speedometer 2.0 - Result
+Samsung Galaxy S25+ (Chrome 133.0.6943.137)
+446 runs/min +29%OnePlus 13 (Chrome 140)
+404 runs/min +16%Nothing Phone (3) (Chrome 138.0.7204.179)
+347 runs/min Average Qualcomm Snapdragon 8s Gen 4 SM8735 (339 - 347, n=2)
+343 runs/min -1%Xiaomi 15 (Chrome 131.0.6778.104)
+342 runs/min -1%Google Pixel 9 Pro (Chrome 131.0.6778.81)
+207 runs/min -40%Average of class Smartphone (15.2 - 621, n=130, last 2 years)
+206 runs/min -41%Nothing Phone (2) (Chrome 114)
+162 runs/min -53%Speedometer 3.0 - Score
+OnePlus 13 (Chrome 131)
+31.6 runs/min +48%Samsung Galaxy S25+ (Chrome 133.0.6943.137)
+29 runs/min +36%Xiaomi 15 (Chrome 131.0.6778.104)
+23.5 runs/min +10%Nothing Phone (3) (Chrome)
+21.3 runs/min Average Qualcomm Snapdragon 8s Gen 4 SM8735 (19.7 - 21.3, n=2)
+20.5 runs/min -4%Google Pixel 9 Pro (Chrome 131.0.6778.81)
+15.8 runs/min -26%Average of class Smartphone (1.03 - 41.7, n=117, last 2 years)
+13.9 runs/min -35%WebXPRT 4 - Overall
+Samsung Galaxy S25+ (Chrome 133.0.6943.137)
+239 Points +74%OnePlus 13 (Chrome 131)
+235 Points +72%Xiaomi 15 (Chrome 131.0.6778.104)
+168 Points +23%Average Qualcomm Snapdragon 8s Gen 4 SM8735 (137 - 184, n=2)
+160.5 Points +17%Nothing Phone (2) (Chrome 114)
+147 Points +7%Average of class Smartphone (27 - 302, n=143, last 2 years)
+142.6 Points +4%Nothing Phone (3) (Chrome 138.0.7204.179)
+137 Points Google Pixel 9 Pro (Chrome 131.0.6778.81)
+106 Points -23%Octane V2 - Total Score
+Samsung Galaxy S25+ (Chrome 133.0.6943.137)
+98817 Points +37%OnePlus 13 (Chrome 131)
+92054 Points +28%Xiaomi 15 (Chrome 131.0.6778.104)
+78653 Points +9%Nothing Phone (3) (Chrome 138.0.7204.179)
+71875 Points Average Qualcomm Snapdragon 8s Gen 4 SM8735 (71781 - 71875, n=2)
+71828 Points 0%Google Pixel 9 Pro (Chrome 131.0.6778.81)
+60566 Points -16%Nothing Phone (2) (Chrome 114)
+52931 Points -26%Average of class Smartphone (2228 - 119218, n=196, last 2 years)
+47252 Points -34%Mozilla Kraken 1.1 - Total
+Average of class Smartphone (263 - 28190, n=151, last 2 years)
+1219 ms * -134%Nothing Phone (2) (Chrome 114)
+755.5 ms * -45%Google Pixel 9 Pro (Chrome 131.0.6778.81)
+699 ms * -34%Average Qualcomm Snapdragon 8s Gen 4 SM8735 (521 - 534, n=2)
+528 ms * -1%Nothing Phone (3) (Chrome 138.0.7204.179)
+521.2 ms * Xiaomi 15 (Chrome 131.0.6778.104)
+454.4 ms * +13%OnePlus 13 (Chrome 131)
+432.7 ms * +17%Samsung Galaxy S25+ (Chrome 133.0.6943.137)
+388.7 ms * +25%* ... smaller is better
+Nothing Phone (3)Google Pixel 9 ProNothing Phone (2)OnePlus 13Samsung Galaxy S25+Xiaomi 15Average 512 GB UFS 4.0 FlashAverage of class SmartphoneAndroBench 3-5-63%-42%-13%-16%-11%-10%-40% Sequential Read 256KB (MB/s)3720.791717.9 -54%1949.5 -48%3984.23 7%4057.35 9%3934.92 6%3675 ?(1851 - 4512, n=48) -1%2209 ?(270 - 4370, n=185, last 2 years) -41% Sequential Write 256KB (MB/s)3270.73253.53 -92%1517.6 -54%3684.36 13%3311.02 1%3889.06 19%3072 ?(1494 - 4030, n=48) -6%1812 ?(103.2 - 4035, n=185, last 2 years) -45% Random Read 4KB (MB/s)438.57218.41 -50%287.5 -34%301.29 -31%294.51 -33%296.95 -32%382 ?(250 - 504, n=48) -13%294 ?(47.6 - 504, n=185, last 2 years) -33% Random Write 4KB (MB/s)585.11261.55 -55%403.8 -31%344.63 -41%351.16 -40%360.36 -38%463 ?(45.7 - 964, n=48) -21%339 ?(9.4 - 964, n=185, last 2 years) -42%
+Gaming: Smooth gameplay guaranteedWith the Adreno 825-GPU of the Snapdragon 8s Gen 4 the smartphone runs current games smoothly. This is also shown by the fps measurements with the Gamebench tool.The smartphone achieves maximum frame rates in all graphics settings and is only slowed down by the games' internal fps limits.In PUBG Mobile, however, attaining 120 fps is possible at the lowest detail level.Genshin Impact
+PUBG Mobile
+0102030405060708090100110120TooltipNothing Phone (3); Asphalt 9: Legends; 45.0.9a: Ø89.2 (82-91) Nothing Phone (3); Genshin Impact; 5.8.0_35245262_35356052: Ø60 (53-61) Nothing Phone (3); PUBG Mobile; Smooth; 3.9.0: Ø119.7 (118-121) Nothing Phone (3); PUBG Mobile; HD; 3.9.0: Ø59.9 (58-61) Nothing Phone (3); PUBG Mobile; Ultra HD; 3.9.0: Ø39.9 (37-41)
+Emissions: Hot Nothing smartphoneSurface temperaturesThe Nothing Phone (3) can get very warm under load. In the stress test with Burnout Benchmark, we measured surface temperatures of up to 52.1 °C. You won't want to touch the smartphone under this kind of load.The 3DMark stress tests show that the smartphone quickly throttles the SoC performance under load — to less than 60% of the initial performance in the worst case.
+Max. LoadIdle
+51.2 °C124 F52.1 °C126 F49.2 °C121 F  51.7 °C125 F51.6 °C125 F47.4 °C117 F  51.6 °C125 F51.8 °C125 F45.1 °C113 F
+Maximum: 52.1 °C = 126 FAverage: 50.2 °C = 122 F
+45.8 °C114 F47.4 °C117 F49.7 °C121 F44 °C111 F48.9 °C120 F51.4 °C125 F42.4 °C108 F46.5 °C116 F50.3 °C123 F
+Maximum: 51.4 °C = 125 FAverage: 47.4 °C = 117 F Room Temperature 22 °C = 72 F | Fluke t3000FC (calibrated) & Voltcraft IR-260Max. LoadIdle
+28 °C82 F28.1 °C83 F27.5 °C82 F  27.9 °C82 F27.6 °C82 F28.1 °C83 F  28 °C82 F28.4 °C83 F27.2 °C81 F
+Maximum: 28.4 °C = 83 FAverage: 27.9 °C = 82 F
+26.2 °C79 F26.2 °C79 F26.4 °C80 F25.7 °C78 F26.7 °C80 F26.7 °C80 F26 °C79 F26.3 °C79 F26.7 °C80 F
+Maximum: 26.7 °C = 80 FAverage: 26.3 °C = 79 F Room Temperature 22 °C = 72 F | Voltcraft IR-260(-) The average temperature for the upper side under maximal load is 50.2 °C / 122 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.(-) The maximum temperature on the upper side is 52.1 °C / 126 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.(-) The bottom heats up to a maximum of 51.4 °C / 125 F, compared to the average of 33.9 °C / 93 F(+) In idle usage, the average temperature for the upper side is 27.9 °C / 82 F, compared to the device average of 32.9 °C / 91 F.
+3DMark Steel Nomad Stress Test
+3DMark
+Wild Life Stress Test StabilityGoogle Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+67.6 % +6%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+66.3 % +4%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+63.8 % Nothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+60.2 % -6%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+55.7 % -13%Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+53.4 % -16% Wild Life Extreme Stress TestNothing Phone (2)Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash
+87.3 % +41%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+69.3 % +12%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+68.7 % +11%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+61.9 % Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+51.3 % -17%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+51 % -18% Solar Bay Stress Test StabilityNothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+77.2 % Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+66.9 % -13%Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+58.9 % -24%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+48.1 % -38% Steel Nomad Light Stress Test StabilityGoogle Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+77.3 % +34%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+69.5 % +20%Samsung Galaxy S25+Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+66.5 % +15%Nothing Phone (3)Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash
+57.9 % OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+50.7 % -12%
+0102030405060708090100110120130140150160TooltipNothing Phone (3) Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1: Ø19.7 (17.2-27.8) Google Pixel 9 Pro Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.4.1: Ø12.8 (10.6-15.3) Nothing Phone (2) Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.0.2: Ø10.3 (10.2-11.6) OnePlus 13 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1: Ø26.1 (19.9-39) Samsung Galaxy S25+ Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1: Ø23.5 (19.9-38.9) Xiaomi 15 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1: Ø29 (26.2-38.2) Nothing Phone (3) Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0: Ø72.7 (64-100.4) Google Pixel 9 Pro Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash; Wild Life Stress Test Stability; 0.0.0.0: Ø44.8 (36.4-53.9) Nothing Phone (2) Adreno 730, SD 8+ Gen 1, 256 GB UFS 3.1 Flash; Wild Life Stress Test Stability; 0.0.0.0: Ø48.1 (38.2-63.4) OnePlus 13 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0: Ø92.1 (73.8-132.4) Samsung Galaxy S25+ Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0: Ø84.2 (71.3-133.4) Xiaomi 15 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0: Ø101.2 (87.7-132.2) Nothing Phone (3) Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0: Ø93.9 (88.2-109.2) Google Pixel 9 Pro Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0: Ø49.2 (41.3-56.4) Samsung Galaxy S25+ Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0: Ø114.4 (89.3-165.7) Xiaomi 15 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0: Ø117.4 (98.5-139.4) Nothing Phone (3) Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.11.1: Ø19.7 (16.7-28.4) Samsung Galaxy S25+ Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.11.1: Ø26.8 (23-41.1) Nothing Phone (3) Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1: Ø22.9 (21.3-27.6) OnePlus 13 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1: Ø28.1 (19-39.4) Samsung Galaxy S25+ Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1: Ø24.9 (21.4-36.3) Xiaomi 15 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1: Ø27.8 (24.8-37.1) Nothing Phone (3) Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3: Ø10 (7.77-13.4) Google Pixel 9 Pro Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3: Ø6.37 (5.73-7.42) OnePlus 13 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3: Ø14.1 (9.52-18.8) Samsung Galaxy S25+ Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3: Ø12 (10.9-16.3) Xiaomi 15 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3: Ø13.8 (12.2-17.6)
+Surface temperatures: Top
+Surface temperatures: BottomLoudspeakerAlthough the stereo speakers hardly produce any bass, they score points for their otherwise well-balanced sound characteristics with linear mids and highs.External audio devices can be connected to the smartphone via USB-C and Bluetooth 6.0.dB(A)
+0102030405060708090Deep BassMiddle BassHigh BassLower RangeMidsHigher MidsLower HighsMid HighsUpper HighsSuper Highs2030.939.42524.136.63118.741.24025.5465038.941.46321.542.78017.146.110022.247.812515.848.916015.656.420013.256.225013.458.531512.762.540011.663.350012.767.963014.272.180014.174.1100012.676.9125013.878.516001377.7200013.180.1250013.383.2315013.586.8400012.884.7500013.581630013.977.6800013.376.21000013.676.51250013.669.61600012.661.1SPL25.593.2N0.792.4median 13.4median 76.2Delta0.9938.437.830.633.919.23521.534.336.939.124.43319.739.715.840.914.144.615.255.612.455.29.560.19.762.310.563.49669.869.38.974.49.477.211.580.911.278.11281.611.780.71279.61282.112.580.312.977.313.371.413.567.713.568.413.664.123.990.90.584median 12median 71.41.59.6hearing rangehide medianshow median Pink NoiseNothing Phone (3)Samsung Galaxy S25+Frequency diagram (checkboxes can be checked and unchecked to compare devices)Nothing Phone (3) audio analysis(+) | speakers can play relatively loud (93.2 dB)Bass 100 - 315 Hz(-) | nearly no bass - on average 21.2% lower than median(+) | bass is linear (4.5% delta to prev. frequency)Mids 400 - 2000 Hz(+) | balanced mids - only 4.5% away from median(+) | mids are linear (3.8% delta to prev. frequency)Highs 2 - 16 kHz(+) | balanced highs - only 4.7% away from median(+) | highs are linear (4% delta to prev. frequency)Overall 100 - 16.000 Hz(±) | linearity of overall sound is average (15.9% difference to median)Compared to same class» 4% of all tested devices in this class were better, 4% similar, 92% worse» The best had a delta of 12%, average was 35%, worst was 134%Compared to all devices tested» 23% of all tested devices were better, 5% similar, 71% worse» The best had a delta of 4%, average was 24%, worst was 134%Samsung Galaxy S25+ audio analysis(+) | speakers can play relatively loud (90.9 dB)Bass 100 - 315 Hz(-) | nearly no bass - on average 18.3% lower than median(+) | bass is linear (6.5% delta to prev. frequency)Mids 400 - 2000 Hz(±) | higher mids - on average 6.3% higher than median(+) | mids are linear (5.2% delta to prev. frequency)Highs 2 - 16 kHz(±) | higher highs - on average 6.7% higher than median(+) | highs are linear (4.6% delta to prev. frequency)Overall 100 - 16.000 Hz(±) | linearity of overall sound is average (16.8% difference to median)Compared to same class» 8% of all tested devices in this class were better, 7% similar, 86% worse» The best had a delta of 12%, average was 35%, worst was 134%Compared to all devices tested» 28% of all tested devices were better, 7% similar, 65% worse» The best had a delta of 4%, average was 24%, worst was 134%
+Energy: Nothing Phone (3) with silicon-carbon batteryPower consumptionThe fairly energy efficient Nothing Phone (3) can be charged with up to 65 W speeds.According to Nothing, a charging cycle takes 54 minutes — we measured a time of 55 minutes with the 65 W Ugreen 2C1A power supply unit. The battery is already 80% charged after 34 minutes.
+Power Consumption
+Off / Standby 0.03 / 0.35 WattIdle 0.4 / 0.7 / 1.21 WattKey:
+min: ,
+med: ,
+max:         Metrahit Energy
+Nothing Phone (3)5150 mAhGoogle Pixel 9 Pro4700 mAhNothing Phone (2)4700 mAhOnePlus 136000 mAhSamsung Galaxy S25+4900 mAhXiaomi 155400 mAhAverage Qualcomm Snapdragon 8s Gen 4 SM8735 Average of class Smartphone Power Consumption-35%-66%-106%-21%-26%-54%-83%Idle Minimum * (Watt)0.40.59 -48%0.9 -125%0.86 -115%0.45 -13%0.5 -25%0.79 ?(0.4 - 1.18, n=2) -98%0.854 ?(0.4 - 1.65, n=152, last 2 years) -114%Idle Average * (Watt)0.71.1 -57%1.1 -57%1.74 -149%1.09 -56%1.11 -59%1.07 ?(0.7 - 1.44, n=2) -53%1.423 ?(0.6 - 4.36, n=152, last 2 years) -103%Idle Maximum * (Watt)1.211.2 1%1.4 -16%1.85 -53%1.13 7%1.13 7%1.345 ?(1.21 - 1.48, n=2) -11%1.592 ?(0.85 - 4.46, n=152, last 2 years) -32%Load Average * (Watt)7.15510.6914.418.917.62 ?(n=1)7.25 ?(2.3 - 16.5, n=134, last 2 years)Load Maximum * (Watt)20.3710.411.9216.379.38.92 ?(n=1)11.1 ?(3.53 - 20.8, n=134, last 2 years)* ... smaller is better
+Battery lifeThe Nothing Phone (3)'s 5,150 mAh cell is the largest battery in a Nothing Phone to date and also clearly outperforms its predecessor in terms of capacity.The test candidate is also ahead in terms of battery life. With a runtime of nearly 18.5 hours in the WLAN test, it leaves the Nothing Phone (2) and the Google Pixel 9 Pro behind it.
+Battery Runtime
+WiFi Websurfing
+18h 23min
+Battery Runtime - WiFi v1.3
+Nothing Phone (3)5150 mAh
+18.4 h Google Pixel 9 Pro4700 mAh
+17 h Nothing Phone (2)4700 mAh
+15.2 h OnePlus 136000 mAh
+22.5 h Samsung Galaxy S25+4900 mAh
+19.8 h Xiaomi 155400 mAh
+22.8 h
+Notebookcheck's overall impressions of the Nothing Phone (3)The Nothing Phone (3) combines an unusual design with powerful hardware, good cameras, a large battery, and updates until 2032.However, this high-quality 6.67-inch phone is not exactly a flagship smartphone as advertised by Nothing.
+Back to the verdictNothing Phone (3)
+- 08/25/2025 v8Manuel Masiero
+Chassis91%Keyboard67 / 75 → 89%Pointing Device92%Connectivity54 / 69 → 78%Weight88%Battery91%Display90%Games Performance38 / 55 → 69%Application Performance75 / 85 → 88%AI Performance25%Temperature79%Noise100%Audio84 / 90 → 93%Camera84%Average74%85%Smartphone - Weighted AverageCO2 Emissions89.1%Materials50%Packaging50%Power Use96.4%Repairability40%Software Updates94.5% Total Sustainability Score: 70%
+Potential alternatives in comparison
+ImageModel / ReviewPriceWeightDriveDisplay
+1.84.8%Nothing Phone (3)Qualcomm Snapdragon 8s Gen 4 SM8735 ⎘ Qualcomm Adreno 825 ⎘16 GB Memory, 512 GB Amazon: $899.00List Price: 899 Euro218 g512 GB UFS 4.0 Flash6.67"2800x1260460 PPIAMOLED
+2.85.7%Google Pixel 9 ProGoogle Tensor G4 ⎘ ARM Mali-G715 MP7 ⎘16 GB Memory, 128 GB Amazon: 1. $925.00Google Pixel 9 Pro - Unlocke...2. $1,499.00Google Pixel 9 Pro Fold - Un...3. $9.99OMOTON 3+2 Pack for Google P...199 g128 GB UFS 3.1 Flash6.30"2856x1280495 PPIOLED
+3.87.4% v7 (old)Nothing Phone (2)Qualcomm Snapdragon 8+ Gen 1 ⎘ Qualcomm Adreno 730 ⎘12 GB Memory, 256 GB Amazon: 1. $11.99Ibywind Screen Protector For...2. $6.99JETech Screen Protector for ...3. $12.99AISELAN 2 PCS Privacy Screen...List Price: 699€201.2 g256 GB UFS 3.1 Flash6.70"2412x1080394 PPIOLED
+4.87.6%OnePlus 13Qualcomm Snapdragon 8 Elite ⎘ Qualcomm Adreno 830 ⎘16 GB Memory, 512 GB Amazon: 1. $166.84Lkfyyds for OnePlus 13 PJZ11...2. $176.85MPXPOTTHW Cell Phone Replace...3. $35.99Original Super Vooc150W Char...List Price: 720€213 g512 GB UFS 4.0 Flash6.82"3168x1440510 PPIAMOLED
+5.88.4%Samsung Galaxy S25+Qualcomm Snapdragon 8 Elite for Galaxy ⎘ Qualcomm Adreno 830 ⎘12 GB Memory, 256 GB Amazon: 1. $9.72Ferilinso 3 Pack Privacy Scr...2. $7.58firtstnow 3 Pack Glass Scree...3. $16.99MAGIC JOHN 2 Pack for Samsun...List Price: 1149 Euro190 g256 GB UFS 4.0 Flash6.70"3120x1440513 PPIDynamic AMOLED 2X
+6.88.4%Xiaomi 15Qualcomm Snapdragon 8 Elite ⎘ Qualcomm Adreno 830 ⎘12 GB Memory, 512 GB Amazon: 1. $11.99Ibywind for Xiaomi 15 Ultra ...2. $11.99Ibywind 2 Pack Screen Protec...3. $7.99Suttkue for Xiaomi 15 Screen...List Price: 760€191 g512 GB UFS 4.0 Flash6.36"2670x1200460 PPIOLED
+More articles related to this deviceNothing Phone (3) (Phone Series)News•Redefining "flagship": Verdict on the Nothing Phone (3) |News•Nothing Phone (3) gets camera upgrades and Glyph Matrix photos via software... |News•Nothing camera test: Cheaper Phone (3a) Pro gives 'flagship' Phone (3) a ru... |News•Nothing reveals why the Phone (3) took 2 years to arrive and it isn't what ... |News•Nothing Phone (3): Nothing's first 'flagship' phone disappoints and is too ... |Review•More megapixels - Nothing Phone (3a) Pro smartphone review |News•Review verdict on Nothing Phone (3a): The powerful mid-range smartphone has... |Review•The elegant all-rounder presses all the right buttons - Nothing Phone (3a) ... |Review•Nothing Phone (2a) Plus review - The stylish smartphone with an exclusive p... |Review•Nothing Phone (2a) Review - The first affordable Nothing smartphone |News•Nothing Phone (2a) release date revealed as Carl Pei explains what makes th... |News•Nothing Phone (2a): Render images, euro price, colors and configurations le... |News•Nothing Phone (2) becomes first Android smartphone to receive official Appl... |News•Nothing Phone (2) receives first taste of new Android 14 features with Noth... |News•Nothing Phone (2) gains Pocket Mode, improved Glyph Interface support and o... |News•Nothing Phone (1) now eligible for Nothing OS 2.0 update with various chang... |News•The Nothing Phone (2): The next flagship killer? |Review•Nothing Phone (2) review: LED effects in a fairly priced high-end smartphone ...Related ArticlesNothing Ear (3) specs and marketing images leak ahead of launch
+09/17/2025Nothing confirms Ear 3 launch date
+09/08/2025Thermal imaging and night vision camera and 21,200 mAh battery in a rugged smartphone: Ulefone unveils Armor 29 Pro
+09/02/2025Tecno Spark Slim and Pova Slim pack 5,160 mAh battery and 4,500 nits AMOLED display into 5.9 mm thin case
+09/02/2025Redefining "flagship": Verdict on the Nothing Phone (3)
+08/27/2025Nothing Phone (3) gets camera upgrades and Glyph Matrix photos via software update
+08/11/2025Nothing Phone (3) reparability and durability becomes clear in new teardown video
+07/18/2025Carl Pei says the Nothing Phone (3) is the last of the Phone 3 series; thus dashing hopes of a Phone (3) Pro
+07/08/2025More megapixels - Nothing Phone (3a) Pro smartphone review
+04/15/2025The elegant all-rounder presses all the right buttons - Nothing Phone (3a) review
+04/09/2025Nothing Phone (2a) Plus review - The stylish smartphone with an exclusive processor that doesn't cost a lot
+09/14/2024Nothing Phone (2a) Review - The first affordable Nothing smartphone
+04/24/2024Nothing Phone (2) review: LED effects in a fairly priced high-end smartphone
+07/28/2023
+TransparencyThe selection of devices to be reviewed is made by our editorial team. The test sample was given to the author by the manufacturer free of charge for the purposes of review. There was no third-party influence on this review, nor did the manufacturer receive a copy of this review before publication. There was no obligation to publish this review. We never accept compensation or payment in return for our reviews. As an independent media company, Notebookcheck is not subjected to the authority of manufacturers, retailers or publishers.This is how Notebookcheck is testingEvery year, Notebookcheck independently reviews hundreds of laptops and smartphones using standardized procedures to ensure that all results are comparable. We have continuously developed our test methods for around 20 years and set industry standards in the process. In our test labs, high-quality measuring equipment is utilized by experienced technicians and editors. These tests involve a multi-stage validation process. Our complex rating system is based on hundreds of well-founded measurements and benchmarks, which maintains objectivity. Further information on our test methods can be found here.
+Read all 6 comments / answer static version load dynamicLoading Comments
+Comment on this article
+Editor of the original article: Manuel Masiero - Senior Tech Writer - 348 articles published on Notebookcheck since 2012My fascination for computers started with the C64. Since then, I’ve put everything that comes my way in terms of hardware through its paces. From the C64 to the Amiga 500 and the first PC with an 8088 CPU, my list of projects has grown increasingly longer. For more than 20 years now I have also turned my hobby into my profession and have been active in the mobile section of Notebookcheck since 2021. Before that, I worked as a hardware editor for IDG Media (tecChannel.de) and VNU Business Publications (PC professional), among others.Translator: Ninh Ngoc Duy - Editorial Assistant - 627884 articles published on Notebookcheck since 2008My main responsibility as an editorial assistant is maintaining the Library section, which aggregates reviews from other publications and channels. In addition, my daily breakfast is Notebookcheck's long list of new content, which I comb through to select the most interesting topics for translation from English to French, Italian, Spanish, Portuguese, and Dutch."contact me via:
+Facebook
+Please share our article, every link counts!

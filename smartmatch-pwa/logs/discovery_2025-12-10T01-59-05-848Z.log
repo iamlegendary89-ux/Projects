@@ -1,0 +1,233 @@
+[dotenv@17.2.3] injecting env (0) from .env.local -- tip: ⚙️  enable debug logging with { debug: true }
+ℹ️ [36m[STARTUP][0m [01:59:07] Validating environment configuration...
+⚠️ [33m[STARTUP][0m [01:59:07] Custom Search credentials not configured
+⚠️ [33m[STARTUP][0m [01:59:07] → DuckDuckGo primary (recommended)
+✅ [32m[STARTUP][0m [01:59:07] Environment validation complete
+ℹ️ [36m[PHASE 1][0m [01:59:07] Starting CSE Discovery (Parallel)
+ℹ️ [36m[PHASE 1][0m [01:59:07] CSE Credentials Check
+⚠️ [33m[PHASE 1][0m [01:59:07] CSE credentials missing - will use DuckDuckGo fallback only
+ℹ️ [36m[PHASE 1][0m [01:59:07] Starting parallel discovery of 27 tasks for 4 priority phones
+ℹ️ [36m[PHASE 1][0m [01:59:07] Priority Queue: google pixel 10 (2025-10-05), samsung galaxy z fold 7 (2025-07-15), nothing phone 3 (2025-07-11), apple iphone se 4 (2025-03-15)
+ℹ️ [36m[PHASE 1][0m [01:59:07] Processing batch 1/14 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [01:59:07] CSE failed for apple iphone se 4 attempting next query
+⚠️ [33m[PHASE 1][0m [01:59:07] CSE unavailable for apple iphone se 4 gsmarena_specs, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [01:59:07] DDG Query: "site:gsmarena.com apple iphone se 4 specs -forum"
+ℹ️ [36m[PHASE 1][0m [01:59:08] DDG Results: 3 found
+✅ [32m[PHASE 1][0m [01:59:08] DDG found 3 URLs for apple iphone se 4 gsmarena_specs
+ℹ️ [36m[PHASE 1][0m [01:59:08] Rejected URL for apple iphone se 4: invalid_pattern (https://www.gsmarena.com/iphone_se_4_might_come_with_a_ridiculous_amount_of_base_storage-news-66550.php)
+ℹ️ [36m[PHASE 1][0m [01:59:08] CSE failed for apple iphone se 4 attempting next query
+⚠️ [33m[PHASE 1][0m [01:59:08] CSE unavailable for apple iphone se 4 gsmarena_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [01:59:17] DDG Query: "site:gsmarena.com apple iphone se 4 review -forum"
+ℹ️ [36m[PHASE 1][0m [01:59:18] DDG Results: 3 found
+✅ [32m[PHASE 1][0m [01:59:18] DDG found 3 URLs for apple iphone se 4 gsmarena_review
+ℹ️ [36m[PHASE 1][0m [01:59:18] Rejected URL for apple iphone se 4: invalid_pattern (https://www.gsmarena.com/iphone_se_4_leaks_nothing_phone_3a_is_coming_week_5_in_review-news-66341.php)
+ℹ️ [36m[PHASE 1][0m [01:59:18] Rejected URL for apple iphone se 4: invalid_pattern (https://www.gsmarena.com/iphone_se_4_compared_to_iphone_16_in_latest_leaked_images-news-66282.php)
+ℹ️ [36m[PHASE 1][0m [01:59:18] Saved batch progress to phones.json
+ℹ️ [36m[PHASE 1][0m [01:59:19] Processing batch 2/14 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [01:59:19] CSE failed for apple iphone se 4 attempting next query
+⚠️ [33m[PHASE 1][0m [01:59:19] CSE unavailable for apple iphone se 4 phonearena_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [01:59:20] CSE failed for apple iphone se 4 attempting next query
+⚠️ [33m[PHASE 1][0m [01:59:20] CSE unavailable for apple iphone se 4 dxomark_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [01:59:27] DDG Query: "site:phonearena.com apple iphone se 4 review"
+ℹ️ [36m[PHASE 1][0m [01:59:27] DDG Query: "site:dxomark.com apple iphone se 4"
+ℹ️ [36m[PHASE 1][0m [01:59:27] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [01:59:28] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [01:59:28] Processing batch 3/14 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [01:59:28] CSE failed for apple iphone se 4 attempting next query
+⚠️ [33m[PHASE 1][0m [01:59:28] CSE unavailable for apple iphone se 4 tomsguide_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [01:59:29] CSE failed for apple iphone se 4 attempting next query
+⚠️ [33m[PHASE 1][0m [01:59:29] CSE unavailable for apple iphone se 4 techradar_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [01:59:37] DDG Query: "site:tomsguide.com apple iphone se 4 review"
+ℹ️ [36m[PHASE 1][0m [01:59:37] DDG Query: "site:techradar.com apple iphone se 4 review"
+ℹ️ [36m[PHASE 1][0m [01:59:37] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [01:59:37] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [01:59:38] Processing batch 4/14 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [01:59:38] CSE failed for apple iphone se 4 attempting next query
+⚠️ [33m[PHASE 1][0m [01:59:38] CSE unavailable for apple iphone se 4 theverge_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [01:59:39] CSE failed for apple iphone se 4 attempting next query
+⚠️ [33m[PHASE 1][0m [01:59:39] CSE unavailable for apple iphone se 4 notebookcheck_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [01:59:47] DDG Query: "site:theverge.com apple iphone se 4 review"
+ℹ️ [36m[PHASE 1][0m [01:59:47] DDG Query: "site:notebookcheck.net apple iphone se 4 review"
+ℹ️ [36m[PHASE 1][0m [01:59:47] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [01:59:47] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [01:59:48] Processing batch 5/14 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [01:59:48] CSE failed for apple iphone se 4 attempting next query
+⚠️ [33m[PHASE 1][0m [01:59:48] CSE unavailable for apple iphone se 4 androidcentral_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [01:59:49] CSE failed for apple iphone se 4 attempting next query
+⚠️ [33m[PHASE 1][0m [01:59:49] CSE unavailable for apple iphone se 4 androidauthority_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [01:59:57] DDG Query: "site:androidcentral.com apple iphone se 4 review"
+ℹ️ [36m[PHASE 1][0m [01:59:57] DDG Query: "site:androidauthority.com apple iphone se 4 review"
+ℹ️ [36m[PHASE 1][0m [01:59:57] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [01:59:57] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [01:59:58] Processing batch 6/14 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [01:59:58] CSE failed for samsung galaxy z fold 7 attempting next query
+⚠️ [33m[PHASE 1][0m [01:59:58] CSE unavailable for samsung galaxy z fold 7 gsmarena_specs, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [01:59:59] CSE failed for samsung galaxy z fold 7 attempting next query
+⚠️ [33m[PHASE 1][0m [01:59:59] CSE unavailable for samsung galaxy z fold 7 gsmarena_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:00:07] DDG Query: "site:gsmarena.com samsung galaxy z fold 7 specs -forum"
+ℹ️ [36m[PHASE 1][0m [02:00:07] DDG Query: "site:gsmarena.com samsung galaxy z fold 7 review -forum"
+ℹ️ [36m[PHASE 1][0m [02:00:07] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:00:07] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:00:08] Processing batch 7/14 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:08] CSE failed for samsung galaxy z fold 7 attempting next query
+⚠️ [33m[PHASE 1][0m [02:00:08] CSE unavailable for samsung galaxy z fold 7 phonearena_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:00:09] CSE failed for samsung galaxy z fold 7 attempting next query
+⚠️ [33m[PHASE 1][0m [02:00:09] CSE unavailable for samsung galaxy z fold 7 dxomark_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:00:17] DDG Query: "site:phonearena.com samsung galaxy z fold 7 review"
+ℹ️ [36m[PHASE 1][0m [02:00:17] DDG Query: "site:dxomark.com samsung galaxy z fold 7"
+ℹ️ [36m[PHASE 1][0m [02:00:17] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:00:17] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:00:18] Processing batch 8/14 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:18] CSE failed for samsung galaxy z fold 7 attempting next query
+⚠️ [33m[PHASE 1][0m [02:00:18] CSE unavailable for samsung galaxy z fold 7 tomsguide_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:00:19] CSE failed for samsung galaxy z fold 7 attempting next query
+⚠️ [33m[PHASE 1][0m [02:00:19] CSE unavailable for samsung galaxy z fold 7 theverge_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:00:27] DDG Query: "site:tomsguide.com samsung galaxy z fold 7 review"
+ℹ️ [36m[PHASE 1][0m [02:00:27] DDG Query: "site:theverge.com samsung galaxy z fold 7 review"
+ℹ️ [36m[PHASE 1][0m [02:00:27] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:00:27] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:00:28] Processing batch 9/14 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:28] CSE failed for samsung galaxy z fold 7 attempting next query
+⚠️ [33m[PHASE 1][0m [02:00:28] CSE unavailable for samsung galaxy z fold 7 notebookcheck_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:00:29] CSE failed for samsung galaxy z fold 7 attempting next query
+⚠️ [33m[PHASE 1][0m [02:00:29] CSE unavailable for samsung galaxy z fold 7 androidcentral_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:00:37] DDG Query: "site:notebookcheck.net samsung galaxy z fold 7 review"
+ℹ️ [36m[PHASE 1][0m [02:00:37] DDG Query: "site:androidcentral.com samsung galaxy z fold 7 review"
+ℹ️ [36m[PHASE 1][0m [02:00:37] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:00:37] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:00:38] Processing batch 10/14 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:38] CSE failed for google pixel 10 attempting next query
+⚠️ [33m[PHASE 1][0m [02:00:38] CSE unavailable for google pixel 10 tomsguide_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:00:39] CSE failed for google pixel 10 attempting next query
+⚠️ [33m[PHASE 1][0m [02:00:39] CSE unavailable for google pixel 10 androidauthority_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:00:47] DDG Query: "site:tomsguide.com google pixel 10 review"
+ℹ️ [36m[PHASE 1][0m [02:00:47] DDG Query: "site:androidauthority.com google pixel 10 review"
+ℹ️ [36m[PHASE 1][0m [02:00:47] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:00:47] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:00:48] Processing batch 11/14 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:48] CSE failed for nothing phone 3 attempting next query
+⚠️ [33m[PHASE 1][0m [02:00:48] CSE unavailable for nothing phone 3 gsmarena_specs, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:00:49] CSE failed for nothing phone 3 attempting next query
+⚠️ [33m[PHASE 1][0m [02:00:49] CSE unavailable for nothing phone 3 gsmarena_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:00:57] DDG Query: "site:gsmarena.com nothing phone 3 specs -forum"
+ℹ️ [36m[PHASE 1][0m [02:00:57] DDG Query: "site:gsmarena.com nothing phone 3 review -forum"
+ℹ️ [36m[PHASE 1][0m [02:00:57] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:00:57] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:00:58] Processing batch 12/14 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:58] CSE failed for nothing phone 3 attempting next query
+⚠️ [33m[PHASE 1][0m [02:00:58] CSE unavailable for nothing phone 3 phonearena_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:00:59] CSE failed for nothing phone 3 attempting next query
+⚠️ [33m[PHASE 1][0m [02:00:59] CSE unavailable for nothing phone 3 dxomark_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:01:07] DDG Query: "site:phonearena.com nothing phone 3 review"
+ℹ️ [36m[PHASE 1][0m [02:01:07] DDG Query: "site:dxomark.com nothing phone 3"
+ℹ️ [36m[PHASE 1][0m [02:01:08] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:01:08] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:01:08] Processing batch 13/14 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:01:08] CSE failed for nothing phone 3 attempting next query
+⚠️ [33m[PHASE 1][0m [02:01:08] CSE unavailable for nothing phone 3 tomsguide_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:01:09] CSE failed for nothing phone 3 attempting next query
+⚠️ [33m[PHASE 1][0m [02:01:09] CSE unavailable for nothing phone 3 theverge_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:01:17] DDG Query: "site:theverge.com nothing phone 3 review"
+ℹ️ [36m[PHASE 1][0m [02:01:17] DDG Query: "site:tomsguide.com nothing phone 3 review"
+ℹ️ [36m[PHASE 1][0m [02:01:18] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:01:18] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:01:18] Processing batch 14/14 (1 tasks)
+ℹ️ [36m[PHASE 1][0m [02:01:18] CSE failed for nothing phone 3 attempting next query
+⚠️ [33m[PHASE 1][0m [02:01:18] CSE unavailable for nothing phone 3 notebookcheck_review, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:01:27] DDG Query: "site:notebookcheck.net nothing phone 3 review"
+ℹ️ [36m[PHASE 1][0m [02:01:28] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:01:28] Discovery Summary
+ℹ️ [36m[PHASE 2][0m [02:01:28] Starting Archive Discovery (Optimized Search Patterns)
+✅ [32m[PHASE 2][0m [02:01:29] Generated 1 snapshots
+✅ [32m[PHASE 2][0m [02:01:43] Generated 1 snapshots
+⚠️ [33m[PHASE 2][0m [02:01:44] No snapshots for https://www.notebookcheck.net/Setting-new-battery-life-records-Apple-iPhone-17-Pro-Max-smartphone-review.1148795.0.html
+ℹ️ [36m[SAVE_API][0m [02:01:44] 3 daily retries failed, requesting Archive.org save
+⚠️ [33m[SAVE_API][0m [02:01:44] Archive.org credentials missing. Skipping save request.
+ℹ️ [36m[PHASE 2][0m [02:01:44] Skipping archive search for: https://www.gsmarena.com/compare.php3?idPhone1=3275&idPhone2...(unarchivable pattern)
+✅ [32m[PHASE 2][0m [02:02:07] Generated 1 snapshots
+✅ [32m[PHASE 2][0m [02:02:09] Generated 17 snapshots
+✅ [32m[PHASE 2][0m [02:02:32] Found snapshots, cleared from no-snapshots cache
+✅ [32m[PHASE 2][0m [02:02:32] Generated 1 snapshots
+⚠️ [33m[PHASE 2][0m [02:02:32] No snapshots for https://www.androidauthority.com/samsung-galaxy-s25-review-3531762/
+ℹ️ [36m[SAVE_API][0m [02:02:32] 3 daily retries failed, requesting Archive.org save
+⚠️ [33m[SAVE_API][0m [02:02:32] Archive.org credentials missing. Skipping save request.
+✅ [32m[PHASE 2][0m [02:02:38] Generated 5 snapshots
+✅ [32m[PHASE 2][0m [02:03:35] Generated 6 snapshots
+✅ [32m[PHASE 2][0m [02:03:57] Generated 1 snapshots
+✅ [32m[PHASE 2][0m [02:04:02] Generated 13 snapshots
+✅ [32m[PHASE 2][0m [02:04:08] Generated 10 snapshots
+✅ [32m[PHASE 2][0m [02:04:15] Generated 10 snapshots
+✅ [32m[PHASE 2][0m [02:04:29] Generated 1 snapshots
+✅ [32m[PHASE 2][0m [02:04:32] Generated 5 snapshots
+✅ [32m[PHASE 2][0m [02:04:39] Generated 3 snapshots
+✅ [32m[PHASE 2][0m [02:04:40] Generated 7 snapshots
+✅ [32m[PHASE 2][0m [02:04:54] Generated 5 snapshots
+✅ [32m[PHASE 2][0m [02:05:03] Generated 5 snapshots
+✅ [32m[PHASE 2][0m [02:06:06] Generated 2 snapshots
+✅ [32m[PHASE 2][0m [02:06:20] Generated 4 snapshots
+✅ [32m[PHASE 2][0m [02:06:35] Generated 5 snapshots
+✅ [32m[PHASE 2][0m [02:07:12] Generated 8 snapshots
+✅ [32m[PHASE 2][0m [02:07:25] Generated 5 snapshots
+ℹ️ [36m[PHASE 3][0m [02:07:25] Starting Content Scraping (Smart Caching, Limit: 2)
+ℹ️ [36m[PHASE 3][0m [02:07:25] Queued 54 scraping tasks
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 15 pro] Skipping 1_gsmarena_specs.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 15 pro] Skipping 2_gsmarena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 15 pro] Skipping 3_phonearena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 15 pro] Skipping 4_dxomark_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 15 pro] Skipping 5_tomsguide_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 15 pro] Skipping 6_techradar_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 15 pro] Skipping 8_notebookcheck_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 15 pro] Skipping 10_androidauthority_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 15 pro] Skipping 9_androidcentral_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 17 pro max] Skipping 1_gsmarena_specs.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 17 pro max] Skipping 2_gsmarena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 17 pro max] Skipping 3_phonearena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 17 pro max] Skipping 5_tomsguide_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 17 pro max] Skipping 6_techradar_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 17 pro max] Skipping 7_theverge_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 17 pro max] Skipping 9_androidcentral_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 17 pro max] Skipping 10_androidauthority_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 17 pro max] Skipping 4_dxomark_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone se 4] No archive URLs, trying progressive fallback
+ℹ️ [36m[PHASE 3][0m [02:07:25] [apple iphone 17 pro max] No archive URLs, trying progressive fallback
+✅ [32m[PHASE 3][0m [02:07:28] [apple iphone se 4] Saved 1_gsmarena_specs.txt (3324 chars)
+ℹ️ [36m[HERO_IMAGE][0m [02:07:28] Starting hero image extraction...
+ℹ️ [36m[HERO_IMAGE][0m [02:07:28] Loaded HTML, looking for image selectors...
+ℹ️ [36m[HERO_IMAGE][0m [02:07:28] Found image src: null
+ℹ️ [36m[HERO_IMAGE][0m [02:07:28] No hero image found in HTML
+ℹ️ [36m[PHASE 3][0m [02:07:28] [apple iphone se 4] Skipping 1_gsmarena_specs.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:38] [samsung galaxy s25] Skipping 1_gsmarena_specs.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:38] [samsung galaxy s25] Skipping 2_gsmarena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:38] [samsung galaxy s25] Skipping 3_phonearena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:38] [samsung galaxy s25] Skipping 4_dxomark_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:38] [samsung galaxy s25] Skipping 5_tomsguide_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:38] [samsung galaxy s25] Skipping 6_techradar_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:38] [samsung galaxy s25] Skipping 8_notebookcheck_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:38] [samsung galaxy s25] Skipping 9_androidcentral_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:38] [samsung galaxy s25] No archive URLs, trying progressive fallback
+ℹ️ [36m[PHASE 3][0m [02:07:51] [samsung galaxy z fold 7] Skipping 6_techradar_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:51] [samsung galaxy z fold 7] Skipping 10_androidauthority_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:51] [oneplus 13] Skipping 1_gsmarena_specs.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:51] [oneplus 13] Skipping 2_gsmarena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:51] [oneplus 13] Skipping 3_phonearena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:51] [oneplus 13] Skipping 4_dxomark_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:51] [oneplus 13] Skipping 5_tomsguide_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:51] [oneplus 13] Skipping 6_techradar_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:51] [oneplus 13] Skipping 8_notebookcheck_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:51] [oneplus 13] Skipping 9_androidcentral_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:51] [oneplus 13] Skipping 10_androidauthority_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:51] [google pixel 10] Skipping 3_phonearena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:51] [google pixel 10] Skipping 4_dxomark_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:51] [google pixel 10] Skipping 6_techradar_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:51] [google pixel 10] Skipping 8_notebookcheck_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:07:51] [nothing phone 3] Skipping 10_androidauthority_review.txt - already exists
+✅ [32m[PIPELINE][0m [02:08:32] Discovery Complete
+ℹ️ [36m[TELEMETRY][0m [02:08:32] Session Summary
+
+📊 TELEMETRY SUMMARY
+   CSE Calls:         0
+   Archive Hits:      31
+   Scrape Success:    1/1
+   Hero Images:       0 downloaded, 0 cached, 0 failed
+   Duration:          564.7s
+

@@ -1,0 +1,66 @@
+receivers:
+  otlp:
+    protocols:
+      grpc:
+      http:
+
+processors:
+  batch:
+    timeout: 1s
+    send_batch_size: 1000
+
+  # Memory limiter to prevent OOM
+  memory_limiter:
+    check_interval: 1s
+    limit_percentage: 75
+    spike_limit_percentage: 20
+
+  # Resource attributes processor
+  resource:
+    attributes:
+      - key: service.name
+        value: "smartmatch-workflow"
+        action: upsert
+      - key: deployment.environment
+        value: "production"
+        action: upsert
+
+exporters:
+  # Prometheus exporter for metrics
+  prometheus:
+    endpoint: "0.0.0.0:8889"
+    const_labels:
+      label1: "value1"
+
+  # OTLP exporter for traces to Tempo
+  otlp/tempo:
+    endpoint: "tempo:4317"
+    tls:
+      insecure: true
+
+  # OTLP exporter for metrics to Prometheus
+  otlp/prometheus:
+    endpoint: "prometheus:9090"
+    tls:
+      insecure: true
+
+  # Logging exporter for debugging
+  logging:
+    verbosity: "basic"
+
+service:
+  pipelines:
+    traces:
+      receivers: [otlp]
+      processors: [memory_limiter, batch, resource]
+      exporters: [otlp/tempo]
+
+    metrics:
+      receivers: [otlp]
+      processors: [memory_limiter, batch, resource]
+      exporters: [prometheus]
+
+    logs:
+      receivers: [otlp]
+      processors: [memory_limiter, batch, resource]
+      exporters: [logging]

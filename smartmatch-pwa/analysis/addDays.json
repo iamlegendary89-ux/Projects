@@ -1,0 +1,2197 @@
+{
+  "targetName": "addDays",
+  "targetType": "function",
+  "runAt": "2025-12-09T09:38:56.981Z",
+  "totalTestCases": 32,
+  "variants": [
+    {
+      "variant": "gen1-v1",
+      "file": "variants\\addDays\\gen1-v1.ts",
+      "passed": 17,
+      "failed": 15,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.0020534374999997772,
+        "maxDurationMs": 0.03337999999999965,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "add-1-day",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.03337999999999965
+          }
+        },
+        {
+          "testId": "add-7-days",
+          "passed": true,
+          "expected": "2024-01-22",
+          "actual": "2024-01-22",
+          "metrics": {
+            "durationMs": 0.0008200000000016417
+          }
+        },
+        {
+          "testId": "cross-month",
+          "passed": true,
+          "expected": "2024-02-04",
+          "actual": "2024-02-04",
+          "metrics": {
+            "durationMs": 0.0009799999999955844
+          }
+        },
+        {
+          "testId": "cross-year",
+          "passed": true,
+          "expected": "2025-01-04",
+          "actual": "2025-01-04",
+          "metrics": {
+            "durationMs": 0.0009200000000021191
+          }
+        },
+        {
+          "testId": "leap-year",
+          "passed": true,
+          "expected": "2024-02-29",
+          "actual": "2024-02-29",
+          "metrics": {
+            "durationMs": 0.0009399999999970988
+          }
+        },
+        {
+          "testId": "subtract-days",
+          "passed": true,
+          "expected": "2024-01-10",
+          "actual": "2024-01-10",
+          "metrics": {
+            "durationMs": 0.0006199999999978445
+          }
+        },
+        {
+          "testId": "zero-days",
+          "passed": true,
+          "expected": "2024-06-15",
+          "actual": "2024-06-15",
+          "metrics": {
+            "durationMs": 0.00036999999999807185
+          }
+        },
+        {
+          "testId": "large-addition",
+          "passed": true,
+          "expected": "2024-12-31",
+          "actual": "2024-12-31",
+          "metrics": {
+            "durationMs": 0.0006100000000003547
+          }
+        },
+        {
+          "testId": "mutation-1000",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.00044000000000039564
+          }
+        },
+        {
+          "testId": "mutation-1001",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0005099999999970351
+          }
+        },
+        {
+          "testId": "mutation-1002",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.000519999999997367
+          }
+        },
+        {
+          "testId": "mutation-1003",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.000319999999996412
+          }
+        },
+        {
+          "testId": "mutation-1004",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.01604000000000383
+          }
+        },
+        {
+          "testId": "mutation-1005",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0008100000000013097
+          }
+        },
+        {
+          "testId": "mutation-1006",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.00047999999999603915
+          }
+        },
+        {
+          "testId": "mutation-1007",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0005300000000005411
+          }
+        },
+        {
+          "testId": "mutation-1008",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0007800000000003138
+          }
+        },
+        {
+          "testId": "mutation-1009",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.00036000000000342426
+          }
+        },
+        {
+          "testId": "mutation-1010",
+          "passed": false,
+          "expected": "1970-01-02",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0004300000000000637
+          }
+        },
+        {
+          "testId": "mutation-1011",
+          "passed": false,
+          "expected": "1970-01-02",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0003199999999992542
+          }
+        },
+        {
+          "testId": "mutation-1012",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.00039999999999906777
+          }
+        },
+        {
+          "testId": "mutation-1013",
+          "passed": true,
+          "expected": "2024-01-14",
+          "actual": "2024-01-14",
+          "metrics": {
+            "durationMs": 0.000570000000001869
+          }
+        },
+        {
+          "testId": "mutation-1014",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.00027000000000043656
+          }
+        },
+        {
+          "testId": "mutation-1015",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0003000000000014325
+          }
+        },
+        {
+          "testId": "mutation-1016",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0006900000000001682
+          }
+        },
+        {
+          "testId": "mutation-1017",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0005699999999990268
+          }
+        },
+        {
+          "testId": "mutation-1018",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0008099999999984675
+          }
+        },
+        {
+          "testId": "mutation-1019",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.00047999999999888133
+          }
+        },
+        {
+          "testId": "mutation-1020",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.00042000000000257386
+          }
+        },
+        {
+          "testId": "mutation-1021",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.00032000000000493857
+          }
+        },
+        {
+          "testId": "mutation-1022",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0003599999999977399
+          }
+        },
+        {
+          "testId": "mutation-1023",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.00033999999999991817
+          }
+        }
+      ]
+    },
+    {
+      "variant": "gen1-v2",
+      "file": "variants\\addDays\\gen1-v2.ts",
+      "passed": 19,
+      "failed": 13,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.0012387500000002661,
+        "maxDurationMs": 0.015100000000001047,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "add-1-day",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.00782000000000096
+          }
+        },
+        {
+          "testId": "add-7-days",
+          "passed": true,
+          "expected": "2024-01-22",
+          "actual": "2024-01-22",
+          "metrics": {
+            "durationMs": 0.0006900000000001682
+          }
+        },
+        {
+          "testId": "cross-month",
+          "passed": true,
+          "expected": "2024-02-04",
+          "actual": "2024-02-04",
+          "metrics": {
+            "durationMs": 0.0006499999999988404
+          }
+        },
+        {
+          "testId": "cross-year",
+          "passed": true,
+          "expected": "2025-01-04",
+          "actual": "2025-01-04",
+          "metrics": {
+            "durationMs": 0.0006800000000026785
+          }
+        },
+        {
+          "testId": "leap-year",
+          "passed": true,
+          "expected": "2024-02-29",
+          "actual": "2024-02-29",
+          "metrics": {
+            "durationMs": 0.0006300000000038608
+          }
+        },
+        {
+          "testId": "subtract-days",
+          "passed": true,
+          "expected": "2024-01-10",
+          "actual": "2024-01-10",
+          "metrics": {
+            "durationMs": 0.0006299999999981765
+          }
+        },
+        {
+          "testId": "zero-days",
+          "passed": true,
+          "expected": "2024-06-15",
+          "actual": "2024-06-15",
+          "metrics": {
+            "durationMs": 0.0006400000000013506
+          }
+        },
+        {
+          "testId": "large-addition",
+          "passed": true,
+          "expected": "2024-12-31",
+          "actual": "2024-12-31",
+          "metrics": {
+            "durationMs": 0.0006600000000020146
+          }
+        },
+        {
+          "testId": "mutation-1000",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-undefined-undefined",
+          "metrics": {
+            "durationMs": 0.0006699999999995043
+          }
+        },
+        {
+          "testId": "mutation-1001",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-undefined-undefined",
+          "metrics": {
+            "durationMs": 0.0004299999999972215
+          }
+        },
+        {
+          "testId": "mutation-1002",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-undefined-undefined",
+          "metrics": {
+            "durationMs": 0.0004099999999993997
+          }
+        },
+        {
+          "testId": "mutation-1003",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-undefined-undefined",
+          "metrics": {
+            "durationMs": 0.0004199999999997317
+          }
+        },
+        {
+          "testId": "mutation-1004",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-undefined-undefined",
+          "metrics": {
+            "durationMs": 0.015100000000001047
+          }
+        },
+        {
+          "testId": "mutation-1005",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-undefined-undefined",
+          "metrics": {
+            "durationMs": 0.0004400000000032378
+          }
+        },
+        {
+          "testId": "mutation-1006",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-undefined-undefined",
+          "metrics": {
+            "durationMs": 0.0004700000000013915
+          }
+        },
+        {
+          "testId": "mutation-1007",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-undefined-undefined",
+          "metrics": {
+            "durationMs": 0.0005499999999983629
+          }
+        },
+        {
+          "testId": "mutation-1008",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-undefined-undefined",
+          "metrics": {
+            "durationMs": 0.00040000000000190995
+          }
+        },
+        {
+          "testId": "mutation-1009",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-undefined-undefined",
+          "metrics": {
+            "durationMs": 0.0004300000000029058
+          }
+        },
+        {
+          "testId": "mutation-1010",
+          "passed": true,
+          "expected": "1970-01-02",
+          "actual": "1970-01-02",
+          "metrics": {
+            "durationMs": 0.0007000000000005002
+          }
+        },
+        {
+          "testId": "mutation-1011",
+          "passed": true,
+          "expected": "1970-01-02",
+          "actual": "1970-01-02",
+          "metrics": {
+            "durationMs": 0.0005899999999996908
+          }
+        },
+        {
+          "testId": "mutation-1012",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0006000000000057071
+          }
+        },
+        {
+          "testId": "mutation-1013",
+          "passed": true,
+          "expected": "2024-01-14",
+          "actual": "2024-01-14",
+          "metrics": {
+            "durationMs": 0.000560000000001537
+          }
+        },
+        {
+          "testId": "mutation-1014",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.0005499999999955208
+          }
+        },
+        {
+          "testId": "mutation-1015",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0005699999999990268
+          }
+        },
+        {
+          "testId": "mutation-1016",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-undefined-undefined",
+          "metrics": {
+            "durationMs": 0.000519999999997367
+          }
+        },
+        {
+          "testId": "mutation-1017",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-undefined-undefined",
+          "metrics": {
+            "durationMs": 0.0004999999999995453
+          }
+        },
+        {
+          "testId": "mutation-1018",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-undefined-undefined",
+          "metrics": {
+            "durationMs": 0.0004999999999995453
+          }
+        },
+        {
+          "testId": "mutation-1019",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.000539999999998031
+          }
+        },
+        {
+          "testId": "mutation-1020",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0005499999999983629
+          }
+        },
+        {
+          "testId": "mutation-1021",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0006400000000070349
+          }
+        },
+        {
+          "testId": "mutation-1022",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0005499999999983629
+          }
+        },
+        {
+          "testId": "mutation-1023",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0005499999999955208
+          }
+        }
+      ]
+    },
+    {
+      "variant": "gen1-v3",
+      "file": "variants\\addDays\\gen1-v3.ts",
+      "passed": 19,
+      "failed": 13,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.0011234375000007903,
+        "maxDurationMs": 0.015930000000000177,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "add-1-day",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.003879999999998063
+          }
+        },
+        {
+          "testId": "add-7-days",
+          "passed": true,
+          "expected": "2024-01-22",
+          "actual": "2024-01-22",
+          "metrics": {
+            "durationMs": 0.0006299999999981765
+          }
+        },
+        {
+          "testId": "cross-month",
+          "passed": true,
+          "expected": "2024-02-04",
+          "actual": "2024-02-04",
+          "metrics": {
+            "durationMs": 0.000560000000001537
+          }
+        },
+        {
+          "testId": "cross-year",
+          "passed": true,
+          "expected": "2025-01-04",
+          "actual": "2025-01-04",
+          "metrics": {
+            "durationMs": 0.0005699999999990268
+          }
+        },
+        {
+          "testId": "leap-year",
+          "passed": true,
+          "expected": "2024-02-29",
+          "actual": "2024-02-29",
+          "metrics": {
+            "durationMs": 0.0005800000000022009
+          }
+        },
+        {
+          "testId": "subtract-days",
+          "passed": true,
+          "expected": "2024-01-10",
+          "actual": "2024-01-10",
+          "metrics": {
+            "durationMs": 0.0005399999999951888
+          }
+        },
+        {
+          "testId": "zero-days",
+          "passed": true,
+          "expected": "2024-06-15",
+          "actual": "2024-06-15",
+          "metrics": {
+            "durationMs": 0.0005700000000075534
+          }
+        },
+        {
+          "testId": "large-addition",
+          "passed": true,
+          "expected": "2024-12-31",
+          "actual": "2024-12-31",
+          "metrics": {
+            "durationMs": 0.0006100000000003547
+          }
+        },
+        {
+          "testId": "mutation-1000",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0005500000000012051
+          }
+        },
+        {
+          "testId": "mutation-1001",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0005000000000023874
+          }
+        },
+        {
+          "testId": "mutation-1002",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.00046000000000105955
+          }
+        },
+        {
+          "testId": "mutation-1003",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.00046000000000105955
+          }
+        },
+        {
+          "testId": "mutation-1004",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.015930000000000177
+          }
+        },
+        {
+          "testId": "mutation-1005",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0005100000000055616
+          }
+        },
+        {
+          "testId": "mutation-1006",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0005100000000027194
+          }
+        },
+        {
+          "testId": "mutation-1007",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0006500000000016825
+          }
+        },
+        {
+          "testId": "mutation-1008",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0004899999999963712
+          }
+        },
+        {
+          "testId": "mutation-1009",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0005000000000052296
+          }
+        },
+        {
+          "testId": "mutation-1010",
+          "passed": true,
+          "expected": "1970-01-02",
+          "actual": "1970-01-02",
+          "metrics": {
+            "durationMs": 0.0004899999999992133
+          }
+        },
+        {
+          "testId": "mutation-1011",
+          "passed": true,
+          "expected": "1970-01-02",
+          "actual": "1970-01-02",
+          "metrics": {
+            "durationMs": 0.0004100000000022419
+          }
+        },
+        {
+          "testId": "mutation-1012",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0005599999999986949
+          }
+        },
+        {
+          "testId": "mutation-1013",
+          "passed": true,
+          "expected": "2024-01-14",
+          "actual": "2024-01-14",
+          "metrics": {
+            "durationMs": 0.0005500000000012051
+          }
+        },
+        {
+          "testId": "mutation-1014",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.0006000000000000227
+          }
+        },
+        {
+          "testId": "mutation-1015",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0005500000000012051
+          }
+        },
+        {
+          "testId": "mutation-1016",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0005499999999983629
+          }
+        },
+        {
+          "testId": "mutation-1017",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0005099999999998772
+          }
+        },
+        {
+          "testId": "mutation-1018",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0005099999999998772
+          }
+        },
+        {
+          "testId": "mutation-1019",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0005600000000043793
+          }
+        },
+        {
+          "testId": "mutation-1020",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0005499999999983629
+          }
+        },
+        {
+          "testId": "mutation-1021",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0005400000000008731
+          }
+        },
+        {
+          "testId": "mutation-1022",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0005400000000037152
+          }
+        },
+        {
+          "testId": "mutation-1023",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.000529999999997699
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v0-original",
+      "file": "variants\\addDays\\v0-original.ts",
+      "passed": 19,
+      "failed": 13,
+      "errors": [
+        "Test mutation-1000: Invalid time value",
+        "Test mutation-1001: Invalid time value",
+        "Test mutation-1002: Invalid time value",
+        "Test mutation-1003: Invalid time value",
+        "Test mutation-1004: Invalid time value",
+        "Test mutation-1005: Invalid time value",
+        "Test mutation-1006: Invalid time value",
+        "Test mutation-1007: Invalid time value",
+        "Test mutation-1008: Invalid time value",
+        "Test mutation-1009: Invalid time value",
+        "Test mutation-1016: Invalid time value",
+        "Test mutation-1017: Invalid time value",
+        "Test mutation-1018: Invalid time value"
+      ],
+      "metrics": {
+        "avgDurationMs": 0.0019957894736846453,
+        "maxDurationMs": 0.014589999999995485,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "add-1-day",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.014589999999995485
+          }
+        },
+        {
+          "testId": "add-7-days",
+          "passed": true,
+          "expected": "2024-01-22",
+          "actual": "2024-01-22",
+          "metrics": {
+            "durationMs": 0.0013299999999986766
+          }
+        },
+        {
+          "testId": "cross-month",
+          "passed": true,
+          "expected": "2024-02-04",
+          "actual": "2024-02-04",
+          "metrics": {
+            "durationMs": 0.001300000000003365
+          }
+        },
+        {
+          "testId": "cross-year",
+          "passed": true,
+          "expected": "2025-01-04",
+          "actual": "2025-01-04",
+          "metrics": {
+            "durationMs": 0.001310000000000855
+          }
+        },
+        {
+          "testId": "leap-year",
+          "passed": true,
+          "expected": "2024-02-29",
+          "actual": "2024-02-29",
+          "metrics": {
+            "durationMs": 0.0012899999999973488
+          }
+        },
+        {
+          "testId": "subtract-days",
+          "passed": true,
+          "expected": "2024-01-10",
+          "actual": "2024-01-10",
+          "metrics": {
+            "durationMs": 0.0012899999999973488
+          }
+        },
+        {
+          "testId": "zero-days",
+          "passed": true,
+          "expected": "2024-06-15",
+          "actual": "2024-06-15",
+          "metrics": {
+            "durationMs": 0.001470000000000482
+          }
+        },
+        {
+          "testId": "large-addition",
+          "passed": true,
+          "expected": "2024-12-31",
+          "actual": "2024-12-31",
+          "metrics": {
+            "durationMs": 0.001310000000000855
+          }
+        },
+        {
+          "testId": "mutation-1010",
+          "passed": true,
+          "expected": "1970-01-02",
+          "actual": "1970-01-02",
+          "metrics": {
+            "durationMs": 0.0015100000000046522
+          }
+        },
+        {
+          "testId": "mutation-1011",
+          "passed": true,
+          "expected": "1970-01-02",
+          "actual": "1970-01-02",
+          "metrics": {
+            "durationMs": 0.0013500000000021828
+          }
+        },
+        {
+          "testId": "mutation-1012",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0013099999999980128
+          }
+        },
+        {
+          "testId": "mutation-1013",
+          "passed": true,
+          "expected": "2024-01-14",
+          "actual": "2024-01-14",
+          "metrics": {
+            "durationMs": 0.0012100000000003774
+          }
+        },
+        {
+          "testId": "mutation-1014",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.0012400000000042156
+          }
+        },
+        {
+          "testId": "mutation-1015",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.001239999999995689
+          }
+        },
+        {
+          "testId": "mutation-1019",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0011899999999997134
+          }
+        },
+        {
+          "testId": "mutation-1020",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0013300000000015188
+          }
+        },
+        {
+          "testId": "mutation-1021",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0011900000000025558
+          }
+        },
+        {
+          "testId": "mutation-1022",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0012400000000013733
+          }
+        },
+        {
+          "testId": "mutation-1023",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0012200000000035516
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v1",
+      "file": "variants\\addDays\\v1.ts",
+      "passed": 19,
+      "failed": 13,
+      "errors": [
+        "Test mutation-1000: Invalid time value",
+        "Test mutation-1001: Invalid time value",
+        "Test mutation-1002: Invalid time value",
+        "Test mutation-1003: Invalid time value",
+        "Test mutation-1004: Invalid time value",
+        "Test mutation-1005: Invalid time value",
+        "Test mutation-1006: Invalid time value",
+        "Test mutation-1007: Invalid time value",
+        "Test mutation-1008: Invalid time value",
+        "Test mutation-1009: Invalid time value",
+        "Test mutation-1016: Invalid time value",
+        "Test mutation-1017: Invalid time value",
+        "Test mutation-1018: Invalid time value"
+      ],
+      "metrics": {
+        "avgDurationMs": 0.0014405263157900245,
+        "maxDurationMs": 0.005300000000002569,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "add-1-day",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.005300000000002569
+          }
+        },
+        {
+          "testId": "add-7-days",
+          "passed": true,
+          "expected": "2024-01-22",
+          "actual": "2024-01-22",
+          "metrics": {
+            "durationMs": 0.0014899999999983039
+          }
+        },
+        {
+          "testId": "cross-month",
+          "passed": true,
+          "expected": "2024-02-04",
+          "actual": "2024-02-04",
+          "metrics": {
+            "durationMs": 0.0014399999999994862
+          }
+        },
+        {
+          "testId": "cross-year",
+          "passed": true,
+          "expected": "2025-01-04",
+          "actual": "2025-01-04",
+          "metrics": {
+            "durationMs": 0.0014799999999979719
+          }
+        },
+        {
+          "testId": "leap-year",
+          "passed": true,
+          "expected": "2024-02-29",
+          "actual": "2024-02-29",
+          "metrics": {
+            "durationMs": 0.001439999999996644
+          }
+        },
+        {
+          "testId": "subtract-days",
+          "passed": true,
+          "expected": "2024-01-10",
+          "actual": "2024-01-10",
+          "metrics": {
+            "durationMs": 0.0014200000000073488
+          }
+        },
+        {
+          "testId": "zero-days",
+          "passed": true,
+          "expected": "2024-06-15",
+          "actual": "2024-06-15",
+          "metrics": {
+            "durationMs": 0.0013800000000031786
+          }
+        },
+        {
+          "testId": "large-addition",
+          "passed": true,
+          "expected": "2024-12-31",
+          "actual": "2024-12-31",
+          "metrics": {
+            "durationMs": 0.0011500000000012277
+          }
+        },
+        {
+          "testId": "mutation-1010",
+          "passed": true,
+          "expected": "1970-01-02",
+          "actual": "1970-01-02",
+          "metrics": {
+            "durationMs": 0.0011499999999955435
+          }
+        },
+        {
+          "testId": "mutation-1011",
+          "passed": true,
+          "expected": "1970-01-02",
+          "actual": "1970-01-02",
+          "metrics": {
+            "durationMs": 0.0010800000000017462
+          }
+        },
+        {
+          "testId": "mutation-1012",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0011500000000012277
+          }
+        },
+        {
+          "testId": "mutation-1013",
+          "passed": true,
+          "expected": "2024-01-14",
+          "actual": "2024-01-14",
+          "metrics": {
+            "durationMs": 0.0010900000000020782
+          }
+        },
+        {
+          "testId": "mutation-1014",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.0010900000000020782
+          }
+        },
+        {
+          "testId": "mutation-1015",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0010900000000020782
+          }
+        },
+        {
+          "testId": "mutation-1019",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0011699999999962075
+          }
+        },
+        {
+          "testId": "mutation-1020",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.001110000000002742
+          }
+        },
+        {
+          "testId": "mutation-1021",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.001120000000000232
+          }
+        },
+        {
+          "testId": "mutation-1022",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.001099999999999568
+          }
+        },
+        {
+          "testId": "mutation-1023",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.001120000000000232
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v2",
+      "file": "variants\\addDays\\v2.ts",
+      "passed": 19,
+      "failed": 13,
+      "errors": [
+        "Test mutation-1000: Invalid time value",
+        "Test mutation-1001: Invalid time value",
+        "Test mutation-1002: Invalid time value",
+        "Test mutation-1003: Invalid time value",
+        "Test mutation-1004: Invalid time value",
+        "Test mutation-1005: Invalid time value",
+        "Test mutation-1006: Invalid time value",
+        "Test mutation-1007: Invalid time value",
+        "Test mutation-1008: Invalid time value",
+        "Test mutation-1009: Invalid time value",
+        "Test mutation-1016: Invalid time value",
+        "Test mutation-1017: Invalid time value",
+        "Test mutation-1018: Invalid time value"
+      ],
+      "metrics": {
+        "avgDurationMs": 0.0013978947368421379,
+        "maxDurationMs": 0.003690000000003124,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "add-1-day",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.003690000000003124
+          }
+        },
+        {
+          "testId": "add-7-days",
+          "passed": true,
+          "expected": "2024-01-22",
+          "actual": "2024-01-22",
+          "metrics": {
+            "durationMs": 0.0011800000000022238
+          }
+        },
+        {
+          "testId": "cross-month",
+          "passed": true,
+          "expected": "2024-02-04",
+          "actual": "2024-02-04",
+          "metrics": {
+            "durationMs": 0.0011699999999962075
+          }
+        },
+        {
+          "testId": "cross-year",
+          "passed": true,
+          "expected": "2025-01-04",
+          "actual": "2025-01-04",
+          "metrics": {
+            "durationMs": 0.0012300000000010415
+          }
+        },
+        {
+          "testId": "leap-year",
+          "passed": true,
+          "expected": "2024-02-29",
+          "actual": "2024-02-29",
+          "metrics": {
+            "durationMs": 0.0011699999999962075
+          }
+        },
+        {
+          "testId": "subtract-days",
+          "passed": true,
+          "expected": "2024-01-10",
+          "actual": "2024-01-10",
+          "metrics": {
+            "durationMs": 0.001140000000000896
+          }
+        },
+        {
+          "testId": "zero-days",
+          "passed": true,
+          "expected": "2024-06-15",
+          "actual": "2024-06-15",
+          "metrics": {
+            "durationMs": 0.0011800000000050659
+          }
+        },
+        {
+          "testId": "large-addition",
+          "passed": true,
+          "expected": "2024-12-31",
+          "actual": "2024-12-31",
+          "metrics": {
+            "durationMs": 0.0012000000000000454
+          }
+        },
+        {
+          "testId": "mutation-1010",
+          "passed": true,
+          "expected": "1970-01-02",
+          "actual": "1970-01-02",
+          "metrics": {
+            "durationMs": 0.0013299999999986766
+          }
+        },
+        {
+          "testId": "mutation-1011",
+          "passed": true,
+          "expected": "1970-01-02",
+          "actual": "1970-01-02",
+          "metrics": {
+            "durationMs": 0.0013199999999983446
+          }
+        },
+        {
+          "testId": "mutation-1012",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0010800000000017462
+          }
+        },
+        {
+          "testId": "mutation-1013",
+          "passed": true,
+          "expected": "2024-01-14",
+          "actual": "2024-01-14",
+          "metrics": {
+            "durationMs": 0.0010300000000000864
+          }
+        },
+        {
+          "testId": "mutation-1014",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.0010199999999997544
+          }
+        },
+        {
+          "testId": "mutation-1015",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0010400000000004184
+          }
+        },
+        {
+          "testId": "mutation-1019",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0031900000000007365
+          }
+        },
+        {
+          "testId": "mutation-1020",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0011399999999952115
+          }
+        },
+        {
+          "testId": "mutation-1021",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0011600000000015597
+          }
+        },
+        {
+          "testId": "mutation-1022",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.001110000000002742
+          }
+        },
+        {
+          "testId": "mutation-1023",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0011799999999965393
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v3",
+      "file": "variants\\addDays\\v3.ts",
+      "passed": 19,
+      "failed": 13,
+      "errors": [
+        "Test mutation-1000: Invalid time value",
+        "Test mutation-1001: Invalid time value",
+        "Test mutation-1002: Invalid time value",
+        "Test mutation-1003: Invalid time value",
+        "Test mutation-1004: Invalid time value",
+        "Test mutation-1005: Invalid time value",
+        "Test mutation-1006: Invalid time value",
+        "Test mutation-1007: Invalid time value",
+        "Test mutation-1008: Invalid time value",
+        "Test mutation-1009: Invalid time value",
+        "Test mutation-1016: Invalid time value",
+        "Test mutation-1017: Invalid time value",
+        "Test mutation-1018: Invalid time value"
+      ],
+      "metrics": {
+        "avgDurationMs": 0.0025373684210526454,
+        "maxDurationMs": 0.006500000000002615,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "add-1-day",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.006500000000002615
+          }
+        },
+        {
+          "testId": "add-7-days",
+          "passed": true,
+          "expected": "2024-01-22",
+          "actual": "2024-01-22",
+          "metrics": {
+            "durationMs": 0.002329999999994925
+          }
+        },
+        {
+          "testId": "cross-month",
+          "passed": true,
+          "expected": "2024-02-04",
+          "actual": "2024-02-04",
+          "metrics": {
+            "durationMs": 0.0022999999999996136
+          }
+        },
+        {
+          "testId": "cross-year",
+          "passed": true,
+          "expected": "2025-01-04",
+          "actual": "2025-01-04",
+          "metrics": {
+            "durationMs": 0.0023399999999980992
+          }
+        },
+        {
+          "testId": "leap-year",
+          "passed": true,
+          "expected": "2024-02-29",
+          "actual": "2024-02-29",
+          "metrics": {
+            "durationMs": 0.0022799999999989495
+          }
+        },
+        {
+          "testId": "subtract-days",
+          "passed": true,
+          "expected": "2024-01-10",
+          "actual": "2024-01-10",
+          "metrics": {
+            "durationMs": 0.002260000000001128
+          }
+        },
+        {
+          "testId": "zero-days",
+          "passed": true,
+          "expected": "2024-06-15",
+          "actual": "2024-06-15",
+          "metrics": {
+            "durationMs": 0.0024500000000017507
+          }
+        },
+        {
+          "testId": "large-addition",
+          "passed": true,
+          "expected": "2024-12-31",
+          "actual": "2024-12-31",
+          "metrics": {
+            "durationMs": 0.0023199999999974352
+          }
+        },
+        {
+          "testId": "mutation-1010",
+          "passed": true,
+          "expected": "1970-01-02",
+          "actual": "1970-01-02",
+          "metrics": {
+            "durationMs": 0.0026499999999998634
+          }
+        },
+        {
+          "testId": "mutation-1011",
+          "passed": true,
+          "expected": "1970-01-02",
+          "actual": "1970-01-02",
+          "metrics": {
+            "durationMs": 0.0024300000000010867
+          }
+        },
+        {
+          "testId": "mutation-1012",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0023199999999974352
+          }
+        },
+        {
+          "testId": "mutation-1013",
+          "passed": true,
+          "expected": "2024-01-14",
+          "actual": "2024-01-14",
+          "metrics": {
+            "durationMs": 0.002219999999996958
+          }
+        },
+        {
+          "testId": "mutation-1014",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.0022100000000051523
+          }
+        },
+        {
+          "testId": "mutation-1015",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0022100000000051523
+          }
+        },
+        {
+          "testId": "mutation-1019",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.002379999999996585
+          }
+        },
+        {
+          "testId": "mutation-1020",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0022600000000039698
+          }
+        },
+        {
+          "testId": "mutation-1021",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0022500000000007956
+          }
+        },
+        {
+          "testId": "mutation-1022",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0022500000000007956
+          }
+        },
+        {
+          "testId": "mutation-1023",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0022499999999979537
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v4",
+      "file": "variants\\addDays\\v4.ts",
+      "passed": 19,
+      "failed": 13,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.001355937499999893,
+        "maxDurationMs": 0.015859999999997855,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "add-1-day",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.009820000000001983
+          }
+        },
+        {
+          "testId": "add-7-days",
+          "passed": true,
+          "expected": "2024-01-22",
+          "actual": "2024-01-22",
+          "metrics": {
+            "durationMs": 0.001300000000000523
+          }
+        },
+        {
+          "testId": "cross-month",
+          "passed": true,
+          "expected": "2024-02-04",
+          "actual": "2024-02-04",
+          "metrics": {
+            "durationMs": 0.0009600000000006048
+          }
+        },
+        {
+          "testId": "cross-year",
+          "passed": true,
+          "expected": "2025-01-04",
+          "actual": "2025-01-04",
+          "metrics": {
+            "durationMs": 0.0008700000000004593
+          }
+        },
+        {
+          "testId": "leap-year",
+          "passed": true,
+          "expected": "2024-02-29",
+          "actual": "2024-02-29",
+          "metrics": {
+            "durationMs": 0.0007800000000003138
+          }
+        },
+        {
+          "testId": "subtract-days",
+          "passed": true,
+          "expected": "2024-01-10",
+          "actual": "2024-01-10",
+          "metrics": {
+            "durationMs": 0.0005999999999971806
+          }
+        },
+        {
+          "testId": "zero-days",
+          "passed": true,
+          "expected": "2024-06-15",
+          "actual": "2024-06-15",
+          "metrics": {
+            "durationMs": 0.0005999999999971806
+          }
+        },
+        {
+          "testId": "large-addition",
+          "passed": true,
+          "expected": "2024-12-31",
+          "actual": "2024-12-31",
+          "metrics": {
+            "durationMs": 0.0006799999999998363
+          }
+        },
+        {
+          "testId": "mutation-1000",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0004500000000007276
+          }
+        },
+        {
+          "testId": "mutation-1001",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0003899999999987358
+          }
+        },
+        {
+          "testId": "mutation-1002",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0004099999999993997
+          }
+        },
+        {
+          "testId": "mutation-1003",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.00032999999999674403
+          }
+        },
+        {
+          "testId": "mutation-1004",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.015859999999997855
+          }
+        },
+        {
+          "testId": "mutation-1005",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.00045999999999821737
+          }
+        },
+        {
+          "testId": "mutation-1006",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.000539999999998031
+          }
+        },
+        {
+          "testId": "mutation-1007",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0005300000000033833
+          }
+        },
+        {
+          "testId": "mutation-1008",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0003400000000027603
+          }
+        },
+        {
+          "testId": "mutation-1009",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.00040000000000190995
+          }
+        },
+        {
+          "testId": "mutation-1010",
+          "passed": true,
+          "expected": "1970-01-02",
+          "actual": "1970-01-02",
+          "metrics": {
+            "durationMs": 0.0007200000000011642
+          }
+        },
+        {
+          "testId": "mutation-1011",
+          "passed": true,
+          "expected": "1970-01-02",
+          "actual": "1970-01-02",
+          "metrics": {
+            "durationMs": 0.0005800000000050432
+          }
+        },
+        {
+          "testId": "mutation-1012",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0005799999999993588
+          }
+        },
+        {
+          "testId": "mutation-1013",
+          "passed": true,
+          "expected": "2024-01-14",
+          "actual": "2024-01-14",
+          "metrics": {
+            "durationMs": 0.0005200000000002092
+          }
+        },
+        {
+          "testId": "mutation-1014",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.0006199999999978445
+          }
+        },
+        {
+          "testId": "mutation-1015",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0005499999999983629
+          }
+        },
+        {
+          "testId": "mutation-1016",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0004499999999978854
+          }
+        },
+        {
+          "testId": "mutation-1017",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0004899999999992133
+          }
+        },
+        {
+          "testId": "mutation-1018",
+          "passed": false,
+          "expected": "ERROR",
+          "actual": "NaN-NaN-NaN",
+          "metrics": {
+            "durationMs": 0.0004400000000032378
+          }
+        },
+        {
+          "testId": "mutation-1019",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0005400000000008731
+          }
+        },
+        {
+          "testId": "mutation-1020",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0006599999999991723
+          }
+        },
+        {
+          "testId": "mutation-1021",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0006300000000010186
+          }
+        },
+        {
+          "testId": "mutation-1022",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0007000000000005002
+          }
+        },
+        {
+          "testId": "mutation-1023",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0005899999999968486
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v5",
+      "file": "variants\\addDays\\v5.ts",
+      "passed": 17,
+      "failed": 15,
+      "errors": [
+        "Test mutation-1000: Invalid time value",
+        "Test mutation-1001: Invalid time value",
+        "Test mutation-1002: Invalid time value",
+        "Test mutation-1003: Invalid time value",
+        "Test mutation-1004: Invalid time value",
+        "Test mutation-1005: Invalid time value",
+        "Test mutation-1006: Invalid time value",
+        "Test mutation-1007: Invalid time value",
+        "Test mutation-1008: Invalid time value",
+        "Test mutation-1009: Invalid time value",
+        "Test mutation-1010: Cannot read properties of null (reading 'split')",
+        "Test mutation-1011: Cannot read properties of null (reading 'split')",
+        "Test mutation-1016: Invalid time value",
+        "Test mutation-1017: Invalid time value",
+        "Test mutation-1018: Invalid time value"
+      ],
+      "metrics": {
+        "avgDurationMs": 0.0014670588235301304,
+        "maxDurationMs": 0.00613999999999919,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "add-1-day",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.00613999999999919
+          }
+        },
+        {
+          "testId": "add-7-days",
+          "passed": true,
+          "expected": "2024-01-22",
+          "actual": "2024-01-22",
+          "metrics": {
+            "durationMs": 0.0012699999999966848
+          }
+        },
+        {
+          "testId": "cross-month",
+          "passed": true,
+          "expected": "2024-02-04",
+          "actual": "2024-02-04",
+          "metrics": {
+            "durationMs": 0.0012000000000000454
+          }
+        },
+        {
+          "testId": "cross-year",
+          "passed": true,
+          "expected": "2025-01-04",
+          "actual": "2025-01-04",
+          "metrics": {
+            "durationMs": 0.0012599999999991951
+          }
+        },
+        {
+          "testId": "leap-year",
+          "passed": true,
+          "expected": "2024-02-29",
+          "actual": "2024-02-29",
+          "metrics": {
+            "durationMs": 0.0012300000000010415
+          }
+        },
+        {
+          "testId": "subtract-days",
+          "passed": true,
+          "expected": "2024-01-10",
+          "actual": "2024-01-10",
+          "metrics": {
+            "durationMs": 0.0011500000000012277
+          }
+        },
+        {
+          "testId": "zero-days",
+          "passed": true,
+          "expected": "2024-06-15",
+          "actual": "2024-06-15",
+          "metrics": {
+            "durationMs": 0.0012200000000007094
+          }
+        },
+        {
+          "testId": "large-addition",
+          "passed": true,
+          "expected": "2024-12-31",
+          "actual": "2024-12-31",
+          "metrics": {
+            "durationMs": 0.0012200000000007094
+          }
+        },
+        {
+          "testId": "mutation-1012",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0014000000000010005
+          }
+        },
+        {
+          "testId": "mutation-1013",
+          "passed": true,
+          "expected": "2024-01-14",
+          "actual": "2024-01-14",
+          "metrics": {
+            "durationMs": 0.0010800000000017462
+          }
+        },
+        {
+          "testId": "mutation-1014",
+          "passed": true,
+          "expected": "2024-01-16",
+          "actual": "2024-01-16",
+          "metrics": {
+            "durationMs": 0.0011099999999999
+          }
+        },
+        {
+          "testId": "mutation-1015",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0010899999999992361
+          }
+        },
+        {
+          "testId": "mutation-1019",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0011499999999983856
+          }
+        },
+        {
+          "testId": "mutation-1020",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.001120000000000232
+          }
+        },
+        {
+          "testId": "mutation-1021",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0011200000000059162
+          }
+        },
+        {
+          "testId": "mutation-1022",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.001099999999999568
+          }
+        },
+        {
+          "testId": "mutation-1023",
+          "passed": true,
+          "expected": "2024-01-15",
+          "actual": "2024-01-15",
+          "metrics": {
+            "durationMs": 0.0010800000000074305
+          }
+        }
+      ]
+    }
+  ],
+  "winner": null,
+  "winnerReason": "No valid variants"
+}

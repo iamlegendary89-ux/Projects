@@ -1,0 +1,410 @@
+{
+  "targetName": "shouldSkipUrl",
+  "targetType": "function",
+  "runAt": "2025-12-09T09:08:41.610Z",
+  "totalTestCases": 7,
+  "variants": [
+    {
+      "variant": "v0-original",
+      "file": "variants\\shouldSkipUrl\\v0-original.ts",
+      "passed": 0,
+      "failed": 0,
+      "errors": [
+        "No function \"shouldSkipUrl\" exported"
+      ],
+      "metrics": {
+        "avgDurationMs": 0,
+        "maxDurationMs": 0,
+        "memoryKB": 0
+      },
+      "testResults": []
+    },
+    {
+      "variant": "v1",
+      "file": "variants\\shouldSkipUrl\\v1.ts",
+      "passed": 7,
+      "failed": 0,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.0009642857142836192,
+        "maxDurationMs": 0.0021299999999968124,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "no-entry",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.0021299999999968124
+          }
+        },
+        {
+          "testId": "do-not-retry",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.0006199999999978445
+          }
+        },
+        {
+          "testId": "future-retry",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.0018899999999973716
+          }
+        },
+        {
+          "testId": "past-retry",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.0008399999999937791
+          }
+        },
+        {
+          "testId": "no-do-not-retry-field",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.0007100000000008321
+          }
+        },
+        {
+          "testId": "different-url-not-in-cache",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.000319999999996412
+          }
+        },
+        {
+          "testId": "empty-cache-empty-url",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.00024000000000228282
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v2",
+      "file": "variants\\shouldSkipUrl\\v2.ts",
+      "passed": 6,
+      "failed": 1,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.0007242857142866146,
+        "maxDurationMs": 0.002199999999999136,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "no-entry",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.002199999999999136
+          }
+        },
+        {
+          "testId": "do-not-retry",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.0003899999999987358
+          }
+        },
+        {
+          "testId": "future-retry",
+          "passed": false,
+          "expected": true,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.0002600000000029468
+          }
+        },
+        {
+          "testId": "past-retry",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.0006200000000006866
+          }
+        },
+        {
+          "testId": "no-do-not-retry-field",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.0009999999999990906
+          }
+        },
+        {
+          "testId": "different-url-not-in-cache",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.0003000000000042746
+          }
+        },
+        {
+          "testId": "empty-cache-empty-url",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.0003000000000014325
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v3",
+      "file": "variants\\shouldSkipUrl\\v3.ts",
+      "passed": 7,
+      "failed": 0,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.0010671428571425526,
+        "maxDurationMs": 0.0027799999999984946,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "no-entry",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.0027799999999984946
+          }
+        },
+        {
+          "testId": "do-not-retry",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.0007599999999996498
+          }
+        },
+        {
+          "testId": "future-retry",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.0016899999999992587
+          }
+        },
+        {
+          "testId": "past-retry",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.000560000000001537
+          }
+        },
+        {
+          "testId": "no-do-not-retry-field",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.0008700000000033015
+          }
+        },
+        {
+          "testId": "different-url-not-in-cache",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.00044000000000039564
+          }
+        },
+        {
+          "testId": "empty-cache-empty-url",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.0003699999999952297
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v4",
+      "file": "variants\\shouldSkipUrl\\v4.ts",
+      "passed": 7,
+      "failed": 0,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.000891428571427712,
+        "maxDurationMs": 0.0025199999999983903,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "no-entry",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.0025199999999983903
+          }
+        },
+        {
+          "testId": "do-not-retry",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.0004300000000000637
+          }
+        },
+        {
+          "testId": "future-retry",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.001669999999998595
+          }
+        },
+        {
+          "testId": "past-retry",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.00047999999999888133
+          }
+        },
+        {
+          "testId": "no-do-not-retry-field",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.0006399999999985084
+          }
+        },
+        {
+          "testId": "different-url-not-in-cache",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.00024999999999977265
+          }
+        },
+        {
+          "testId": "empty-cache-empty-url",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.00024999999999977265
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v5",
+      "file": "variants\\shouldSkipUrl\\v5.ts",
+      "passed": 7,
+      "failed": 0,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.0006828571428586981,
+        "maxDurationMs": 0.002110000000007517,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "no-entry",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.002110000000007517
+          }
+        },
+        {
+          "testId": "do-not-retry",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.00033999999999991817
+          }
+        },
+        {
+          "testId": "future-retry",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.0008500000000026375
+          }
+        },
+        {
+          "testId": "past-retry",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.00039999999999906777
+          }
+        },
+        {
+          "testId": "no-do-not-retry-field",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.0005500000000012051
+          }
+        },
+        {
+          "testId": "different-url-not-in-cache",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.00024999999999977265
+          }
+        },
+        {
+          "testId": "empty-cache-empty-url",
+          "passed": true,
+          "expected": false,
+          "actual": false,
+          "metrics": {
+            "durationMs": 0.0002800000000007685
+          }
+        }
+      ]
+    }
+  ],
+  "winner": "v5",
+  "winnerReason": "Best score with fastest profile"
+}

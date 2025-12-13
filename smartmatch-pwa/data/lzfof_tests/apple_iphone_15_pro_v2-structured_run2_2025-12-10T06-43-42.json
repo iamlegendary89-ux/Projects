@@ -1,0 +1,81 @@
+{
+  "variant": "v2-structured",
+  "run": 2,
+  "phone": "apple iphone 15 pro",
+  "timestamp": "2025-12-10T06:43:42.489Z",
+  "model": "tngtech/deepseek-r1t2-chimera:free",
+  "metrics": {
+    "promptLength": 243887,
+    "promptTokens": 65559,
+    "completionTokens": 1587,
+    "totalTokens": 67146,
+    "elapsedMs": 74499
+  },
+  "result": {
+    "summary_1_page": "The Apple iPhone 15 Pro impresses with its titanium design, reducing weight while maintaining premium build quality. The transition to USB-C enhances connectivity, though charging speeds remain limited to 20W. Performance is top-tier with the A17 Pro chip, though throttling occurs under sustained loads. The camera system excels in video and main sensor performance, but low-light and telephoto capabilities lag behind competitors like the Pixel 8 Pro. Battery life is adequate for daily use, lasting around 12-13 hours, but fast charging is absent. Software's iOS 17 offers polished software with excellent support, though customization is limited. Priced starting at $999, it's a solid choice for iOS enthusiasts seeking compact flagship performance.",
+    "pros": [
+      "Titanium design reduces lighter weight (Android Authority, GSMArena)",
+      "USB-C port for universal charging and faster data transfer (Android Authority, PhoneArena)",
+      "Customizable Action button replaces mute switch (Android Authority, Techradar)",
+      "Excellent main camera and video capabilities capabilities (DXOMark, Techradar)",
+      "Long-term software support with iOS updates (Android Authority, Techradar)"
+    ],
+    "cons": [
+      "Overheating issues during intensive tasks (Android Authority, Notebookcheck)",
+      "Slow 20W wired charging speeds (Android Authority, GSMArena)",
+      "High starting price for base 128GB model (Android Authority, PhoneArena)",
+      "Limited 3x telephoto zoom vs. Pro Max's 5x (Techradar, Notebookcheck)",
+      "Battery life anxiety for power users (Android Authority, GSMArena)"
+    ],
+    "attributes": [
+      {
+        "name": "Camera",
+        "score": 9,
+        "explanation": "Main camera excels with 48MP sensor and video stabilization, but low-light and selfie performance inconsistent."
+      },
+      {
+        "name": "Battery Endurance",
+        "score": 7.5,
+        "explanation": "Active use ~13 hours; efficient but slow charging and no major capacity upgrade."
+      },
+      {
+        "name": "Performance",
+        "score": 9,
+        "explanation": "A17 Pro dominates benchmarks but throttles under sustained loads like gaming."
+      },
+      {
+        "name": "Display",
+        "score": 9.5,
+        "explanation": "Bright 2000-nit OLED with 120Hz ProMotion, thinner bezels, and excellent color accuracy."
+      },
+      {
+        "name": "Software",
+        "score": 9,
+        "explanation": "iOS 17 is polished with 5+ years of support, though customization lags Android."
+      },
+      {
+        "name": "Design & Build",
+        "score": 8.5,
+        "explanation": "Titanium frame is lighter but prone to fingerprints; IP68 rating."
+      },
+      {
+        "name": "Longevity Value",
+        "score": 8,
+        "explanation": "5+ years of software support expected, but Pixel 8 Pro offers longer commitment."
+      }
+    ],
+    "antutu": 1566329,
+    "geekbench": 7172,
+    "dxocamera": 154,
+    "dxodisplay": 151,
+    "batteryActiveUse": 12.58,
+    "softwareSupportYears": 5,
+    "currentPrice": {
+      "usd": "$999",
+      "eur": "€733.48"
+    },
+    "launchPrice": {
+      "usd": "$999"
+    }
+  }
+}

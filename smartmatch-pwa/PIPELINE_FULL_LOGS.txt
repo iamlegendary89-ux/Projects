@@ -1,0 +1,454 @@
+
+=== DISCOVERY LOGS ===
+{"timestamp":"2025-12-12T01:59:59.204Z","level":"INFO","phase":"STARTUP","msg":"Validating environment configuration...","elapsed":220}
+{"timestamp":"2025-12-12T01:59:59.423Z","level":"SUCCESS","phase":"STARTUP","msg":"Google CSE configured as fallback","elapsed":222}
+{"timestamp":"2025-12-12T01:59:59.424Z","level":"SUCCESS","phase":"STARTUP","msg":"Environment validation complete","elapsed":222}
+{"timestamp":"2025-12-12T01:59:59.425Z","level":"INFO","phase":"PHASE 1","msg":"Starting CSE Discovery (Parallel)","elapsed":223}
+{"timestamp":"2025-12-12T01:59:59.425Z","level":"INFO","phase":"PHASE 1","msg":"CSE Credentials Check","meta":{"hasApiKey":true,"hasCseId":true,"apiKeyLength":39},"elapsed":223}
+{"timestamp":"2025-12-12T01:59:59.426Z","level":"INFO","phase":"PHASE 1","msg":"Starting parallel discovery of 40 tasks for 4 priority phones","elapsed":224}
+{"timestamp":"2025-12-12T01:59:59.426Z","level":"INFO","phase":"PHASE 1","msg":"Priority Queue: google pixel 10 pro (2025-10-05), samsung galaxy z flip 7 (2025-07-15), honor magic 7 pro (2025-02-28), xiaomi xiaomi 15 ultra (2025-02-25)","elapsed":224}
+{"timestamp":"2025-12-12T01:59:59.427Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 1/20 (2 tasks)","elapsed":225}
+{"timestamp":"2025-12-12T01:59:59.428Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:gsmarena.com \"samsung galaxy z flip 7\" specs -forum\"","elapsed":226}
+{"timestamp":"2025-12-12T01:59:59.770Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":568}
+{"timestamp":"2025-12-12T01:59:59.770Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z flip 7 gsmarena_specs with: \"site:gsmarena.com \"samsung galaxy z flip 7\" specs ...\"","elapsed":568}
+{"timestamp":"2025-12-12T01:59:59.771Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for samsung galaxy z flip 7: invalid_pattern (https://www.gsmarena.com/galaxy_z_flip7s_exynos_2500_chipset_gets_benchmarked_here_are_the_results-news-67958.php)","elapsed":569}
+{"timestamp":"2025-12-12T02:00:00.429Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"(site:gsmarena.com OR site:phonearena.com OR site:theverge.com OR site:androidcentral.com OR site:androidauthority.com OR site:tomsguide.com) \"samsung galaxy z flip 7\" review\"","elapsed":1227}
+{"timestamp":"2025-12-12T02:00:00.825Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":1623}
+{"timestamp":"2025-12-12T02:00:00.825Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z flip 7 gsmarena_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":1623}
+{"timestamp":"2025-12-12T02:00:00.826Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":1624}
+{"timestamp":"2025-12-12T02:00:01.327Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 2/20 (2 tasks)","elapsed":2126}
+{"timestamp":"2025-12-12T02:00:01.429Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":2227}
+{"timestamp":"2025-12-12T02:00:01.429Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z flip 7 phonearena_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":2227}
+{"timestamp":"2025-12-12T02:00:01.430Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:dxomark.com samsung galaxy z flip 7\"","elapsed":2228}
+{"timestamp":"2025-12-12T02:00:01.778Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":2576}
+{"timestamp":"2025-12-12T02:00:01.779Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z flip 7 dxomark_review with: \"site:dxomark.com samsung galaxy z flip 7...\"","elapsed":2577}
+{"timestamp":"2025-12-12T02:00:01.780Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":2578}
+{"timestamp":"2025-12-12T02:00:02.281Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 3/20 (2 tasks)","elapsed":3079}
+{"timestamp":"2025-12-12T02:00:02.431Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":3229}
+{"timestamp":"2025-12-12T02:00:02.431Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z flip 7 tomsguide_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":3230}
+{"timestamp":"2025-12-12T02:00:02.432Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":3230}
+{"timestamp":"2025-12-12T02:00:02.432Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z flip 7 techradar_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":3230}
+{"timestamp":"2025-12-12T02:00:02.433Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":3231}
+{"timestamp":"2025-12-12T02:00:02.934Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 4/20 (2 tasks)","elapsed":3733}
+{"timestamp":"2025-12-12T02:00:03.433Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":4231}
+{"timestamp":"2025-12-12T02:00:03.433Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z flip 7 theverge_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":4231}
+{"timestamp":"2025-12-12T02:00:03.434Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":4232}
+{"timestamp":"2025-12-12T02:00:03.434Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z flip 7 notebookcheck_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":4232}
+{"timestamp":"2025-12-12T02:00:03.435Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":4233}
+{"timestamp":"2025-12-12T02:00:03.935Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 5/20 (2 tasks)","elapsed":4733}
+{"timestamp":"2025-12-12T02:00:04.434Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":5232}
+{"timestamp":"2025-12-12T02:00:04.435Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z flip 7 androidcentral_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":5233}
+{"timestamp":"2025-12-12T02:00:04.435Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":5233}
+{"timestamp":"2025-12-12T02:00:04.435Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for samsung galaxy z flip 7 androidauthority_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":5233}
+{"timestamp":"2025-12-12T02:00:04.436Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":5235}
+{"timestamp":"2025-12-12T02:00:04.937Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 6/20 (2 tasks)","elapsed":5736}
+{"timestamp":"2025-12-12T02:00:05.436Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:gsmarena.com \"google pixel 10 pro\" specs -forum\"","elapsed":6234}
+{"timestamp":"2025-12-12T02:00:05.438Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"(site:gsmarena.com OR site:phonearena.com OR site:theverge.com OR site:androidcentral.com OR site:androidauthority.com OR site:tomsguide.com) \"google pixel 10 pro\" review\"","elapsed":6236}
+{"timestamp":"2025-12-12T02:00:05.822Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":6620}
+{"timestamp":"2025-12-12T02:00:05.822Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for google pixel 10 pro gsmarena_specs with: \"site:gsmarena.com \"google pixel 10 pro\" specs -for...\"","elapsed":6620}
+{"timestamp":"2025-12-12T02:00:05.835Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":6633}
+{"timestamp":"2025-12-12T02:00:05.835Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for google pixel 10 pro gsmarena_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":6633}
+{"timestamp":"2025-12-12T02:00:05.836Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)","elapsed":6634}
+{"timestamp":"2025-12-12T02:00:05.837Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":6635}
+{"timestamp":"2025-12-12T02:00:06.337Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 7/20 (2 tasks)","elapsed":7135}
+{"timestamp":"2025-12-12T02:00:06.439Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":7237}
+{"timestamp":"2025-12-12T02:00:06.439Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for google pixel 10 pro phonearena_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":7237}
+{"timestamp":"2025-12-12T02:00:06.440Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)","elapsed":7238}
+{"timestamp":"2025-12-12T02:00:06.440Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:dxomark.com google pixel 10 pro\"","elapsed":7238}
+{"timestamp":"2025-12-12T02:00:06.741Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":7539}
+{"timestamp":"2025-12-12T02:00:06.741Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for google pixel 10 pro dxomark_review with: \"site:dxomark.com google pixel 10 pro...\"","elapsed":7539}
+{"timestamp":"2025-12-12T02:00:06.742Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":7540}
+{"timestamp":"2025-12-12T02:00:07.243Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 8/20 (2 tasks)","elapsed":8042}
+{"timestamp":"2025-12-12T02:00:07.440Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":8239}
+{"timestamp":"2025-12-12T02:00:07.441Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for google pixel 10 pro tomsguide_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":8239}
+{"timestamp":"2025-12-12T02:00:07.441Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)","elapsed":8239}
+{"timestamp":"2025-12-12T02:00:07.441Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":8239}
+{"timestamp":"2025-12-12T02:00:07.442Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for google pixel 10 pro techradar_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":8240}
+{"timestamp":"2025-12-12T02:00:07.442Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)","elapsed":8240}
+{"timestamp":"2025-12-12T02:00:07.942Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 9/20 (2 tasks)","elapsed":8740}
+{"timestamp":"2025-12-12T02:00:08.441Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":9240}
+{"timestamp":"2025-12-12T02:00:08.442Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for google pixel 10 pro theverge_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":9240}
+{"timestamp":"2025-12-12T02:00:08.442Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)","elapsed":9240}
+{"timestamp":"2025-12-12T02:00:08.442Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":9240}
+{"timestamp":"2025-12-12T02:00:08.443Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for google pixel 10 pro notebookcheck_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":9241}
+{"timestamp":"2025-12-12T02:00:08.443Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)","elapsed":9241}
+{"timestamp":"2025-12-12T02:00:08.943Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 10/20 (2 tasks)","elapsed":9741}
+{"timestamp":"2025-12-12T02:00:09.443Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":10241}
+{"timestamp":"2025-12-12T02:00:09.443Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for google pixel 10 pro androidcentral_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":10241}
+{"timestamp":"2025-12-12T02:00:09.443Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)","elapsed":10242}
+{"timestamp":"2025-12-12T02:00:09.444Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":10242}
+{"timestamp":"2025-12-12T02:00:09.444Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for google pixel 10 pro androidauthority_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":10242}
+{"timestamp":"2025-12-12T02:00:09.444Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)","elapsed":10242}
+{"timestamp":"2025-12-12T02:00:09.945Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 11/20 (2 tasks)","elapsed":10744}
+{"timestamp":"2025-12-12T02:00:10.445Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:gsmarena.com \"xiaomi xiaomi 15 ultra\" specs -forum\"","elapsed":11243}
+{"timestamp":"2025-12-12T02:00:10.446Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"(site:gsmarena.com OR site:phonearena.com OR site:theverge.com OR site:androidcentral.com OR site:androidauthority.com OR site:tomsguide.com) \"xiaomi xiaomi 15 ultra\" review\"","elapsed":11244}
+{"timestamp":"2025-12-12T02:00:10.628Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":11426}
+{"timestamp":"2025-12-12T02:00:10.628Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for xiaomi xiaomi 15 ultra gsmarena_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":11427}
+{"timestamp":"2025-12-12T02:00:10.629Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)","elapsed":11427}
+{"timestamp":"2025-12-12T02:00:10.649Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 0 found","elapsed":11447}
+{"timestamp":"2025-12-12T02:00:10.649Z","level":"WARNING","phase":"PHASE 1","msg":"CSE unavailable for xiaomi xiaomi 15 ultra gsmarena_specs, trying DuckDuckGo","elapsed":11447}
+{"timestamp":"2025-12-12T02:00:10.649Z","level":"INFO","phase":"PHASE 1","msg":"DDG Query: \"site:gsmarena.com \"xiaomi xiaomi 15 ultra\" specs -forum\"","elapsed":11447}
+{"timestamp":"2025-12-12T02:00:11.656Z","level":"INFO","phase":"PHASE 1","msg":"DDG Results: 0 found","elapsed":12454}
+{"timestamp":"2025-12-12T02:00:12.157Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 12/20 (2 tasks)","elapsed":12955}
+{"timestamp":"2025-12-12T02:00:12.157Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":12955}
+{"timestamp":"2025-12-12T02:00:12.158Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for xiaomi xiaomi 15 ultra phonearena_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":12956}
+{"timestamp":"2025-12-12T02:00:12.158Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)","elapsed":12956}
+{"timestamp":"2025-12-12T02:00:13.158Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:dxomark.com xiaomi xiaomi 15 ultra\"","elapsed":13957}
+{"timestamp":"2025-12-12T02:00:13.561Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":14359}
+{"timestamp":"2025-12-12T02:00:13.561Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for xiaomi xiaomi 15 ultra dxomark_review with: \"site:dxomark.com xiaomi xiaomi 15 ultra...\"","elapsed":14359}
+{"timestamp":"2025-12-12T02:00:13.563Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":14361}
+{"timestamp":"2025-12-12T02:00:14.064Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 13/20 (2 tasks)","elapsed":14862}
+{"timestamp":"2025-12-12T02:00:14.158Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":14956}
+{"timestamp":"2025-12-12T02:00:14.158Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for xiaomi xiaomi 15 ultra tomsguide_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":14956}
+{"timestamp":"2025-12-12T02:00:14.158Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)","elapsed":14956}
+{"timestamp":"2025-12-12T02:00:14.158Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":14957}
+{"timestamp":"2025-12-12T02:00:14.159Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for xiaomi xiaomi 15 ultra techradar_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":14957}
+{"timestamp":"2025-12-12T02:00:14.159Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)","elapsed":14957}
+{"timestamp":"2025-12-12T02:00:14.659Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 14/20 (2 tasks)","elapsed":15458}
+{"timestamp":"2025-12-12T02:00:15.158Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":15957}
+{"timestamp":"2025-12-12T02:00:15.159Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for xiaomi xiaomi 15 ultra theverge_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":15957}
+{"timestamp":"2025-12-12T02:00:15.159Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)","elapsed":15957}
+{"timestamp":"2025-12-12T02:00:15.159Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":15957}
+{"timestamp":"2025-12-12T02:00:15.160Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for xiaomi xiaomi 15 ultra notebookcheck_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":15958}
+{"timestamp":"2025-12-12T02:00:15.160Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)","elapsed":15958}
+{"timestamp":"2025-12-12T02:00:15.660Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 15/20 (2 tasks)","elapsed":16458}
+{"timestamp":"2025-12-12T02:00:16.159Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":16957}
+{"timestamp":"2025-12-12T02:00:16.159Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for xiaomi xiaomi 15 ultra androidcentral_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":16958}
+{"timestamp":"2025-12-12T02:00:16.160Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)","elapsed":16958}
+{"timestamp":"2025-12-12T02:00:16.160Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":16958}
+{"timestamp":"2025-12-12T02:00:16.160Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for xiaomi xiaomi 15 ultra androidauthority_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":16958}
+{"timestamp":"2025-12-12T02:00:16.160Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)","elapsed":16958}
+{"timestamp":"2025-12-12T02:00:16.662Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 16/20 (2 tasks)","elapsed":17460}
+{"timestamp":"2025-12-12T02:00:17.160Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:gsmarena.com \"honor magic 7 pro\" specs -forum\"","elapsed":17958}
+{"timestamp":"2025-12-12T02:00:17.162Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"(site:gsmarena.com OR site:phonearena.com OR site:theverge.com OR site:androidcentral.com OR site:androidauthority.com OR site:tomsguide.com) \"honor magic 7 pro\" review\"","elapsed":17960}
+{"timestamp":"2025-12-12T02:00:17.474Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":18272}
+{"timestamp":"2025-12-12T02:00:17.474Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for honor magic 7 pro gsmarena_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":18272}
+{"timestamp":"2025-12-12T02:00:17.483Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":18281}
+{"timestamp":"2025-12-12T02:00:17.483Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for honor magic 7 pro gsmarena_specs with: \"site:gsmarena.com \"honor magic 7 pro\" specs -forum...\"","elapsed":18281}
+{"timestamp":"2025-12-12T02:00:17.484Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":18282}
+{"timestamp":"2025-12-12T02:00:17.985Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 17/20 (2 tasks)","elapsed":18784}
+{"timestamp":"2025-12-12T02:00:18.162Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":18961}
+{"timestamp":"2025-12-12T02:00:18.163Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for honor magic 7 pro phonearena_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":18961}
+{"timestamp":"2025-12-12T02:00:18.163Z","level":"INFO","phase":"PHASE 1","msg":"CSE Query: \"site:dxomark.com honor magic 7 pro\"","elapsed":18961}
+{"timestamp":"2025-12-12T02:00:18.370Z","level":"INFO","phase":"PHASE 1","msg":"CSE Results: 1 found","elapsed":19168}
+{"timestamp":"2025-12-12T02:00:18.370Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for honor magic 7 pro dxomark_review with: \"site:dxomark.com honor magic 7 pro...\"","elapsed":19168}
+{"timestamp":"2025-12-12T02:00:18.401Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":19199}
+{"timestamp":"2025-12-12T02:00:18.902Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 18/20 (2 tasks)","elapsed":19700}
+{"timestamp":"2025-12-12T02:00:19.163Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":19962}
+{"timestamp":"2025-12-12T02:00:19.164Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for honor magic 7 pro tomsguide_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":19962}
+{"timestamp":"2025-12-12T02:00:19.164Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":19962}
+{"timestamp":"2025-12-12T02:00:19.164Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for honor magic 7 pro techradar_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":19963}
+{"timestamp":"2025-12-12T02:00:19.166Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":19964}
+{"timestamp":"2025-12-12T02:00:19.667Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 19/20 (2 tasks)","elapsed":20465}
+{"timestamp":"2025-12-12T02:00:20.164Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":20962}
+{"timestamp":"2025-12-12T02:00:20.164Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for honor magic 7 pro theverge_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":20963}
+{"timestamp":"2025-12-12T02:00:20.165Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":20963}
+{"timestamp":"2025-12-12T02:00:20.165Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for honor magic 7 pro notebookcheck_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":20963}
+{"timestamp":"2025-12-12T02:00:20.166Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":20964}
+{"timestamp":"2025-12-12T02:00:20.667Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 20/20 (2 tasks)","elapsed":21465}
+{"timestamp":"2025-12-12T02:00:21.165Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":21964}
+{"timestamp":"2025-12-12T02:00:21.166Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for honor magic 7 pro androidcentral_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":21964}
+{"timestamp":"2025-12-12T02:00:21.166Z","level":"INFO","phase":"PHASE 1","msg":"CSE Cache hit: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":21964}
+{"timestamp":"2025-12-12T02:00:21.166Z","level":"SUCCESS","phase":"PHASE 1","msg":"CSE SUCCESS for honor magic 7 pro androidauthority_review with: \"(site:gsmarena.com OR site:phonearena.com OR site:...\"","elapsed":21964}
+{"timestamp":"2025-12-12T02:00:21.168Z","level":"INFO","phase":"PHASE 1","msg":"Saved batch progress to phones.json","elapsed":21966}
+{"timestamp":"2025-12-12T02:00:21.168Z","level":"INFO","phase":"PHASE 1","msg":"Discovery Summary","meta":{"tasksProcessed":40,"successful":22,"zeroResults":18,"errors":0,"urlsFound":22},"elapsed":21966}
+{"timestamp":"2025-12-12T02:00:21.168Z","level":"INFO","phase":"PHASE 2","msg":"Starting Archive Discovery (Optimized Search Patterns)","elapsed":21966}
+{"timestamp":"2025-12-12T02:01:15.617Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":76415}
+{"timestamp":"2025-12-12T02:02:04.317Z","level":"WARNING","phase":"PHASE 2","msg":"No snapshots for https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php","elapsed":125115}
+{"timestamp":"2025-12-12T02:03:34.357Z","level":"WARNING","phase":"PHASE 2","msg":"No snapshots for https://www.notebookcheck.net/Setting-new-battery-life-records-Apple-iPhone-17-Pro-Max-smartphone-review.1148795.0.html","elapsed":215156}
+{"timestamp":"2025-12-12T02:03:34.359Z","level":"INFO","phase":"PHASE 2","msg":"Skipping archive search for: https://www.gsmarena.com/compare.php3?idPhone1=3275&idPhone2...(unarchivable pattern)","elapsed":215157}
+{"timestamp":"2025-12-12T02:03:34.359Z","level":"WARNING","phase":"SAVE_API","msg":"Archive.org credentials missing. Skipping save request.","elapsed":215157}
+{"timestamp":"2025-12-12T02:03:34.358Z","level":"INFO","phase":"SAVE_API","msg":"3 daily retries failed, requesting Archive.org save","elapsed":215156}
+{"timestamp":"2025-12-12T02:03:38.473Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":219271}
+{"timestamp":"2025-12-12T02:03:54.576Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 17 snapshots","elapsed":235374}
+{"timestamp":"2025-12-12T02:04:06.939Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 18 snapshots","elapsed":247737}
+{"timestamp":"2025-12-12T02:04:34.497Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 6 snapshots","elapsed":275295}
+{"timestamp":"2025-12-12T02:05:05.706Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":306504}
+{"timestamp":"2025-12-12T02:06:00.841Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 6 snapshots","elapsed":361639}
+{"timestamp":"2025-12-12T02:06:17.752Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":378550}
+{"timestamp":"2025-12-12T02:06:37.284Z","level":"WARNING","phase":"PHASE 2","msg":"No snapshots for https://www.androidauthority.com/samsung-galaxy-s25-review-3531762/","elapsed":398082}
+{"timestamp":"2025-12-12T02:06:37.285Z","level":"INFO","phase":"SAVE_API","msg":"3 daily retries failed, requesting Archive.org save","elapsed":398083}
+{"timestamp":"2025-12-12T02:06:37.285Z","level":"WARNING","phase":"SAVE_API","msg":"Archive.org credentials missing. Skipping save request.","elapsed":398083}
+{"timestamp":"2025-12-12T02:07:05.749Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":426547}
+{"timestamp":"2025-12-12T02:07:13.903Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 9 snapshots","elapsed":434701}
+{"timestamp":"2025-12-12T02:07:28.510Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 2 snapshots","elapsed":449309}
+{"timestamp":"2025-12-12T02:08:02.488Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":483286}
+{"timestamp":"2025-12-12T02:08:04.295Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 6 snapshots","elapsed":485093}
+{"timestamp":"2025-12-12T02:08:47.227Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":528025}
+{"timestamp":"2025-12-12T02:08:47.227Z","level":"INFO","phase":"PHASE 2","msg":"Using cached CDX response for https://www.androidauthority.com/samsung-galaxy-z-flip-7-rev...","elapsed":528025}
+{"timestamp":"2025-12-12T02:08:47.228Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":528026}
+{"timestamp":"2025-12-12T02:09:10.285Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":551084}
+{"timestamp":"2025-12-12T02:09:10.286Z","level":"INFO","phase":"PHASE 2","msg":"Using cached CDX response for https://www.androidauthority.com/samsung-galaxy-z-flip-7-rev...","elapsed":551084}
+{"timestamp":"2025-12-12T02:09:10.286Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":551084}
+{"timestamp":"2025-12-12T02:09:10.286Z","level":"INFO","phase":"PHASE 2","msg":"Using cached CDX response for https://www.androidauthority.com/samsung-galaxy-z-flip-7-rev...","elapsed":551084}
+{"timestamp":"2025-12-12T02:09:10.286Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":551085}
+{"timestamp":"2025-12-12T02:09:10.287Z","level":"INFO","phase":"PHASE 2","msg":"Using cached CDX response for https://www.androidauthority.com/samsung-galaxy-z-flip-7-rev...","elapsed":551085}
+{"timestamp":"2025-12-12T02:09:10.287Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":551085}
+{"timestamp":"2025-12-12T02:09:10.287Z","level":"INFO","phase":"PHASE 2","msg":"Using cached CDX response for https://www.androidauthority.com/samsung-galaxy-z-flip-7-rev...","elapsed":551085}
+{"timestamp":"2025-12-12T02:09:10.287Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":551085}
+{"timestamp":"2025-12-12T02:09:10.287Z","level":"INFO","phase":"PHASE 2","msg":"Using cached CDX response for https://www.androidauthority.com/samsung-galaxy-z-flip-7-rev...","elapsed":551085}
+{"timestamp":"2025-12-12T02:09:10.288Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":551086}
+{"timestamp":"2025-12-12T02:09:10.288Z","level":"INFO","phase":"PHASE 2","msg":"Using cached CDX response for https://www.androidauthority.com/samsung-galaxy-z-flip-7-rev...","elapsed":551086}
+{"timestamp":"2025-12-12T02:09:10.288Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":551086}
+{"timestamp":"2025-12-12T02:09:13.006Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":553804}
+{"timestamp":"2025-12-12T02:09:20.839Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 13 snapshots","elapsed":561637}
+{"timestamp":"2025-12-12T02:09:28.297Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 10 snapshots","elapsed":569095}
+{"timestamp":"2025-12-12T02:09:39.724Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 10 snapshots","elapsed":580522}
+{"timestamp":"2025-12-12T02:09:50.437Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":591235}
+{"timestamp":"2025-12-12T02:09:51.664Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":592462}
+{"timestamp":"2025-12-12T02:10:14.090Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 3 snapshots","elapsed":614888}
+{"timestamp":"2025-12-12T02:10:19.356Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 7 snapshots","elapsed":620154}
+{"timestamp":"2025-12-12T02:11:17.638Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":678436}
+{"timestamp":"2025-12-12T02:11:22.078Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":682876}
+{"timestamp":"2025-12-12T02:11:23.495Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 2 snapshots","elapsed":684293}
+{"timestamp":"2025-12-12T02:12:00.089Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 4 snapshots","elapsed":720887}
+{"timestamp":"2025-12-12T02:13:18.163Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":798961}
+{"timestamp":"2025-12-12T02:13:18.163Z","level":"INFO","phase":"PHASE 2","msg":"Using cached CDX response for https://www.dxomark.com/smartphones/Google/Pixel-10-Pro-XL...","elapsed":798962}
+{"timestamp":"2025-12-12T02:13:18.164Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 7 snapshots","elapsed":798962}
+{"timestamp":"2025-12-12T02:13:41.213Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 7 snapshots","elapsed":822011}
+{"timestamp":"2025-12-12T02:13:48.508Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":829306}
+{"timestamp":"2025-12-12T02:13:55.222Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":836020}
+{"timestamp":"2025-12-12T02:14:44.848Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":885646}
+{"timestamp":"2025-12-12T02:14:47.604Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 13 snapshots","elapsed":888402}
+{"timestamp":"2025-12-12T02:14:59.641Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 4 snapshots","elapsed":900439}
+{"timestamp":"2025-12-12T02:15:05.440Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":906239}
+{"timestamp":"2025-12-12T02:15:24.241Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 3 snapshots","elapsed":925039}
+{"timestamp":"2025-12-12T02:16:02.573Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 8 snapshots","elapsed":963371}
+{"timestamp":"2025-12-12T02:16:14.334Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 5 snapshots","elapsed":975132}
+{"timestamp":"2025-12-12T02:17:19.656Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 1 snapshots","elapsed":1040455}
+{"timestamp":"2025-12-12T02:18:29.532Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 8 snapshots","elapsed":1110330}
+{"timestamp":"2025-12-12T02:18:29.532Z","level":"INFO","phase":"PHASE 2","msg":"Using cached CDX response for https://www.phonearena.com/reviews/honor-magic-7-pro-review_...","elapsed":1110330}
+{"timestamp":"2025-12-12T02:18:29.531Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 8 snapshots","elapsed":1110330}
+{"timestamp":"2025-12-12T02:18:39.737Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 7 snapshots","elapsed":1120535}
+{"timestamp":"2025-12-12T02:18:39.737Z","level":"INFO","phase":"PHASE 2","msg":"Using cached CDX response for https://www.phonearena.com/reviews/honor-magic-7-pro-review_...","elapsed":1120535}
+{"timestamp":"2025-12-12T02:18:39.737Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 8 snapshots","elapsed":1120535}
+{"timestamp":"2025-12-12T02:18:39.738Z","level":"INFO","phase":"PHASE 2","msg":"Using cached CDX response for https://www.phonearena.com/reviews/honor-magic-7-pro-review_...","elapsed":1120536}
+{"timestamp":"2025-12-12T02:18:39.738Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 8 snapshots","elapsed":1120536}
+{"timestamp":"2025-12-12T02:18:39.739Z","level":"INFO","phase":"PHASE 2","msg":"Using cached CDX response for https://www.phonearena.com/reviews/honor-magic-7-pro-review_...","elapsed":1120537}
+{"timestamp":"2025-12-12T02:18:39.739Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 8 snapshots","elapsed":1120537}
+{"timestamp":"2025-12-12T02:18:39.739Z","level":"INFO","phase":"PHASE 2","msg":"Using cached CDX response for https://www.phonearena.com/reviews/honor-magic-7-pro-review_...","elapsed":1120537}
+{"timestamp":"2025-12-12T02:18:39.739Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 8 snapshots","elapsed":1120537}
+{"timestamp":"2025-12-12T02:18:39.739Z","level":"INFO","phase":"PHASE 2","msg":"Using cached CDX response for https://www.phonearena.com/reviews/honor-magic-7-pro-review_...","elapsed":1120538}
+{"timestamp":"2025-12-12T02:18:39.740Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 8 snapshots","elapsed":1120538}
+{"timestamp":"2025-12-12T02:18:39.740Z","level":"INFO","phase":"PHASE 2","msg":"Using cached CDX response for https://www.phonearena.com/reviews/honor-magic-7-pro-review_...","elapsed":1120538}
+{"timestamp":"2025-12-12T02:18:39.740Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 8 snapshots","elapsed":1120538}
+{"timestamp":"2025-12-12T02:18:39.740Z","level":"INFO","phase":"PHASE 3","msg":"Starting Content Scraping (Smart Caching, Limit: 2)","elapsed":1120539}
+{"timestamp":"2025-12-12T02:18:39.741Z","level":"INFO","phase":"PHASE 3","msg":"Queued 89 scraping tasks","elapsed":1120539}
+{"timestamp":"2025-12-12T02:18:39.743Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 1_gsmarena_specs.txt - already exists","elapsed":1120541}
+{"timestamp":"2025-12-12T02:18:39.743Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 2_gsmarena_review.txt - already exists","elapsed":1120541}
+{"timestamp":"2025-12-12T02:18:39.744Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 3_phonearena_review.txt - already exists","elapsed":1120542}
+{"timestamp":"2025-12-12T02:18:39.744Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 4_dxomark_review.txt - already exists","elapsed":1120542}
+{"timestamp":"2025-12-12T02:18:39.745Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 5_tomsguide_review.txt - already exists","elapsed":1120543}
+{"timestamp":"2025-12-12T02:18:39.745Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 6_techradar_review.txt - already exists","elapsed":1120543}
+{"timestamp":"2025-12-12T02:18:39.745Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 8_notebookcheck_review.txt - already exists","elapsed":1120544}
+{"timestamp":"2025-12-12T02:18:39.746Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 10_androidauthority_review.txt - already exists","elapsed":1120544}
+{"timestamp":"2025-12-12T02:18:39.746Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] No archive URLs, trying progressive fallback","elapsed":1120544}
+{"timestamp":"2025-12-12T02:18:39.747Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 15 pro] Skipping 9_androidcentral_review.txt - already exists","elapsed":1120545}
+{"timestamp":"2025-12-12T02:18:39.748Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 2_gsmarena_review.txt - already exists","elapsed":1120546}
+{"timestamp":"2025-12-12T02:18:39.748Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 3_phonearena_review.txt - already exists","elapsed":1120546}
+{"timestamp":"2025-12-12T02:18:39.748Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 5_tomsguide_review.txt - already exists","elapsed":1120546}
+{"timestamp":"2025-12-12T02:18:39.749Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 6_techradar_review.txt - already exists","elapsed":1120547}
+{"timestamp":"2025-12-12T02:18:39.749Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 7_theverge_review.txt - already exists","elapsed":1120547}
+{"timestamp":"2025-12-12T02:18:39.750Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 9_androidcentral_review.txt - already exists","elapsed":1120548}
+{"timestamp":"2025-12-12T02:18:39.750Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 10_androidauthority_review.txt - already exists","elapsed":1120548}
+{"timestamp":"2025-12-12T02:18:39.751Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 4_dxomark_review.txt - already exists","elapsed":1120549}
+{"timestamp":"2025-12-12T02:18:39.751Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] No archive URLs, trying progressive fallback","elapsed":1120549}
+{"timestamp":"2025-12-12T02:19:17.658Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone 17 pro max] Skipping 1_gsmarena_specs.txt - already exists","elapsed":1158457}
+{"timestamp":"2025-12-12T02:19:17.659Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone se 4] No archive URLs, trying progressive fallback","elapsed":1158457}
+{"timestamp":"2025-12-12T02:19:34.606Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone se 4] Skipping 1_gsmarena_specs.txt - already exists","elapsed":1175404}
+{"timestamp":"2025-12-12T02:19:34.606Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone se 4] Skipping 1_gsmarena_specs.txt - already exists","elapsed":1175405}
+{"timestamp":"2025-12-12T02:19:34.607Z","level":"INFO","phase":"PHASE 3","msg":"[apple iphone se 4] Skipping 4_dxomark_review.txt - already exists","elapsed":1175405}
+{"timestamp":"2025-12-12T02:19:34.608Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 1_gsmarena_specs.txt - already exists","elapsed":1175406}
+{"timestamp":"2025-12-12T02:19:34.609Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 2_gsmarena_review.txt - already exists","elapsed":1175407}
+{"timestamp":"2025-12-12T02:19:34.609Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 3_phonearena_review.txt - already exists","elapsed":1175407}
+{"timestamp":"2025-12-12T02:19:34.609Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 4_dxomark_review.txt - already exists","elapsed":1175407}
+{"timestamp":"2025-12-12T02:19:34.610Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 5_tomsguide_review.txt - already exists","elapsed":1175408}
+{"timestamp":"2025-12-12T02:19:34.610Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 6_techradar_review.txt - already exists","elapsed":1175408}
+{"timestamp":"2025-12-12T02:19:34.610Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 8_notebookcheck_review.txt - already exists","elapsed":1175409}
+{"timestamp":"2025-12-12T02:19:34.611Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] Skipping 9_androidcentral_review.txt - already exists","elapsed":1175409}
+{"timestamp":"2025-12-12T02:19:34.611Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy s25] No archive URLs, trying progressive fallback","elapsed":1175409}
+{"timestamp":"2025-12-12T02:19:59.398Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy z fold 7] Skipping 1_gsmarena_specs.txt - already exists","elapsed":1200196}
+{"timestamp":"2025-12-12T02:19:59.399Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy z fold 7] Skipping 4_dxomark_review.txt - already exists","elapsed":1200197}
+{"timestamp":"2025-12-12T02:19:59.399Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy z fold 7] Skipping 6_techradar_review.txt - already exists","elapsed":1200197}
+{"timestamp":"2025-12-12T02:19:59.399Z","level":"INFO","phase":"PHASE 3","msg":"[samsung galaxy z fold 7] Skipping 10_androidauthority_review.txt - already exists","elapsed":1200198}
+{"timestamp":"2025-12-12T02:20:01.101Z","level":"SUCCESS","phase":"PHASE 3","msg":"[samsung galaxy z flip 7] Saved 2_gsmarena_review.txt (17912 chars)","elapsed":1201899}
+{"timestamp":"2025-12-12T02:20:01.649Z","level":"SUCCESS","phase":"PHASE 3","msg":"[samsung galaxy z flip 7] Saved 3_phonearena_review.txt (17912 chars)","elapsed":1202448}
+{"timestamp":"2025-12-12T02:20:04.317Z","level":"SUCCESS","phase":"PHASE 3","msg":"[samsung galaxy z flip 7] Saved 4_dxomark_review.txt (1597 chars)","elapsed":1205115}
+{"timestamp":"2025-12-12T02:20:05.620Z","level":"SUCCESS","phase":"PHASE 3","msg":"[samsung galaxy z flip 7] Saved 5_tomsguide_review.txt (17912 chars)","elapsed":1206418}
+{"timestamp":"2025-12-12T02:20:07.619Z","level":"SUCCESS","phase":"PHASE 3","msg":"[samsung galaxy z flip 7] Saved 6_techradar_review.txt (17912 chars)","elapsed":1208418}
+{"timestamp":"2025-12-12T02:20:09.589Z","level":"SUCCESS","phase":"PHASE 3","msg":"[samsung galaxy z flip 7] Saved 7_theverge_review.txt (17912 chars)","elapsed":1210388}
+{"timestamp":"2025-12-12T02:20:11.664Z","level":"SUCCESS","phase":"PHASE 3","msg":"[samsung galaxy z flip 7] Saved 8_notebookcheck_review.txt (17912 chars)","elapsed":1212462}
+{"timestamp":"2025-12-12T02:20:13.594Z","level":"SUCCESS","phase":"PHASE 3","msg":"[samsung galaxy z flip 7] Saved 9_androidcentral_review.txt (17912 chars)","elapsed":1214392}
+{"timestamp":"2025-12-12T02:20:13.933Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 1_gsmarena_specs.txt - already exists","elapsed":1214731}
+{"timestamp":"2025-12-12T02:20:13.933Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 2_gsmarena_review.txt - already exists","elapsed":1214731}
+{"timestamp":"2025-12-12T02:20:13.934Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 3_phonearena_review.txt - already exists","elapsed":1214732}
+{"timestamp":"2025-12-12T02:20:13.934Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 4_dxomark_review.txt - already exists","elapsed":1214732}
+{"timestamp":"2025-12-12T02:20:13.934Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 5_tomsguide_review.txt - already exists","elapsed":1214732}
+{"timestamp":"2025-12-12T02:20:13.935Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 6_techradar_review.txt - already exists","elapsed":1214733}
+{"timestamp":"2025-12-12T02:20:13.935Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 8_notebookcheck_review.txt - already exists","elapsed":1214733}
+{"timestamp":"2025-12-12T02:20:13.936Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 9_androidcentral_review.txt - already exists","elapsed":1214734}
+{"timestamp":"2025-12-12T02:20:13.936Z","level":"INFO","phase":"PHASE 3","msg":"[oneplus 13] Skipping 10_androidauthority_review.txt - already exists","elapsed":1214734}
+{"timestamp":"2025-12-12T02:20:13.937Z","level":"INFO","phase":"PHASE 3","msg":"[google pixel 10] Skipping 3_phonearena_review.txt - already exists","elapsed":1214735}
+{"timestamp":"2025-12-12T02:20:13.937Z","level":"INFO","phase":"PHASE 3","msg":"[google pixel 10] Skipping 4_dxomark_review.txt - already exists","elapsed":1214735}
+{"timestamp":"2025-12-12T02:20:13.937Z","level":"INFO","phase":"PHASE 3","msg":"[google pixel 10] Skipping 6_techradar_review.txt - already exists","elapsed":1214736}
+{"timestamp":"2025-12-12T02:20:13.938Z","level":"INFO","phase":"PHASE 3","msg":"[google pixel 10] Skipping 8_notebookcheck_review.txt - already exists","elapsed":1214736}
+{"timestamp":"2025-12-12T02:20:15.609Z","level":"SUCCESS","phase":"PHASE 3","msg":"[samsung galaxy z flip 7] Saved 10_androidauthority_review.txt (17912 chars)","elapsed":1216407}
+{"timestamp":"2025-12-12T02:20:17.087Z","level":"SUCCESS","phase":"PHASE 3","msg":"[google pixel 10 pro] Saved 1_gsmarena_specs.txt (3160 chars)","elapsed":1217885}
+{"timestamp":"2025-12-12T02:20:17.088Z","level":"INFO","phase":"HERO_IMAGE","msg":"Starting hero image extraction...","elapsed":1217886}
+{"timestamp":"2025-12-12T02:20:17.103Z","level":"INFO","phase":"HERO_IMAGE","msg":"Loaded HTML, looking for image selectors...","elapsed":1217902}
+{"timestamp":"2025-12-12T02:20:17.105Z","level":"INFO","phase":"HERO_IMAGE","msg":"Found image src: https://web.archive.org/web/20251207133141im_/https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-.jpg","elapsed":1217903}
+{"timestamp":"2025-12-12T02:20:17.105Z","level":"INFO","phase":"HERO_IMAGE","msg":"Final image URL: https://web.archive.org/web/20251207133141im_/https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-.jpg","elapsed":1217903}
+{"timestamp":"2025-12-12T02:20:17.106Z","level":"INFO","phase":"HERO_IMAGE","msg":"Downloading image binary data...","elapsed":1217904}
+{"timestamp":"2025-12-12T02:20:18.686Z","level":"SUCCESS","phase":"PHASE 3","msg":"[google pixel 10 pro] Saved 4_dxomark_review.txt (3021 chars)","elapsed":1219484}
+{"timestamp":"2025-12-12T02:20:19.616Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"Downloaded 9351 bytes in 2510ms","elapsed":1220414}
+{"timestamp":"2025-12-12T02:20:19.616Z","level":"INFO","phase":"HERO_IMAGE","msg":"Original dir: data/content/google_pixel_10_pro","elapsed":1220414}
+{"timestamp":"2025-12-12T02:20:19.616Z","level":"INFO","phase":"HERO_IMAGE","msg":"Target processed dir: data/processed_content/google_pixel_10_pro","elapsed":1220414}
+{"timestamp":"2025-12-12T02:20:19.616Z","level":"INFO","phase":"HERO_IMAGE","msg":"Creating directory structure...","elapsed":1220414}
+{"timestamp":"2025-12-12T02:20:19.617Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"Directory created successfully","elapsed":1220415}
+{"timestamp":"2025-12-12T02:20:19.617Z","level":"INFO","phase":"HERO_IMAGE","msg":"Writing image to: data/processed_content/google_pixel_10_pro/hero_1.jpg","elapsed":1220415}
+{"timestamp":"2025-12-12T02:20:19.617Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"Image saved successfully to data/processed_content/google_pixel_10_pro/hero_1.jpg","elapsed":1220415}
+{"timestamp":"2025-12-12T02:20:19.618Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"✅ File exists, size: 9351 bytes","elapsed":1220416}
+{"timestamp":"2025-12-12T02:20:22.001Z","level":"INFO","phase":"PHASE 3","msg":"[nothing phone 3] Skipping 3_phonearena_review.txt - already exists","elapsed":1222799}
+{"timestamp":"2025-12-12T02:20:22.002Z","level":"INFO","phase":"PHASE 3","msg":"[nothing phone 3] Skipping 4_dxomark_review.txt - already exists","elapsed":1222800}
+{"timestamp":"2025-12-12T02:20:22.002Z","level":"INFO","phase":"PHASE 3","msg":"[nothing phone 3] Skipping 5_tomsguide_review.txt - already exists","elapsed":1222800}
+{"timestamp":"2025-12-12T02:20:22.003Z","level":"INFO","phase":"PHASE 3","msg":"[nothing phone 3] Skipping 8_notebookcheck_review.txt - already exists","elapsed":1222801}
+{"timestamp":"2025-12-12T02:20:22.003Z","level":"INFO","phase":"PHASE 3","msg":"[nothing phone 3] Skipping 10_androidauthority_review.txt - already exists","elapsed":1222801}
+{"timestamp":"2025-12-12T02:20:23.973Z","level":"SUCCESS","phase":"PHASE 3","msg":"[xiaomi xiaomi 15 ultra] Saved 4_dxomark_review.txt (3200 chars)","elapsed":1224771}
+{"timestamp":"2025-12-12T02:20:30.256Z","level":"SUCCESS","phase":"PHASE 3","msg":"[honor magic 7 pro] Saved 3_phonearena_review.txt (24396 chars)","elapsed":1231054}
+{"timestamp":"2025-12-12T02:20:31.467Z","level":"SUCCESS","phase":"PHASE 3","msg":"[honor magic 7 pro] Saved 4_dxomark_review.txt (53524 chars)","elapsed":1232266}
+{"timestamp":"2025-12-12T02:20:32.515Z","level":"SUCCESS","phase":"PHASE 3","msg":"[honor magic 7 pro] Saved 5_tomsguide_review.txt (24396 chars)","elapsed":1233313}
+{"timestamp":"2025-12-12T02:20:32.871Z","level":"SUCCESS","phase":"PHASE 3","msg":"[honor magic 7 pro] Saved 2_gsmarena_review.txt (24396 chars)","elapsed":1233670}
+{"timestamp":"2025-12-12T02:20:34.528Z","level":"SUCCESS","phase":"PHASE 3","msg":"[honor magic 7 pro] Saved 6_techradar_review.txt (24396 chars)","elapsed":1235326}
+{"timestamp":"2025-12-12T02:20:34.581Z","level":"SUCCESS","phase":"PHASE 3","msg":"[honor magic 7 pro] Saved 7_theverge_review.txt (24396 chars)","elapsed":1235379}
+{"timestamp":"2025-12-12T02:20:36.521Z","level":"SUCCESS","phase":"PHASE 3","msg":"[honor magic 7 pro] Saved 8_notebookcheck_review.txt (24396 chars)","elapsed":1237319}
+{"timestamp":"2025-12-12T02:20:36.564Z","level":"SUCCESS","phase":"PHASE 3","msg":"[honor magic 7 pro] Saved 9_androidcentral_review.txt (24396 chars)","elapsed":1237362}
+{"timestamp":"2025-12-12T02:20:38.529Z","level":"SUCCESS","phase":"PHASE 3","msg":"[honor magic 7 pro] Saved 10_androidauthority_review.txt (24396 chars)","elapsed":1239328}
+{"timestamp":"2025-12-12T02:20:38.537Z","level":"SUCCESS","phase":"PIPELINE","msg":"Discovery Complete","elapsed":1239335}
+{"timestamp":"2025-12-12T02:20:38.538Z","level":"INFO","phase":"TELEMETRY","msg":"Session Summary","meta":{"cseCalls":12,"archiveHits":51,"scrapeSuccess":21,"scrapeFailure":0,"heroDownloads":1,"heroSkipped":0,"heroFailed":0,"urlRejected":17,"startTime":1765504799202},"elapsed":1239336}
+
+=== OSET LOGS ===
+OSET v6.1 — Dynamic Truth Correction
+==================================
+📊 Pass 1: Analyzing dataset distributions...
+   Performance Top 1%: 11635.699999999999
+   Camera Top 1%: 187.45
+   Display Top 1%: 180.54999999999998
+   Battery Top 1%: 18.216
+⚡ Pass 2: Applying normalized scores...
+✅ Corrected apple_iphone_15_pro
+✅ Corrected apple_iphone_17_pro_max
+❌ Error processing apple_iphone_se_4 TypeError: Cannot read properties of undefined (reading 'Performance')
+    at main (/home/runner/work/smartmatch-pwa/smartmatch-pwa/scripts/OSET.ts:485:31)
+❌ Error processing google_pixel_10 TypeError: Cannot read properties of undefined (reading 'Performance')
+    at main (/home/runner/work/smartmatch-pwa/smartmatch-pwa/scripts/OSET.ts:485:31)
+❌ Error processing honor_magic_7_pro TypeError: Cannot read properties of undefined (reading 'Performance')
+    at main (/home/runner/work/smartmatch-pwa/smartmatch-pwa/scripts/OSET.ts:485:31)
+❌ Error processing nothing_phone_3 TypeError: Cannot read properties of undefined (reading 'Performance')
+    at main (/home/runner/work/smartmatch-pwa/smartmatch-pwa/scripts/OSET.ts:485:31)
+✅ Corrected oneplus_13
+✅ Corrected samsung_galaxy_s25
+❌ Error processing samsung_galaxy_z_flip_7 TypeError: Cannot read properties of undefined (reading 'Performance')
+    at main (/home/runner/work/smartmatch-pwa/smartmatch-pwa/scripts/OSET.ts:485:31)
+❌ Error processing samsung_galaxy_z_fold_7 TypeError: Cannot read properties of undefined (reading 'Performance')
+    at main (/home/runner/work/smartmatch-pwa/smartmatch-pwa/scripts/OSET.ts:485:31)
+=== Summary ===
+✅ Processed: 4
+💾 Snapshot saved to data/benchmarks_snapshot.json
+📦 Pass 3: Generating Worker Catalog & Vectors...
+✅ Catalog wrote 10 phones to /home/runner/work/smartmatch-pwa/smartmatch-pwa/worker/data/phones.json
+✅ Vectors wrote 1120 bytes to /home/runner/work/smartmatch-pwa/smartmatch-pwa/worker/data/vectors.bin
+✅ Index wrote to /home/runner/work/smartmatch-pwa/smartmatch-pwa/worker/data/phones-list.json
+Dynamic benchmarking & Catalog Generation complete!
+
+=== SYNC LOGS ===
+[dotenv@17.2.3] injecting env (0) from .env.local -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+📡 [Telemetry] Initialized for smartmatch-sync (production)
+➡️  Starting: sync_workflow
+ℹ️ Starting SmartMatch Sync...
+ℹ️ Found 10 phones needing sync.
+➡️  Starting: sync_phone_apple_iphone_15_pro
+ℹ️ Successfully processed apple_iphone_15_pro
+✅ Completed: sync_phone_apple_iphone_15_pro (6.58ms)
+➡️  Starting: upload_images_apple_iphone_15_pro
+✅ Completed: upload_images_apple_iphone_15_pro (274.90ms)
+➡️  Starting: sync_phone_apple_iphone_17_pro_max
+ℹ️ Successfully processed apple_iphone_17_pro_max
+✅ Completed: sync_phone_apple_iphone_17_pro_max (1.76ms)
+➡️  Starting: upload_images_apple_iphone_17_pro_max
+✅ Completed: upload_images_apple_iphone_17_pro_max (82.36ms)
+➡️  Starting: sync_phone_samsung_galaxy_s25
+ℹ️ Successfully processed samsung_galaxy_s25
+✅ Completed: sync_phone_samsung_galaxy_s25 (1.28ms)
+➡️  Starting: upload_images_samsung_galaxy_s25
+✅ Completed: upload_images_samsung_galaxy_s25 (105.05ms)
+➡️  Starting: sync_phone_oneplus_13
+ℹ️ Successfully processed oneplus_13
+✅ Completed: sync_phone_oneplus_13 (1.81ms)
+➡️  Starting: upload_images_oneplus_13
+✅ Completed: upload_images_oneplus_13 (64.00ms)
+➡️  Starting: sync_phone_samsung_galaxy_z_fold_7
+ℹ️ Successfully processed samsung_galaxy_z_fold_7
+✅ Completed: sync_phone_samsung_galaxy_z_fold_7 (0.99ms)
+➡️  Starting: upload_images_samsung_galaxy_z_fold_7
+✅ Completed: upload_images_samsung_galaxy_z_fold_7 (92.68ms)
+➡️  Starting: sync_phone_apple_iphone_se_4
+ℹ️ Successfully processed apple_iphone_se_4
+✅ Completed: sync_phone_apple_iphone_se_4 (1.65ms)
+➡️  Starting: upload_images_apple_iphone_se_4
+✅ Completed: upload_images_apple_iphone_se_4 (74.30ms)
+➡️  Starting: sync_phone_honor_magic_7_pro
+ℹ️ Successfully processed honor_magic_7_pro
+✅ Completed: sync_phone_honor_magic_7_pro (1.79ms)
+➡️  Starting: upload_images_honor_magic_7_pro
+✅ Completed: upload_images_honor_magic_7_pro (70.50ms)
+➡️  Starting: sync_phone_samsung_galaxy_z_flip_7
+ℹ️ Successfully processed samsung_galaxy_z_flip_7
+✅ Completed: sync_phone_samsung_galaxy_z_flip_7 (0.95ms)
+➡️  Starting: upload_images_samsung_galaxy_z_flip_7
+✅ Completed: upload_images_samsung_galaxy_z_flip_7 (93.88ms)
+➡️  Starting: sync_phone_nothing_phone_3
+ℹ️ Successfully processed nothing_phone_3
+✅ Completed: sync_phone_nothing_phone_3 (1.06ms)
+➡️  Starting: upload_images_nothing_phone_3
+✅ Completed: upload_images_nothing_phone_3 (105.49ms)
+➡️  Starting: sync_phone_google_pixel_10
+ℹ️ Successfully processed google_pixel_10
+✅ Completed: sync_phone_google_pixel_10 (1.03ms)
+➡️  Starting: upload_images_google_pixel_10
+✅ Completed: upload_images_google_pixel_10 (66.75ms)
+➡️  Starting: batch_upsert_raw
+ℹ️ Upserted 10 raw records to processed_phones.
+✅ Completed: batch_upsert_raw (225.80ms)
+➡️  Starting: batch_upsert_dynamic
+ℹ️ Upserted 10 dynamic records to dynamic_phones.
+✅ Completed: batch_upsert_dynamic (224.90ms)
+➡️  Starting: export_data
+ℹ️ Exported processed_phones -> processed_phones.json
+ℹ️ Exported dynamic_phones -> dynamic_phones.json
+ℹ️ Exported phones -> phones.json
+ℹ️ Exported processing_metadata -> processing_metadata.json
+ℹ️ Exported reviews -> reviews.json
+✅ Completed: export_data (526.87ms)
+ℹ️ Sync complete.
+✅ Completed: sync_workflow (3279.00ms)
+📊 [Telemetry] Session Summary:
+----------------------------------------
+Counters:
+  db.upsert.count.dynamic_phones           : 10
+  db.upsert.count.processed_phones         : 10
+  step.batch_upsert_dynamic.success        : 1
+  step.batch_upsert_raw.success            : 1
+  step.export_data.success                 : 1
+  step.process_phone.success               : 10
+  step.upload_images.success               : 10
+  workflow.run.success                     : 1
+Histograms (Avg / Max):
+  db.upsert.duration.dynamic_phones        : 225.00ms / 225.00ms
+  db.upsert.duration.processed_phones      : 226.00ms / 226.00ms
+  step.batch_upsert_dynamic.duration       : 225.00ms / 225.00ms
+  step.batch_upsert_raw.duration           : 226.00ms / 226.00ms
+  step.export_data.duration                : 527.00ms / 527.00ms
+  step.process_phone.duration              : 2.00ms / 7.00ms
+  step.upload_images.duration              : 103.10ms / 275.00ms
+  workflow.run.duration                    : 3280.00ms / 3280.00ms
+----------------------------------------

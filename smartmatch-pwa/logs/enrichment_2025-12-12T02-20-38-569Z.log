@@ -1,0 +1,41 @@
+[dotenv@17.2.3] injecting env (0) from .env.local -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+ℹ️ [36m[02:20:39][0m SmartMatch Enrichment Engine v7 - Final
+ℹ️ [36m[02:20:39][0m ════════════════════════════════════════════════════════════
+ℹ️ [36m[02:20:39][0m Account status
+ℹ️ [36m[02:20:39][0m Queue analysis
+ℹ️ [36m[02:20:39][0m Queued (new)
+ℹ️ [36m[02:20:39][0m Queued (new)
+ℹ️ [36m[02:20:39][0m Queued (new)
+ℹ️ [36m[02:20:39][0m Queued (new)
+ℹ️ [36m[02:20:39][0m Processing queue
+ℹ️ [36m[02:20:39][0m [1/4] samsung galaxy z flip 7 (App: 1)
+ℹ️ [36m[02:20:39][0m [2/4] honor magic 7 pro (App: 2)
+ℹ️ [36m[02:20:39][0m Starting enrichment
+ℹ️ [36m[02:20:39][0m Starting enrichment
+ℹ️ [36m[02:20:39][0m Sending prompt to LLM
+ℹ️ [36m[02:20:39][0m Sending prompt to LLM
+ℹ️ [36m[02:22:12][0m Received response from LLM
+ℹ️ [36m[02:22:12][0m Enrichment complete
+ℹ️ [36m[02:22:12][0m Enrichment complete
+ℹ️ [36m[02:22:12][0m Done
+ℹ️ [36m[02:22:12][0m [3/4] nothing phone 3 (App: 3)
+ℹ️ [36m[02:22:12][0m Starting enrichment
+ℹ️ [36m[02:22:12][0m Sending prompt to LLM
+ℹ️ [36m[02:22:48][0m Received response from LLM
+ℹ️ [36m[02:22:48][0m Enrichment complete
+ℹ️ [36m[02:22:48][0m Enrichment complete
+ℹ️ [36m[02:22:48][0m Done
+ℹ️ [36m[02:22:48][0m [4/4] google pixel 10 (App: 4)
+ℹ️ [36m[02:22:48][0m Starting enrichment
+ℹ️ [36m[02:22:48][0m Sending prompt to LLM
+ℹ️ [36m[02:24:02][0m Received response from LLM
+ℹ️ [36m[02:24:02][0m Enrichment complete
+ℹ️ [36m[02:24:02][0m Enrichment complete
+ℹ️ [36m[02:24:02][0m Done
+ℹ️ [36m[02:24:06][0m Received response from LLM
+ℹ️ [36m[02:24:06][0m Enrichment complete
+ℹ️ [36m[02:24:06][0m Enrichment complete
+ℹ️ [36m[02:24:06][0m Done
+ℹ️ [36m[02:24:06][0m Report generated
+ℹ️ [36m[02:24:06][0m ════════════════════════════════════════════════════════════
+ℹ️ [36m[02:24:06][0m Pipeline complete

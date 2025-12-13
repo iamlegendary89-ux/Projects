@@ -1,0 +1,65 @@
+[dotenv@17.2.3] injecting env (21) from .env.local -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+
+📡 [Telemetry] Initialized for smartmatch-sync (development)
+➡️  Starting: sync_workflow
+ℹ️ Starting SmartMatch Sync...
+ℹ️ Found 4 phones needing sync.
+➡️  Starting: sync_phone_apple_iphone_15_pro
+ℹ️ Successfully processed apple_iphone_15_pro
+✅ Completed: sync_phone_apple_iphone_15_pro (4.42ms)
+➡️  Starting: upload_images_apple_iphone_15_pro
+✅ Completed: upload_images_apple_iphone_15_pro (406.80ms)
+➡️  Starting: sync_phone_apple_iphone_17_pro_max
+ℹ️ Successfully processed apple_iphone_17_pro_max
+✅ Completed: sync_phone_apple_iphone_17_pro_max (1.28ms)
+➡️  Starting: upload_images_apple_iphone_17_pro_max
+✅ Completed: upload_images_apple_iphone_17_pro_max (222.51ms)
+➡️  Starting: sync_phone_samsung_galaxy_s25
+ℹ️ Successfully processed samsung_galaxy_s25
+✅ Completed: sync_phone_samsung_galaxy_s25 (0.98ms)
+➡️  Starting: upload_images_samsung_galaxy_s25
+✅ Completed: upload_images_samsung_galaxy_s25 (203.38ms)
+➡️  Starting: sync_phone_oneplus_13
+ℹ️ Successfully processed oneplus_13
+✅ Completed: sync_phone_oneplus_13 (1.20ms)
+➡️  Starting: upload_images_oneplus_13
+✅ Completed: upload_images_oneplus_13 (174.09ms)
+➡️  Starting: batch_upsert_raw
+ℹ️ Upserted 4 raw records to processed_phones.
+✅ Completed: batch_upsert_raw (846.87ms)
+➡️  Starting: batch_upsert_dynamic
+ℹ️ Upserted 4 dynamic records to dynamic_phones.
+✅ Completed: batch_upsert_dynamic (314.15ms)
+➡️  Starting: export_data
+ℹ️ Exported processed_phones -> processed_phones.json
+ℹ️ Exported dynamic_phones -> dynamic_phones.json
+ℹ️ Exported phones -> phones.json
+ℹ️ Exported processing_metadata -> processing_metadata.json
+ℹ️ Exported reviews -> reviews.json
+✅ Completed: export_data (842.94ms)
+ℹ️ Sync complete.
+✅ Completed: sync_workflow (3627.92ms)
+
+📊 [Telemetry] Session Summary:
+----------------------------------------
+Counters:
+  db.upsert.count.dynamic_phones           : 4
+  db.upsert.count.processed_phones         : 4
+  step.batch_upsert_dynamic.success        : 1
+  step.batch_upsert_raw.success            : 1
+  step.export_data.success                 : 1
+  step.process_phone.success               : 4
+  step.upload_images.success               : 4
+  workflow.run.success                     : 1
+
+Histograms (Avg / Max):
+  db.upsert.duration.dynamic_phones        : 314.00ms / 314.00ms
+  db.upsert.duration.processed_phones      : 847.00ms / 847.00ms
+  step.batch_upsert_dynamic.duration       : 314.00ms / 314.00ms
+  step.batch_upsert_raw.duration           : 847.00ms / 847.00ms
+  step.export_data.duration                : 843.00ms / 843.00ms
+  step.process_phone.duration              : 2.25ms / 5.00ms
+  step.upload_images.duration              : 251.75ms / 407.00ms
+  workflow.run.duration                    : 3629.00ms / 3629.00ms
+----------------------------------------
+

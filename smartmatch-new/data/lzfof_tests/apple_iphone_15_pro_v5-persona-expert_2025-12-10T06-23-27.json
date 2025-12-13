@@ -1,0 +1,80 @@
+{
+  "variant": "v5-persona-expert",
+  "phone": "apple iphone 15 pro",
+  "timestamp": "2025-12-10T06:23:27.148Z",
+  "model": "tngtech/deepseek-r1t2-chimera:free",
+  "metrics": {
+    "promptLength": 244698,
+    "promptTokens": 65723,
+    "completionTokens": 2544,
+    "totalTokens": 68267,
+    "elapsedMs": 172680
+  },
+  "result": {
+    "summary_1_page": "The iPhone 15 Pro is a refined evolution of Apple's flagship, delivering meaningful upgrades like a lighter titanium frame, USB-C, and the powerful A17 Pro chip. Real-world testing shows it excels in display quality (up to 2000 nits brightness) and camera versatility, especially in portraits and video (DXOMark 154 camera score). However, GSMArena and NotebookCheck note sustained performance throttling during gaming, and charging remains slow at 20W (90 mins to full). While the Action Button adds customization, iOS still lacks Android's flexibility. At $999 for 128GB, it's a premium package with minor compromises - great for Apple loyalists, but Android alternatives offer better value in some areas.",
+    "pros": [
+      "Titanium build reduces weight by 19g vs. iPhone 14 Pro (GSMArena, TechRadar, NotebookCheck)",
+      "USB-C enables 10Gbps data transfer & universal charging (Android Authority, GSMArena, TechRadar)",
+      "Industry-leading 2000-nit OLED display with thinner bezels (DXOMark 151 display score, GSMArena)",
+      "A17 Pro dominates benchmarks (GeekBench 7172 multi-core, AnTuTu 1.56M) (GSMArena, NotebookCheck)",
+      "ProRes video & excellent portrait mode photography (DXOMark, Android Authority, TechRadar)"
+    ],
+    "cons": [
+      "Slow 20W charging (90min full charge) vs. Android competitors (GSMArena, Android Authority, PhoneArena)",
+      "128GB base storage at $999 feels outdated (TechRadar, Android Central, GSMArena)",
+      "Overheating triggers throttling in sustained loads (NotebookCheck, GSMArena, Android Authority)",
+      "3x telephoto trails Pro Max's 5x zoom (PhoneArena, TechRadar, Android Central)",
+      "iOS customization lags behind Android (Android Central, TechRadar)"
+    ],
+    "attributes": [
+      {
+        "name": "Camera",
+        "score": 9,
+        "explanation": "DXOMark's 154 score highlights class-leading main & portrait shots (38% weight). Low-light excels but shows noise (32%). Video capabilities are exceptional with ProRes support (20%). Selfies are sharp but oversaturated in challenging light (10%). GSMArena notes consistency across lenses."
+      },
+      {
+        "name": "Battery Endurance",
+        "score": 7.5,
+        "explanation": "GSMArena's 12h58m active use shows decent efficiency (38%), but 3274mAh capacity (32%) trails Android flagships. 20W charging (18%) is painfully slow vs. 100W+ rivals. iOS battery health features mitigate degradation (12%). PhoneArena notes worse longevity than iPhone 14 Pro."
+      },
+      {
+        "name": "Performance",
+        "score": 8.5,
+        "explanation": "A17 Pro's peak scores (GeekBench 7172 multi-core) crush competitors (34%), but NotebookCheck shows 15% throttling under sustained load (44%). Thermals improved post-iOS 17.0.3 but still impact gaming (18%). NPU enables advanced ML features (4%)."
+      },
+      {
+        "name": "Display",
+        "score": 9,
+        "explanation": "DXOMark's 151 score praises color accuracy (22%) and 2000-nit HDR brightness (30%). 120Hz ProMotion ensures smooth scrolling (10%), but PWM flickering at low brightness affects comfort (34%). GSMArena measured 1786 nits in testing."
+      },
+      {
+        "name": "Software Experience",
+        "score": 9,
+        "explanation": "iOS 17 is clean (46%) with 5+ years updates (28%), but lacks Android customization. Features like StandBy mode add utility (18%). Early overheating bugs were fixed (8%). TechRadar notes Google now leads with 7-year Pixel support."
+      },
+      {
+        "name": "Design & Build",
+        "score": 8.5,
+        "explanation": "Titanium frame reduces weight to 187g (38%) with premium feel (34%). Haptics are best-in-class (18%). NotebookCheck questions durability vs. aluminum, and glossy back attracts fingerprints (10%)."
+      },
+      {
+        "name": "Longevity Value",
+        "score": 8,
+        "explanation": "Apple's 5+ year update policy (58%) is strong but now matched by Google. $999 base price with 128GB hurts price/perf (32%). High resale value persists (10%). GSMArena notes Pixel 8 Pro offers better storage value."
+      }
+    ],
+    "antutu": 1566329,
+    "geekbench": 7172,
+    "dxocamera": 154,
+    "dxodisplay": 151,
+    "batteryActiveUse": 12.97,
+    "softwareSupportYears": 6,
+    "currentPrice": {
+      "usd": "$999",
+      "eur": "€733.48"
+    },
+    "launchPrice": {
+      "usd": "$999"
+    }
+  }
+}

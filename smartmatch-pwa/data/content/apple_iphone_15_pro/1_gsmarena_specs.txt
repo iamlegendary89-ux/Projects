@@ -1,0 +1,81 @@
+Versions: A3102 (International); A2848 (USA); A3101 (Canada, Japan); A3104 (China, Hong Kong)Network
+Technology
+GSM / CDMA / HSPA / EVDO / LTE / 5G2G bands
+GSM 850 / 900 / 1800 / 1900
+CDMA 800 / 19003G bands
+HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+CDMA2000 1xEV-DO4G bands
+1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 53, 66 - A3102
+1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 53, 66, 71 - A2848
+1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 53, 66, 71 - A3101
+1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66 - A31045G bands
+1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 77, 78, 79 SA/NSA/Sub6 - A3102
+1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 77, 78, 79, 258, 260, 261 SA/NSA/Sub6/mmWave - A2848
+1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 76, 77, 78, 79 SA/NSA/Sub6 - A3101
+1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 77, 78, 79 SA/NSA/Sub6 - A3104Speed
+HSPA, LTE, 5G, EV-DO Rev.A 3.1 MbpsLaunch
+Announced
+2023, September 12Status
+Available. Released 2023, September 22Body
+Dimensions
+146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in)Weight
+187 g (6.60 oz)Build
+Glass front, glass back, titanium frame (grade 5)SIM
+· Nano-SIM + eSIM + eSIM (max 2 at a time; International)· eSIM + eSIM (8 or more, max 2 at a time; USA)· Nano-SIM + Nano-SIM (China)IP68 dust tight and water resistant (immersible up to 6m for 30 min)
+Apple Pay (Visa, MasterCard, AMEX certified)Display
+Type
+LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)Size
+6.1 inches, 91.3 cm2 (~88.2% screen-to-body ratio)Resolution
+1179 x 2556 pixels, 19.5:9 ratio (~461 ppi density)Protection
+Ceramic Shield glassPlatform
+OS
+iOS 17, upgradable to iOS 26Chipset
+Apple A17 Pro (3 nm)CPU
+Hexa-core (2x3.78 GHz + 4x2.11 GHz)GPU
+Apple GPU (6-core graphics)Memory
+Card slotNoInternal
+128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM, 1TB 8GB RAMNVMe
+Main Camera
+Triple
+48 MP, f/1.8, 24mm (wide), 1/1.28", 1.22µm, dual pixel PDAF, sensor-shift OIS
+12 MP, f/2.8, 77mm (telephoto), 1/3.5", 1.0µm, PDAF, OIS, 3x optical zoom
+12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55", 1.4µm, dual pixel PDAF
+TOF 3D LiDAR scanner (depth)
+Features
+Dual-LED dual-tone flash, HDR (photo/panorama)
+Video
+4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, 3D (spatial) video, stereo sound rec.
+Selfie camera
+Single
+12 MP, f/1.9, 23mm (wide), 1/3.6", 1.0µm, PDAF, OIS
+SL 3D, (depth/biometrics sensor)
+Features
+HDR, Dolby Vision HDR
+Video
+4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EISSound
+Loudspeaker
+Yes, with stereo speakers3.5mm jack
+NoComms
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, hotspotBluetooth
+5.3, A2DP, LEPositioning
+GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavICNFC
+YesRadio
+NoUSB
+USB Type-C 3.2 Gen 2, DisplayPortFeatures
+Sensors
+Face ID, accelerometer, gyro, proximity, compass, barometer
+Ultra Wideband (UWB) support (gen2 chip)
+Emergency SOS, Messages and Find My via satelliteBattery
+Type
+Li-Ion 3274 mAhCharging
+Wired, PD2.0, 50% in 30 min
+15W wireless (MagSafe)
+15W wireless (Qi2) - requires iOS 17.2 update
+4.5W reverse wiredMisc
+Colors
+Black Titanium, White Titanium, Blue Titanium, Natural TitaniumModels
+A2848, A3101, A3102, A3104, iPhone16,1SAR
+1.14 W/kg (head)     1.16 W/kg (body)SAR EU
+0.98 W/kg (head)     0.98 W/kg (body)Price
+$ 547.81 / C$ 1,004.99 / £ 564.99 / € 733.48Our TestsDisplay1786 nits max brightness (measured)CameraPhoto / VideoLoudspeaker-26.4 LUFS (Good)BatteryActive use score 12:58hBattery (old)Endurance rating 86h

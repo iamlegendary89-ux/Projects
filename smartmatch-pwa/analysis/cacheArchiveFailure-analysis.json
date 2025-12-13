@@ -1,0 +1,49 @@
+{
+  "targetName": "cacheArchiveFailure",
+  "targetType": "function",
+  "analyzedAt": "2025-12-09T18:24:36.442Z",
+  "recommendation": {
+    "winner": "v2",
+    "reason": "Passed all tests; Zero errors or failures; Sub-millisecond execution",
+    "confidence": "high",
+    "improvements": []
+  },
+  "comparison": [
+    {
+      "variant": "v2",
+      "passRate": "100%",
+      "avgMs": "0.003",
+      "complexity": 0,
+      "score": 1,
+      "primaryMetric": "0.003",
+      "secondaryMetric": "0"
+    },
+    {
+      "variant": "v1",
+      "passRate": "100%",
+      "avgMs": "0.004",
+      "complexity": 0,
+      "score": 1,
+      "primaryMetric": "0.004",
+      "secondaryMetric": "0"
+    },
+    {
+      "variant": "v3",
+      "passRate": "100%",
+      "avgMs": "0.004",
+      "complexity": 0,
+      "score": 1,
+      "primaryMetric": "0.004",
+      "secondaryMetric": "0"
+    },
+    {
+      "variant": "v0-original",
+      "passRate": "50%",
+      "avgMs": "0.008",
+      "complexity": 4,
+      "score": 0.73,
+      "primaryMetric": "0.008",
+      "secondaryMetric": "4"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+    "cases": [
+        {
+            "id": "simple-spaces",
+            "input": [
+                "hello   world"
+            ],
+            "expected": "hello world"
+        },
+        {
+            "id": "tabs-to-space",
+            "input": [
+                "hello\t\tworld"
+            ],
+            "expected": "hello world"
+        },
+        {
+            "id": "mixed-whitespace",
+            "input": [
+                "  hello \t world  "
+            ],
+            "expected": "hello world"
+        },
+        {
+            "id": "multiline-trim",
+            "input": [
+                "  line1  \n  line2  "
+            ],
+            "expected": "line1\nline2"
+        },
+        {
+            "id": "collapse-newlines",
+            "input": [
+                "hello\n\n\n\n\nworld"
+            ],
+            "expected": "hello\n\nworld"
+        },
+        {
+            "id": "preserve-double-newline",
+            "input": [
+                "hello\n\nworld"
+            ],
+            "expected": "hello\n\nworld"
+        },
+        {
+            "id": "empty-string",
+            "input": [
+                ""
+            ],
+            "expected": ""
+        },
+        {
+            "id": "only-whitespace",
+            "input": [
+                "   \t\t\n\n   "
+            ],
+            "expected": ""
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+echo "🔍 Running pre-commit checks..."
+
+# Run ESLint on all scripts (includes auto-fix)
+echo "Running ESLint..."
+npx eslint scripts/ --fix || exit 1
+
+# Type-check main application code only (strict standards)
+echo "Running TypeScript type checking..."
+npx tsc --noEmit --project tsconfig.json || exit 1
+
+echo "✅ Pre-commit checks completed!"

@@ -1,0 +1,171 @@
+Honor Magic 7 Pro IntroLet’s begin with a preface. The Honor Magic 6 Pro currently holds the top spot on our Best Phones list, boasting a total score of 8.1. Naturally, we were eager to see what upgrades its successor would bring to an already great device.The Honor Magic 7 Pro was officially unveiled in China on October 30th and launched globally on January 15th. While there are some upgrades to the hardware platform and camera system, we’d say the Magic 7 Pro is more of an evolution than a revolution.This approach makes sense, considering how well-rounded its predecessor was. But is an evolution enough to challenge the big players in the industry? Could the Honor Magic 7 Pro become the Android flagship to beat? Let's find out!
+Honor Magic7 Pro
+What we like
+Snappy chipset
+Versatile camera system
+Fast charging
+What we don't like
+Expensive
+Battery downgrade
+Limited availability
+7.9
+PhoneArena Rating
+7.5
+Price Class Average
+Battery Life
+7.4
+7.7
+Photo Quality
+7
+7.2
+Video Quality
+6.3
+6.4
+Charging
+9.1
+7.2
+View all ratings
+Performance Peak
+8.3
+7.2
+Performance Daily
+8.4
+7.6
+Display Quality
+8
+8.1
+Design
+8
+7.8
+Wireless Charging
+8.5
+6.9
+Biometrics
+8
+7.6
+Audio
+9
+7.9
+Software
+8
+7.4
+Why the score?
+This device scores 5.1% better than the average for this price class, which includes devices like the Asus ROG Phone 9 Pro, vivo X200 Pro and Sony Xperia 1 VI
+How do we rate?
+User ScoreBe the first to review this phone
+Add
+Review
+Table of Contents:SpecsDesign and DisplayCameraPerformanceSoftwareBattery and ChargingAudio Quality and HapticsShould you buy it?Also read:Honor Magic 7 Pro vs Samsung Galaxy S25 Ultra: One fierce Android battle coming up!Honor Magic 7 Pro vs Honor Magic 6 Pro: All differences explainedHonor Magic 7 Pro SpecsJoin the Elite clubLet's start with an overview of the Honor Magic 7 Pro specs:SpecsHonor Magic 7 ProSize and Weight162.7 x 77.1 x 8.8 mm, 223gDisplay6.8 inches, 120Hz, Dolby Vision, HDR, 1600 nits (HBM), 5000 nits (peak), 1280 x 2800 pixels, 19.5:9 ratio (~453 ppi density)ProcessorQualcomm SM8750-AB Snapdragon 8 Elite (3 nm)SoftwareAndroid 15, MagicOS 9Cameras50 MP, f/1.4-2.0, 23mm (wide), 1/1.3", 1.2µm, dual pixel PDAF, OIS200 MP, f/2.6, 60mm (periscope telephoto), 1/1.4", PDAF, OIS, 3x optical zoom50 MP, f/2.0, 12mm, 122˚ (ultrawide), 1/2.88", 0.61µm, dual pixel PDAFBattery Size5,270 mAh (EU), 5,850 mAh (China)Charging Speeds100W wired80W wirelessReverse wireless5W reverse wiredStorage512GB storage 12GB RAM for 1,799 eurosHonor Magic 7 Pro Design and DisplayThe flat revolution
+After the Galaxy Note Edge started the curved display revolution exactly 10 years ago, the industry seems to have come full circle. The S25 Ultra is expected to feature a much flatter screen, and most non-Chinese flagship smartphones have already reverted to flat displays. The Honor Magic 7 Pro is the latest to follow this trend, coming shortly after the announcement of the OnePlus 13, which boasts an almost completely flat screen.We welcome this trend, as flat screens are both easier to work with and less fragile compared to their curved counterparts. The Honor Magic 7 Pro’s flatter screen has resulted in a slight increase in device width compared to the previous generation: 77.1 mm versus 75.8 mm.This metamorphosis is one of the more significant design and display changes, as the Honor Magic 7 Pro largely follows in the footsteps of its successful predecessor. However, the flatter sides and back have also changed the frame, making it noticeably wider and more angular.Looking at the camera housing, the Honor Magic 7 Pro retains the distinctive Jade Cong design of its predecessor—a circular module within a square with rounded edges. This time, the design is more understated and includes four camera openings instead of three. One of these is a depth sensor, added as a full-sized camera circle for symmetry and we kinda like the new look more.Receive the latest mobile newsSubscribe
+By subscribing you agree to our terms and conditions and privacy policy.
+On the front, a pill-shaped cutout houses the selfie camera and the 3D ToF sensor, which takes care of the FaceID-like facial recognition. Honor uses its proprietary NanoCrystal Shield to protect both the display and back glass. This coating is similar in concept to Corning’s Gorilla Glass, but the company cites ten times more drop resistance than regular glass (we still don't have a drop test in our benchmark arsenal).One notable upgrade is the IP rating. The Honor Magic 7 Pro now comes with IP69 water and dust resistance. In addition to the standard 1.5-meter submersion in fresh water, it can withstand high-pressure and high-temperature water jets—making it safe for environments like saunas or hot springs.
+The phone also comes in three interesting color options:Breeze BlueBlackLunar Shadow GreyAs for the display, its specs closely resemble those of the previous generation. The 6.8-inch OLED LTPO panel supports a dynamic refresh rate of up to 120 Hz, FHD+ resolution, and a cited peak brightness of 5,000 nits. Let’s dive into the tests.Display Measurements:
+Screen measurementsColor charts
+Bright max(20%APL)Higher is betterBright max(100%APL)Higher is betterBright minLower is betterColor tempGammaDelta E rgbcmyLower is betterDelta E grayscaleLower is betterHonor Magic7 Pro1573(Good)1547(Excellent)2(Good)64212.281.41(Excellent)4.6(Average)OnePlus 132326(Excellent)1130(Good)1.8(Good)67422.31.64(Excellent)3.95(Good)Apple iPhone 16 Pro Max2088(Excellent)1046(Good)0.93(Excellent)61742.212.28(Good)5.66(Average)Samsung Galaxy S24 Ultra2310(Excellent)1280(Excellent)1.1(Good)65431.932.86(Good)6.45(Average)View
+all
+Color gamutColor accuracyGrayscale accuracyThe CIE 1931 xy color gamut chart represents the set(area)of colors that a display can reproduce,with the sRGB colorspace(the highlighted triangle)serving as reference.The chart also provides a visual representation of a display's color accuracy. The small squares across the boundaries of the triangle are the reference points for the various colors, while the small dots are the actual measurements. Ideally, each dot should be positioned on top of its respective square. The 'x:CIE31' and 'y:CIE31' values in the table below the chart indicate the position of each measurement on the chart. 'Y' shows the luminance (in nits) of each measured color, while 'Target Y' is the desired luminance level for that color. Finally, 'ΔE 2000' is the Delta E value of the measured color. Delta E values of below 2 are ideal.These measurements are made using Portrait Displays' CalMAN calibration software.Honor Magic7 ProOnePlus 13Apple iPhone 16 Pro MaxSamsung Galaxy S24 UltraThe Color accuracy chart gives an idea of how close a display's measured colors are to their referential values. The first line holds the measured (actual) colors, while the second line holds the reference (target) colors. The closer the actual colors are to the target ones, the better.These measurements are made using Portrait Displays' CalMAN calibration software.Honor Magic7 ProOnePlus 13Apple iPhone 16 Pro MaxSamsung Galaxy S24 UltraThe Grayscale accuracy chart shows whether a display has a correct white balance(balance between red,green and blue)across different levels of grey(from dark to bright).The closer the Actual colors are to the Target ones,the better.These measurements are made usingPortrait Displays' CalMAN calibration software.
+Honor Magic7 Pro
+OnePlus 13
+Apple iPhone 16 Pro Max
+Samsung Galaxy S24 Ultra
+View
+allWe need to address the new APL 20% field in our table first. APL (Average Picture Level) shows what portion of the screen’s pixels is fully lit. We felt that 100% APL is not representative of real-life conditions and moved to a more natural 20% APL test scenario. Looking at the results above, it’s clear that Honor limits brightness beyond a certain APL to ensure consistency across various image scenarios.
+<img src="https://web.archive.org/web/20250119013732im_/https://m-cdn.phonearena.com/images/reviews/264434-image/BK6A9998.jpg?w=1" alt="Honor Magic 7 Pro Review: The Android flagship to beat?"/>
+The score of around 1,500 nits at both 100% and 20% APL clearly shows this—the brightness is kept uniform even at lower APL levels. While it’s not the brightest display we’ve tested, it's still quite bright. The minimum brightness could be lower, but on the positive side, color accuracy is excellent, as is the default color temperature setting. Overall, the display is crisp, vivid, and bright enough for outdoor use. There’s little to complain about here, and it's not a surprise - smartphone display technology has matured to the point where even mid-range phones now feature great OLED panels.Recommended StoriesThe Eye Comfort suite baked into the Honor Magic 7 Pro deserves a few lines here. Apparently, eye health is a big consideration in China, where people are particularly conscious about taking care of their eyes. These features have made it to the global version of the phone, and some of them are truly fascinating.
+Circular Polarized Display technology softens screen light by changing it from linear to circular polarization, mimicking natural light from a point-like source. Another cool one is the AI Defocus which simulates the effect of defocus lenses by adjusting specific on-screen content and projecting images slightly in front of the retina. This should help with myopic (short-sightedness) conditions and also help with prevention.These features are highly specialized and challenging to test in both lab and real-world conditions. Nevertheless, any effort focused on eye health in a world where you stare at your phone for hours gets a thumbs-up from us.Biometrics deserve a separate paragraph here, as the Honor Magic 7 Pro features a sophisticated 3D facial scan tech, similar to what the iPhone has. Furthermore, this model moves to an ultrasonic fingerprint scanner under the screen, just like the latest Galaxy models. Both work exceptionally well, they're fast and accurate, so no complaints here either.Honor Magic 7 Pro Camera200MP telephoto magic
+<img src="https://web.archive.org/web/20250119013732im_/https://m-cdn.phonearena.com/images/reviews/264430-image/BK6A9978.jpg?w=1" alt="Honor Magic 7 Pro Review: The Android flagship to beat?"/>
+Honor Magic7 Pro
+PhoneArena Camera Score
+BEST 157
+143
+PhoneArena Photo Score
+BEST 162
+148
+Main (wide)
+BEST 85
+73
+Zoom
+BEST 29
+26
+Ultra-wide
+BEST 25
+21
+Selfie
+BEST 30
+29
+PhoneArena Video Score
+BEST 153
+138
+Main (wide)
+BEST 80
+73
+Zoom
+BEST 27
+19
+Ultra-wide
+BEST 24
+21
+Selfie
+BEST 28
+25
+Find out more details about photo and video scores for all phones we have tested on our PhoneArena Camera Score
+pageThe Honor Magic 7 Pro’s three-camera setup boasts a combined resolution of 300 MP. It includes a 50 MP main camera with a large 1/1.3-inch Super Dynamic HONOR Falcon Camera H9000 HDR sensor, likely a rebranded OmniVision OV50H sensor familiar from the previous generation.Additionally, there’s a 50 MP ultrawide sensor, and a powerful 200 MP 1/1.4-inch telephoto sensor completes the array. This telephoto sensor is the 1/1.4-inch Samsung S5KHP9, the same one found in the Vivo X100 Ultra’s telephoto module.The software post-processing is powered by AI and branded as AI Honor Image Engine 3.0. This system enhances images using advanced algorithms designed for portrait refinement, light and shadow adjustments, snapshot quality, and telephoto optimization.The system is divided into specialized modules, including the Light and Shadow Portrait Large Model, Telephoto Enhancement Large Model, and Capture Enhancement Large Model, each responsible for specific aspects of the Magic 7 Pro’s camera capabilities. Additionally, the Harcourt Portrait mode is available for further enhancing portrait shots.Of course, while these specs and technical terms sound impressive on paper, we all know that real-world images are what truly matter. So, let’s take a look at some samples.
+Since the main and ultrawide cameras in the Honor Magic 7 Pro have been carried over from the previous generation, the results are similarly consistent, with or without the new AI enhancements. The main camera snaps high-quality photos, especially in good lighting conditions. There’s also an option to take full-resolution images making all 50 megapixels of the sensor work hard. Colors are accurate without being overly saturated, and the level of detail is also pretty good.Night shots are impressive, with natural tones and well-balanced contrast that avoids unnatural oversaturation. While light sources may occasionally produce halos, the overall results closely resemble what we saw with our own eyes.The ultrawide camera is also quite good. It features another 50MP sensor, delivering a good level of detail. A notable strength and a thing that some phones lack is the consistency in color tone between the main and ultrawide cameras, ensuring uniformity across images taken from the different sensors. The field of view is quite wide, which can sometimes produce optical artifacts near the edges of the frame. However, the algorithms do a fine job of mitigating these distortions.The telephoto camera on the Honor Magic 7 Pro features a brand-new 200MP sensor, the most pixel-dense in the industry, matching the Vivo X200 Pro. The periscope lens system paired with this sensor provides a 69 mm focal length, equivalent to 3X optical zoom. Thanks to the high pixel count, the Magic 7 Pro can perform 2X crops from the telephoto camera, resulting in a combined magnification of 6X (138 mm).Additionally, the new SuperZoom AI feature enhances digital zoom between 30X and 100X. The telephoto camera is pretty versatile: the 3X optical zoom works well for portraits and close-ups, while the 6X crop-and-zoom is ideal for wildlife photography. (Granted, the ducks in our sample photos weren’t exactly wild—they came to us for food—but the setup should work just as well for truly wild fauna!)Video Quality
+Video resolution tops out at 4K at 60 frames per second, which is a slight downgrade compared to the previous generation but still more than enough for most scenarios. The video quality is quite good overall—image stabilization has been improved over the last model, and the dynamic range is also better, especially in low-light conditions.What are your thoughts on the videos? Can you spot the differences, and which one do you prefer?Honor Magic 7 Pro Performance & BenchmarksThe Apple A18's killer is here
+<img src="https://web.archive.org/web/20250119013732im_/https://m-cdn.phonearena.com/images/reviews/264435-image/BK6A9999.jpg?w=1" alt="Honor Magic 7 Pro Review: The Android flagship to beat?"/>
+As expected, the Honor Magic 7 Pro is powered by Qualcomm’s highly anticipated and recently launched Snapdragon 8 Elite chipset. It has drawn comparisons to Apple’s latest A18 Pro silicon, and the big news is that Qualcomm’s new chip holds its own in some benchmarks and even outperforms the A18 in others.While we’ve reached a point where even midrange chips feel fast enough for most users, synthetic benchmarks are still pretty important to the more geeky types in the tech community. Below, you’ll find the benchmark scores for the Magic 7 Pro.Performance Benchmarks:Geekbench 6SingleHigher is betterHonor Magic7 Pro3026OnePlus 132967Apple iPhone 16 Pro Max3331Samsung Galaxy S24 Ultra2187Geekbench 6MultiHigher is betterHonor Magic7 Pro9377OnePlus 139081Apple iPhone 16 Pro Max8106Samsung Galaxy S24 Ultra66693DMark Extreme(High)Higher is betterHonor Magic7 Pro6714OnePlus 136330Apple iPhone 16 Pro Max4567Samsung Galaxy S24 Ultra49603DMarkExtreme(Low)Higher is betterHonor Magic7 Pro3082OnePlus 134452Apple iPhone 16 Pro Max3009Samsung Galaxy S24 Ultra2710View allWell, there you have it! The Snapdragon 8 Elite is a beast. It comes very close to the A18 Pro in single-core performance and obliterates Apple’s silicon in multicore and 3D benchmarks. However, one notable downside is that the Magic 7 Pro throttles quite a bit during heavy 3D tasks, probably due to excessive heat, as the phone gets quite hot during the 3DMark Wildlife Extreme stress test.In terms of RAM and storage, the Honor Magic 7 Pro comes with a single memory configuration (at least in Europe): 12GB of RAM and 512GB of onboard storage. Additional options, such as 16GB of RAM and up to 1TB of storage, might be coming later. For now, though, this is the only option available. As one might expect, there’s no microSD card slot, but in 2025, that's hardly surprising.Honor Magic 7 Pro Software
+The phone ships with Android 15 and MagicOS 9.0 out of the box, bringing some interesting improvements to the user interface. AI has been a big talking point in the smartphone world for some time now, and the Honor Magic 7 Pro hops on that train. Honor baked some AI features in the previous model that proved surprisingly useful, and the company has polished these further to deliver an even smoother user experience.The Magic Portal, which offers contextual text and image search (similar to Circle to Search) has been improved. Now, when you highlight text or a portion of an image, the feature automatically pops up from the side of the screen—no need to drag the content manually to the app you want to share it with. It’s a small but well-thought-out improvement that makes the process more seamless.Other AI features mirror what many competitors are currently doing. For example, the AI-powered Notes app can summarize text, transcribe and translate in various modes, reformat text or presentations, provide writing assistance, and more. AI photo editing tools are also baked into MagicOS 9.0, including features like AI Eraser and AI Cutout, which are pretty self-explanatory.One particularly notable feature is eye-tracking assistive eye-gaze control. Other companies like Google and LG have experimented with this technology in the past (not successfully), but Honor’s implementation feels more practical and actually useful. You can train the phone to recognize exactly where you’re looking on the screen, enabling hands-free interactions like opening pop-up notifications. The use cases of this feature are still somewhat limited, but it works exceptionally well and holds significant potential.Finally, the Honor Magic 7 Pro offers five years of major OS updates and six years of security patches.Honor Magic 7 Pro BatteryThird-generation silicon-carbon tech
+<img src="https://web.archive.org/web/20250119013732im_/https://m-cdn.phonearena.com/images/reviews/264426-image/BK6A9966.jpg?w=1" alt="Honor Magic 7 Pro Review: The Android flagship to beat?"/>
+Honor Magic7 Pro( 5270 mAh )
+<img src="https://web.archive.org/web/20250119013732im_/https://m-cdn.phonearena.com/images/phones/84749-350/Honor-Magic7-Pro.jpg?w=1"/>
+Battery Life Estimate
+7h
+27m
+Ranks #29 for phones
+tested in the past 2 years
+Average is
+6h
+56m
+Browsing
+21h
+26m
+Average is
+15h
+46m
+Video
+8h
+6m
+Average is
+10h
+8m
+Gaming
+10h
+41m
+Average is
+9h
+50m
+Charging speed
+100W
+Charger
+98%
+30 min
+0h
+31m
+Full charge
+Ranks #6 for phones released in the
+past 2
+years
+Wireless Charging
+80W
+Charger
+N/A
+30 min
+N/A
+Full charge
+Find out more details about battery and charging for all phones we have tested on our
+PhoneArena Battery Score page
+Honor pioneered silicon-carbon battery technology and was the first company to bring it out of China with the Magic 6 Pro (the first phone to feature this technology was the Magic 5 Pro, but only in its Chinese version, likely due to EU battery regulations). Now, the Magic 7 Pro comes equipped with third-generation silicon-carbon battery technology, but there’s some bad news.The model launched in China last year featured a 5,850mAh battery, while the global version includes a significantly smaller 5,270mAh cell. This discrepancy is likely due to stricter EU regulations regarding battery safety, but it’s disappointing nonetheless. While 5,270mAh is far from small, modern flagships featuring this technology are trending toward 6,000mAh batteries (with the OnePlus 13 being a prime example).That said, let’s not judge a book (or battery) by its cover (or capacity) and move on to some real-world tests.PhoneArena Battery Test Results:Web Browsing(hours)Higher is betterHonor Magic7 Pro21h 26 minOnePlus 1321h 34 minApple iPhone 16 Pro Max22h 39 minSamsung Galaxy S24 Ultra20h 6 minVideo Streaming(hours)Higher is betterHonor Magic7 Pro8h 6 minOnePlus 139h 12 minApple iPhone 16 Pro Max10h 24 minSamsung Galaxy S24 Ultra8h 18 min3D Gaming 60Hz(hours)Higher is betterHonor Magic7 Pro10h 41 minOnePlus 138h 12 minApple iPhone 16 Pro Max12h 4 minSamsung Galaxy S24 Ultra13h 53 minView allSurprisingly, the Magic 7 Pro holds its own against the competition, despite having a smaller battery than both the previous generation and its Chinese counterpart. The browsing score is nearly identical to that of the 6,000mAh OnePlus 13 and comparable to the rest of the field. However, the video streaming score is slightly lower, particularly next to the 10-hour gaming result.PhoneArena Charging Test Results:15 Mins(%)Higher is betterHonor Magic7 Pro54%OnePlus 1350%Apple iPhone 16 Pro Max30%Samsung Galaxy S24 Ultra40%30 Mins(%)Higher is betterHonor Magic7 Pro98%OnePlus 1386%Apple iPhone 16 Pro Max57%Samsung Galaxy S24 Ultra68%Full Charge(hours)Lower is betterHonor Magic7 Pro0h 31 minOnePlus 130h 43 minApple iPhone 16 Pro Max1h 42 minSamsung Galaxy S24 Ultra1h 9 minView allThe charging situation is unchanged compared to last year, the Honor Magic 7 Pro features 100W wired charging support, and 80W wireless (one of the fastest in the industry, but you need Honor's proprietary wireless charger). The phone charges from 0 to 100% in half an hour, which is an amazing result.Honor Magic 7 Pro Audio Quality and Haptics
+<img src="https://web.archive.org/web/20250119013732im_/https://m-cdn.phonearena.com/images/reviews/264428-image/BK6A9972.jpg?w=1" alt="Honor Magic 7 Pro Review: The Android flagship to beat?"/>
+Another great feature of the Honor Magic 6 Pro was its stereo speaker system. It was by far the best phone we've heard, beating gaming phones and other flagships. The audio system in the Magic 7 Pro is excellent, arguably one of the best in its class. The stereo speakers deliver an impressively high volume, comparable to that of a dedicated Bluetooth speaker.Audio quality is equally good, with almost no harmonic distortion even at max volume. The bass is surprisingly good for a phone of this size. It makes us wonder if Honor has incorporated the separate subwoofer featured in the RSR edition, although there’s no word on whether the special bass cavity is indeed a feature of the standard Magic 7 Pro. Regardless, this is one of the loudest and best-sounding phones we’ve tested, so kudos to Honor for achieving and maintaining this level of audio performance. As expected, there’s no 3.5 mm headphone jack, so you’ll need to rely on wireless headphones or use an adapter for wired options.When it comes to haptics, the vibration feedback is strong, tight, and precise. While it may not be the most powerful haptic system available, it’s effective and you can feel it through the phone’s body.Should you buy it?
+<img src="https://web.archive.org/web/20250119013732im_/https://m-cdn.phonearena.com/images/reviews/264429-image/BK6A9974.jpg?w=1" alt="Honor Magic 7 Pro Review: The Android flagship to beat?"/>
+It’s time for some tough questions—and even tougher answers. The Honor Magic 7 Pro is undoubtedly a great Android flagship. It builds upon the success of the Magic 6 Pro, with improvements in the chipset, telephoto camera, and the addition of even more AI features. It also brings some very interesting eye protection technology to the global audience.The flat screen is a welcome upgrade, as is the symmetrical camera housing. Overall, the design of the Magic series has matured into something recognizable, comfortable, and stylish all at once.That said, the starting price of €1,299 might be this phone’s biggest drawback—especially when even the iPhone 16 Pro Max costs less. For many, stepping away from more familiar brands and venturing into less familiar territory at this price point might be a hard sell. This leaves the Honor Magic 7 Pro facing the same uphill battle as its predecessors: competing against not-necessarily better, but better-known, often more affordable, rivals.It’s a tough nut to crack.

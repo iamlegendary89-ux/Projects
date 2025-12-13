@@ -1,29 +1,92 @@
 {
   "compilerOptions": {
     "target": "ES2022",
-    "experimentalDecorators": true,
-    "useDefineForClassFields": false,
-    "module": "ESNext",
     "lib": [
-      "ES2022",
-      "DOM",
-      "DOM.Iterable"
+      "dom",
+      "dom.iterable",
+      "ES2022"
     ],
-    "skipLibCheck": true,
-    "types": [
-      "node"
-    ],
-    "moduleResolution": "bundler",
-    "isolatedModules": true,
-    "moduleDetection": "force",
     "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "exactOptionalPropertyTypes": true,
+    "noImplicitOverride": true,
+    "noPropertyAccessFromIndexSignature": false,
+    "noUncheckedIndexedAccess": true,
+    "noEmitOnError": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "allowImportingTsExtensions": true,
     "jsx": "react-jsx",
+    "incremental": true,
+    "types": [
+      "node",
+      "next"
+    ],
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "baseUrl": ".",
     "paths": {
       "@/*": [
-        "./*"
+        "./app/*"
+      ],
+      "@/stores": [
+        "./app/stores"
+      ],
+      "@/hooks/*": [
+        "./hooks/*",
+        "./app/hooks/*"
+      ],
+      "@/providers": [
+        "./app/providers"
+      ],
+      "@/components/*": [
+        "./components/*"
+      ],
+      "@/core/*": [
+        "./core/*"
+      ],
+      "@/lib/*": [
+        "./src/lib/*",
+        "./app/lib/*",
+        "./lib/*"
       ]
-    },
-    "allowImportingTsExtensions": true,
-    "noEmit": true
-  }
+    }
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "app/**/*.ts",
+    "app/**/*.tsx",
+    "core/**/*.ts",
+    "config/**/*.ts",
+    "pipeline/**/*.ts",
+    "scripts/**/*.ts",
+    ".next/types/**/*.ts",
+    "next-env.d.ts",
+    "components/**/*.ts",
+    "components/**/*.tsx",
+    "hooks/**/*.ts",
+    "lib/**/*.ts",
+    ".next/dev/types/**/*.ts",
+    "types/**/*.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "scripts/lzfof-*.ts",
+    "scripts/lzfof/**/*.ts"
+  ]
 }

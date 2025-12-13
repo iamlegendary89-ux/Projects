@@ -1,0 +1,148 @@
+{
+    "cases": [
+        {
+            "id": "first-failure",
+            "input": [
+                {},
+                "https://example.com/page",
+                false,
+                null,
+                "2024-01-01T00:00:00.000Z"
+            ],
+            "expected": {
+                "retryCount": 1,
+                "nextRetry": "2024-01-01T01:00:00.000Z"
+            },
+            "description": "First failure: retryCount=1, 1h backoff"
+        },
+        {
+            "id": "second-failure",
+            "input": [
+                {
+                    "https://example.com/page": {
+                        "retryCount": 1,
+                        "nextRetry": "2024-01-01T01:00:00.000Z"
+                    }
+                },
+                "https://example.com/page",
+                false,
+                null,
+                "2024-01-02T00:00:00.000Z"
+            ],
+            "expected": {
+                "retryCount": 2,
+                "nextRetry": "2024-01-02T04:00:00.000Z"
+            },
+            "description": "Second failure: retryCount=2, 4h backoff"
+        },
+        {
+            "id": "third-failure",
+            "input": [
+                {
+                    "https://example.com/page": {
+                        "retryCount": 2,
+                        "nextRetry": "2024-01-02T04:00:00.000Z"
+                    }
+                },
+                "https://example.com/page",
+                false,
+                null,
+                "2024-01-03T00:00:00.000Z"
+            ],
+            "expected": {
+                "retryCount": 3,
+                "nextRetry": "2024-01-03T12:00:00.000Z"
+            },
+            "description": "Third failure: retryCount=3, 12h backoff"
+        },
+        {
+            "id": "fourth-failure",
+            "input": [
+                {
+                    "https://example.com/page": {
+                        "retryCount": 3,
+                        "nextRetry": "2024-01-03T12:00:00.000Z"
+                    }
+                },
+                "https://example.com/page",
+                false,
+                null,
+                "2024-01-04T00:00:00.000Z"
+            ],
+            "expected": {
+                "retryCount": 4,
+                "nextRetry": "2024-01-05T00:00:00.000Z"
+            },
+            "description": "Fourth failure: retryCount=4, 24h backoff"
+        },
+        {
+            "id": "with-doNotRetry",
+            "input": [
+                {},
+                "https://example.com/bad",
+                true,
+                null,
+                "2024-01-01T00:00:00.000Z"
+            ],
+            "expected": {
+                "retryCount": 1,
+                "nextRetry": "2024-01-01T01:00:00.000Z",
+                "doNotRetry": true
+            },
+            "description": "doNotRetry flag is set"
+        },
+        {
+            "id": "with-failureReason",
+            "input": [
+                {},
+                "https://example.com/error",
+                false,
+                "TIMEOUT",
+                "2024-01-01T00:00:00.000Z"
+            ],
+            "expected": {
+                "retryCount": 1,
+                "nextRetry": "2024-01-01T01:00:00.000Z",
+                "failureReason": "TIMEOUT"
+            },
+            "description": "failureReason is captured"
+        },
+        {
+            "id": "preserve-failureReason",
+            "input": [
+                {
+                    "https://example.com/test": {
+                        "retryCount": 1,
+                        "nextRetry": "2024-01-01T01:00:00.000Z",
+                        "failureReason": "ORIGINAL"
+                    }
+                },
+                "https://example.com/test",
+                false,
+                null,
+                "2024-01-02T00:00:00.000Z"
+            ],
+            "expected": {
+                "retryCount": 2,
+                "nextRetry": "2024-01-02T04:00:00.000Z",
+                "failureReason": "ORIGINAL"
+            },
+            "description": "Existing failureReason is preserved"
+        },
+        {
+            "id": "new-url",
+            "input": [
+                {},
+                "https://newsite.com/article",
+                false,
+                null,
+                "2024-06-15T12:00:00.000Z"
+            ],
+            "expected": {
+                "retryCount": 1,
+                "nextRetry": "2024-06-15T13:00:00.000Z"
+            },
+            "description": "New URL gets fresh entry"
+        }
+    ]
+}

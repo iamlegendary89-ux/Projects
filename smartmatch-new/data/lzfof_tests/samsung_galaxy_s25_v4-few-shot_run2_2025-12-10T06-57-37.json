@@ -1,0 +1,81 @@
+{
+  "variant": "v4-few-shot",
+  "run": 2,
+  "phone": "samsung galaxy s25",
+  "timestamp": "2025-12-10T06:57:37.347Z",
+  "model": "tngtech/deepseek-r1t2-chimera:free",
+  "metrics": {
+    "promptLength": 217748,
+    "promptTokens": 60623,
+    "completionTokens": 1650,
+    "totalTokens": 62273,
+    "elapsedMs": 62785
+  },
+  "result": {
+    "summary_1_page": "The Samsung Galaxy S25 delivers flagship performance with the Snapdragon 8 Elite chip across all global markets, praised by all 8 sources for its 40% CPU/30% GPU gains over predecessors. While retaining the same camera hardware since S22 (50MP main, 10MP 3x telephoto, 12MP ultrawide), computational photography improvements via Galaxy AI receive mixed reviews. The 6.2-inch 120Hz AMOLED display hits 2600 nits peak but lacks anti-reflective coating. Battery life shows modest gains (13-15h active use) despite unchanged 4000mAh capacity, with 25W wired charging universally criticized as outdated. New AI features like Now Bar and Gemini integration impress, though some note redundancy with Bixby.",
+    "pros": [
+      "Most powerful Android chipset (Snapdragon 8 Elite for Galaxy, benchmarked 2193701 AnTuTu by GSMArena/NotebookCheck)",
+      "Compact titanium-grade design at 162g (19g lighter than S24 Ultra, praised by 6 sources)",
+      "7 years of software updates (all sources highlight)",
+      "120Hz AMOLED with 2600 nits peak brightness (GSMArena, DXOMark 157 display score)",
+      "Global Snapdragon availability (no Exynos variants, PhoneArena/TechRadar highlight)"
+    ],
+    "cons": [
+      "25W charging called 'embarrassingly slow' vs competition (criticized by all 8 sources)",
+      "Camera hardware unchanged since S22 (50MP main sensor, 6 sources note lack of innovation)",
+      "No UWB in base model (Android Central, NotebookCheck)",
+      "PWM dimming at 240Hz causes eye strain concerns (NotebookCheck, GSMArena)",
+      "128GB base storage with UFS 3.1 (PhoneArena, TechRadar)"
+    ],
+    "attributes": [
+      {
+        "name": "Camera",
+        "score": 7.8,
+        "explanation": "DXOMark not tested. 50MP main sensor from S22 era shows aging - GSMArena notes 'soft details indoors'. Telephoto praised for 3x optical in compact form (5 sources). AI photo editing improves but can't mask hardware limitations."
+      },
+      {
+        "name": "Battery Endurance",
+        "score": 7.2,
+        "explanation": "4000mAh battery achieves 13:09h active use (GSMArena). 25W charging (50% in 30min) lags behind competitors. NotebookCheck notes 15% throttling under sustained load affects efficiency."
+      },
+      {
+        "name": "Performance",
+        "score": 9.5,
+        "explanation": "Snapdragon 8 Elite dominates benchmarks: Geekbench 10050 multi-core (NotebookCheck), 30% faster than S24. Sustained performance drops 57% CPU/46% GPU under stress (GSMArena thermal tests)."
+      },
+      {
+        "name": "Display",
+        "score": 8.9,
+        "explanation": "2600 nits peak, 120Hz LTPO AMOLED (DXOMark 157 score). GSMArena measures 1395 nits sustained. Lacks Gorilla Armor anti-reflective coating vs Ultra model. 240Hz PWM dimming concerns (NotebookCheck)."
+      },
+      {
+        "name": "Software Experience",
+        "score": 9.3,
+        "explanation": "One UI 7 with Android 15 praised for redesign (TechRadar, Android Central). Galaxy AI features like Now Bar and Circle to Search improvements noted. 7-year update promise."
+      },
+      {
+        "name": "Design & Build",
+        "score": 8.7,
+        "explanation": "162g weight (-6g vs S24), IP68 rating, Armor Aluminum 2 frame. GSMArena calls it 'best compact Android flagship'. Matte finish reduces fingerprints (3 sources)."
+      },
+      {
+        "name": "Longevity Value",
+        "score": 8.6,
+        "explanation": "7-year support matches Pixel. High resale expected but $799 base price faces stiff competition from OnePlus 13. 128GB storage hurts value proposition (PhoneArena)."
+      }
+    ],
+    "antutu": 2193701,
+    "geekbench": 10050,
+    "dxocamera": null,
+    "dxodisplay": 157,
+    "batteryActiveUse": 13.5,
+    "softwareSupportYears": 7,
+    "currentPrice": {
+      "usd": "$799",
+      "eur": "€840"
+    },
+    "launchPrice": {
+      "usd": "$799"
+    }
+  }
+}

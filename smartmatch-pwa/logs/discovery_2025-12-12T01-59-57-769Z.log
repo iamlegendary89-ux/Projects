@@ -1,0 +1,334 @@
+[dotenv@17.2.3] injecting env (0) from .env.local -- tip: ⚙️  suppress all logs with { quiet: true }
+ℹ️ [36m[STARTUP][0m [01:59:59] Validating environment configuration...
+✅ [32m[STARTUP][0m [01:59:59] Google CSE configured as fallback
+✅ [32m[STARTUP][0m [01:59:59] Environment validation complete
+ℹ️ [36m[PHASE 1][0m [01:59:59] Starting CSE Discovery (Parallel)
+ℹ️ [36m[PHASE 1][0m [01:59:59] CSE Credentials Check
+ℹ️ [36m[PHASE 1][0m [01:59:59] Starting parallel discovery of 40 tasks for 4 priority phones
+ℹ️ [36m[PHASE 1][0m [01:59:59] Priority Queue: google pixel 10 pro (2025-10-05), samsung galaxy z flip 7 (2025-07-15), honor magic 7 pro (2025-02-28), xiaomi xiaomi 15 ultra (2025-02-25)
+ℹ️ [36m[PHASE 1][0m [01:59:59] Processing batch 1/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [01:59:59] CSE Query: "site:gsmarena.com "samsung galaxy z flip 7" specs -forum"
+ℹ️ [36m[PHASE 1][0m [01:59:59] CSE Results: 1 found
+✅ [32m[PHASE 1][0m [01:59:59] CSE SUCCESS for samsung galaxy z flip 7 gsmarena_specs with: "site:gsmarena.com "samsung galaxy z flip 7" specs ..."
+ℹ️ [36m[PHASE 1][0m [01:59:59] Rejected URL for samsung galaxy z flip 7: invalid_pattern (https://www.gsmarena.com/galaxy_z_flip7s_exynos_2500_chipset_gets_benchmarked_here_are_the_results-news-67958.php)
+ℹ️ [36m[PHASE 1][0m [02:00:00] CSE Query: "(site:gsmarena.com OR site:phonearena.com OR site:theverge.com OR site:androidcentral.com OR site:androidauthority.com OR site:tomsguide.com) "samsung galaxy z flip 7" review"
+ℹ️ [36m[PHASE 1][0m [02:00:00] CSE Results: 1 found
+✅ [32m[PHASE 1][0m [02:00:00] CSE SUCCESS for samsung galaxy z flip 7 gsmarena_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:00] Saved batch progress to phones.json
+ℹ️ [36m[PHASE 1][0m [02:00:01] Processing batch 2/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:01] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:01] CSE SUCCESS for samsung galaxy z flip 7 phonearena_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:01] CSE Query: "site:dxomark.com samsung galaxy z flip 7"
+ℹ️ [36m[PHASE 1][0m [02:00:01] CSE Results: 1 found
+✅ [32m[PHASE 1][0m [02:00:01] CSE SUCCESS for samsung galaxy z flip 7 dxomark_review with: "site:dxomark.com samsung galaxy z flip 7..."
+ℹ️ [36m[PHASE 1][0m [02:00:01] Saved batch progress to phones.json
+ℹ️ [36m[PHASE 1][0m [02:00:02] Processing batch 3/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:02] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:02] CSE SUCCESS for samsung galaxy z flip 7 tomsguide_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:02] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:02] CSE SUCCESS for samsung galaxy z flip 7 techradar_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:02] Saved batch progress to phones.json
+ℹ️ [36m[PHASE 1][0m [02:00:02] Processing batch 4/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:03] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:03] CSE SUCCESS for samsung galaxy z flip 7 theverge_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:03] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:03] CSE SUCCESS for samsung galaxy z flip 7 notebookcheck_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:03] Saved batch progress to phones.json
+ℹ️ [36m[PHASE 1][0m [02:00:03] Processing batch 5/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:04] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:04] CSE SUCCESS for samsung galaxy z flip 7 androidcentral_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:04] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:04] CSE SUCCESS for samsung galaxy z flip 7 androidauthority_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:04] Saved batch progress to phones.json
+ℹ️ [36m[PHASE 1][0m [02:00:04] Processing batch 6/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:05] CSE Query: "site:gsmarena.com "google pixel 10 pro" specs -forum"
+ℹ️ [36m[PHASE 1][0m [02:00:05] CSE Query: "(site:gsmarena.com OR site:phonearena.com OR site:theverge.com OR site:androidcentral.com OR site:androidauthority.com OR site:tomsguide.com) "google pixel 10 pro" review"
+ℹ️ [36m[PHASE 1][0m [02:00:05] CSE Results: 1 found
+✅ [32m[PHASE 1][0m [02:00:05] CSE SUCCESS for google pixel 10 pro gsmarena_specs with: "site:gsmarena.com "google pixel 10 pro" specs -for..."
+ℹ️ [36m[PHASE 1][0m [02:00:05] CSE Results: 1 found
+✅ [32m[PHASE 1][0m [02:00:05] CSE SUCCESS for google pixel 10 pro gsmarena_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:05] Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)
+ℹ️ [36m[PHASE 1][0m [02:00:05] Saved batch progress to phones.json
+ℹ️ [36m[PHASE 1][0m [02:00:06] Processing batch 7/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:06] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:06] CSE SUCCESS for google pixel 10 pro phonearena_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:06] Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)
+ℹ️ [36m[PHASE 1][0m [02:00:06] CSE Query: "site:dxomark.com google pixel 10 pro"
+ℹ️ [36m[PHASE 1][0m [02:00:06] CSE Results: 1 found
+✅ [32m[PHASE 1][0m [02:00:06] CSE SUCCESS for google pixel 10 pro dxomark_review with: "site:dxomark.com google pixel 10 pro..."
+ℹ️ [36m[PHASE 1][0m [02:00:06] Saved batch progress to phones.json
+ℹ️ [36m[PHASE 1][0m [02:00:07] Processing batch 8/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:07] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:07] CSE SUCCESS for google pixel 10 pro tomsguide_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:07] Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)
+ℹ️ [36m[PHASE 1][0m [02:00:07] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:07] CSE SUCCESS for google pixel 10 pro techradar_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:07] Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)
+ℹ️ [36m[PHASE 1][0m [02:00:07] Processing batch 9/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:08] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:08] CSE SUCCESS for google pixel 10 pro theverge_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:08] Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)
+ℹ️ [36m[PHASE 1][0m [02:00:08] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:08] CSE SUCCESS for google pixel 10 pro notebookcheck_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:08] Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)
+ℹ️ [36m[PHASE 1][0m [02:00:08] Processing batch 10/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:09] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:09] CSE SUCCESS for google pixel 10 pro androidcentral_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:09] Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)
+ℹ️ [36m[PHASE 1][0m [02:00:09] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:09] CSE SUCCESS for google pixel 10 pro androidauthority_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:09] Rejected URL for google pixel 10 pro: missing_phone_name (https://www.tomsguide.com/phones/google-pixel-phones/ive-been-using-the-pixel-10-pro-for-2-months-and-i-regret-the-upgrade)
+ℹ️ [36m[PHASE 1][0m [02:00:09] Processing batch 11/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:10] CSE Query: "site:gsmarena.com "xiaomi xiaomi 15 ultra" specs -forum"
+ℹ️ [36m[PHASE 1][0m [02:00:10] CSE Query: "(site:gsmarena.com OR site:phonearena.com OR site:theverge.com OR site:androidcentral.com OR site:androidauthority.com OR site:tomsguide.com) "xiaomi xiaomi 15 ultra" review"
+ℹ️ [36m[PHASE 1][0m [02:00:10] CSE Results: 1 found
+✅ [32m[PHASE 1][0m [02:00:10] CSE SUCCESS for xiaomi xiaomi 15 ultra gsmarena_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:10] Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)
+ℹ️ [36m[PHASE 1][0m [02:00:10] CSE Results: 0 found
+⚠️ [33m[PHASE 1][0m [02:00:10] CSE unavailable for xiaomi xiaomi 15 ultra gsmarena_specs, trying DuckDuckGo
+ℹ️ [36m[PHASE 1][0m [02:00:10] DDG Query: "site:gsmarena.com "xiaomi xiaomi 15 ultra" specs -forum"
+ℹ️ [36m[PHASE 1][0m [02:00:11] DDG Results: 0 found
+ℹ️ [36m[PHASE 1][0m [02:00:12] Processing batch 12/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:12] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:12] CSE SUCCESS for xiaomi xiaomi 15 ultra phonearena_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:12] Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)
+ℹ️ [36m[PHASE 1][0m [02:00:13] CSE Query: "site:dxomark.com xiaomi xiaomi 15 ultra"
+ℹ️ [36m[PHASE 1][0m [02:00:13] CSE Results: 1 found
+✅ [32m[PHASE 1][0m [02:00:13] CSE SUCCESS for xiaomi xiaomi 15 ultra dxomark_review with: "site:dxomark.com xiaomi xiaomi 15 ultra..."
+ℹ️ [36m[PHASE 1][0m [02:00:13] Saved batch progress to phones.json
+ℹ️ [36m[PHASE 1][0m [02:00:14] Processing batch 13/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:14] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:14] CSE SUCCESS for xiaomi xiaomi 15 ultra tomsguide_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:14] Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)
+ℹ️ [36m[PHASE 1][0m [02:00:14] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:14] CSE SUCCESS for xiaomi xiaomi 15 ultra techradar_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:14] Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)
+ℹ️ [36m[PHASE 1][0m [02:00:14] Processing batch 14/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:15] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:15] CSE SUCCESS for xiaomi xiaomi 15 ultra theverge_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:15] Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)
+ℹ️ [36m[PHASE 1][0m [02:00:15] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:15] CSE SUCCESS for xiaomi xiaomi 15 ultra notebookcheck_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:15] Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)
+ℹ️ [36m[PHASE 1][0m [02:00:15] Processing batch 15/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:16] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:16] CSE SUCCESS for xiaomi xiaomi 15 ultra androidcentral_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:16] Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)
+ℹ️ [36m[PHASE 1][0m [02:00:16] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:16] CSE SUCCESS for xiaomi xiaomi 15 ultra androidauthority_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:16] Rejected URL for xiaomi xiaomi 15 ultra: invalid_pattern (https://www.phonearena.com/news/xiaomi-15-ultra-periscope-zoom-details_id168019)
+ℹ️ [36m[PHASE 1][0m [02:00:16] Processing batch 16/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:17] CSE Query: "site:gsmarena.com "honor magic 7 pro" specs -forum"
+ℹ️ [36m[PHASE 1][0m [02:00:17] CSE Query: "(site:gsmarena.com OR site:phonearena.com OR site:theverge.com OR site:androidcentral.com OR site:androidauthority.com OR site:tomsguide.com) "honor magic 7 pro" review"
+ℹ️ [36m[PHASE 1][0m [02:00:17] CSE Results: 1 found
+✅ [32m[PHASE 1][0m [02:00:17] CSE SUCCESS for honor magic 7 pro gsmarena_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:17] CSE Results: 1 found
+✅ [32m[PHASE 1][0m [02:00:17] CSE SUCCESS for honor magic 7 pro gsmarena_specs with: "site:gsmarena.com "honor magic 7 pro" specs -forum..."
+ℹ️ [36m[PHASE 1][0m [02:00:17] Saved batch progress to phones.json
+ℹ️ [36m[PHASE 1][0m [02:00:17] Processing batch 17/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:18] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:18] CSE SUCCESS for honor magic 7 pro phonearena_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:18] CSE Query: "site:dxomark.com honor magic 7 pro"
+ℹ️ [36m[PHASE 1][0m [02:00:18] CSE Results: 1 found
+✅ [32m[PHASE 1][0m [02:00:18] CSE SUCCESS for honor magic 7 pro dxomark_review with: "site:dxomark.com honor magic 7 pro..."
+ℹ️ [36m[PHASE 1][0m [02:00:18] Saved batch progress to phones.json
+ℹ️ [36m[PHASE 1][0m [02:00:18] Processing batch 18/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:19] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:19] CSE SUCCESS for honor magic 7 pro tomsguide_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:19] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:19] CSE SUCCESS for honor magic 7 pro techradar_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:19] Saved batch progress to phones.json
+ℹ️ [36m[PHASE 1][0m [02:00:19] Processing batch 19/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:20] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:20] CSE SUCCESS for honor magic 7 pro theverge_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:20] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:20] CSE SUCCESS for honor magic 7 pro notebookcheck_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:20] Saved batch progress to phones.json
+ℹ️ [36m[PHASE 1][0m [02:00:20] Processing batch 20/20 (2 tasks)
+ℹ️ [36m[PHASE 1][0m [02:00:21] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:21] CSE SUCCESS for honor magic 7 pro androidcentral_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:21] CSE Cache hit: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+✅ [32m[PHASE 1][0m [02:00:21] CSE SUCCESS for honor magic 7 pro androidauthority_review with: "(site:gsmarena.com OR site:phonearena.com OR site:..."
+ℹ️ [36m[PHASE 1][0m [02:00:21] Saved batch progress to phones.json
+ℹ️ [36m[PHASE 1][0m [02:00:21] Discovery Summary
+ℹ️ [36m[PHASE 2][0m [02:00:21] Starting Archive Discovery (Optimized Search Patterns)
+✅ [32m[PHASE 2][0m [02:01:15] Generated 1 snapshots
+⚠️ [33m[PHASE 2][0m [02:02:04] No snapshots for https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php
+⚠️ [33m[PHASE 2][0m [02:03:34] No snapshots for https://www.notebookcheck.net/Setting-new-battery-life-records-Apple-iPhone-17-Pro-Max-smartphone-review.1148795.0.html
+ℹ️ [36m[SAVE_API][0m [02:03:34] 3 daily retries failed, requesting Archive.org save
+⚠️ [33m[SAVE_API][0m [02:03:34] Archive.org credentials missing. Skipping save request.
+ℹ️ [36m[PHASE 2][0m [02:03:34] Skipping archive search for: https://www.gsmarena.com/compare.php3?idPhone1=3275&idPhone2...(unarchivable pattern)
+✅ [32m[PHASE 2][0m [02:03:38] Generated 1 snapshots
+✅ [32m[PHASE 2][0m [02:03:54] Generated 17 snapshots
+✅ [32m[PHASE 2][0m [02:04:06] Generated 18 snapshots
+✅ [32m[PHASE 2][0m [02:04:34] Generated 6 snapshots
+✅ [32m[PHASE 2][0m [02:05:05] Generated 1 snapshots
+✅ [32m[PHASE 2][0m [02:06:00] Generated 6 snapshots
+✅ [32m[PHASE 2][0m [02:06:17] Generated 1 snapshots
+⚠️ [33m[PHASE 2][0m [02:06:37] No snapshots for https://www.androidauthority.com/samsung-galaxy-s25-review-3531762/
+ℹ️ [36m[SAVE_API][0m [02:06:37] 3 daily retries failed, requesting Archive.org save
+⚠️ [33m[SAVE_API][0m [02:06:37] Archive.org credentials missing. Skipping save request.
+✅ [32m[PHASE 2][0m [02:07:05] Generated 1 snapshots
+✅ [32m[PHASE 2][0m [02:07:13] Generated 9 snapshots
+✅ [32m[PHASE 2][0m [02:07:28] Generated 2 snapshots
+✅ [32m[PHASE 2][0m [02:08:02] Generated 5 snapshots
+✅ [32m[PHASE 2][0m [02:08:04] Generated 6 snapshots
+✅ [32m[PHASE 2][0m [02:08:47] Generated 5 snapshots
+ℹ️ [36m[PHASE 2][0m [02:08:47] Using cached CDX response for https://www.androidauthority.com/samsung-galaxy-z-flip-7-rev...
+✅ [32m[PHASE 2][0m [02:08:47] Generated 5 snapshots
+✅ [32m[PHASE 2][0m [02:09:10] Generated 1 snapshots
+ℹ️ [36m[PHASE 2][0m [02:09:10] Using cached CDX response for https://www.androidauthority.com/samsung-galaxy-z-flip-7-rev...
+✅ [32m[PHASE 2][0m [02:09:10] Generated 5 snapshots
+ℹ️ [36m[PHASE 2][0m [02:09:10] Using cached CDX response for https://www.androidauthority.com/samsung-galaxy-z-flip-7-rev...
+✅ [32m[PHASE 2][0m [02:09:10] Generated 5 snapshots
+ℹ️ [36m[PHASE 2][0m [02:09:10] Using cached CDX response for https://www.androidauthority.com/samsung-galaxy-z-flip-7-rev...
+✅ [32m[PHASE 2][0m [02:09:10] Generated 5 snapshots
+ℹ️ [36m[PHASE 2][0m [02:09:10] Using cached CDX response for https://www.androidauthority.com/samsung-galaxy-z-flip-7-rev...
+✅ [32m[PHASE 2][0m [02:09:10] Generated 5 snapshots
+ℹ️ [36m[PHASE 2][0m [02:09:10] Using cached CDX response for https://www.androidauthority.com/samsung-galaxy-z-flip-7-rev...
+✅ [32m[PHASE 2][0m [02:09:10] Generated 5 snapshots
+ℹ️ [36m[PHASE 2][0m [02:09:10] Using cached CDX response for https://www.androidauthority.com/samsung-galaxy-z-flip-7-rev...
+✅ [32m[PHASE 2][0m [02:09:10] Generated 5 snapshots
+✅ [32m[PHASE 2][0m [02:09:13] Generated 1 snapshots
+✅ [32m[PHASE 2][0m [02:09:20] Generated 13 snapshots
+✅ [32m[PHASE 2][0m [02:09:28] Generated 10 snapshots
+✅ [32m[PHASE 2][0m [02:09:39] Generated 10 snapshots
+✅ [32m[PHASE 2][0m [02:09:50] Generated 1 snapshots
+✅ [32m[PHASE 2][0m [02:09:51] Generated 5 snapshots
+✅ [32m[PHASE 2][0m [02:10:14] Generated 3 snapshots
+✅ [32m[PHASE 2][0m [02:10:19] Generated 7 snapshots
+✅ [32m[PHASE 2][0m [02:11:17] Generated 5 snapshots
+✅ [32m[PHASE 2][0m [02:11:22] Generated 5 snapshots
+✅ [32m[PHASE 2][0m [02:11:23] Generated 2 snapshots
+✅ [32m[PHASE 2][0m [02:12:00] Generated 4 snapshots
+✅ [32m[PHASE 2][0m [02:13:18] Generated 1 snapshots
+ℹ️ [36m[PHASE 2][0m [02:13:18] Using cached CDX response for https://www.dxomark.com/smartphones/Google/Pixel-10-Pro-XL...
+✅ [32m[PHASE 2][0m [02:13:18] Generated 7 snapshots
+✅ [32m[PHASE 2][0m [02:13:41] Generated 7 snapshots
+✅ [32m[PHASE 2][0m [02:13:48] Generated 1 snapshots
+✅ [32m[PHASE 2][0m [02:13:55] Generated 5 snapshots
+✅ [32m[PHASE 2][0m [02:14:44] Generated 5 snapshots
+✅ [32m[PHASE 2][0m [02:14:47] Generated 13 snapshots
+✅ [32m[PHASE 2][0m [02:14:59] Generated 4 snapshots
+✅ [32m[PHASE 2][0m [02:15:05] Generated 5 snapshots
+✅ [32m[PHASE 2][0m [02:15:24] Generated 3 snapshots
+✅ [32m[PHASE 2][0m [02:16:02] Generated 8 snapshots
+✅ [32m[PHASE 2][0m [02:16:14] Generated 5 snapshots
+✅ [32m[PHASE 2][0m [02:17:19] Generated 1 snapshots
+✅ [32m[PHASE 2][0m [02:18:29] Generated 8 snapshots
+ℹ️ [36m[PHASE 2][0m [02:18:29] Using cached CDX response for https://www.phonearena.com/reviews/honor-magic-7-pro-review_...
+✅ [32m[PHASE 2][0m [02:18:29] Generated 8 snapshots
+✅ [32m[PHASE 2][0m [02:18:39] Generated 7 snapshots
+ℹ️ [36m[PHASE 2][0m [02:18:39] Using cached CDX response for https://www.phonearena.com/reviews/honor-magic-7-pro-review_...
+✅ [32m[PHASE 2][0m [02:18:39] Generated 8 snapshots
+ℹ️ [36m[PHASE 2][0m [02:18:39] Using cached CDX response for https://www.phonearena.com/reviews/honor-magic-7-pro-review_...
+✅ [32m[PHASE 2][0m [02:18:39] Generated 8 snapshots
+ℹ️ [36m[PHASE 2][0m [02:18:39] Using cached CDX response for https://www.phonearena.com/reviews/honor-magic-7-pro-review_...
+✅ [32m[PHASE 2][0m [02:18:39] Generated 8 snapshots
+ℹ️ [36m[PHASE 2][0m [02:18:39] Using cached CDX response for https://www.phonearena.com/reviews/honor-magic-7-pro-review_...
+✅ [32m[PHASE 2][0m [02:18:39] Generated 8 snapshots
+ℹ️ [36m[PHASE 2][0m [02:18:39] Using cached CDX response for https://www.phonearena.com/reviews/honor-magic-7-pro-review_...
+✅ [32m[PHASE 2][0m [02:18:39] Generated 8 snapshots
+ℹ️ [36m[PHASE 2][0m [02:18:39] Using cached CDX response for https://www.phonearena.com/reviews/honor-magic-7-pro-review_...
+✅ [32m[PHASE 2][0m [02:18:39] Generated 8 snapshots
+ℹ️ [36m[PHASE 3][0m [02:18:39] Starting Content Scraping (Smart Caching, Limit: 2)
+ℹ️ [36m[PHASE 3][0m [02:18:39] Queued 89 scraping tasks
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 15 pro] Skipping 1_gsmarena_specs.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 15 pro] Skipping 2_gsmarena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 15 pro] Skipping 3_phonearena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 15 pro] Skipping 4_dxomark_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 15 pro] Skipping 5_tomsguide_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 15 pro] Skipping 6_techradar_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 15 pro] Skipping 8_notebookcheck_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 15 pro] Skipping 10_androidauthority_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 17 pro max] No archive URLs, trying progressive fallback
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 15 pro] Skipping 9_androidcentral_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 17 pro max] Skipping 2_gsmarena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 17 pro max] Skipping 3_phonearena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 17 pro max] Skipping 5_tomsguide_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 17 pro max] Skipping 6_techradar_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 17 pro max] Skipping 7_theverge_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 17 pro max] Skipping 9_androidcentral_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 17 pro max] Skipping 10_androidauthority_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 17 pro max] Skipping 4_dxomark_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:18:39] [apple iphone 17 pro max] No archive URLs, trying progressive fallback
+ℹ️ [36m[PHASE 3][0m [02:19:17] [apple iphone 17 pro max] Skipping 1_gsmarena_specs.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:19:17] [apple iphone se 4] No archive URLs, trying progressive fallback
+ℹ️ [36m[PHASE 3][0m [02:19:34] [apple iphone se 4] Skipping 1_gsmarena_specs.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:19:34] [apple iphone se 4] Skipping 1_gsmarena_specs.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:19:34] [apple iphone se 4] Skipping 4_dxomark_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:19:34] [samsung galaxy s25] Skipping 1_gsmarena_specs.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:19:34] [samsung galaxy s25] Skipping 2_gsmarena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:19:34] [samsung galaxy s25] Skipping 3_phonearena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:19:34] [samsung galaxy s25] Skipping 4_dxomark_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:19:34] [samsung galaxy s25] Skipping 5_tomsguide_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:19:34] [samsung galaxy s25] Skipping 6_techradar_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:19:34] [samsung galaxy s25] Skipping 8_notebookcheck_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:19:34] [samsung galaxy s25] Skipping 9_androidcentral_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:19:34] [samsung galaxy s25] No archive URLs, trying progressive fallback
+ℹ️ [36m[PHASE 3][0m [02:19:59] [samsung galaxy z fold 7] Skipping 1_gsmarena_specs.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:19:59] [samsung galaxy z fold 7] Skipping 4_dxomark_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:19:59] [samsung galaxy z fold 7] Skipping 6_techradar_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:19:59] [samsung galaxy z fold 7] Skipping 10_androidauthority_review.txt - already exists
+✅ [32m[PHASE 3][0m [02:20:01] [samsung galaxy z flip 7] Saved 2_gsmarena_review.txt (17912 chars)
+✅ [32m[PHASE 3][0m [02:20:01] [samsung galaxy z flip 7] Saved 3_phonearena_review.txt (17912 chars)
+✅ [32m[PHASE 3][0m [02:20:04] [samsung galaxy z flip 7] Saved 4_dxomark_review.txt (1597 chars)
+✅ [32m[PHASE 3][0m [02:20:05] [samsung galaxy z flip 7] Saved 5_tomsguide_review.txt (17912 chars)
+✅ [32m[PHASE 3][0m [02:20:07] [samsung galaxy z flip 7] Saved 6_techradar_review.txt (17912 chars)
+✅ [32m[PHASE 3][0m [02:20:09] [samsung galaxy z flip 7] Saved 7_theverge_review.txt (17912 chars)
+✅ [32m[PHASE 3][0m [02:20:11] [samsung galaxy z flip 7] Saved 8_notebookcheck_review.txt (17912 chars)
+✅ [32m[PHASE 3][0m [02:20:13] [samsung galaxy z flip 7] Saved 9_androidcentral_review.txt (17912 chars)
+ℹ️ [36m[PHASE 3][0m [02:20:13] [oneplus 13] Skipping 1_gsmarena_specs.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:13] [oneplus 13] Skipping 2_gsmarena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:13] [oneplus 13] Skipping 3_phonearena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:13] [oneplus 13] Skipping 4_dxomark_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:13] [oneplus 13] Skipping 5_tomsguide_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:13] [oneplus 13] Skipping 6_techradar_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:13] [oneplus 13] Skipping 8_notebookcheck_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:13] [oneplus 13] Skipping 9_androidcentral_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:13] [oneplus 13] Skipping 10_androidauthority_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:13] [google pixel 10] Skipping 3_phonearena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:13] [google pixel 10] Skipping 4_dxomark_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:13] [google pixel 10] Skipping 6_techradar_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:13] [google pixel 10] Skipping 8_notebookcheck_review.txt - already exists
+✅ [32m[PHASE 3][0m [02:20:15] [samsung galaxy z flip 7] Saved 10_androidauthority_review.txt (17912 chars)
+✅ [32m[PHASE 3][0m [02:20:17] [google pixel 10 pro] Saved 1_gsmarena_specs.txt (3160 chars)
+ℹ️ [36m[HERO_IMAGE][0m [02:20:17] Starting hero image extraction...
+ℹ️ [36m[HERO_IMAGE][0m [02:20:17] Loaded HTML, looking for image selectors...
+ℹ️ [36m[HERO_IMAGE][0m [02:20:17] Found image src: https://web.archive.org/web/20251207133141im_/https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-.jpg
+ℹ️ [36m[HERO_IMAGE][0m [02:20:17] Final image URL: https://web.archive.org/web/20251207133141im_/https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-.jpg
+ℹ️ [36m[HERO_IMAGE][0m [02:20:17] Downloading image binary data...
+✅ [32m[PHASE 3][0m [02:20:18] [google pixel 10 pro] Saved 4_dxomark_review.txt (3021 chars)
+✅ [32m[HERO_IMAGE][0m [02:20:19] Downloaded 9351 bytes in 2510ms
+ℹ️ [36m[HERO_IMAGE][0m [02:20:19] Original dir: data/content/google_pixel_10_pro
+ℹ️ [36m[HERO_IMAGE][0m [02:20:19] Target processed dir: data/processed_content/google_pixel_10_pro
+ℹ️ [36m[HERO_IMAGE][0m [02:20:19] Creating directory structure...
+✅ [32m[HERO_IMAGE][0m [02:20:19] Directory created successfully
+ℹ️ [36m[HERO_IMAGE][0m [02:20:19] Writing image to: data/processed_content/google_pixel_10_pro/hero_1.jpg
+✅ [32m[HERO_IMAGE][0m [02:20:19] Image saved successfully to data/processed_content/google_pixel_10_pro/hero_1.jpg
+✅ [32m[HERO_IMAGE][0m [02:20:19] ✅ File exists, size: 9351 bytes
+ℹ️ [36m[PHASE 3][0m [02:20:22] [nothing phone 3] Skipping 3_phonearena_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:22] [nothing phone 3] Skipping 4_dxomark_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:22] [nothing phone 3] Skipping 5_tomsguide_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:22] [nothing phone 3] Skipping 8_notebookcheck_review.txt - already exists
+ℹ️ [36m[PHASE 3][0m [02:20:22] [nothing phone 3] Skipping 10_androidauthority_review.txt - already exists
+✅ [32m[PHASE 3][0m [02:20:23] [xiaomi xiaomi 15 ultra] Saved 4_dxomark_review.txt (3200 chars)
+✅ [32m[PHASE 3][0m [02:20:30] [honor magic 7 pro] Saved 3_phonearena_review.txt (24396 chars)
+✅ [32m[PHASE 3][0m [02:20:31] [honor magic 7 pro] Saved 4_dxomark_review.txt (53524 chars)
+✅ [32m[PHASE 3][0m [02:20:32] [honor magic 7 pro] Saved 5_tomsguide_review.txt (24396 chars)
+✅ [32m[PHASE 3][0m [02:20:32] [honor magic 7 pro] Saved 2_gsmarena_review.txt (24396 chars)
+✅ [32m[PHASE 3][0m [02:20:34] [honor magic 7 pro] Saved 6_techradar_review.txt (24396 chars)
+✅ [32m[PHASE 3][0m [02:20:34] [honor magic 7 pro] Saved 7_theverge_review.txt (24396 chars)
+✅ [32m[PHASE 3][0m [02:20:36] [honor magic 7 pro] Saved 8_notebookcheck_review.txt (24396 chars)
+✅ [32m[PHASE 3][0m [02:20:36] [honor magic 7 pro] Saved 9_androidcentral_review.txt (24396 chars)
+✅ [32m[PHASE 3][0m [02:20:38] [honor magic 7 pro] Saved 10_androidauthority_review.txt (24396 chars)
+✅ [32m[PIPELINE][0m [02:20:38] Discovery Complete
+ℹ️ [36m[TELEMETRY][0m [02:20:38] Session Summary
+
+📊 TELEMETRY SUMMARY
+   CSE Calls:         12
+   Archive Hits:      51
+   Scrape Success:    21/21
+   Hero Images:       1 downloaded, 0 cached, 0 failed
+   Duration:          1239.3s
+

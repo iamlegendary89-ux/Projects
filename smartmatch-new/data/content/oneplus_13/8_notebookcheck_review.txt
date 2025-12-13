@@ -1,0 +1,820 @@
+=== REVIEW METADATA ===
+Title: OnePlus 13 Smartphone Review: Let the battery revolution begin ...
+Source: Notebookcheck Net
+URL: https://www.notebookcheck.net/OnePlus-13-Smartphone-Review-Let-the-battery-revolution-begin.932327.0.html
+Extracted: 2025-12-01T16:56:01.592Z
+Archive: https://web.archive.org/web/20250611040757/https://www.notebookcheck.net/OnePlus-13-Smartphone-Review-Let-the-battery-revolution-begin.932327.0.html
+Type: notebookcheck_review
+=========================
+
+Verdict: Nearly perfectFor more than a decade, new graphene battery technologies have been considered to be the holy grail in the smartphone world, with incredible promises regarding runtimes and energy density.
+Now the much-hyped revolution finally seems to be starting with silicon carbon-based batteries. In addition to the fantastic runtimes, the latest flagship from OnePlus also benefits from the new Si/C semiconductors thanks to its low weight.
+
+Download your licensed rating image as SVG / PNG
+
+very good (88%)
+OnePlus 13
+Qualcomm Snapdragon 8 EliteQualcomm Adreno 830
+Smartphone - 12/12/2024 - v8
+Test device courtesy of TradingShenzhen
+Download your licensed rating image as PNG / SVG
+
+In contrast to its BBK cousin, the Oppo Find X8 Pro, there are some compromises in terms of the cameras. But these are less significant than they are made out to be in typical daily use. The OnePlus 13, however, has a slight advantage as it features a somewhat more powerful Snapdragon 8 Elite chipset.
+
+Qualcomm's latest flagship SoC also overtaxes the cooling system of "normal" smartphones under high load, at least this is the case with the OnePlus 13.All in all, we really like the new OnePlus flagship. Apart from the pronounced throttling, it has no serious weaknesses. If sustainability is important to you when buying a smartphone, you should also take a look at Samsung or Google. Both the Pixel 9 Pro and Galaxy S24+ offer a longer update period and greater transparency with regard to their software update cadence. 
+Pros+ strong running times
++ high performance
++ great display with 4K PWM
++ fast charging + power adapter
++ good camera packageCons- no 6 GHz WLAN
+- unclear software support
+- high throttling
+- (currently) only as import with ColorOS
+- Sustainability deficits
+
+Price and availabilityIn China, the OnePlus 13 running ColorOS 15 starts at ¥4,500 (approx. €580) with 12 GB RAM and 256 GB storage. As an import device, the entry-level model costs around €720 from our rental provider Tradingshenzen at the time of testing.
+
+For the top version of the OnePlus 13 with 24 GB of RAM and 1 TB of storage, interested buyers will have to budget around €940. However, OnePlus will probably charge around €1,000 as the RRP for the entry-level global version that will most likely be launched soon, as the successor to the OnePlus 12 (RRP: from €949), has seen a slight price increase even in China.Possible competitors in comparison
+ImageModel / ReviewPriceWeightDriveDisplay
+1.87.6%OnePlus 13Qualcomm Snapdragon 8 Elite ⎘ Qualcomm Adreno 830 ⎘16 GB Memory, 512 GB Amazon: 1. $12.584 Pack For OnePlus 13 Screen...2. $14.98WILLONE 2+2 Pack for OnePlus...3. $13.98JZG 3pcs for OnePlus 13 Scre...List Price: 720€213 g512 GB UFS 4.0 Flash6.82"3168x1440510 PPIAMOLED
+2.87.3%Oppo Find X8 ProMediatek Dimensity 9400 ⎘ ARM Immortalis-G925 MC12 ⎘16 GB Memory, 512 GB Amazon: 1. $7.27GANGANPRO 2 Pack Privacy Scr...2. $9.99WRTBS Phone Case for Oppo Fi...3. AKABEILA [3 Pack Privacy Scr...List Price: 1199€215 g512 GB UFS 4.0 Flash6.78"2780x1264450 PPIAMOLED
+3.89.8% v7 (old)Samsung Galaxy S24+Samsung Exynos 2400 ⎘ Samsung Xclipse 940 ⎘12 GB Memory, 512 GB Amazon: $1,139.59List Price: 1149€196 g512 GB UFS 4.0 Flash6.70"3120x1440513 PPIAMOLED
+4.84.9%Google Pixel 9Google Tensor G4 ⎘ ARM Mali-G715 MP7 ⎘12 GB Memory, 128 GB Amazon: 1. $599.00Google Pixel 9 - Unlocked An...2. $1,219.00Google Pixel 9 Pro - Unlocke...3. $1,499.00Google Pixel 9 Pro Fold - Un...List Price: 899€198 g128 GB UFS 3.1 Flash6.30"2424x1080421 PPIOLED
+5.88.1%OnePlus 12Qualcomm Snapdragon 8 Gen 3 ⎘ Qualcomm Adreno 750 ⎘16 GB Memory, 512 GB Amazon: $899.99List Price: 979 EUR220 g512 GB UFS 4.0 Flash6.82"3168x1440510 PPIAMOLED
+
+Table of ContentsVerdict: Nearly perfectBuild: OnePlus flagship finally gets an IP69 ratingFeatures: Fast USB 3.2 and IR blaster onboardSoftware: ColorOS 15 with a long update cycleCommunication and GNSS: OnePlus 13 with dual-band GPSPhone functions and voice quality: OnePlus flagship without an eSIM for global variantsCameras: OnePlus 13 uses Sony sensorsAccessories and Warranty: OnePlus offers a 100 W power adapterInput devices and operation: Ultrasonic fingerprint reader debutDisplay: LTPO 2.0 AMOLED with Dolby VisionPerformance: Snapdragon 8 Elite tops the chartsGaming: OnePlus 13 is a good choice for gamersEmissions: Flagship killer stays pretty coolEnergy consumption: Wireless charging and promising battery lifeNotebookcheck's overall impressions of the OnePlus 13
+
+The main USP of OnePlus traditionally comes with the top-end variant making use of the most powerful Qualcomm chipset, so the 2024 flagship is no exception in this respect. The OnePlus 13 uses the new Snapdragon 8 Elite paired with up to 24 GB of RAM and a maximum of 1 TB UFS 4.0 storage, packing quite a punch in terms of hardware.
+Apart from that, OnePlus is introducing a few new features, which can make a significant difference in everyday use such as the ultrasonic fingerprint sensor and MagSafe or Oppo Mag support for wireless charging. 
+The battery technology used in the OnePlus 13 is also exciting, as silicon-carbon batteries should not only be safer and more durable but also offer a high energy density. After Honor already replaced the classic lithium-ion battery with Si/C in its Magic6 Pro, other manufacturers such as Oppo are now following suit.
+This is hopefully just the beginning of a battery revolution in smartphones, as this technological development is already leading to incredible nominal charges.
+Those who are keen on the best Hasselblad-branded cameras will probably find the Oppo Find X8 Pro more enticing because OnePlus is cutting corners here to achieve an attractive price.
+Nevertheless, the successor to the OnePlus 12 offers a fairly large 1/1.4-inch format main sensor and a periscope telephoto lens, which should benefit from Hasselblad's color tuning.
+
+OnePlus 13 (13 Series)ProcessorQualcomm Snapdragon 8 Elite 8 x 3.5 - 4.3 GHz, Oryon Gen 2Graphics adapterQualcomm Adreno 830Memory16 GB  , 12GB / 16GB / 18GBDisplay6.82 inch 19.8:9, 3168 x 1440 pixel 510 PPI, Capacitive, AMOLED, glossy: yes, HDR, 120 HzStorage512 GB UFS 4.0 Flash, 512 GB  , 256GB / 512GB / 1TB, 458 GB freeConnections1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, 1 Infrared, Audio Connections: USB Type C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, color spectrum, OTG, MiracastNetworkingWi-Fi 7 (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 5.4, GSM, UMTS, LTE, 5G, Dual SIM, LTE, 5G, GPSSizeheight x width x depth (in mm): 8.5 x 162.9 x 76.5 ( = 0.33 x 6.41 x 3.01 in)Battery6000 mAh Lithium-Ion, Silicon-Carbon-AnodeChargingwireless charging, fast charging / QuickchargeOperating SystemAndroid 15CameraPrimary Camera: 50 MPix (f/1.6, 23mm) + 50MP (3x optical zoom, f/2.6, 73mm) + 50MP (f/2.0, 15mm)Secondary Camera: 32 MPix f/2.4, 21mmAdditional featuresSpeakers: Stereo, Keyboard: OnScreen, USB cable, SIM tool, info material, charger, case, ColorOS 15, 12 Months Warranty, Widevine L1, BT Codecs: SBC, AAC, aptx, aptx-HD, LDAC, LHDC (5.0), GNSS: Beidou (B1I+B1C+B2a), GPS (L1+L5), GLONASS (G1), Galileo (E1+E5a), QZSS (L1+L5); HDR: HLG, HDR10+, HDR10 , fanless, waterproofWeight213 g ( = 7.51 oz / 0.47 pounds), Power Supply: 127 g ( = 4.48 oz / 0.28 pounds)
+Price720 EuroLinksOnePlus homepageNote: The manufacturer may use components from different suppliers including display panels, drives or memory sticks with similar specifications.see all specifications  [+] Add to comparison» Compare devices
+
+Build: OnePlus flagship finally gets an IP69 ratingThere are no major changes to the overall look of the phone. The successor to the OnePlus 12 once again uses a display size of 6.82 inches, although the edges have shrunk a little compared to its predecessor.
+
+This gives the OnePlus 13 a more modern look, which is reflected in the very efficient screen-to-body ratio of 90.7%. Despite a slightly smaller and even IP69-certified housing in all dimensions, the manufacturer has increased the battery capacity to a whopping 6,000 mAh.
+
+This is truly remarkable, because at less than 9 mm this is still a thin flagship and, at 210 g, also pleasantly light. Thanks to the IP69 certification, the OnePlus 13 can theoretically also be cleaned with a high-pressure water jet. Colors of the OnePlus 13 (Image source: OnePlus)
+
+OnePlus is once again offering its flagship in three color variants, but in addition to two versions with a glass back there is also a version with vegan leather to choose from this time.
+
+The exact material used remains unclear, but the front is made of Crystal Shield glass and not Gorilla Glass. Thanks to the textured back, fingerprints are not a problem on our white test sample and the OnePlus 13 doesn't really lack in quality either.
+
+However, the back cover does not necessarily feel like a glass material, but more like a high-quality plastic. As usual for the Chinese manufacturer, its flagship has a three-stage switch (alert slider) for sound and vibration management on the left side of the casing.
+
+Size comparison
+
+      OnePlus 12       OnePlus 13       Oppo Find X8 Pro       Samsung Galaxy S24+       Google Pixel 9       DIN A6 ❌164.3 mm / 6.47 in
+75.8 mm / 2.98 in
+
+9.2 mm / 0.3622 in
+
+220 g0.485 lbs162.9 mm / 6.41 in
+76.5 mm / 3.01 in
+
+8.5 mm / 0.3346 in
+
+213 g0.4696 lbs162.3 mm / 6.39 in
+76.7 mm / 3.02 in
+
+8.2 mm / 0.3228 in
+
+215 g0.474 lbs158.5 mm / 6.24 in
+75.9 mm / 2.99 in
+
+7.7 mm / 0.3031 in
+
+196 g0.4321 lbs152.8 mm / 6.02 in
+72 mm / 2.83 in
+
+8.5 mm / 0.3346 in
+
+198 g0.4365 lbs148 mm / 5.83 in
+105 mm / 4.13 in
+
+1 mm / 0.03937 in
+
+1.5 g0.00331 lbs
+
+Features: Fast USB 3.2 and IR blaster onboardThe OnePlus 13 offers an appealing range of features, including Bluetooth 5.4, an IR blaster, Miracast, and NFC for contactless payment. The USB-C port has the 3.2 specification, which enables high transfer speeds of 238 MB/s in our copy test with a connected M.2 SSD (Samsung 980 Pro). The connected storage media can be formatted with NTFS or exFAT. Image output via the port can also be used with a suitable adapter.
+Our test sample offers 512 GB of UFS 4.0 memory, but the actual available storage space is significantly less at 458 GB due to the operating system and some pre-installed apps. If you need more space, you can transfer files to an external storage medium such as memory sticks using USB-OTG; it is not possible to expand the memory with a microSD card.Left: Alert Slider
+Right: Volume rocker, Power
+Top: Loudspeaker, microphones, IR blaster
+Bottom: Loudspeaker, microphone, USB port, microphone, SIM slot
+
+Software: ColorOS 15 with a long update cycleOur OnePlus 13 unit came with ColorOS version 15.0, which is based on Android 15. As a global version of the OnePlus 13 has not yet been presented, there is no OxygenOS available that natively supports the Google PlayStore and Google app. However, Google Mobile Services can be activated for ColorOS in the settings.
+OxygenOS-based global variants will be released soon, but the extent to which the global ROM will receive updates is still unclear.
+OnePlus is also keeping a lid on the exact update period for ColorOS. The global predecessor of the OnePlus 13 is slated to receive four major updates and five years of security patches, which would not be bad.
+However, Google Pixel and Samsung Galaxy phones offer significantly longer update cycles. The security patches on our device were up to date as of November 2024. ColorOS 15: Home screen
+Home screen customization
+Settings page
+Notification shadeSustainabilityOnePlus definitely has some catching up to do when it comes to sustainability. The last (public) sustainability report we found was from 2020, and the OnePlus 13 does not provide any information on the choice of materials or transparently communicate on the topic of "recycling".
+The manufacturer's own repairability is also not a focus and is hardly verifiable. The packaging is probably plastic-free and was printed with inks based on soybean oil. However, the packaging itself is still protected with a film and the smartphone also uses plastic materials for transportation. Communication and GNSS: OnePlus 13 with dual-band GPSThe OnePlus 13 supports the latest Wi-Fi 7 standard befitting a late 2024 flagship. However, we are unfortunately not yet able to fully utilize WiFi 7 with our measurements.
+This is largely because corresponding routers (especially with a 10 GBit LAN port) are still hardly available. However, with the 6 GHz channel and our reference router Asus ROG Rapture GT-AXE11000, we would still achieve very high speeds. The OnePlus 13 only uses the 2.4 and 5 GHz ranges to establish a connection, at least in the version we tested for the Chinese market.
+If you're thinking about importing it, you don't need to worry about the LTE bands 20 and 28, as both frequencies are supported according to the data sheet.
+Otherwise, the OnePlus 13 can access the 4G and 5G mobile internet with a moderate number of available bands. The frequency coverage is not ideal for traveling, for example when staying in the USA. Here, a Pixel 9 for example, offers significantly more flexibility.
+NetworkingOnePlus 13Wi-Fi 7 iperf3 transmit AXE11000
+
+820 (min: 704) MBit/s ∼73%
+
+iperf3 receive AXE11000
+
+791 (min: 705) MBit/s ∼43%
+
+iperf3 transmit AXE11000 6GHz
+
+1791 (min: 1704) MBit/s ∼97%
+
+iperf3 receive AXE11000 6GHz
+
+1464 (min: 769) MBit/s ∼79%
+
+Oppo Find X8 ProWi-Fi 7 iperf3 transmit AXE11000 6GHz
+
+563 (min: 494) MBit/s ∼30%
+
+iperf3 receive AXE11000 6GHz
+
+1610 (min: 1480) MBit/s ∼87%
+
+Samsung Galaxy S24+Wi-Fi 6E iperf3 transmit AXE11000
+
+859 (min: 401) MBit/s ∼77%
+
+iperf3 receive AXE11000
+
+648 (min: 582) MBit/s ∼35%
+
+iperf3 transmit AXE11000 6GHz
+
+1581 (min: 1247) MBit/s ∼85%
+
+iperf3 receive AXE11000 6GHz
+
+1117 (min: 1031) MBit/s ∼60%
+
+Google Pixel 9Wi-Fi 7 iperf3 transmit AXE11000
+
+955 (min: 739) MBit/s ∼85%
+
+iperf3 receive AXE11000
+
+911 (min: 857) MBit/s ∼49%
+
+iperf3 transmit AXE11000 6GHz
+
+1855 (min: 1826) MBit/s ∼100%
+
+iperf3 receive AXE11000 6GHz
+
+1851 (min: 886) MBit/s ∼100%
+
+OnePlus 12Wi-Fi 7 iperf3 transmit AXE11000
+
+1119 (min: 1086) MBit/s ∼100%
+
+iperf3 receive AXE11000
+
+1857 (min: 1766) MBit/s ∼100%
+
+Average Wi-Fi 7  iperf3 transmit AXE11000
+
+1015 (min: 556) MBit/s ∼91%
+
+iperf3 receive AXE11000
+
+1014 (min: 565) MBit/s ∼55%
+
+iperf3 transmit AXE11000 6GHz
+
+1527 (min: 563) MBit/s ∼82%
+
+iperf3 receive AXE11000 6GHz
+
+1515 (min: 451) MBit/s ∼82%
+
+Average of class Smartphone  iperf3 transmit AXE11000
+
+721 (min: 49.8) MBit/s ∼64%
+
+iperf3 receive AXE11000
+
+720 (min: 52) MBit/s ∼39%
+
+iperf3 transmit AXE11000 6GHz
+
+1412 (min: 521) MBit/s ∼76%
+
+iperf3 receive AXE11000 6GHz
+
+1396 (min: 451) MBit/s ∼75%
+
+0501001502002503003504004505005506006507007508008509009501000105011001150120012501300135014001450150015501600165017001750180018501900TooltipOnePlus 13 Wi-Fi 7; iperf3 transmit AXE11000 6GHz; iperf 3.1.3: Ø1791 (1704-1904) OnePlus 13 Wi-Fi 7; iperf3 receive AXE11000 6GHz; iperf 3.1.3: Ø1437 (769-1573) OnePlus 13 Wi-Fi 7; iperf3 transmit AXE11000; iperf 3.1.3: Ø820 (704-911) OnePlus 12 Wi-Fi 7; iperf3 transmit AXE11000; iperf 3.1.3: Ø1117 (1086-1176) OnePlus 13 Wi-Fi 7; iperf3 receive AXE11000; iperf 3.1.3: Ø790 (705-871) OnePlus 12 Wi-Fi 7; iperf3 receive AXE11000; iperf 3.1.3: Ø1857 (1766-1917)
+
+Localization in the building
+Outdoor localizationIn order to assess the phone's positioning accuracy via satellites, we allow ourselves a short bike ride and take the Garmin Venu 2 with us as a comparison device. The OnePlus 13's positioning is determined using dual-band GNSS. We were able to get a fix on the satellite very quickly and the GNSS module is also extremely precise inside buildings.
+The high-end phone proved to be very accurate in the route of our practical test; even in curves or when changing direction, we could only detect marginal inaccuracies. This means that the OnePlus 13 can also be recommended for demanding navigation tasks without hesitation.
+OnePlus 13 vs. Garmin Venu 2
+Phone functions and voice quality: OnePlus flagship without an eSIM for global variantsDefault dialer
+Phone settingsIn addition to a nano SIM card, the OnePlus 13 supports calls via Wi-Fi (VoWiFi) and LTE (VoLTE) networks. If you are importing this flagship cell phone, it must be borne in mind that users outside of China cannot integrate an eSIM into the system.
+This shouldn't be a problem with the global version, as was the case with the OnePlus 12. Dual eSIM support, like a Pixel 9 Pro will probably not be on board here either.
+Four microphones are installed for phone calls, which transmit voice clearly and comprehensibly to the other party. The AI noise suppression also works satisfactorily. Cameras: OnePlus 13 uses Sony sensorsSelfie with the OnePlus 13The front of the OnePlus 13 is adorned with a 32 MP camera, which works without pixel binning and with a fixed focus. The selfie shots are appealing nevertheless, provided there is enough light for the image sensor. The 4K60 option for videos is not really a special feature but is worth a positive mention.
+A triple camera is used on the back, which is led by a 50 MP sensor from Sony. Although the Sony LYT-808 is not huge with its 1/1.4-inch format, it shines in our test photos with a strong dynamic range and good sharpness.
+Even at the edges, the blurring is only moderate. It is somewhat noticeable that the photos are always on the verge of overexposure. The OnePlus 13 loses points in low light. Here, the blurring is a little too strong for our taste. 0,6x
+1x
+2x
+3x
+6x
+10x
+120xThe OnePlus 13 shines when it comes to ultra wide-angle photos. The ultra wide-angle lens that includes a macro function has an appealing sharpness and little distortion. However, due to the susceptibility to lens flare, use of the 15 mm lens in strong backlighting should be avoided.
+The quality of the third 50 MP camera in the group, which is responsible for telephoto photos with a lossless 3x magnification, is somewhat lower. The periscope lens based on the Sony LYT-600 captures many details up to a 6x zoom, but the images appear blurred and artificial at higher zoom levels.
+Videos can be recorded in 8K30 and 4K60, and Dolby Vision is also supported at 60 frames per second. Slow motion is only possible at up to 240 fps at 1080p. We miss the 4K120 option found in the predecessor.OnePlus 13: Camera modes
+Quick camera settings
+Camera settings
+Master mode
+Image ComparisonChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.Wide angleWide angleLow lightUltra-wide5x Zoomclick to load imagesOnePlus 13Samsung Galaxy S24Apple iPhone 16 Pro MaxCanon EOS 90D0.2x2 MPixel4 Mpixel1xclick to load imagesOnePlus 13Samsung Galaxy S24Apple iPhone 16 Pro MaxCanon EOS 90D0.2x2 MPixel4 Mpixel1xclick to load imagesOnePlus 13Samsung Galaxy S24Apple iPhone 16 Pro MaxCanon EOS 90D0.2x2 MPixel4 Mpixel1xclick to load imagesOnePlus 13Samsung Galaxy S24Apple iPhone 16 Pro MaxCanon EOS 90D0.2x2 MPixel4 Mpixel1xclick to load imagesOnePlus 13Samsung Galaxy S24Apple iPhone 16 Pro MaxCanon EOS 90D0.2x2 MPixel4 Mpixel1x
+
+Under controlled lighting conditions, we analyze the color representation of the Sony main camera in comparison to the actual reference colors.
+
+The 50 MP sensor reveals brightening and oversaturation in the ColorChecker Passport, especially in the green tones and cyan. The OnePlus 13 hardly shows any outliers in color fidelity (DeltaE>10) in perfect lighting.
+7.9 ∆E1.1 ∆E4.4 ∆E11.1 ∆E5.6 ∆E3.4 ∆E2.7 ∆E6.5 ∆E4.6 ∆E4.6 ∆E5 ∆E2.5 ∆E5.7 ∆E7.9 ∆E6.2 ∆E2.4 ∆E3 ∆E8.9 ∆E6.7 ∆E1.7 ∆E4.1 ∆E5.8 ∆E2.6 ∆E1.4 ∆EColorChecker OnePlus 13: 4.83 ∆E min: 1.13 - max: 11.05 ∆E27.7 ∆E44.4 ∆E33.9 ∆E33.4 ∆E37.8 ∆E50.7 ∆E43.5 ∆E27.8 ∆E31.7 ∆E26.7 ∆E51.7 ∆E52.5 ∆E24.8 ∆E39.6 ∆E27.9 ∆E52.5 ∆E33.8 ∆E36 ∆E52.3 ∆E54.7 ∆E44.7 ∆E34.8 ∆E23.3 ∆E13.3 ∆EColorChecker OnePlus 13: 37.47 ∆E min: 13.35 - max: 54.66 ∆E
+
+OnePlus 13OnePlus 13
+
+Accessories and Warranty: OnePlus offers a 100 W power adapterOnePlus 13: 100 W SuperVOOC adapterThe scope of delivery includes a 100 W SuperVOOC fast-charging power adapter, a protective cover, a data or charging cable (USB-C to USB-C), a SIM pin, and a quick start guide.
+
+A protective film is also installed on the screen ex-works. Our loaner Trading Shenzhen adds an EU adapter for the charger and a USB OTG adapter to the scope of delivery of our China version.
+
+Our imported device has a warranty of 12 months. In the event of a warranty claim, Trading Shenzhen offers the option of sending the smartphone to a German shipping address.Input devices and operation: Ultrasonic fingerprint reader debutThe capacitive touchscreen reacts quickly, and animations are displayed very smoothly thanks to the 120 Hz refresh rate. Input with gloves made of natural fibers, such as cotton or wool, with a thickness of up to 5 mm is also supported.
+However, thicker polyester gloves also worked in our test. There is also a further development of the company's own Aqua Touch technology, called RainTouch, which allows panel to be used even when wet. A linear electric motor (x-axis) is responsible for vibrations. This provides crisp haptic feedback.
+A biometric unlocking option is made possible via a face unlock function using the 32 MP cameras in 2D mode. A fingerprint sensor is also integrated into the OLED display.
+What is new, however, is that this is an ultrasound-based process that recognizes our finger very reliably and quickly; OnePlus speaks of 110 ms. The positioning is also very good. OnePlus 13: Default keyboard
+
+▶ load Youtube video
+
+Display: LTPO 2.0 AMOLED with Dolby VisionThe OLED display is based on an RG/BG sub-pixel matrix consisting of one red, one blue, and one green LED eachThe 6.82-inch AMOLED display has a QHD+ resolution and therefore delivers a very good image sharpness of over 500 ppi. The LTPO 2.0 panel automatically adjusts the refresh rate between 1 and 120 Hz depending on the content.
+
+The screen of the Oneplus 13 is not only very sharp and fast but also has High Visibility certification and Smart Eye Protection 4.0 certification from TÜV Rheinland.
+
+The brightness of the panel is nearly 1,200 cd/m² in the pure white display with the ambient light sensor activated, which is quite high.
+
+The usual effect of OLEDs, a much more pronounced luminosity in the APL18 pattern, is hardly noticeable on the OnePlus 13. We measured the same value here as with a white background.
+
+In our measurement, the OnePlus 13 achieves the maximum display brightness of 1,687 cd/m² with HDR video material, which is within the range of the manufacturer's HBM specifications. Where the officially advertised 4,500 nits of peak brightness is supposed to be possible remains unclear.
+
+1165cd/m²1169cd/m²1154cd/m²1150cd/m²1155cd/m²1147cd/m²1145cd/m²1154cd/m²1152cd/m²
+
+Distribution of brightnesstested with X-Rite i1Pro 3Maximum: 1169 cd/m² (Nits) Average: 1154.6 cd/m² Minimum: 1.86 cd/m²Brightness Distribution: 98 %Center on Battery: 1155 cd/m²Contrast: ∞:1 (Black: 0 cd/m²)ΔE Color 1 | 0.5-29.43 Ø4.85ΔE Greyscale 1.6 | 0.09-98 Ø5.199.6% sRGB (Calman 2D)Gamma: 2.3
+
+OnePlus 13AMOLED, 3168x1440, 6.8"Oppo Find X8 ProAMOLED, 2780x1264, 6.8"Samsung Galaxy S24+AMOLED, 3120x1440, 6.7"Google Pixel 9OLED, 2424x1080, 6.3"OnePlus 12AMOLED, 3168x1440, 6.8"Screen6%-62%27%-31%Brightness middle11551167 1%1358 18%2063 79%1026 -11%Brightness11551160 0%1358 18%1914 66%991 -14%Brightness Distribution9898 0%92 -6%84 -14%91 -7%Black Level *Colorchecker dE 2000 *10.87 13%3 -200%0.7 30%1.19 -19%Colorchecker dE 2000 max. *1.81.64 9%4.4 -144%2.2 -22%3.3 -83%Greyscale dE 2000 *1.61.4 12%2.5 -56%1.2 25%2.4 -50%Gamma2.3 96%2.311 95%1.98 111%2.23 99%2.24 98%CCT6503 100%6426 101%6656 98%6524 100%6920 94%Color Space (Percent of sRGB)99.5* ... smaller is better
+
+OLED technology currently allows the screen brightness to be controlled via pulse-width modulation (PWM) and DC dimming. For the OnePlus 13, we measured a DC dimming frequency of 120 Hz with an amplitude of 22% for the screen flickering with our Rigol oscilloscope.
+
+However, the PWM determined with the oscilloscope is at a very high frequency of over 4,000 Hz. This means that health problems caused by the flickering of the panel should be limited, even for sensitive people.
+Screen Flickering / PWM (Pulse-Width Modulation)ℹTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.Screen flickering / PWM detected 120 HzAmplitude: 21.9 %Secondary Frequency: 4166 HzThe display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) . The frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.In comparison: 53 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 8414 (minimum: 5 - maximum: 343500) Hz was measured.
+
+min.
+25 %
+50 %
+75 %
+100 %Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)The setting options for the display under ColorOS are not very extensive, but the provided three color profiles and the option to adjust the color temperature should be completely sufficient for most users.
+
+We examine the deviations in the calibration of the AMOLED panel using the Calman Ultimate analysis software from Portrait Displays.
+
+In the "Pro" profile, the sRGB color space is controlled and almost completely covered. Differences in the individual colors are not discernible, as our measured DeltaE values are very low. ColorChecker (Profile: Pro | Standard, target color space: sRGB)
+Colorspace (Profile: Pro | Standard, target color space: sRGB)
+Grayscale (Profile: Pro | Standard, target color space: sRGB)
+Saturation Sweeps (Profile: Pro | Standard, target color space: sRGB)
+Display Response TimesℹDisplay response times show how fast the screen is able to change from one color to the next. Slow response times can lead to afterimages and can cause moving objects to appear blurry (ghosting). Gamers of fast-paced 3D titles should pay special attention to fast response times.   ↔    Response Time Black to White1.13 ms ... rise ↗ and fall ↘ combined↗ 0.581 ms rise↘ 0.545 ms fallThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 4 % of all devices are better.This means that the measured response time is better than the average of all tested devices (20.6 ms).   ↔    Response Time 50% Grey to 80% Grey3.6 ms ... rise ↗ and fall ↘ combined↗ 1.482 ms rise↘ 2.117 ms fallThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 12 % of all devices are better.This means that the measured response time is better than the average of all tested devices (32.3 ms).
+
+The viewing angle stability of the OLED panel is very appealing. Only the brightness drops slightly at flat viewing angles. The OnePlus 13 is also easy to read outdoors, but reflections on the reflective surface of the display glass can somewhat impair readability.
+
+The brightness levels are sufficient even for midsummer conditions, but the competition, such as the Galaxy S24+, shines much brighter in our practical APL test.
+Performance: Snapdragon 8 Elite tops the chartsPerformance deficits are something that the OnePlus 13 does not have to worry about for many years. The Snapdragon 8 Elite offers so much power with its Oryon performance cores and a peak clock of 4.32 GHz that even an Apple A18 Pro looks old in the Geekbench multi-core tests.
+
+The Snapdragon 8 Elite clearly beats the Dimensity 9400 in the Find X8 Pro, which illustrates the OnePlus 13's high performance in single-core. However, the Qualcomm chipset performs less than ideally in AI benchmarks.
+Geekbench 6.4 | Geekbench 5.5 | Antutu v10 | PCMark for Android | CrossMark | BaseMark OS II | UL Procyon AI Inference for Android | AImark | Geekbench AI | AI Benchmark Geekbench 6.4
+Single-CoreOnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+3087 Points Average Qualcomm Snapdragon 8 Elite  (2309 - 3228, n=18)
+
+3028 Points -2%Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+2605 Points -16%OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+2148 Points -30%Samsung Galaxy S24+Samsung Exynos 2400, Xclipse 940, 12288
+2066 Points -33%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+1798 Points -42%Average of class Smartphone  (196 - 3479, n=205, last 2 years)
+
+1558 Points -50% Multi-CoreOnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+9369 Points Average Qualcomm Snapdragon 8 Elite  (7784 - 10401, n=18)
+
+9207 Points -2%Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+7480 Points -20%OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+6630 Points -29%Samsung Galaxy S24+Samsung Exynos 2400, Xclipse 940, 12288
+6534 Points -30%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+4501 Points -52%Average of class Smartphone  (830 - 10401, n=205, last 2 years)
+
+4452 Points -52%Geekbench 5.5
+Single-CoreAverage Qualcomm Snapdragon 8 Elite  (2099 - 2276, n=10)
+
+2198 Points 0%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+2192 Points Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+1838 Points -16%OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+1672 Points -24%Samsung Galaxy S24+Samsung Exynos 2400, Xclipse 940, 12288
+1567 Points -29%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+1423 Points -35%Average of class Smartphone  (145 - 2437, n=158, last 2 years)
+
+1109 Points -49% Multi-CoreAverage Qualcomm Snapdragon 8 Elite  (6384 - 8816, n=10)
+
+7583 Points +12%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+6789 Points OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+6088 Points -10%Samsung Galaxy S24+Samsung Exynos 2400, Xclipse 940, 12288
+5871 Points -14%Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+5870 Points -14%Average of class Smartphone  (550 - 8816, n=158, last 2 years)
+
+3755 Points -45%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+3563 Points -48%Antutu v10 - Total Score
+OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+2762122 Points Average Qualcomm Snapdragon 8 Elite  (2340778 - 3015111, n=14)
+
+2688292 Points -3%Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+2374537 Points -14%OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+2005881 Points -27%Samsung Galaxy S24+Samsung Exynos 2400, Xclipse 940, 12288
+1777871 Points -36%Average of class Smartphone  (142748 - 3015111, n=139, last 2 years)
+
+1309762 Points -53%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+1022007 Points -63%PCMark for Android - Work 3.0
+Average Qualcomm Snapdragon 8 Elite  (14862 - 27169, n=16)
+
+21037 Points +6%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+19793 Points Samsung Galaxy S24+Samsung Exynos 2400, Xclipse 940, 12288
+17534 Points -11%OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+15690 Points -21%Average of class Smartphone  (4507 - 27169, n=192, last 2 years)
+
+14069 Points -29%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+13948 Points -30%Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+12314 Points -38%CrossMark - Overall
+OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+2485 Points Average Qualcomm Snapdragon 8 Elite  (1153 - 2674, n=12)
+
+1991 Points -20%OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+1304 Points -48%Samsung Galaxy S24+Samsung Exynos 2400, Xclipse 940, 12288
+1290 Points -48%Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+1145 Points -54%Average of class Smartphone  (187 - 2674, n=152, last 2 years)
+
+1000 Points -60%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+951 Points -62%BaseMark OS II
+OverallAverage Qualcomm Snapdragon 8 Elite  (8334 - 14066, n=13)
+
+11183 Points +2%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+10937 Points Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+10697 Points -2%OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+10522 Points -4%Samsung Galaxy S24+Samsung Exynos 2400, Xclipse 940, 12288
+9467 Points -13%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+6894 Points -37%Average of class Smartphone  (1196 - 14066, n=153, last 2 years)
+
+6851 Points -37% SystemAverage Qualcomm Snapdragon 8 Elite  (10849 - 20776, n=13)
+
+15673 Points +12%Samsung Galaxy S24+Samsung Exynos 2400, Xclipse 940, 12288
+15253 Points +9%OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+14531 Points +4%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+14039 Points Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+12891 Points -8%Average of class Smartphone  (2368 - 20776, n=153, last 2 years)
+
+10732 Points -24%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+7593 Points -46% MemoryAverage Qualcomm Snapdragon 8 Elite  (7263 - 20572, n=13)
+
+13330 Points +16%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+11536 Points OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+11357 Points -2%Samsung Galaxy S24+Samsung Exynos 2400, Xclipse 940, 12288
+10178 Points -12%Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+9432 Points -18%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+8573 Points -26%Average of class Smartphone  (962 - 20572, n=153, last 2 years)
+
+7616 Points -34% GraphicsOppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+56004 Points +28%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+43637 Points Average Qualcomm Snapdragon 8 Elite  (35527 - 51041, n=13)
+
+41778 Points -4%OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+38959 Points -11%Samsung Galaxy S24+Samsung Exynos 2400, Xclipse 940, 12288
+25796 Points -41%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+20938 Points -52%Average of class Smartphone  (1046 - 58651, n=153, last 2 years)
+
+19501 Points -55% WebOnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+2091 Points Samsung Galaxy S24+Samsung Exynos 2400, Xclipse 940, 12288
+1998 Points -4%Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+1923 Points -8%OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+1907 Points -9%Average Qualcomm Snapdragon 8 Elite  (1202 - 2363, n=13)
+
+1875 Points -10%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+1648 Points -21%Average of class Smartphone  (858 - 2363, n=153, last 2 years)
+
+1620 Points -23%UL Procyon AI Inference for Android - Overall Score NNAPI
+Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+75143 Points +230%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+35227 Points +55%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+22767 Points OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+18127 Points -20%Average of class Smartphone  (1267 - 81594, n=146, last 2 years)
+
+17718 Points -22%Average Qualcomm Snapdragon 8 Elite  (8865 - 22767, n=12)
+
+17127 Points -25%Samsung Galaxy S24+Samsung Exynos 2400, Xclipse 940, 12288
+11342 Points -50%AImark - Score v3.x
+Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+51509 Points +2499%Average of class Smartphone  (82 - 307528, n=134, last 2 years)
+
+27629 Points +1294%Average Qualcomm Snapdragon 8 Elite  (787 - 307528, n=12)
+
+27152 Points +1270%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+1982 Points OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+1473 Points -26%Samsung Galaxy S24+Samsung Exynos 2400, Xclipse 940, 12288
+1121 Points -43%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+871 Points -56%Geekbench AI
+Single Precision TensorFlow NNAPI 1.1Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+1368 Points +412%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+771 Points +189%Average of class Smartphone  (122 - 4122, n=43, last 2 years)
+
+591 Points +121%Average Qualcomm Snapdragon 8 Elite  (267 - 754, n=5)
+
+535 Points +100%OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+488 Points +83%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+267 Points Half Precision TensorFlow NNAPI 1.1Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+9283 Points +3325%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+4666 Points +1622%Average of class Smartphone  (122 - 32120, n=43, last 2 years)
+
+2213 Points +717%Average Qualcomm Snapdragon 8 Elite  (271 - 755, n=5)
+
+523 Points +93%OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+487 Points +80%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+271 Points Quantized TensorFlow NNAPI 1.1Oppo Find X8 ProMediatek Dimensity 9400, Immortalis-G925 MC12, 16384
+12709 Points +1883%Google Pixel 9Google Tensor G4, Mali-G715 MP7, 12288
+6451 Points +906%Average of class Smartphone  (118 - 44381, n=43, last 2 years)
+
+3296 Points +414%Average Qualcomm Snapdragon 8 Elite  (641 - 1765, n=5)
+
+1219 Points +90%OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+1128 Points +76%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+641 Points AI Benchmark
+Score V5OnePlus 12Qualcomm Snapdragon 8 Gen 3, Adreno 750, 16384
+3219 Points Average of class Smartphone  (46.4 - 3219, n=37, last 2 years)
+
+908 Points Average Qualcomm Snapdragon 8 Elite  (137 - 287, n=4)
+
+234 Points Score V6Average Qualcomm Snapdragon 8 Elite  (302 - 12784, n=12)
+
+7937 Points +981%Average of class Smartphone  (68.9 - 12578, n=48, last 2 years)
+
+4179 Points +469%OnePlus 13Qualcomm Snapdragon 8 Elite, Adreno 830, 16384
+734 Points
+
+The graphics calculations are performed by the integrated Adreno 830, which also performs extremely well in the benchmarks. Especially in the demanding GFXBench tier tests, the OnePlus 13 is able to better flex its muscles compared to an Immortalis G925.
+
+The scores themselves are sometimes higher than those of the Qualcomm's reference numbers, which is interesting.
+3DMark: Wild Life Extreme Unlimited | Wild Life Extreme | Wild Life Unlimited Score | Solar Bay Score | Solar Bay Unlimited Score | Steel Nomad Light Unlimited Score | Steel Nomad Light Score GFXBench (DX / GLBenchmark) 2.7: T-Rex Onscreen | 1920x1080 T-Rex Offscreen GFXBench 3.0: on screen Manhattan Onscreen OGL | 1920x1080 1080p Manhattan Offscreen GFXBench 3.1: on screen Manhattan ES 3.1 Onscreen | 1920x1080 Manhattan ES 3.1 Offscreen GFXBench: on screen Car Chase Onscreen | 1920x1080 Car Chase Offscreen | on screen Aztec Ruins High Tier Onscreen | 2560x1440 Aztec Ruins High Tier Offscreen | on screen Aztec Ruins Normal Tier Onscreen | 1920x1080 Aztec Ruins Normal Tier Offscreen | 3840x2160 4K Aztec Ruins High Tier Offscreen 3DMark / Wild Life Extreme Unlimited
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+6789 Points Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+5383 Points -21%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+4331 Points -36%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+4235 Points -38%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+2601 Points -62%3DMark / Wild Life Extreme
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+6754 Points Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+6303 Points -7%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+4444 Points -34%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+4256 Points -37%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+2567 Points -62%3DMark / Wild Life Unlimited Score
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+25785 Points OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+17681 Points -31%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+13098 Points -49%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+8998 Points -65%3DMark / Solar Bay Score
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+11821 Points Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+9461 Points -20%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+8774 Points -26%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+8237 Points -30%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+Points -100%3DMark / Solar Bay Unlimited Score
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+11879 Points Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+9553 Points -20%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+8765 Points -26%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+8017 Points -33%3DMark / Steel Nomad Light Unlimited Score
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+2567 Points Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+1998 Points -22%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+1598 Points -38%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+1023 Points -60%3DMark / Steel Nomad Light Score
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+2599 Points Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+2054 Points -21%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+1667 Points -36%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+1083 Points -58%GFXBench (DX / GLBenchmark) 2.7 / T-Rex Onscreen
+Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+120 fps +100%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+119 fps +98%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+60 fps 0%Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+60 fps 0%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+60 fps GFXBench (DX / GLBenchmark) 2.7 / T-Rex Offscreen
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+768 fps Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+744 fps -3%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+539 fps -30%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+419 fps -45%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+378 fps -51%GFXBench 3.0 / Manhattan Onscreen OGL
+Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+120 fps +100%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+119 fps +98%Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+64 fps +7%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+60 fps 0%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+60 fps GFXBench 3.0 / 1080p Manhattan Offscreen
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+502 fps Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+469 fps -7%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+310 fps -38%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+294 fps -41%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+257 fps -49%GFXBench 3.1 / Manhattan ES 3.1 Onscreen
+Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+119 fps +98%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+119 fps +98%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+60 fps 0%Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+60 fps 0%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+60 fps GFXBench 3.1 / Manhattan ES 3.1 Offscreen
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+365 fps Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+341 fps -7%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+244 fps -33%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+231 fps -37%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+167 fps -54%GFXBench / Car Chase Onscreen
+Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+75 fps +25%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+68 fps +13%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+60 fps 0%Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+60 fps 0%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+60 fps GFXBench / Car Chase Offscreen
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+214 fps Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+172 fps -20%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+147 fps -31%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+139 fps -35%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+80 fps -63%GFXBench / Aztec Ruins High Tier Onscreen
+Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+68 fps +13%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+66 fps +10%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+60 fps 0%Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+60 fps 0%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+60 fps GFXBench / Aztec Ruins High Tier Offscreen
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+115 fps Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+98 fps -15%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+78 fps -32%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+75 fps -35%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+40 fps -65%GFXBench / Aztec Ruins Normal Tier Onscreen
+Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+100 fps +67%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+83 fps +38%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+60 fps 0%Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+60 fps 0%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+60 fps GFXBench / Aztec Ruins Normal Tier Offscreen
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+321 fps Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+247 fps -23%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+188 fps -41%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+176 fps -45%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+108 fps -66%GFXBench / 4K Aztec Ruins High Tier Offscreen
+OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+52 fps Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+41 fps -21%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+35 fps -33%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+34 fps -35%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+19 fps -63%
+
+The OnePlus 13 delivers excellent results in the browser tests and offers very good performance for everyday use. There are no perceivable delays when scrolling or accessing complex websites.
+Jetstream 2 | Speedometer 2.0 | Speedometer 3.0 | WebXPRT 4 | Octane V2 | Mozilla Kraken 1.1 Jetstream 2 - 2.0 Total Score
+OnePlus 13 (Chrome 131)
+238.78 Points Average Qualcomm Snapdragon 8 Elite (89.7 - 289, n=13)
+
+222 Points -7%Oppo Find X8 Pro (Chrome 131)
+215.998 Points -10%OnePlus 12 (Chrome 126)
+215.5 Points -10%Samsung Galaxy S24+ (Chrome 121)
+139.087 Points -42%Average of class Smartphone (13.8 - 387, n=159, last 2 years)
+
+138.9 Points -42%Google Pixel 9 (Chrome 129)
+107.467 Points -55%Speedometer 2.0 - Result
+Average Qualcomm Snapdragon 8 Elite (244 - 419, n=6)
+
+362 runs/min OnePlus 12 (Chrome 126)
+289 runs/min Oppo Find X8 Pro (Chrome 131)
+269 runs/min Samsung Galaxy S24+ (Chrome 121)
+260 runs/min Google Pixel 9 (Chrome 129)
+185 runs/min Average of class Smartphone (15.2 - 569, n=141, last 2 years)
+
+171.1 runs/min Speedometer 3.0 - Score
+OnePlus 13 (Chrome 131)
+31.6 runs/min Average Qualcomm Snapdragon 8 Elite (15.3 - 34, n=11)
+
+24.2 runs/min -23%Oppo Find X8 Pro (Chrome 131)
+16.3 runs/min -48%OnePlus 12 (Chrome 126)
+14.9 runs/min -53%Google Pixel 9 (Chrome 129)
+14.9 runs/min -53%Average of class Smartphone (1.03 - 34, n=97, last 2 years)
+
+12.5 runs/min -60%WebXPRT 4 - Overall
+OnePlus 13 (Chrome 131)
+235 Points OnePlus 12 (Chrome 126)
+212 Points -10%Average Qualcomm Snapdragon 8 Elite (125 - 255, n=12)
+
+181.9 Points -23%Samsung Galaxy S24+ (Chrome 121)
+176 Points -25%Oppo Find X8 Pro (Chrome 131)
+147 Points -37%Average of class Smartphone (22 - 273, n=153, last 2 years)
+
+129.2 Points -45%Google Pixel 9 (Chrome 129)
+103 Points -56%Octane V2 - Total Score
+OnePlus 13 (Chrome 131)
+92054 Points Average Qualcomm Snapdragon 8 Elite (37943 - 95506, n=15)
+
+76707 Points -17%OnePlus 12 (Chrome 126)
+68223 Points -26%Samsung Galaxy S24+ (Chrome 121)
+63452 Points -31%Oppo Find X8 Pro (Chrome 131)
+60987 Points -34%Google Pixel 9
+56737 Points -38%Average of class Smartphone (2228 - 100368, n=204, last 2 years)
+
+43269 Points -53%Mozilla Kraken 1.1 - Total
+Average of class Smartphone (277 - 28190, n=162, last 2 years)
+
+1356 ms * -213%Google Pixel 9 (Chrome 129)
+744.57 ms * -72%Samsung Galaxy S24+ (Chrome 121)
+630.8 ms * -46%Oppo Find X8 Pro (Chrome 131)
+625.4 ms * -45%OnePlus 12 (Chrome 126)
+624.1 ms * -44%Average Qualcomm Snapdragon 8 Elite (383 - 873, n=13)
+
+531 ms * -23%OnePlus 13 (Chrome 131)
+432.7 ms * * ... smaller is better
+
+In terms of speed, the UFS 4.0 memory offers strong performance. Whether reading or writing to disk, the values of the OnePlus 13 are at an absolute high-end level. However, there is still some room for improvement when processing smaller data blocks.
+OnePlus 13Oppo Find X8 ProSamsung Galaxy S24+Google Pixel 9OnePlus 12Average 512 GB UFS 4.0 FlashAverage of class SmartphoneAndroBench 3-5-16%-29%-50%27%9%-28% Sequential Read 256KB3984.233482.9 -13%2450.9 -38%1584.56 -60%3297.57 -17%3671 ?(1851 - 4512, n=44) -8%2057 ?(270 - 4384, n=188, last 2 years) -48% Sequential Write 256KB3684.363498.5 -5%1523.87 -59%256.48 -93%3246.21 -12%3078 ?(1524 - 4030, n=44) -16%1671 ?(103.2 - 4030, n=188, last 2 years) -55% Random Read 4KB301.29375.7 25%387.42 29%226.41 -25%438.5 46%380 ?(250 - 504, n=44) 26%285 ?(47.6 - 504, n=188, last 2 years) -5% Random Write 4KB344.63100.4 -71%176.19 -49%266.19 -23%652.8 89%464 ?(45.7 - 964, n=44) 35%327 ?(9.4 - 964, n=188, last 2 years) -5%
+
+Gaming: OnePlus 13 is a good choice for gamersThe Snapdragon 8 Elite has plenty of performance to offer, but does this also come into play when gaming? We take a look at the gaming performance with the GameBench app.
+
+OnePlus advertises its flagship with the self-developed Tidal engine, which is supposed to ensure high frame rates in high-resolution scenes. Modern games, such as PUBG Mobile, can be played in low details at 120 fps. However, the highest detail level (UHD) is only possible at the "mandatory" 40 fps.
+
+Our second game, the demanding Genshin Impact, is displayed very consistently at 60 fps in the highest graphics settings. Frame drops are virtually non-existent, although the waste heat could lead to a reduction in the frame rate during very long gaming sessions (see "Emissions" section). PUBG Mobile
+Genshin Impact
+
+0102030405060708090100110120TooltipOnePlus 13; Genshin Impact: Ø60.2 (56-61) OnePlus 13; PUBG Mobile; Smooth: Ø119.1 (103-121) OnePlus 13; PUBG Mobile; HD: Ø59.9 (57-61) OnePlus 13; PUBG Mobile; Ultra HD: Ø38.8 (33-42)
+
+Emissions: Flagship killer stays pretty coolTemperatureThe OnePlus 13 uses the company's own second-generation Tiangong cooling system, consisting of stainless steel vacuum chamber with double-layer 2K graphite.
+
+Measured against the sheer power of the Snapdragon 8 Elite the heat emissions are quite limited — we measured only 46 °C under load.
+
+However, things get interesting in the Wild Life Stress tests of 3DMark. Here, the heat development leads to a high throttling of the system performance of around 50%. A performance reduction in everyday use is therefore not unlikely under prolonged load phases, such as demanding games.
+Max. LoadIdle
+
+ 42.9 °C109 F43.5 °C110 F42.2 °C108 F  43.5 °C110 F44.3 °C112 F41.4 °C107 F  43.7 °C111 F42.8 °C109 F41.8 °C107 F 
+
+Maximum: 44.3 °C = 112 FAverage: 42.9 °C = 109 F
+
+38.6 °C101 F40.7 °C105 F40.4 °C105 F39.4 °C103 F45.2 °C113 F46.1 °C115 F37.4 °C99 F41.8 °C107 F45.6 °C114 F
+
+Maximum: 46.1 °C = 115 FAverage: 41.7 °C = 107 F Power Supply (max.)  27.9 °C = 82 F | Room Temperature 20.4 °C = 69 F | Fluke t3000FC (calibrated) & Voltcraft IR-260Max. LoadIdle
+
+ 28.2 °C83 F28 °C82 F27.6 °C82 F  27.6 °C82 F27.6 °C82 F27.3 °C81 F  27.6 °C82 F27.5 °C82 F27 °C81 F 
+
+Maximum: 28.2 °C = 83 FAverage: 27.6 °C = 82 F
+
+26.7 °C80 F26.8 °C80 F26.6 °C80 F26.7 °C80 F26.7 °C80 F26.7 °C80 F26.6 °C80 F26.6 °C80 F26.9 °C80 F
+
+Maximum: 26.9 °C = 80 FAverage: 26.7 °C = 80 F Power Supply (max.)  24 °C = 75 F | Room Temperature 20.9 °C = 70 F | Voltcraft IR-260(-) The average temperature for the upper side under maximal load is 42.9 °C / 109 F, compared to the average of 32.8 °C / 91 F for the devices in the class Smartphone.(±) The maximum temperature on the upper side is 44.3 °C / 112 F, compared to the average of 35.1 °C / 95 F, ranging from 21.9 to 63.7 °C for the class Smartphone.(-) The bottom heats up to a maximum of 46.1 °C / 115 F, compared to the average of 33.9 °C / 93 F(+) In idle usage, the average temperature for the upper side is 27.6 °C / 82 F, compared to the device average of 32.8 °C / 91 F.
+
+3DMark Steel Nomad Stress Test
+3DMark
+Wild Life Stress Test StabilityOppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+92.3 % +66%Samsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+82.1 % +47%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+78.3 % +41%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+68.5 % +23%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+55.7 % Wild Life Extreme Stress TestSamsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+81.5 % +60%OnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+81.4 % +60%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+71.3 % +40%Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+58 % +14%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+51 % Solar Bay Stress Test StabilitySamsung Galaxy S24+Xclipse 940, Exynos 2400, 512 GB UFS 4.0 Flash
+59.5 % +24%Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+55.5 % +15%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+48.1 % Steel Nomad Light Stress Test StabilityOnePlus 12Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash
+88.1 % +74%Google Pixel 9Mali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+78.5 % +55%Oppo Find X8 ProImmortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash
+61 % +20%OnePlus 13Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+50.7 %
+
+0102030405060708090100110120130TooltipOnePlus 13 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1: Ø26.1 (19.9-39) OnePlus 12 Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1: Ø24.1 (22.9-28.2) OnePlus 13 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0: Ø92.1 (73.8-132.4) OnePlus 12 Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0: Ø84 (79.2-101.1) OnePlus 13 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1: Ø28.1 (19-39.4) OnePlus 13 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3: Ø14.1 (9.52-18.8) OnePlus 12 Adreno 750, SD 8 Gen 3, 512 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.0.0.15: Ø11.3 (11-12.5)
+
+OnePlus 13 heat emissions: Front
+OnePlus 13 heat emissions: RearLoudspeakerThe OnePlus 13 relies on a dual speaker system with a really good playback quality. Even the bass, though not very prominent, is easily perceptible, as our pink noise measurement confirms.
+
+The mids also show a linear frequency curve and only the very high frequencies drop significantly.
+
+If you prefer external devices for sound output, you can use the wired USB-C port or wireless Bluetooth 5.4 but with a limited selection of codecs.
+
+dB(A)
+0102030405060708090Deep BassMiddle BassHigh BassLower RangeMidsHigher MidsLower HighsMid HighsUpper HighsSuper Highs2032.436.12533.832.13117.838.24021.236.15030.438.86324.338.28015.343.810016.843.312514.148.116013.456.820013.157.525013.558.531513.46040011.763.650011.370.963010.371.380010.473.1100012.777.8125011.677160012.778.7200013.879.7250014.380.7315013.782.3400012.683.9500013.480630013.378.7800013.381.51000013.580.41250013.671.8160001464.1SPL25.191.8N0.691.6median 13.4median 77Delta0.78.445.943.940.635.334.832.134.433.837.835.527.728.118.431.421.241.924.44823.653.622.458.819.562.219.866.414.464.812.86914.275.613.173.212.473.110.773.810.875.210.576.511.278.611.779.512.270.811.970.712.177.412.277.212.177.911.859.411.454.12587.80.776.1median 12.2median 73.12.67.5hearing rangehide medianshow median Pink NoiseOnePlus 13Oppo Find X8 ProFrequency diagram (checkboxes can be checked and unchecked to compare devices)OnePlus 13 audio analysis(+) | speakers can play relatively loud (91.8 dB)Bass 100 - 315 Hz(-) | nearly no bass - on average 23% lower than median(+) | bass is linear (4.5% delta to prev. frequency)Mids 400 - 2000 Hz(+) | balanced mids - only 4.3% away from median(+) | mids are linear (4.2% delta to prev. frequency)Highs 2 - 16 kHz(+) | balanced highs - only 4.1% away from median(+) | highs are linear (3% delta to prev. frequency)Overall 100 - 16.000 Hz(±) | linearity of overall sound is average (15.6% difference to median)Compared to same class» 3% of all tested devices in this class were better, 3% similar, 94% worse» The best had a delta of 12%, average was 36%, worst was 134%Compared to all devices tested» 22% of all tested devices were better, 4% similar, 74% worse» The best had a delta of 4%, average was 24%, worst was 134%Oppo Find X8 Pro audio analysis(+) | speakers can play relatively loud (87.8 dB)Bass 100 - 315 Hz(-) | nearly no bass - on average 17.9% lower than median(±) | linearity of bass is average (9.6% delta to prev. frequency)Mids 400 - 2000 Hz(+) | balanced mids - only 2.7% away from median(+) | mids are linear (3.8% delta to prev. frequency)Highs 2 - 16 kHz(+) | balanced highs - only 4.3% away from median(+) | highs are linear (4.5% delta to prev. frequency)Overall 100 - 16.000 Hz(+) | overall sound is linear (13.8% difference to median)Compared to same class» 0% of all tested devices in this class were better, 1% similar, 99% worse» The best had a delta of 12%, average was 36%, worst was 134%Compared to all devices tested» 14% of all tested devices were better, 4% similar, 82% worse» The best had a delta of 4%, average was 24%, worst was 134%
+
+Energy consumption: Wireless charging and promising battery lifePower consumptionAfter Honor had dispensed with the classic Li-ion battery with the Magic6 Pro, Oppo is now following suit with its flagship smartphones in relying on a silicon-carbon-based battery. This promises really good runtimes for the OnePlus 13, in line with what the Find X8 Pro shows.
+The 6,000 mAh battery is charged with a maximum charging capacity of 100 W via USB-C or 50 W wirelessly. MagSafe and Oppo Mag compatibility is new for the OnePlus flagship; the matching Oppo AIRVOOC Wireless Charger costs around €60. In the test, we needed just under 40 minutes to fully charge the OnePlus 13 with the included power adapter.
+The power consumption of the Snapdragon 8 Elite is rather inconspicuous under load. However, at almost 2 W, we still see room for energy savings when the OnePlus 13 is idle.
+Power Consumption
+Off / Standby 0.06 / 0.28 WattIdle 0.86 / 1.74 / 1.85 Watt
+
+Load
+10.69 / 11.92 Watt
+
+ 
+
+Key:
+min: ,
+med: ,
+max:         Metrahit Energy
+
+OnePlus 136000 mAhOppo Find X8 Pro5910 mAhSamsung Galaxy S24+4900 mAhGoogle Pixel 94700 mAhOnePlus 125400 mAhAverage Qualcomm Snapdragon 8 Elite Average of class Smartphone Power Consumption36%30%6%7%14%15%Idle Minimum *0.860.6 30%0.43 50%0.66 23%1.3 -51%0.837 ?(0.49 - 1.5, n=15) 3%0.87 ?(0.4 - 1.65, n=159, last 2 years) -1%Idle Average *1.740.8 54%0.84 52%1.49 14%0.95 45%1.296 ?(0.87 - 2.06, n=15) 26%1.438 ?(0.6 - 6.06, n=159, last 2 years) 17%Idle Maximum *1.850.9 51%0.95 49%1.78 4%1.12 39%1.475 ?(0.94 - 2.2, n=15) 20%1.589 ?(0.85 - 6.07, n=159, last 2 years) 14%Load Average *10.696.8 36%6.76 37%7.44 30%10.55 1%8.62 ?(5.8 - 13, n=13) 19%7.11 ?(2.3 - 16.5, n=150, last 2 years) 33%Load Maximum *11.9210.9 9%16.42 -38%16.64 -40%11.72 2%11.9 ?(8.86 - 19.2, n=13) -0%10.6 ?(3.53 - 20.8, n=150, last 2 years) 11%* ... smaller is better
+
+Leistungsaufnahme: Geekbench (150 cd/m²)
+
+01234567891011TooltipOnePlus 13 Qualcomm Snapdragon 8 Elite; Geekbench 5.5 Power Consumption 150cd: Ø6.08 (0.705-11.9) Oppo Find X8 Pro Mediatek Dimensity 9400; Geekbench 5.5 Power Consumption 150cd: Ø5.9 (0.652-11.1) OnePlus 13 Qualcomm Snapdragon 8 Elite; Idle 150cd/m2: Ø0.621 (0.576-0.765) Oppo Find X8 Pro Mediatek Dimensity 9400; Idle 150cd/m2: Ø0.685 (0.559-0.896)
+
+Leistungsaufnahme: GFXbench (150 cd/m²)
+
+01234567891011TooltipOnePlus 13 Qualcomm Snapdragon 8 Elite; 1920x1080 Aztec Ruins Normal Offscreen: Ø11.3 (8.53-11.9) Oppo Find X8 Pro Mediatek Dimensity 9400; 1920x1080 Aztec Ruins Normal Offscreen: Ø10.6 (10.5-10.8) OnePlus 13 Qualcomm Snapdragon 8 Elite; Idle 150cd/m2: Ø0.621 (0.576-0.765) Oppo Find X8 Pro Mediatek Dimensity 9400; Idle 150cd/m2: Ø0.685 (0.559-0.896)
+
+Battery lifeThe large battery capacity enables the OnePlus 13 to achieve excellent run times in our practical battery tests, which are carried out with an adjusted display brightness of 150 cd/m² and at a QHD+ resolution.
+
+With over 22 hours in the Wi-Fi test and almost 39 hours of continuous video playback with the Wi-Fi module deactivated, most users should be able to achieve a stamina of two days or longer in everyday use.
+
+It is noticeable that the idle value is lower than the video playback runtime, which is why we will run the idle battery test again and adjust it via an update if necessary.
+Battery Runtime
+Idle (without WLAN, min brightness)
+37h 47min
+WiFi Websurfing
+22h 29min
+Big Buck Bunny H.264 1080p
+38h 41min
+Load (maximum brightness)
+4h 01min
+
+OnePlus 136000 mAhOppo Find X8 Pro5910 mAhSamsung Galaxy S24+4900 mAhGoogle Pixel 94700 mAhOnePlus 125400 mAhBattery Runtime20%-25%-24%-14%Reader / Idle22673665 62%2098 -7%1965 -13%H.26423211976 -15%977 -58%1820 -22%WiFi v1.313491411 5%1009 -25%990 -27%1237 -8%Load241309 28%232 -4%
+
+Notebookcheck's overall impressions of the OnePlus 13The OnePlus 13 offers a lot of high-end technology for a comparatively low entry-level price together with great battery run times.
+Back to the verdict
+
+OnePlus 13
+- 12/12/2024 v8
+
+Marcus Herbrich
+Chassis90%
+
+Keyboard67 / 75 → 89%
+
+Pointing Device94%
+
+Connectivity65 / 69 → 94%
+
+Weight88%
+
+Battery93%
+
+Display92%
+
+Games Performance38 / 55 → 70%
+
+Application Performance84 / 85 → 98%
+
+AI Performance42%
+
+Temperature85%
+
+Noise100%
+
+Audio83 / 90 → 92%
+
+Camera84%
+
+Average65%
+
+88%
+
+Smartphone - Weighted Average
+
+CO2 EmissionsNo DataMaterials25%Packaging25%Power Use96.5%Repairability20%Software Updates50% Total Sustainability Score: 36.1%
+
+More articles related to this deviceOnePlus 13 (13 Series)News•Test verdict on the OnePlus 13R: The attractive smartphone partly fails its... |Review•OnePlus 13R review - The smartphone with amazing endurance and a surprising... |News•OnePlus 13: Company confirms update support timeframe and unveils magnetic ... |News•Snapdragon 8 Elite with a performance handicap? Verdict on the OnePlus 13 |News•Camera test: Clear winner in a comparison between the OnePlus 13, Oppo Find... |News•Early OnePlus 13 unboxing confirms flat display and design changes ahead of...
+
+TransparencyThe selection of devices to be reviewed is made by our editorial team. The test sample was provided to the author as a loan by the manufacturer or retailer for the purpose of this review. The lender had no influence on this review, nor did the manufacturer receive a copy of this review before publication. There was no obligation to publish this review. We never accept compensation or payment in return for our reviews. As an independent media company, Notebookcheck is not subjected to the authority of manufacturers, retailers or publishers.This is how Notebookcheck is testingEvery year, Notebookcheck independently reviews hundreds of laptops and smartphones using standardized procedures to ensure that all results are comparable. We have continuously developed our test methods for around 20 years and set industry standards in the process. In our test labs, high-quality measuring equipment is utilized by experienced technicians and editors. These tests involve a multi-stage validation process. Our complex rating system is based on hundreds of well-founded measurements and benchmarks, which maintains objectivity. Further information on our test methods can be found here.
+
+Read all 10 comments / answer static version load dynamicLoading Comments
+Comment on this article
+
+Editor of the original article: Marcus Herbrich - Senior Tech Writer - 511 articles published on Notebookcheck since 2016I have always been very passionately interested in mobile technologies, especially smartphones. Being a tech enthusiast means the half-life of my devices isn’t exactly long, and being the latest hardware is not enough to suffice as the manufacturer and operating system play a minor role – the most important aspect for me is that the device is state-of-the-art. After posting for Mobi Test I joined Notebookcheck in 2016, where I have been pursuing my enthusiasm for technology by reviewing the latest smartphone, tablet, and accessory trends.contact me via:
+
+@Marcus_HerbrichTranslator: Ninh Ngoc Duy - Editorial Assistant - 549982 articles published on Notebookcheck since 2008My main responsibility as an editorial assistant is maintaining the Library section, which aggregates reviews from other publications and channels. In addition, my daily breakfast is Notebookcheck's long list of new content, which I comb through to select the most interesting topics for translation from English to French, Italian, Spanish, Portuguese, and Dutch."contact me via:
+
+Facebook
+Please share our article, every link counts!

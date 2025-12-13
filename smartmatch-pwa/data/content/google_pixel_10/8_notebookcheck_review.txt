@@ -1,0 +1,532 @@
+Verdict on the Google Pixel 10 ProThe Google Pixel 10 Pro presents itself as a high-quality, compact flagship smartphone with Gorilla Glass Victus 2, an aluminum frame, and an IP68 certification. The features are comprehensive but not flawless. Although the smartphone adheres to current standards such as Bluetooth 6.0, UWB, NFC, Wi-Fi 7, and the new "Pixelsnap" magnet, the USB port remains limited for file systems and storage options are sometimes inconsistent — UFS 4.0 is missing even on more expensive models.The Pixel 10 Pro is particularly strong when it comes to software and AI functionality. Android 16 comes with seven years of updates, Gemini features, and live translations. However, the latter still seems immature and often delivers incorrect results.
+Download your licensed rating image as SVG / PNG
+very good (89%)
+Google Pixel 10 Pro
+Google Tensor G5IMG DXT-48-1536
+Smartphone - 09/30/2025 - v8
+Download your licensed rating image as PNG / SVG
+The display impresses with its high brightness and good color reproduction, but suffers from PWM flickering, which does not offer any reprieve to sensitive users despite the 480 Hz option. In terms of performance, the Tensor G5 lags behind the competition. Everyday performance is smooth, but benchmarks and gaming tests show clear deficits. Gamers in particular have to live with falling frame rates and a lack of ray tracing.The camera delivers versatile and very good results overall, but it reaches its limits when it comes to details, dynamic range, and low-light quality. The AI works unreliably at times, particularly when zooming, especially with fonts or moving subjects. Nevertheless, it is certainly one of the best setups in a smartphone.
+Pros+ very good workmanship
++ great camera setup
++ practical pixel snap
++ long battery life
++ IP68 certified
++ 7 years of updatesCons- low PWM frequency at minimum brightness
+- only little memory in the cheapest version
+- old UFS 3.1 memory
+- weak GNSS in buildings
+- no dual eSIM
+Price and availabilityThe Pixel 10 Pro is available directly from Google and also from all major retailers such as MediaMarkt and Amazon DE.The smartphone is also available on Amazon US for $1,099.
+$1,099.00Google Pixel 10 Pro - Unlocked Android Smartphone - Gemini AI Assistant, Triple Rear Camera System, Fast-Charging 24+ Hour Battery, and 6.3" Super Actua Display - Jade - 256 GB (2025 Model)
+Table of ContentsVerdict on the Google Pixel 10 ProSpecifications: Google Pixel 10 ProBuild: Pixel 10 Pro comes in four colorsFeatures: Now with PixelsnapSoftware: Seven years of updates for the Pixel 10 ProCommunication and GNSS: Wi-Fi 7 and dual-band GNSSPhone functions and voice quality: Pixel 10 Pro with dual SIMCameras: Powerful triple shooters in the Pixel 10 ProAccessories and Warranty: Pixel Care+ only in the USAInput devices and Operation: Ultrasonic fingerprint reader in the Pixel phoneDisplay: Pixel 10 Pro offers a bright LTPO OLEDPerformance: Tensor G5 lags behind the competitionGames: Work up a sweat quicklyEmissions - Pixel cell phone with AuracastBattery life: 4,870 mAh in the Google Pixel 10 ProNotebookcheck's overall impressions of the Google Pixel 10 ProPotential competitors in comparison
+The Google Pixel 10 Pro follows on from the Pixel 9 Pro and brings improvements in the areas of performance, connectivity, and AI functions in particular. The PWM frequency of the display is optionally doubled and there are innovations in aspects of battery charging as well.The Pixel 10 Pro is available in four storage configurations: 128 GB (€1,099), 256 GB (€1,199), 512 GB (€1,329), and 1 TB (€1,589). However, not all storage options are available in all color variants.
+Specifications: Google Pixel 10 Pro
+Google Pixel 10 Pro (Pixel 10 Series)ProcessorGoogle Tensor G5 8 x 2.3 - 3.8 GHz, LagunaGraphics adapterIMG DXT-48-1536Memory16 GB  , LPDDR5xDisplay6.30 inch 20:9, 2856 x 1280 pixel 497 PPI, Capacitive touchscreen, OLED, LTPO (1 - 120 Hz), Corning Gorilla Glass Victus 2, glossy: yes, 120 HzStorage256 GB UFS 4.0 Flash, 256 GB  , 232 GB freeConnections1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, barometer, thermometer, OTG, UWB, Thread, Titan M2Networking802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850, 900, 1800, 1900 MHz), 3G (Band 1, 2, 4, 5, 8), LTE (Band 1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 38, 39, 40, 41, 42, 48, 66, 71, 75), 5G-Sub6 (Band 1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 30, 38, 40, 41, 66, 71, 75, 76, 77, 78, 79), NB-IoT (Band 23, 255, 256), Dual SIM, LTE, 5G, GPSSizeheight x width x depth (in mm): 8.6 x 152.8 x 72 ( = 0.34 x 6.02 x 2.83 in)Battery4870 mAh Lithium-PolymerChargingwireless charging, fast charging / QuickchargeOperating SystemAndroid 16CameraPrimary Camera: 50 MPix (f/1.68, 24 mm, 1/1.3", OIS) + 48 MPix (5x optical zoom, f/2.8, 110 mm, 1/2.55", OIS) + 48 MPix (Ultra Wide / Macro, f/1.7, 12mm, 1/2.55"); Camera2-API-Level: FullSecondary Camera: 42 MPix (f/2.2, 17 mm, AF)Additional featuresSpeakers: Dual, Keyboard: OnScreen, USB-C-Cabel, SIM-Tool, 24 Months Warranty, Bluetooth Audio Codecs: SBC, AAC, aptX, aptX HD, LDAC | Auracast | GNSS: GPS (L1, L5), Glonass (L1), BeiDou (B1I, B1C, B2a), Galileo (E1, E5a), QZSS (L1, L5), NavIC (L5) | HDR: HLG, HDR10, HDR10+ | DRM Widevine L1 | eSIM | IP68 | USB Copy Test: 221.57 MB/s (connected to Samsung Portable SSD T7), Supported File Systems for external storages: FAT32, exFAT | Body-SAR: 1.39 W/kg, Head-SAR: 0.99 W/kg | max. charging speed: 30 W (wired) / 15 W (wireless), fanless, waterproofWeight207 g ( = 7.3 oz / 0.46 pounds) ( = 0 oz / 0 pounds)
+Price1199 EuroAmazon$1,099.00LinksGoogle homepageNote: The manufacturer may use components from different suppliers including display panels, drives or memory sticks with similar specifications.see all specifications  [+] Add to comparison» Compare devices
+Build: Pixel 10 Pro comes in four colorsThe Google Pixel 10 Pro is available in Moonstone, Porcelain, Obsidian, and Jade (our test device). The smartphone is nominally 8.6 mm thick — we measured 8.25 mm — and with the camera hump it is 11.9 mm. Both the front and back are made of Corning Gorilla Glass Victus 2, while the frame is made of highly polished aluminum.The Pixel 10 Pro is very well made and only shows minimal irregularities in the gaps between the rear glass and the frame. It can withstand twisting attempts with a slight crunch. The Google smartphone is IP68-certified and therefore both dustproof and waterproof.
+Size comparison
+Honor Magic7 Pro       Google Pixel 10 Pro       Xiaomi 15       Apple iPhone 16 Pro       Samsung Galaxy S25       DIN A6 ❌162.7 mm / 6.41 in
+77.1 mm / 3.04 in
+8.8 mm / 0.3465 in
+223 g0.4916 lbs152.8 mm / 6.02 in
+72 mm / 2.83 in
+8.6 mm / 0.3386 in
+207 g0.4564 lbs152.3 mm / 6 in
+71.2 mm / 2.8 in
+8.08 mm / 0.3181 in
+191 g0.4211 lbs149.6 mm / 5.89 in
+71.5 mm / 2.81 in
+8.25 mm / 0.3248 in
+199 g0.4387 lbs146.9 mm / 5.78 in
+70.5 mm / 2.78 in
+7.2 mm / 0.2835 in
+162 g0.3571 lbs148 mm / 5.83 in
+105 mm / 4.13 in
+1 mm / 0.03937 in
+1.5 g0.00331 lbs
+Features: Now with PixelsnapThe Pixel 10 Pro is available with 128, 256, 512 or 1,024 GB storage. microSD cards are not supported. However, not all storage variants are available in all colors. We also find the 128 GB version to be too small for a high-end smartphone.Bluetooth has been upgraded to version 6.0 by Google. Otherwise, the features are very similar to its predecessor: NFC, UWB, and an IR thermometer are once again on board.What is new, however, is Pixelsnap. This is similar to Apple's MagSafe and includes a set of magnets on the back that can be used to lock accessories and chargers in place. Incidentally, the Pixel 10 Pro worked perfectly with a MagSafe charging surface in the test.The USB port works according to the 3.2 standard (Gen. 1) and, in combination with a Samsung Portable SSD T7 allows decent transfer rates (221.57 MB/s). However, it only supports FAT32 and exFAT file systems — NTFS cannot even be read.Wired image output is also possible, but the screen can only be mirrored.Top: SIM tray, Microphone
+Left
+Right: Power, Volume
+Bottom: Loudspeaker, USB 3.2 port, Microphone
+Software: Seven years of updates for the Pixel 10 ProThe Google Pixel 10 Pro is delivered with Android 16 and will receive updates for the next seven years (from the first availability of the device in the Google Store in the USA).Highlights are the numerous AI functions such as Gemini, Gemini Nano, Gemini Live, Circle to Search, improved live translation, and image editing functions. Google's own free VPN is also included.
+SustainabilityIn its sustainability report, Google provides a comprehensive overview of the Pixel 10 Pro and also presents specific figures on CO2e emissions and the proportion of recycled materials. The outer packaging is plastic-free.According to iFixit, experienced users can repair their Pixel 10 Pro themselves with instructions and spare parts for the smartphone. However, these are not yet available at the time of writing.Communication and GNSS: Wi-Fi 7 and dual-band GNSSThe mobile reception of the Google Pixel 10 Pro is good in urban environments and gives no cause for criticism. The frequency coverage is exemplary, so there should be no connection problems worldwide.Wi-Fi 7 is supported with three frequency bands. In combination with our Asus ROG Rapture GT-AXE11000 reference router, the Google smartphone achieves high and largely stable transfer rates.
+NetworkingGoogle Pixel 10 Pro802.11 a/​b/​g/​n/​ac/​ax/​be iperf3 transmit AXE11000
+928 (min: 844) MBit/s ∼88%
+iperf3 receive AXE11000
+916 (min: 903) MBit/s ∼78%
+iperf3 transmit AXE11000 6GHz
+1571 MBit/s ∼83%
+iperf3 receive AXE11000 6GHz
+1742 (min: 1566) MBit/s ∼97%
+Samsung Galaxy S25Wi-Fi 7 iperf3 transmit AXE11000
+1058 (min: 518) MBit/s ∼100%
+iperf3 receive AXE11000
+1167 (min: 1006) MBit/s ∼100%
+iperf3 transmit AXE11000 6GHz
+1210 (min: 998) MBit/s ∼64%
+iperf3 receive AXE11000 6GHz
+1201 (min: 1184) MBit/s ∼67%
+Apple iPhone 16 ProWi-Fi 7 iperf3 transmit AXE11000
+622 (min: 487) MBit/s ∼59%
+iperf3 receive AXE11000
+921 (min: 876) MBit/s ∼79%
+iperf3 transmit AXE11000 6GHz
+969 (min: 436) MBit/s ∼51%
+iperf3 receive AXE11000 6GHz
+1387 (min: 1360) MBit/s ∼77%
+Xiaomi 15Wi-Fi 7 iperf3 transmit AXE11000
+876 (min: 445) MBit/s ∼83%
+iperf3 receive AXE11000
+871 (min: 785) MBit/s ∼75%
+iperf3 transmit AXE11000 6GHz
+1386 (min: 628) MBit/s ∼74%
+iperf3 receive AXE11000 6GHz
+1793 (min: 1671) MBit/s ∼100%
+Honor Magic7 ProWi-Fi 7 iperf3 transmit AXE11000
+981 (min: 886) MBit/s ∼93%
+iperf3 receive AXE11000
+829 (min: 758) MBit/s ∼71%
+iperf3 transmit AXE11000 6GHz
+1884 (min: 928) MBit/s ∼100%
+iperf3 receive AXE11000 6GHz
+1569 (min: 1486) MBit/s ∼88%
+Average 802.11 a/​b/​g/​n/​ac/​ax/​be  iperf3 transmit AXE11000
+957 (min: 595) MBit/s ∼90%
+iperf3 receive AXE11000
+1131 (min: 755) MBit/s ∼97%
+iperf3 transmit AXE11000 6GHz
+1270 (min: 508) MBit/s ∼67%
+iperf3 receive AXE11000 6GHz
+1500 (min: 719) MBit/s ∼84%
+Average of class Smartphone  iperf3 transmit AXE11000
+728 (min: 49.8) MBit/s ∼69%
+iperf3 receive AXE11000
+747 (min: 52) MBit/s ∼64%
+iperf3 transmit AXE11000 6GHz
+1350 (min: 508) MBit/s ∼72%
+iperf3 receive AXE11000 6GHz
+1409 (min: 451) MBit/s ∼79%
+050100150200250300350400450500550600650700750800850900950100010501100115012001250130013501400145015001550160016501700175018001850TooltipGoogle Pixel 10 Pro 802.11 a/​b/​g/​n/​ac/​ax/​be; iperf3 transmit AXE11000 6GHz: Ø1543 (485-1715) Xiaomi 15 Wi-Fi 7; iperf3 transmit AXE11000 6GHz; iperf 3.1.3: Ø1365 (628-1900) Google Pixel 10 Pro 802.11 a/​b/​g/​n/​ac/​ax/​be; iperf3 receive AXE11000 6GHz; iperf 3.1.3: Ø1741 (1566-1859) Xiaomi 15 Wi-Fi 7; iperf3 receive AXE11000 6GHz; iperf 3.1.3: Ø1791 (1671-1841) Google Pixel 10 Pro 802.11 a/​b/​g/​n/​ac/​ax/​be; iperf3 transmit AXE11000; iperf 3.1.3: Ø928 (844-962) Xiaomi 15 Wi-Fi 7; iperf3 transmit AXE11000; iperf 3.1.3: Ø861 (445-968) Google Pixel 10 Pro 802.11 a/​b/​g/​n/​ac/​ax/​be; iperf3 receive AXE11000; iperf 3.1.3: Ø915 (903-923) Xiaomi 15 Wi-Fi 7; iperf3 receive AXE11000; iperf 3.1.3: Ø869 (785-951)
+outdoors
+in the buildingThe Pixel 10 Pro uses dual-band GNSS for positioning, which supports all global satellite systems. The satfix takes a relatively long time indoors and is not particularly accurate. Outdoor reception, on the other hand, is quick and highly accurate.We compare the Google phone with the Garmin Venu 2 fitness smartwatch on a bike ride. The Pixel 10 Pro is slightly less accurate and is occasionally a bit off the path, but this should not be a limitation for navigation tasks.GNSS test drive: Circumnavigation of the lake
+GNSS test drive: City
+GNSS test drive: SummaryPhone functions and voice quality: Pixel 10 Pro with dual SIM
+The voice quality of the Google Pixel 10 Pro is very good when held to the ear. Voices are conveyed naturally and clearly, provided the surroundings are not too loud. However, if this is indeed the case, the Pixel user's voice sounds muffled and can even be difficult to understand at times.VoLTE and Wi-Fi calls are on board, of course. The smartphone can use a nano-SIM. An eSIM is available as an alternative or in addition, but unfortunately dual physical SIMs are not supported.The Pixel smartphone can also translate the call live during the call. However, this must first be activated in the phone app settings. An online connection is not necessary for this, as the required 1.55 GB data must be downloaded to the phone in advance.Unfortunately, only a handful of languages are available so far and the translation is often bumpy or incorrect. Expletives are often ignored or simply turned into something positive. We liked the fact that the voice of the speaker is also used for the translation.Another new feature is the option to send audio emojis, which are then converted into acoustic noises.Cameras: Powerful triple shooters in the Pixel 10 ProSelfie with the Google Pixel 10 ProThere is a 42 MP lens with autofocus on the front that acts as the selfie camera. It uses pixel binning due to which finished images are around 10 MP in size, but they look good in low light. The selfie camera's quality is impressive and delivers well-balanced photos. Videos are recorded in 4K Ultra HD at a maximum of 60 fps, while those who want to use 10-bit HDR are limited to 30 fps.The main camera has three lenses, of which the main lens and the telephoto lens are equipped with optical image stabilization (OIS). The ultra-wide-angle lens also serves as a macro lens. The imaging performance is very good and the Pixel 10 Pro impresses with a balanced image composition with natural colors. However, there is sometimes a lack of detail and dynamism in the depth of the image, which makes a OnePlus 13 does better in the lake scene. In low light, the scenery has a successful light balance, but this is at the expense of some of the details, and the image also turns out quite bright.The situation is similar with the ultra-wide lens, which brings out the depths well but again at the expense of detail. There are also aberrations in the peripheral areas. When zooming, the Pixel 10 Pro delivers a strong performance and delivers good results even at 10x digital zoom. From 30x magnification onwards, the Pro Resolution Zoom is activated, which uses AI to analyze and improve the image, similar to what we've already seen with the Honor Magic7 Pro or the Magic V5. The results are quite good, as long as there are no living creatures in the image, in which case errors can quickly occur. The AI also has its problems with text. A maximum of 100x Pro Res digital zoom is possible.Another new feature is Camera Coach, which is designed to help you find inspiration for new photos and get the best out of your chosen motif with step-by-step instructions.Video can be recorded in a maximum of 8K 30 fps with Video Boost. 10-bit HDR is available with all lenses up to 4k 30 fps. In general, the user can choose between 24, 30 and 60 fps modes. It is easy to switch between the cameras when filming.
+Image comparisonChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.HauptkameraHauptkameraUltraweitwinkel5-facher ZoomLow-Lightclick to load imagesGoogle Pixel 10 ProOnePlus 13 realme GT 7Canon EOS 90D0.2x2 MPixel4 Mpixel1xclick to load imagesGoogle Pixel 10 ProOnePlus 13 realme GT 7Canon EOS 90D0.2x2 MPixel4 Mpixel1xclick to load imagesGoogle Pixel 10 ProOnePlus 13 realme GT 7Canon EOS 90D0.2x2 MPixel4 Mpixel1xclick to load imagesGoogle Pixel 10 ProOnePlus 13 realme GT 7Canon EOS 90D0.2x2 MPixel4 Mpixel1xclick to load imagesGoogle Pixel 10 ProOnePlus 13 realme GT 7Canon EOS 90D0.2x2 MPixel4 Mpixel1x
+The Google Pixel 10 Pro shows good imaging performance under controlled lighting conditions. Although our test chart is somewhat darker, it is also captured in great detail and remains comparatively sharp even in the peripheral areas.The Google smartphone does not reveal any major deviations from DeltaE in the ColorChecker's color reproduction either.
+5.5 ∆E9.6 ∆E4.6 ∆E5.9 ∆E4.4 ∆E8.1 ∆E5.7 ∆E2.8 ∆E8.1 ∆E5.6 ∆E4.9 ∆E4.8 ∆E5 ∆E7.5 ∆E4.7 ∆E4.8 ∆E7.2 ∆E8.6 ∆E7.6 ∆E4.2 ∆E1.7 ∆E4.9 ∆E4.8 ∆E7.5 ∆EColorChecker Google Pixel 10 Pro: 5.78 ∆E min: 1.73 - max: 9.62 ∆E11.7 ∆E16.2 ∆E16.8 ∆E18.6 ∆E18 ∆E24 ∆E15.5 ∆E8.9 ∆E10.7 ∆E11.8 ∆E24.5 ∆E22.9 ∆E9.7 ∆E21.6 ∆E7.9 ∆E17.2 ∆E15 ∆E20.7 ∆E17.3 ∆E15.3 ∆E17.7 ∆E20.1 ∆E19.2 ∆E13.3 ∆EColorChecker Google Pixel 10 Pro: 16.45 ∆E min: 7.86 - max: 24.55 ∆E
+Google Pixel 10 ProGoogle Pixel 10 Pro
+Accessories and Warranty: Pixel Care+ only in the USAAs expected, the Pixel 10 Pro comes with a small scope of delivery, which only includes a USB-C cable and a SIM ejector pin.The warranty offered in Germany is 24 months and cannot be extended. The Pixel Care+ insurance package is reserved for customers in the USA.Input devices and Operation: Ultrasonic fingerprint reader in the Pixel phoneThe capacitive touchscreen of the Google Pixel 10 Pro responds quickly and reliably to inputs. The gliding properties of the glass are very good. The display also features an ultrasonic fingerprint sensor, which has high recognition rates and unlocks the smartphone quickly and reliably.Unlocking via the front camera is available alternatively, which is less reliable, especially in low light.The linear vibration motor provides crisp haptic feedback and can be adjusted relatively extensively in the settings. The power button can be used to start Gemini by holding it down, and either the camera or the wallet can be opened by pressing it twice.
+Display: Pixel 10 Pro offers a bright LTPO OLEDSubpixel structureWith its 6.3-inch OLED display, the Pixel 10 Pro is a compact smartphone. Nevertheless, it offers a high resolution and correspondingly sharp display.Thanks to LTPO technology, the refresh rate is dynamically adjusted by the system between 1 Hz and 120 Hz. The HDR standards are almost fully supported, but Dolby Vision is not included.The brightness of the Google smartphone is very high. Even without the ambient light sensor actively engaged, up to 1,405 cd/m² brightness is possible on a pure white surface.If the sensor is activated, the luminance increases to around the 2,200 cd/m² mark. With a reduced white surface (APL18), the luminosity can go all the way to up to 3,199 cd/m², and 3,207 cd/m² when playing an HDR video.
+2179cd/m²2134cd/m²2259cd/m²2187cd/m²2161cd/m²2259cd/m²2198cd/m²2154cd/m²2255cd/m²
+Distribution of brightnesstested with X-Rite i1Pro 3Maximum: 2259 cd/m² (Nits) Average: 2198.4 cd/m² Minimum: 1.71 cd/m²Brightness Distribution: 94 %Center on Battery: 2161 cd/m²Contrast: ∞:1 (Black: 0 cd/m²)ΔE ColorChecker Calman: 0.7 | ∀{0.5-29.43 Ø4.81}ΔE Greyscale Calman: 0.8 | ∀{0.09-98 Ø5.1}98.1% sRGB (Calman 2D)Gamma: 2.19CCT: 6646 K
+Google Pixel 10 ProOLED, 2856x1280, 6.3"Samsung Galaxy S25AMOLED, 2340x1080, 6.2"Apple iPhone 16 ProSuper Retina XDR OLED, 2622x1206, 6.3"Xiaomi 15OLED, 2670x1200, 6.4"Honor Magic7 ProOLED, 2800x1280, 6.8"Screen-125%-49%-71%-32%Brightness middle (cd/m²)21611301 -40%1034 -52%1021 -53%1607 -26%Brightness (cd/m²)21981311 -40%1034 -53%1018 -54%1609 -27%Brightness Distribution (%)9498 4%98 4%98 4%95 1%Black Level * (cd/m²)Colorchecker dE 2000 *0.73.1 -343%0.98 -40%1.3 -86%0.9 -29%Colorchecker dE 2000 max. *1.84.4 -144%2.76 -53%2.9 -61%1.8 -0%Greyscale dE 2000 *0.82.3 -188%1.6 -100%2.2 -175%1.7 -113%Gamma2.19 100%2.01 109%2.17 101%2.25 98%2.24 98%CCT6646 98%6454 101%6638 98%6658 98%6346 102%* ... smaller is better
+Display: APL18 Peak Brightness | HDR Peak Brightness Display / APL18 Peak Brightness
+Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+3199 cd/m² Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+2594 cd/m² -19%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+1634 cd/m² -49%Display / HDR Peak Brightness
+Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+4697 cd/m² +46%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+3207 cd/m² Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+2766 cd/m² -14%
+Screen Flickering / PWM (Pulse-Width Modulation)ℹTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.Screen flickering / PWM detected 240 HzAmplitude: 17.24 %The display backlight flickers at 240 Hz (worst case, e.g., utilizing PWM) . The frequency of 240 Hz is relatively low, so sensitive users will likely notice flickering and experience eyestrain at the stated brightness setting and below.In comparison: 53 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 8224 (minimum: 5 - maximum: 343500) Hz was measured.
+min.
+25%
+50%
+75%
+100%Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness) 480 Hz function
+PWM at minimum brightness with 480 Hz function activated (amplitude: 14.56 %)Like most other smartphones with OLED displays, the Google Pixel 10 Pro is not spared from PWM flickering. As with the Pixel 9 Pro, this works at a relatively low 240 Hz (see above). Although the amplitude is very flat, sensitive users should still expect problems with prolonged use.The "Adjust brightness for sensitive eyes" option can be found in the Accessibility settings. This is supposed to double the PWM frequency to 480 Hz, which we measured.At minimum brightness, this still remains at a low 240 Hz and only increases to the promised 480 Hz when the display is already very bright. The function therefore offers no advantage, particularly in the evening and in darker environments.min.25%50%75%100%Measurement series with fixed zoom level, activated 480 Hz function, and different brightness settingsThe most natural color representation of the display is achieved when the Natural color profile is selected in the settings.This offers optimal Grayscale, ColorChecker, and Saturation Sweeps values.Grayscale (Mode: Natural, Target color space: sRGB)
+ColorChecker (Mode: Natural, Target color space: sRGB)
+Colorspace (Mode: Natural, Target color space: sRGB)
+Saturation Sweeps (Mode: Natural, Target color space: sRGB)
+Display Response TimesℹDisplay response times show how fast the screen is able to change from one color to the next. Slow response times can lead to afterimages and can cause moving objects to appear blurry (ghosting). Gamers of fast-paced 3D titles should pay special attention to fast response times.   ↔    Response Time Black to White1.04 ms ... rise ↗ and fall ↘ combined↗ 0.505 ms rise↘ 0.5395 ms fallThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 3 % of all devices are better.This means that the measured response time is better than the average of all tested devices (20.4 ms).   ↔    Response Time 50% Grey to 80% Grey1.31 ms ... rise ↗ and fall ↘ combined↗ 0.513 ms rise↘ 0.8015 ms fallThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 5 % of all devices are better.This means that the measured response time is better than the average of all tested devices (31.8 ms).
+The Pixel 10 Pro leaves a very good impression outdoors. Even if the Gorilla Glass display is relatively reflective, the content remains easy to read even in bright sunlight.The viewing angle stability of the panel is also very good. There is no color inversion even at very flat viewing angles — only the brightness decreases visibly.Outdoor viewing
+Viewing angle stabilityPerformance: Tensor G5 lags behind the competitionThe Google Pixel 10 Pro is powered by the in-house Tensor G5 and can draw on a comparatively generous 16 GB of RAM.The system performance is very good and gives no cause for criticism, but the benchmarks show that the performance falls significantly behind most competitors.
+Geekbench 6.5 | Antutu v10 | PCMark for Android | BaseMark OS II | UL Procyon AI Inference for Android | AImark | Geekbench AI | AI Benchmark Geekbench 6.5
+Single-CoreApple iPhone 16 ProApple A18 Pro, A18 Pro GPU, 8192
+3443 Points +49%Samsung Galaxy S25Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+3087 Points +34%Honor Magic7 ProQualcomm Snapdragon 8 Elite, Adreno 830, 12288
+3050 Points +32%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+3001 Points +30%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+2308 Points Average Google Tensor G5  (2279 - 2308, n=2)
+2294 Points -1%Average of class Smartphone  (196 - 3785, n=201, last 2 years)
+1692 Points -27%Huawei Mate X6HiSilicon Kirin 9020, Maleoon 920, 12288
+1586 Points -31% Multi-CoreSamsung Galaxy S25Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+9776 Points +55%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+9202 Points +46%Honor Magic7 ProQualcomm Snapdragon 8 Elite, Adreno 830, 12288
+9019 Points +43%Apple iPhone 16 ProApple A18 Pro, A18 Pro GPU, 8192
+8524 Points +35%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+6314 Points Average Google Tensor G5  (6108 - 6314, n=2)
+6211 Points -2%Huawei Mate X6HiSilicon Kirin 9020, Maleoon 920, 12288
+4938 Points -22%Average of class Smartphone  (830 - 10401, n=201, last 2 years)
+4934 Points -22%Antutu v10 - Total Score
+Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+2677100 Points +100%Honor Magic7 ProQualcomm Snapdragon 8 Elite, Adreno 830, 12288
+2474369 Points +85%Samsung Galaxy S25Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+1975467 Points +48%Apple iPhone 16 ProApple A18 Pro, A18 Pro GPU, 8192
+1867306 Points +39%Average Google Tensor G5  (1338955 - 1563512, n=2)
+1451234 Points +8%Average of class Smartphone  (142748 - 3015111, n=146, last 2 years)
+1394452 Points +4%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+1338955 Points Huawei Mate X6HiSilicon Kirin 9020, Maleoon 920, 12288
+1205616 Points -10%PCMark for Android - Work 3.0
+Honor Magic7 ProQualcomm Snapdragon 8 Elite, Adreno 830, 12288
+20630 Points +31%Samsung Galaxy S25Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+20623 Points +31%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+19192 Points +22%Average Google Tensor G5  (15738 - 16001, n=2)
+15870 Points +1%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+15738 Points Huawei Mate X6HiSilicon Kirin 9020, Maleoon 920, 12288
+14593 Points -7%Average of class Smartphone  (4507 - 27169, n=184, last 2 years)
+14504 Points -8%BaseMark OS II
+OverallHonor Magic7 ProQualcomm Snapdragon 8 Elite, Adreno 830, 12288
+13729 Points +63%Samsung Galaxy S25Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+11876 Points +41%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+11031 Points +31%Average Google Tensor G5  (8446 - 9224, n=2)
+8835 Points +5%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+8446 Points Huawei Mate X6HiSilicon Kirin 9020, Maleoon 920, 12288
+8075 Points -4%Average of class Smartphone  (1196 - 14066, n=143, last 2 years)
+7373 Points -13%Apple iPhone 16 ProApple A18 Pro, A18 Pro GPU, 8192
+Points -100% SystemHonor Magic7 ProQualcomm Snapdragon 8 Elite, Adreno 830, 12288
+19891 Points +54%Samsung Galaxy S25Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+17132 Points +33%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+16439 Points +28%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+12881 Points Average Google Tensor G5  (12754 - 12881, n=2)
+12818 Points 0%Huawei Mate X6HiSilicon Kirin 9020, Maleoon 920, 12288
+12221 Points -5%Average of class Smartphone  (2368 - 20776, n=143, last 2 years)
+11076 Points -14% MemoryXiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+16961 Points +134%Honor Magic7 ProQualcomm Snapdragon 8 Elite, Adreno 830, 12288
+15541 Points +114%Samsung Galaxy S25Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+14759 Points +103%Huawei Mate X6HiSilicon Kirin 9020, Maleoon 920, 12288
+8750 Points +21%Average Google Tensor G5  (7257 - 9558, n=2)
+8408 Points +16%Average of class Smartphone  (962 - 20652, n=143, last 2 years)
+8361 Points +15%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+7257 Points GraphicsHonor Magic7 ProQualcomm Snapdragon 8 Elite, Adreno 830, 12288
+51041 Points +70%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+44189 Points +47%Samsung Galaxy S25Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+33965 Points +13%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+30035 Points Average Google Tensor G5  (29704 - 30035, n=2)
+29870 Points -1%Average of class Smartphone  (1046 - 384996, n=143, last 2 years)
+24527 Points -18%Huawei Mate X6HiSilicon Kirin 9020, Maleoon 920, 12288
+20494 Points -32% WebSamsung Galaxy S25Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+2275 Points +25%Honor Magic7 ProQualcomm Snapdragon 8 Elite, Adreno 830, 12288
+2252 Points +24%Huawei Mate X6HiSilicon Kirin 9020, Maleoon 920, 12288
+1940 Points +7%Average Google Tensor G5  (1813 - 1999, n=2)
+1906 Points +5%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+1813 Points Average of class Smartphone  (858 - 2363, n=143, last 2 years)
+1665 Points -8%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+1202 Points -34%UL Procyon AI Inference for Android - Overall Score NNAPI
+Samsung Galaxy S25Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+21837 Points +24%Honor Magic7 ProQualcomm Snapdragon 8 Elite, Adreno 830, 12288
+20782 Points +18%Average of class Smartphone  (3769 - 81594, n=135, last 2 years)
+19809 Points +12%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+18154 Points +3%Average Google Tensor G5  (17652 - 18101, n=2)
+17877 Points +1%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+17652 Points Huawei Mate X6HiSilicon Kirin 9020, Maleoon 920, 12288
+12951 Points -27%AImark - Score v3.x
+Apple iPhone 16 ProApple A18 Pro, A18 Pro GPU, 8192
+33743 Points +2185%Average of class Smartphone  (82 - 307528, n=124, last 2 years)
+27500 Points +1762%Huawei Mate X6HiSilicon Kirin 9020, Maleoon 920, 12288
+2910 Points +97%Samsung Galaxy S25Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+1893 Points +28%Honor Magic7 ProQualcomm Snapdragon 8 Elite, Adreno 830, 12288
+1796 Points +22%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+1790 Points +21%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+1477 Points Average Google Tensor G5  (1271 - 1477, n=2)
+1374 Points -7%Geekbench AI
+Single Precision NPU 1.5Average of class Smartphone  (153 - 5210, n=32, last 2 years)
+923 Points +93%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+478 Points Average Google Tensor G5  (472 - 478, n=2)
+475 Points -1% Half Precision NPU 1.5Average of class Smartphone  (178 - 35890, n=32, last 2 years)
+4260 Points +370%Average Google Tensor G5  (907 - 1032, n=2)
+970 Points +7%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+907 Points Quantized NPU 1.5Average of class Smartphone  (133 - 49889, n=32, last 2 years)
+6160 Points +62%Average Google Tensor G5  (3792 - 4393, n=2)
+4093 Points +8%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+3792 Points AI Benchmark
+Score V5Average of class Smartphone  (46.4 - 3334, n=42, last 2 years)
+904 Points +53%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+590 Points Average Google Tensor G5  (n=1)
+590 Points 0%Honor Magic7 ProQualcomm Snapdragon 8 Elite, Adreno 830, 12288
+248 Points -58%Huawei Mate X6HiSilicon Kirin 9020, Maleoon 920, 12288
+159 Points -73% Score V6Samsung Galaxy S25Qualcomm Snapdragon 8 Elite for Galaxy, Adreno 830, 12288
+12223 Points +1434%Honor Magic7 ProQualcomm Snapdragon 8 Elite, Adreno 830, 12288
+10742 Points +1248%Average of class Smartphone  (55.6 - 12845, n=64, last 2 years)
+4130 Points +418%Xiaomi 15Qualcomm Snapdragon 8 Elite, Adreno 830, 12288
+991 Points +24%Google Pixel 10 ProGoogle Tensor G5, DXT-48-1536, 16384
+797 Points Average Google Tensor G5  (761 - 797, n=2)
+779 Points -2%Huawei Mate X6HiSilicon Kirin 9020, Maleoon 920, 12288
+421 Points -47%
+The Pixel 10 Pro does not make any major leaps in graphics performance either and is barely faster than the Pixel 9 Pro. The integrated IMG DXT-48-1536 is not capable of ray tracing.
+3DMark: Wild Life Extreme Unlimited | Wild Life Extreme | Wild Life Unlimited Score | Steel Nomad Light Unlimited Score | Steel Nomad Light Score GFXBench (DX / GLBenchmark) 2.7: T-Rex Onscreen | 1920x1080 T-Rex Offscreen GFXBench 3.0: on screen Manhattan Onscreen OGL | 1920x1080 1080p Manhattan Offscreen GFXBench 3.1: on screen Manhattan ES 3.1 Onscreen | 1920x1080 Manhattan ES 3.1 Offscreen GFXBench: on screen Car Chase Onscreen | 1920x1080 Car Chase Offscreen | on screen Aztec Ruins High Tier Onscreen | 2560x1440 Aztec Ruins High Tier Offscreen | on screen Aztec Ruins Normal Tier Onscreen | 1920x1080 Aztec Ruins Normal Tier Offscreen | 3840x2160 4K Aztec Ruins High Tier Offscreen 3DMark / Wild Life Extreme Unlimited
+Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+6932 Points +114%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+5933 Points +84%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+5845 Points +81%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+3987 Points +23%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+3232 Points Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+2605 Points -19%Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+2410 Points -25%3DMark / Wild Life Extreme
+Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+6854 Points +109%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+5995 Points +83%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+5800 Points +77%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+4628 Points +41%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+3281 Points Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+2547 Points -22%Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+2422 Points -26%3DMark / Wild Life Unlimited Score
+Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+27327 Points +107%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+24960 Points +89%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+23837 Points +81%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+17967 Points +36%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+13193 Points Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+9476 Points -28%Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+8922 Points -32%3DMark / Steel Nomad Light Unlimited Score
+Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+2258 Points +123%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+2248 Points +122%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+1647 Points +63%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+1026 Points +1%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+1013 Points 3DMark / Steel Nomad Light Score
+Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+2362 Points +133%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+2272 Points +124%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+1806 Points +78%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+1014 Points Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+1001 Points -1%Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+Points -100%GFXBench (DX / GLBenchmark) 2.7 / T-Rex Onscreen
+Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+121 fps Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+120 fps -1%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+120 fps -1%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+120 fps -1%Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+120 fps -1%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+120 fps -1%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+58 fps -52%GFXBench (DX / GLBenchmark) 2.7 / T-Rex Offscreen
+Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+718 fps +77%Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+711 fps +75%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+631 fps +55%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+518 fps +28%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+415 fps +2%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+406 fps Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+348 fps -14%GFXBench 3.0 / Manhattan Onscreen OGL
+Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+121 fps Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+120 fps -1%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+120 fps -1%Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+120 fps -1%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+120 fps -1%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+119 fps -2%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+58.5 fps -52%GFXBench 3.0 / 1080p Manhattan Offscreen
+Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+502 fps +78%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+423 fps +50%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+368 fps +30%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+300 fps +6%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+282 fps Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+245 fps -13%Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+174 fps -38%GFXBench 3.1 / Manhattan ES 3.1 Onscreen
+Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+120 fps +1%Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+120 fps +1%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+120 fps +1%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+119 fps Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+115 fps -3%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+104 fps -13%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+59.6 fps -50%GFXBench 3.1 / Manhattan ES 3.1 Offscreen
+Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+308 fps +49%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+294 fps +42%Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+268 fps +29%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+237.3 fps +15%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+207 fps Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+165 fps -20%Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+112 fps -46%GFXBench / Car Chase Onscreen
+Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+120 fps +103%Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+120 fps +103%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+114 fps +93%Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+71 fps +20%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+59.9 fps +2%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+59 fps Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+54 fps -8%GFXBench / Car Chase Offscreen
+Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+211 fps +160%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+192 fps +137%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+166 fps +105%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+154.7 fps +91%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+85 fps +5%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+81 fps Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+75 fps -7%GFXBench / Aztec Ruins High Tier Onscreen
+Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+120 fps +88%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+115 fps +80%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+102 fps +59%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+64 fps Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+63 fps -2%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+59.5 fps -7%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+47 fps -27%GFXBench / Aztec Ruins High Tier Offscreen
+Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+118 fps +115%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+100 fps +82%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+90 fps +64%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+69.3 fps +26%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+55 fps Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+44 fps -20%Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+37 fps -33%GFXBench / Aztec Ruins Normal Tier Onscreen
+Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+120 fps +28%Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+120 fps +28%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+120 fps +28%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+94 fps Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+91 fps -3%Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+77 fps -18%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+59.8 fps -36%GFXBench / Aztec Ruins Normal Tier Offscreen
+Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+279 fps +120%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+274 fps +116%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+257 fps +102%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+176.1 fps +39%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+127 fps Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+119 fps -6%Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+98 fps -23%GFXBench / 4K Aztec Ruins High Tier Offscreen
+Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+52 fps +108%Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+47 fps +88%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+44 fps +76%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+29.6 fps +18%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+25 fps Google Pixel 9 ProMali-G715 MP7, Tensor G4, 128 GB UFS 3.1 Flash
+20 fps -20%Google Pixel 8 ProMali-G715 MP7, Tensor G3, 128 GB UFS 3.1 Flash
+16 fps -36%
+Browsing the web is very fast with the Pixel 10 Pro, but it usually ranks behind the competition in the benchmarks.
+Jetstream 2 | Speedometer 2.0 | Speedometer 3.0 | WebXPRT 4 | Octane V2 | Mozilla Kraken 1.1 Jetstream 2 - 2.0 Total Score
+Apple iPhone 16 Pro (Safari 18)
+386.723 Points +100%Honor Magic7 Pro (Chrome 131)
+284.674 Points +47%Samsung Galaxy S25 (Chrome 134)
+235.734 Points +22%Average Google Tensor G5 (193.3 - 262, n=2)
+227 Points +17%Google Pixel 10 Pro (Chrome 140)
+193.311 Points Xiaomi 15 (Chrome 131.0.6778.104)
+191.986 Points -1%Average of class Smartphone (13.8 - 387, n=148, last 2 years)
+151.8 Points -21%Speedometer 2.0 - Result
+Apple iPhone 16 Pro (Safari 18)
+569 runs/min +65%Samsung Galaxy S25 (Chrome 134)
+435 runs/min +26%Honor Magic7 Pro (Chrome 131)
+419 runs/min +21%Google Pixel 10 Pro (Chrome 140)
+345 runs/min Average Google Tensor G5 (343 - 345, n=2)
+344 runs/min 0%Xiaomi 15 (Chrome 131.0.6778.104)
+342 runs/min -1%Average of class Smartphone (15.2 - 621, n=130, last 2 years)
+206 runs/min -40%Speedometer 3.0 - Score
+Apple iPhone 16 Pro (Safari 18)
+33.5 runs/min +63%Samsung Galaxy S25 (Chrome 134)
+29.9 runs/min +45%Honor Magic7 Pro (Chrome 131)
+26.1 runs/min +27%Xiaomi 15 (Chrome 131.0.6778.104)
+23.5 runs/min +14%Average Google Tensor G5 (20.6 - 21.3, n=2)
+21 runs/min +2%Google Pixel 10 Pro (Chrome 140)
+20.6 runs/min Average of class Smartphone (1.03 - 41.7, n=117, last 2 years)
+13.9 runs/min -33%WebXPRT 4 - Overall
+Apple iPhone 16 Pro (Safari 18)
+267 Points +51%Samsung Galaxy S25 (Chrome 134)
+244 Points +38%Honor Magic7 Pro (Chrome 131)
+196 Points +11%Google Pixel 10 Pro (Chrome 140)
+177 Points Average Google Tensor G5 (174 - 177, n=2)
+175.5 Points -1%Xiaomi 15 (Chrome 131.0.6778.104)
+168 Points -5%Average of class Smartphone (27 - 302, n=143, last 2 years)
+142.6 Points -19%Octane V2 - Total Score
+Apple iPhone 16 Pro (Safari 18)
+98997 Points +18%Samsung Galaxy S25 (Chrome 134)
+95809 Points +14%Honor Magic7 Pro (Chrome 131)
+89248 Points +6%Average Google Tensor G5 (84055 - 84281, n=2)
+84168 Points 0%Google Pixel 10 Pro (Chrome 140)
+84055 Points Xiaomi 15 (Chrome 131.0.6778.104)
+78653 Points -6%Average of class Smartphone (2228 - 119218, n=196, last 2 years)
+47252 Points -44%Mozilla Kraken 1.1 - Total
+Average of class Smartphone (263 - 28190, n=151, last 2 years)
+1219 ms * -158%Google Pixel 10 Pro (Chrome 140)
+472.5 ms * Average Google Tensor G5 (470 - 473, n=2)
+471 ms * -0%Xiaomi 15 (Chrome 131.0.6778.104)
+454.4 ms * +4%Honor Magic7 Pro (Chrome 131)
+429.4 ms * +9%Samsung Galaxy S25 (Chrome 134)
+389.3 ms * +18%Apple iPhone 16 Pro (Safari 18)
+276.9 ms * +41%* ... smaller is better
+This year, Google continues to rely on UFS 3.1 storage, not only in the 128 GB version, but also in the 256 GB version tested here. The competition is much faster here, as they have been using UFS 4.0 or even UFS 4.1 for some time.
+Google Pixel 10 ProSamsung Galaxy S25Xiaomi 15Honor Magic7 ProGoogle Pixel 9 ProAverage 256 GB UFS 4.0 FlashAverage of class SmartphoneAndroBench 3-541%92%86%-27%75%23% Sequential Read 256KB (MB/s)1492.743982.43 167%3934.92 164%3910.81 162%1717.9 15%3650 ?(1493 - 4384, n=47) 145%2209 ?(270 - 4370, n=185, last 2 years) 48% Sequential Write 256KB (MB/s)1353.552256.71 67%3889.06 187%3683.81 172%253.53 -81%2695 ?(555 - 3484, n=47) 99%1812 ?(103.2 - 4035, n=185, last 2 years) 34% Random Read 4KB (MB/s)264.44299.89 13%296.95 12%282.34 7%218.41 -17%378 ?(218 - 483, n=47) 43%294 ?(47.6 - 504, n=185, last 2 years) 11% Random Write 4KB (MB/s)347.8451.76 -85%360.36 4%357.04 3%261.55 -25%391 ?(50.7 - 730, n=47) 12%339 ?(9.4 - 964, n=185, last 2 years) -3%
+Games: Work up a sweat quicklyThe Google Pixel 10 Pro does not have a weak SoC, but it is certainly not for gamers. This starts with the fact that ray tracing is not supported and the frame rates, which we tested with GameBench are not what we would expect from a high-end smartphone.At best, the HDR setting can be selected in PUBG Mobile and even the lower HD setting is limited to just 40 fps. Even the lowest quality mode does not even work constantly at 60 fps.In demanding games like Genshin Impact, we can see that the frame rate drops over time and falls well below the targeted 60 fps. The smartphone also gets warm during gaming.PUBG Mobile
+Genshin Impact
+051015202530354045505560TooltipGoogle Pixel 10 Pro; Genshin Impact; lowest 120 fps: Ø57.9 (36-61) Google Pixel 10 Pro; Genshin Impact; highest 120 fps; 6.0.0_36598533_36939763: Ø39.1 (27-61) Google Pixel 10 Pro; PUBG Mobile; Smooth: Ø53.3 (35-60) Google Pixel 10 Pro; PUBG Mobile; HD: Ø39.6 (12-42) Google Pixel 10 Pro; Diablo Immortal: Ø56 (20-61)
+Emissions - Pixel cell phone with AuracastTemperatureThe surface temperatures of the Pixel 10 Pro remain within a safe range at all times and do not exceed 42 °C even under constant load.Google manages to cool the SoC quite well, as throttling is only minimal in the stress test.But even a Snapdragon 8 Elite with much higher throttling generates over 40% more frames than the Google phone.
+Max. LoadIdle
+40.9 °C106 F41.2 °C106 F38.7 °C102 F  40.5 °C105 F41.1 °C106 F37.2 °C99 F  40.8 °C105 F40.9 °C106 F36.3 °C97 F
+Maximum: 41.2 °C = 106 FAverage: 39.7 °C = 103 F
+37.3 °C99 F38.1 °C101 F39.4 °C103 F36.4 °C98 F39.7 °C103 F39.4 °C103 F35.8 °C96 F38.4 °C101 F38.3 °C101 F
+Maximum: 39.7 °C = 103 FAverage: 38.1 °C = 101 F Room Temperature 22 °C = 72 F | Fluke t3000FC (calibrated) & Voltcraft IR-260Max. LoadIdle
+26.5 °C80 F26.6 °C80 F27.1 °C81 F  26.2 °C79 F26.3 °C79 F26.8 °C80 F  25.4 °C78 F24.8 °C77 F25.8 °C78 F
+Maximum: 27.1 °C = 81 FAverage: 26.2 °C = 79 F
+25.7 °C78 F25.8 °C78 F25.7 °C78 F25.5 °C78 F26.1 °C79 F25.5 °C78 F25.1 °C77 F25.8 °C78 F25.3 °C78 F
+Maximum: 26.1 °C = 79 FAverage: 25.6 °C = 78 F Room Temperature 22 °C = 72 F | Voltcraft IR-260(-) The average temperature for the upper side under maximal load is 39.7 °C / 103 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.(±) The maximum temperature on the upper side is 41.2 °C / 106 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.(+) The bottom heats up to a maximum of 39.7 °C / 103 F, compared to the average of 33.9 °C / 93 F(+) In idle usage, the average temperature for the upper side is 26.2 °C / 79 F, compared to the device average of 32.9 °C / 91 F.
+3DMark Stress Tests
+3DMark
+Wild Life Stress Test StabilityApple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+92.5 % +14%Google Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+81.2 % Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+66.3 % -18%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+57.6 % -29%Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+52.7 % -35% Wild Life Extreme Stress TestGoogle Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+88.7 % Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+68.7 % -23%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+60.9 % -31%Samsung Galaxy S25Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash
+47.5 % -46% Steel Nomad Light Stress Test StabilityGoogle Pixel 10 ProDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash
+97.3 % Xiaomi 15Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+69.5 % -29%Honor Magic7 ProAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash
+68.4 % -30%Apple iPhone 16 ProA18 Pro GPU, A18 Pro, 128 GB NVMe
+62.9 % -35%
+0102030405060708090100110120130TooltipGoogle Pixel 10 Pro DXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.14.1: Ø18 (17.1-19.3) Xiaomi 15 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1: Ø29 (26.2-38.2) Google Pixel 10 Pro DXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability: Ø64.8 (61.7-76) Xiaomi 15 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0: Ø101.2 (87.7-132.2) Google Pixel 10 Pro DXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability: Ø70.9 (64.9-78.5) Xiaomi 15 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0: Ø117.4 (98.5-139.4) Google Pixel 10 Pro DXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.1: Ø7.49 (7.38-7.59) Xiaomi 15 Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3: Ø13.8 (12.2-17.6)
+Stress test: Top
+Stress test: BottomLoudspeakerThe dual speakers of the Google Pixel 10 Pro deliver decent output but sound a little tinny at high volumes.Google is not transparent when it comes to Bluetooth audio codecs and no longer allows them to be read out.At least Auracast is on board and audio signals can also be output via the USB port.dB(A)
+0102030405060708090Deep BassMiddle BassHigh BassLower RangeMidsHigher MidsLower HighsMid HighsUpper HighsSuper Highs2034.939.12524.331.23120.729.44018.126.45030.8366321.731.18014.828.310017.237.212514.342.516017.155.720014.355.525014.258.131514.561.34001364.950011.87163013.274.880010.972.9100011.775.1125011.477.8160011.778.5200012.380.725001380.7315012.881400012.477.2500013.973.6630013.572.180001367.41000013.666.31250013.765.3160001354.7SPL24.889.3N0.676.1median 13median 72.1Delta1.29.238.437.830.632.619.236.921.533.736.939.324.442.419.744.915.844.114.146.115.254.412.454.19.5569.757.110.557.4965.49.867.48.972.19.477.711.580.511.278.31282.311.782.11280.91281.912.581.712.978.813.379.113.57613.568.613.66423.991.70.587.9median 12median 761.510.7hearing rangehide medianshow median Pink NoiseGoogle Pixel 10 ProSamsung Galaxy S25Frequency diagram (checkboxes can be checked and unchecked to compare devices)Google Pixel 10 Pro audio analysis(+) | speakers can play relatively loud (89.3 dB)Bass 100 - 315 Hz(-) | nearly no bass - on average 20.4% lower than median(±) | linearity of bass is average (9.4% delta to prev. frequency)Mids 400 - 2000 Hz(+) | balanced mids - only 4.4% away from median(+) | mids are linear (4.9% delta to prev. frequency)Highs 2 - 16 kHz(±) | higher highs - on average 5% higher than median(+) | highs are linear (3.6% delta to prev. frequency)Overall 100 - 16.000 Hz(±) | linearity of overall sound is average (16.1% difference to median)Compared to same class» 5% of all tested devices in this class were better, 4% similar, 91% worse» The best had a delta of 12%, average was 35%, worst was 134%Compared to all devices tested» 24% of all tested devices were better, 5% similar, 70% worse» The best had a delta of 4%, average was 24%, worst was 134%Samsung Galaxy S25 audio analysis(+) | speakers can play relatively loud (91.7 dB)Bass 100 - 315 Hz(-) | nearly no bass - on average 24% lower than median(+) | bass is linear (3.8% delta to prev. frequency)Mids 400 - 2000 Hz(±) | reduced mids - on average 7.1% lower than median(+) | mids are linear (5.8% delta to prev. frequency)Highs 2 - 16 kHz(+) | balanced highs - only 4.1% away from median(+) | highs are linear (2% delta to prev. frequency)Overall 100 - 16.000 Hz(±) | linearity of overall sound is average (17.3% difference to median)Compared to same class» 10% of all tested devices in this class were better, 8% similar, 82% worse» The best had a delta of 12%, average was 35%, worst was 134%Compared to all devices tested» 31% of all tested devices were better, 8% similar, 61% worse» The best had a delta of 4%, average was 24%, worst was 134%
+Battery life: 4,870 mAh in the Google Pixel 10 ProEnergy consumptionThe power consumption of the Google Pixel 10 Pro should be a little lower when idle. However, the smartphone can show higher power draws under load.The Pixel can be charged both with and without a cable. Wireless charging at up to 15 W is possible with Qi 2.2 and up to 30 W with the cable. A full charge with the cable took 86 minutes in the test (50%: 28 min., 80%: 51 min.).
+Power Consumption
+Off / Standby 0.15 / 0.23 WattIdle 1.01 / 1.65 / 2.05 WattLoad
+7.25 / 19.78 WattKey:
+min: ,
+med: ,
+max:         Metrahit Energy
+Google Pixel 10 Pro4870 mAhSamsung Galaxy S254000 mAhApple iPhone 16 Pro3582 mAhXiaomi 155400 mAhHonor Magic7 Pro5270 mAhAverage Google Tensor G5 Average of class Smartphone Power Consumption14%30%32%6%10%19%Idle Minimum * (Watt)1.010.47 53%0.4 60%0.5 50%0.94 7%0.995 ?(0.98 - 1.01, n=2) 1%0.854 ?(0.4 - 1.65, n=152, last 2 years) 15%Idle Average * (Watt)1.651.04 37%0.6 64%1.11 33%1.5 9%1.495 ?(1.34 - 1.65, n=2) 9%1.423 ?(0.6 - 4.36, n=152, last 2 years) 14%Idle Maximum * (Watt)2.051.07 48%1 51%1.13 45%1.57 23%1.775 ?(1.5 - 2.05, n=2) 13%1.592 ?(0.85 - 4.46, n=152, last 2 years) 22%Load Average * (Watt)7.2513.33 -84%11 -52%8.91 -23%11.03 -52%5.82 ?(4.38 - 7.25, n=2) 20%7.25 ?(2.3 - 16.5, n=134, last 2 years) -0%Load Maximum * (Watt)19.7816.38 17%14.4 27%9.3 53%11.68 41%18 ?(16.3 - 19.8, n=2) 9%11.1 ?(3.53 - 20.8, n=134, last 2 years) 44%* ... smaller is better
+Power consumption: Geekbench (150 cd/m²)
+012345678910111213141516TooltipGoogle Pixel 10 Pro Google Tensor G5; Geekbench 5.5 Power Consumption 150cd: Ø6.37 (0.969-15.4) Samsung Galaxy S25 Qualcomm Snapdragon 8 Elite for Galaxy; Geekbench 5.5 Power Consumption 150cd: Ø7.3 (0.661-16.4) Google Pixel 10 Pro Google Tensor G5; Idle 150cd/m2: Ø0.865 (0.78-1.11) Samsung Galaxy S25 Qualcomm Snapdragon 8 Elite for Galaxy; Idle 150cd/m2: Ø0.697 (0.648-0.956)
+Power consumption: GFXbench (150 cd/m²)
+012345678910111213141516TooltipGoogle Pixel 10 Pro Google Tensor G5; 1920x1080 Aztec Ruins Normal Offscreen: Ø10.2 (8.75-11.7) Samsung Galaxy S25 Qualcomm Snapdragon 8 Elite for Galaxy; 1920x1080 Aztec Ruins Normal Offscreen: Ø14.1 (9.13-16.2) Google Pixel 10 Pro Google Tensor G5; Idle 150cd/m2: Ø0.865 (0.78-1.11) Samsung Galaxy S25 Qualcomm Snapdragon 8 Elite for Galaxy; Idle 150cd/m2: Ø0.697 (0.648-0.956)
+Battery lifeThe battery run times are impressive in the test, and the Pixel 10 Pro lasts long, even over a whole day. However, the competition shows that even higher run times are possible, which is usually achieved with larger batteries.
+Battery Runtime
+Idle (without WLAN, min brightness)
+33h 05min
+WiFi Websurfing (Chrome 140)
+21h 06min
+Big Buck Bunny H.264 1080p
+23h 59min
+Load (maximum brightness)
+3h 15min
+Google Pixel 10 Pro4870 mAhSamsung Galaxy S254000 mAhApple iPhone 16 Pro3582 mAhXiaomi 155400 mAhHonor Magic7 Pro5270 mAhBattery runtime6%16%46%20%Reader / Idle (h)33.145.2 37%55.3 67%62.7 89%42.1 27%H.264 (h)2426.5 10%26.4 10%29.7 24%30.1 25%WiFi v1.3 (h)21.118 -15%16.4 -22%22.8 8%24.7 17%Load (h)3.33 -9%3.6 9%5.4 64%3.6 9%
+Notebookcheck's overall impressions of the Google Pixel 10 ProWith the Pixel 10 Pro, Google is offering a compact flagship smartphone with a good camera, plenty of stamina, and seven years of updates. However, we would have preferred more in terms of raw performance for the asking price.
+Back to the verdictGoogle Pixel 10 Pro
+- 09/30/2025 v8Daniel Schmidt
+Chassis91%Keyboard67 / 75 → 89%Pointing Device96%Connectivity69 / 69 → 100%Weight88%Battery92%Display93%Games Performance42 / 55 → 75%Application Performance74 / 85 → 87%AI Performance49%Temperature90%Noise100%Audio78 / 90 → 87%Camera86%Average82%89%Smartphone - Weighted AverageCO2 Emissions84.7%Materials60%Packaging100%Power Use94.8%Repairability76%Software Updates100% Total Sustainability Score: 85.9%
+Potential competitors in comparison
+ImageModel / ReviewPriceWeightDriveDisplay
+1.88.9%Google Pixel 10 ProGoogle Tensor G5 ⎘ IMG DXT-48-1536 ⎘16 GB Memory, 256 GB Amazon: $1,099.00List Price: 1199€207 g256 GB UFS 4.0 Flash6.30"2856x1280497 PPIOLED
+2.88.9%Samsung Galaxy S25Qualcomm Snapdragon 8 Elite for Galaxy ⎘ Qualcomm Adreno 830 ⎘12 GB Memory, 256 GB Amazon: 1. $7.58firtstnow 3 Pack Glass Scree...2. $7.39amFilm Auto-alignment OneTou...3. $7.99Supershieldz (3 Pack) Design...List Price: 899€162 g256 GB UFS 4.0 Flash6.20"2340x1080416 PPIAMOLED
+3.87.9%Apple iPhone 16 ProApple A18 Pro ⎘ Apple A18 Pro GPU ⎘8 GB Memory, 128 GB NVMeAmazon: 1. $39.99Apple iPhone 16 Pro Silicone...2. $39.99Apple iPhone 16 Pro Max Sili...3. $8.98Ailun 3 Pack Screen Protecto...List Price: 1200 Euro199 g128 GB NVMe6.30"2622x1206460 PPISuper Retina XDR OLED
+4.88.4%Xiaomi 15Qualcomm Snapdragon 8 Elite ⎘ Qualcomm Adreno 830 ⎘12 GB Memory, 512 GB Amazon: 1. $11.99Ibywind for Xiaomi 15 Ultra ...2. $11.99Ibywind 2 Pack Screen Protec...3. $7.99Suttkue for Xiaomi 15 Screen...List Price: 760€191 g512 GB UFS 4.0 Flash6.36"2670x1200460 PPIOLED
+5.89.2%Honor Magic7 ProQualcomm Snapdragon 8 Elite ⎘ Qualcomm Adreno 830 ⎘12 GB Memory, 512 GB Amazon: 1. $11.99Ibywind for Honor Magic7 Pro...2. $9.99Anbzsign (2+2 Pack) for Hono...3. $7.99Lucyliy (3 Pack) Compatible ...List Price: 1300€223 g512 GB UFS 4.0 Flash6.80"2800x1280453 PPIOLED
+More articles related to this deviceGoogle Pixel 10 Pro (Pixel 10 Series)Review•Google Pixel 10 Pro XL Smartphone Review: Gorgeous flagship that offers a g... |News•Google Pixel 10 Pro XL: Teardown expert impressed by repairable internals a... |News•Google Pixel 10 shows significant repair improvements in iFixit teardown |News•Google Pixel Feature Drop adds Material 3 Expressive and new features to Pi... |News•Google Pixel 10 has massive display problems according to user reports |News•Google Pixel 10 Pro XL: Durability test reveals Pixelsnap magnets |News•Pixel 10 Pro XL lands top-five spot in DxOMark camera ranking, ahead of iPh... |News•Battery life test: Google Pixel 10 Pro takes on Apple iPhone 16 Pro and Sam... |News•Google comments on the old design of the Pixel 10, Pixel Tablet, Pixel Ring... |Magazine•First Google Pixel 10 Pro camera reviews: Much criticism, poor Pro Res zoom... |News•Google Pixel 10 Pro: Reduced display flickering intended to reduce headache... |News•Google Pixel 10 (Pro) reduces battery capacity after just 200 charging cycles |News•Google Pixel 10: Retailer leaks cheaper, magnetic Qi2 Pixel Stand and 67-wa... |News•Google Pixel 10 Pro Fold will also feature 10x zoom and exclusive IP68 cert... |News•Google Pixel 10 (Pro): Official cases with Qi2 magnets leak in all seven co... |News•Google Pixel 10 gets new camera AI features according to leak |News•Google Pixel 10 teaser video is full of jabs at Apple's iPhone |News•Google Pixel 10 series: All euro prices leaked including Pixel 10 Pro Fold ... ...Related ArticlesPixel 10 Pro XL: New DxOMark analysis finds Google's latest flagship has the best smartphone display of all time
+09/22/2025Google Pixel 10 Pro XL Smartphone Review: Gorgeous flagship that offers a great Android experience with one Achilles heel
+09/20/2025Pixel 10 Pro XL users facing audio recording issues, here's the reason
+09/19/2025Google Tensor G5 shows mixed results in new Pixel 10 Pro XL gaming test
+08/31/2025
+TransparencyThe selection of devices to be reviewed is made by our editorial team. The test sample was freely purchased by the author at his/her own expense. The lender had no influence on this review, nor did the manufacturer receive a copy of this review before publication. There was no obligation to publish this review. As an independent media company, Notebookcheck is not subjected to the authority of manufacturers, retailers or publishers.This is how Notebookcheck is testingEvery year, Notebookcheck independently reviews hundreds of laptops and smartphones using standardized procedures to ensure that all results are comparable. We have continuously developed our test methods for around 20 years and set industry standards in the process. In our test labs, high-quality measuring equipment is utilized by experienced technicians and editors. These tests involve a multi-stage validation process. Our complex rating system is based on hundreds of well-founded measurements and benchmarks, which maintains objectivity. Further information on our test methods can be found here.
+Read all 1 comments / answer static version load dynamicLoading Comments
+Comment on this article
+Editor of the original article: Daniel Schmidt - Managing Editor Mobile - 723 articles published on Notebookcheck since 2013As a child I was fascinated by my Commodore 16, and this sparked my enthusiasm for computers. Using my first modem, I surfed the BTX videotext system and later the World Wide Web. I have always been captivated by the latest technologies, and this is especially true for mobile devices such as smartphones and tablets. I’ve been part of the Notebookcheck team since 2013 and have also on occasion written for Notebookinfo.de, and I’m looking forward to testing new innovations for our readers. I like to spend my spare time indulging in photography and barbecues and being with my family.contact me via:
+@Tellheim,
+Facebook, tellheim1763, LinkedIn, XingTranslator: Ninh Ngoc Duy - Editorial Assistant - 629755 articles published on Notebookcheck since 2008My main responsibility as an editorial assistant is maintaining the Library section, which aggregates reviews from other publications and channels. In addition, my daily breakfast is Notebookcheck's long list of new content, which I comb through to select the most interesting topics for translation from English to French, Italian, Spanish, Portuguese, and Dutch."contact me via:
+Facebook
+Please share our article, every link counts!

@@ -1,0 +1,88 @@
+{
+  "variant": "v1-minimal",
+  "phone": "apple iphone 15 pro",
+  "timestamp": "2025-12-10T06:15:29.483Z",
+  "model": "tngtech/deepseek-r1t2-chimera:free",
+  "metrics": {
+    "promptLength": 242927,
+    "promptTokens": 65268,
+    "completionTokens": 2883,
+    "totalTokens": 68151,
+    "elapsedMs": 167050
+  },
+  "result": {
+    "summary_1_page": "The iPhone 15 Pro stands out with its titanium design, USB-C connectivity, and powerful A17 Pro chip, delivering top-tier performance and camera capabilities. The 6.1-inch OLED display offers excellent brightness and color accuracy, while iOS 17 provides a smooth experience with long-term updates. However, battery life is average, charging remains slow at 20W, and the base storage starts at 128GB. Notable drawbacks include no included charger and a high price, but the phone's premium build, camera quality, and software support make it a strong flagship contender.",
+    "pros": [
+      "Titanium design reduces weight and improves durability",
+      "USB-C port for universal charging and faster data transfer",
+      "Powerful A17 Pro chip with top-tier performance",
+      "Excellent camera system with advanced video features",
+      "Long-term software support (5+ years of updates)"
+    ],
+    "cons": [
+      "Slow charging speeds (max 20W)",
+      "No charger included in the box",
+      "High starting price for base storage (128GB)",
+      "Limited zoom capabilities compared to Pro Max model",
+      "Initial overheating issues (fixed via software update)"
+    ],
+    "attributes": [
+      {
+        "name": "Camera",
+        "score": 9.12,
+        "explanation": "Main camera excels with 48MP sensor and 24MP processing (38%). Low-light performance is strong but has minor issues (32%). Video capabilities are outstanding with ProRes and LOG support (20%). Selfie camera is reliable with 12MP and OIS (10%). DXOMark score of 154 reinforces high quality."
+      },
+      {
+        "name": "Battery Endurance",
+        "score": 7.5,
+        "explanation": "Efficiency is good but not class-leading (38%). Capacity (3274mAh) is adequate (32%). Charging is slow at 20W (18%). Degradation is managed via 80% charge limit (12%). Average active use of 12.5 hours noted across reviews."
+      },
+      {
+        "name": "Performance",
+        "score": 9.5,
+        "explanation": "Sustained performance shows minor throttling under heavy load (44%). Peak performance leads benchmarks (34%). Thermals improved post-update (18%). NPU enhancements aid machine learning tasks (4%). Geekbench scores (Single: ~2900, Multi: ~7200) are exceptional."
+      },
+      {
+        "name": "Display",
+        "score": 9,
+        "explanation": "Eye comfort affected by 240Hz PWM flickering (34%). Brightness reaches up to 2000 nits (30%). Color accuracy is excellent (22%). 120Hz ProMotion refresh rate is smooth (10%). HDR10 and Dolby Vision support (4%). DXOMark display score of 151."
+      },
+      {
+        "name": "Software Experience",
+        "score": 9,
+        "explanation": "Clean iOS interface with minimal bloat (46%). 5+ years of updates (28%). Features like Action button and StandBy mode add utility (18%). Minor bugs addressed via updates (8%)."
+      },
+      {
+        "name": "Design & Build",
+        "score": 9,
+        "explanation": "Weight reduced with titanium frame (38%). Premium materials (34%). Haptics are best-in-class (18%). IP68 rating and Ceramic Shield enhance durability (10%)."
+      },
+      {
+        "name": "Longevity Value",
+        "score": 8,
+        "explanation": "Update policy (5+ years) is strong (58%). Price-to-performance ratio is high due to premium cost (32%). Resale value remains excellent (10%)."
+      }
+    ],
+    "antutu": 1566329,
+    "geekbench": {
+      "single": 2900,
+      "multi": 7200
+    },
+    "dxocamera": 154,
+    "dxodisplay": 151,
+    "batteryActiveUse": 12.5,
+    "softwareSupportYears": 5,
+    "currentPrice": {
+      "usd": 999,
+      "eur": 733,
+      "gbp": 565,
+      "inr": 83000
+    },
+    "launchPrice": {
+      "usd": 999,
+      "eur": 733,
+      "gbp": 565,
+      "inr": 83000
+    }
+  }
+}

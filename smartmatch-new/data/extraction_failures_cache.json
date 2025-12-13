@@ -1,0 +1,905 @@
+{
+  "https://www.androidauthority.com/tag/oneplus-13r/": {
+    "url": "https://www.androidauthority.com/tag/oneplus-13r/",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20251010062144/https://www.androidauthority.com/tag/oneplus-13r/",
+      "https://web.archive.org/web/20251009144553/https://www.androidauthority.com/tag/oneplus-13r/",
+      "https://web.archive.org/web/20251008233934/https://www.androidauthority.com/tag/oneplus-13r/",
+      "https://web.archive.org/web/20250924235303/https://www.androidauthority.com/tag/oneplus-13r/",
+      "https://web.archive.org/web/20250923225722/https://www.androidauthority.com/tag/oneplus-13r/",
+      "https://web.archive.org/web/20250729173849/https://www.androidauthority.com/tag/oneplus-13r/",
+      "https://web.archive.org/web/20250811234239/https://www.androidauthority.com/tag/oneplus-13r/",
+      "https://web.archive.org/web/20250618194537/https://www.androidauthority.com/tag/oneplus-13r/",
+      "https://web.archive.org/web/20250131192101/https://www.androidauthority.com/tag/oneplus-13r/",
+      "https://web.archive.org/web/20250430123125/https://www.androidauthority.com/tag/oneplus-13r/",
+      "https://web.archive.org/web/20250518004831/https://www.androidauthority.com/tag/oneplus-13r/",
+      "https://web.archive.org/web/20241224145603/https://www.androidauthority.com/tag/oneplus-13r/"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20251010062144/https://www.androidauthority.com/tag/oneplus-13r/": "word_count_too_low",
+      "https://web.archive.org/web/20251009144553/https://www.androidauthority.com/tag/oneplus-13r/": "word_count_too_low",
+      "https://web.archive.org/web/20251008233934/https://www.androidauthority.com/tag/oneplus-13r/": "word_count_too_low",
+      "https://web.archive.org/web/20250924235303/https://www.androidauthority.com/tag/oneplus-13r/": "word_count_too_low",
+      "https://web.archive.org/web/20250923225722/https://www.androidauthority.com/tag/oneplus-13r/": "word_count_too_low",
+      "https://web.archive.org/web/20250729173849/https://www.androidauthority.com/tag/oneplus-13r/": "word_count_too_low",
+      "https://web.archive.org/web/20250811234239/https://www.androidauthority.com/tag/oneplus-13r/": "word_count_too_low",
+      "https://web.archive.org/web/20250618194537/https://www.androidauthority.com/tag/oneplus-13r/": "word_count_too_low",
+      "https://web.archive.org/web/20250131192101/https://www.androidauthority.com/tag/oneplus-13r/": "word_count_too_low",
+      "https://web.archive.org/web/20250430123125/https://www.androidauthority.com/tag/oneplus-13r/": "word_count_too_low",
+      "https://web.archive.org/web/20250518004831/https://www.androidauthority.com/tag/oneplus-13r/": "word_count_too_low",
+      "https://web.archive.org/web/20241224145603/https://www.androidauthority.com/tag/oneplus-13r/": "word_count_too_low"
+    },
+    "lastRetryDate": "2025-12-06",
+    "dailyRetries": 1,
+    "failureType": "validation",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-06T14:21:01.823Z"
+  },
+  "https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen": {
+    "url": "https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250909031206/https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen",
+      "https://web.archive.org/web/20250728235453/https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen",
+      "https://web.archive.org/web/20250803233106/https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen",
+      "https://web.archive.org/web/20250826225246/https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen",
+      "https://web.archive.org/web/20250829060535/https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen",
+      "https://web.archive.org/web/20251003232742/https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen",
+      "https://web.archive.org/web/20250628142818/https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250909031206/https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen": "missing_brand_or_model",
+      "https://web.archive.org/web/20250728235453/https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen": "missing_brand_or_model",
+      "https://web.archive.org/web/20250803233106/https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen": "missing_brand_or_model",
+      "https://web.archive.org/web/20250826225246/https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen": "missing_brand_or_model",
+      "https://web.archive.org/web/20250829060535/https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen": "missing_brand_or_model",
+      "https://web.archive.org/web/20251003232742/https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen": "missing_brand_or_model",
+      "https://web.archive.org/web/20250628142818/https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen": "missing_brand_or_model"
+    },
+    "lastRetryDate": "2025-12-09",
+    "dailyRetries": 3,
+    "failureType": "validation",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-07T21:17:09.750Z"
+  },
+  "https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery": {
+    "url": "https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250909031221/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery",
+      "https://web.archive.org/web/20250908005020/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery",
+      "https://web.archive.org/web/20250728235510/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery",
+      "https://web.archive.org/web/20250802155248/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery",
+      "https://web.archive.org/web/20250803233123/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery",
+      "https://web.archive.org/web/20250405114224/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery",
+      "https://web.archive.org/web/20250307190926/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery",
+      "https://web.archive.org/web/20250602032315/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery",
+      "https://web.archive.org/web/20250219115711/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery",
+      "https://web.archive.org/web/20250501054645/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250909031221/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery": "missing_brand_or_model",
+      "https://web.archive.org/web/20250908005020/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery": "missing_brand_or_model",
+      "https://web.archive.org/web/20250728235510/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery": "missing_brand_or_model",
+      "https://web.archive.org/web/20250802155248/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery": "missing_brand_or_model",
+      "https://web.archive.org/web/20250803233123/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery": "missing_brand_or_model",
+      "https://web.archive.org/web/20250405114224/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery": "missing_brand_or_model",
+      "https://web.archive.org/web/20250307190926/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery": "missing_brand_or_model",
+      "https://web.archive.org/web/20250602032315/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery": "missing_brand_or_model",
+      "https://web.archive.org/web/20250219115711/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery": "missing_brand_or_model",
+      "https://web.archive.org/web/20250501054645/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery": "missing_brand_or_model"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 5,
+    "failureType": "validation",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-07T21:18:11.088Z"
+  },
+  "https://www.gsmarena.com/google_pixel_10_5g-13979.php": {
+    "url": "https://www.gsmarena.com/google_pixel_10_5g-13979.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20251002153811/https://www.gsmarena.com/google_pixel_10_5g-13979.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20251002153811/https://www.gsmarena.com/google_pixel_10_5g-13979.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 3,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-09T22:58:08.391Z"
+  },
+  "https://www.gsmarena.com/google_pixel_10-review-2878.php": {
+    "url": "https://www.gsmarena.com/google_pixel_10-review-2878.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250910160901/https://www.gsmarena.com/google_pixel_10-review-2878.php",
+      "https://web.archive.org/web/20250914125016/https://www.gsmarena.com/google_pixel_10-review-2878.php",
+      "https://web.archive.org/web/20250906215320/https://www.gsmarena.com/google_pixel_10-review-2878.php",
+      "https://web.archive.org/web/20250921201057/https://www.gsmarena.com/google_pixel_10-review-2878.php",
+      "https://web.archive.org/web/20250915141708/https://www.gsmarena.com/google_pixel_10-review-2878.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250910160901/https://www.gsmarena.com/google_pixel_10-review-2878.php": "validation_failed",
+      "https://web.archive.org/web/20250914125016/https://www.gsmarena.com/google_pixel_10-review-2878.php": "validation_failed",
+      "https://web.archive.org/web/20250906215320/https://www.gsmarena.com/google_pixel_10-review-2878.php": "validation_failed",
+      "https://web.archive.org/web/20250921201057/https://www.gsmarena.com/google_pixel_10-review-2878.php": "validation_failed",
+      "https://web.archive.org/web/20250915141708/https://www.gsmarena.com/google_pixel_10-review-2878.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 3,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-09T22:58:10.769Z"
+  },
+  "https://www.theverge.com/tech/795298/google-pixel-10-pro-fold-review": {
+    "url": "https://www.theverge.com/tech/795298/google-pixel-10-pro-fold-review",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20251009120925/https://www.theverge.com/tech/795298/google-pixel-10-pro-fold-review",
+      "https://web.archive.org/web/20251009000355/https://www.theverge.com/tech/795298/google-pixel-10-pro-fold-review",
+      "https://web.archive.org/web/20251009092507/https://www.theverge.com/tech/795298/google-pixel-10-pro-fold-review",
+      "https://web.archive.org/web/20251008172457/https://www.theverge.com/tech/795298/google-pixel-10-pro-fold-review",
+      "https://web.archive.org/web/20251008172639/https://www.theverge.com/tech/795298/google-pixel-10-pro-fold-review"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20251009120925/https://www.theverge.com/tech/795298/google-pixel-10-pro-fold-review": "validation_failed",
+      "https://web.archive.org/web/20251009000355/https://www.theverge.com/tech/795298/google-pixel-10-pro-fold-review": "validation_failed",
+      "https://web.archive.org/web/20251009092507/https://www.theverge.com/tech/795298/google-pixel-10-pro-fold-review": "validation_failed",
+      "https://web.archive.org/web/20251008172457/https://www.theverge.com/tech/795298/google-pixel-10-pro-fold-review": "validation_failed",
+      "https://web.archive.org/web/20251008172639/https://www.theverge.com/tech/795298/google-pixel-10-pro-fold-review": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 3,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-09T22:58:26.595Z"
+  },
+  "https://www.androidcentral.com/phones/google-pixel/google-pixel-10-pro-fold-early-impressions": {
+    "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-10-pro-fold-early-impressions",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20251010174917/https://www.androidcentral.com/phones/google-pixel/google-pixel-10-pro-fold-early-impressions",
+      "https://web.archive.org/web/20251010062707/https://www.androidcentral.com/phones/google-pixel/google-pixel-10-pro-fold-early-impressions",
+      "https://web.archive.org/web/20251008185241/https://www.androidcentral.com/phones/google-pixel/google-pixel-10-pro-fold-early-impressions",
+      "https://web.archive.org/web/20251009023339/https://www.androidcentral.com/phones/google-pixel/google-pixel-10-pro-fold-early-impressions"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20251010174917/https://www.androidcentral.com/phones/google-pixel/google-pixel-10-pro-fold-early-impressions": "validation_failed",
+      "https://web.archive.org/web/20251010062707/https://www.androidcentral.com/phones/google-pixel/google-pixel-10-pro-fold-early-impressions": "validation_failed",
+      "https://web.archive.org/web/20251008185241/https://www.androidcentral.com/phones/google-pixel/google-pixel-10-pro-fold-early-impressions": "validation_failed",
+      "https://web.archive.org/web/20251009023339/https://www.androidcentral.com/phones/google-pixel/google-pixel-10-pro-fold-early-impressions": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 3,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-09T22:58:30.884Z"
+  },
+  "https://www.techradar.com/phones/nothing-phones/i-went-hands-on-with-the-nothing-phone-3-and-it-might-just-be-the-most-interesting-phone-of-the-year-heres-why": {
+    "url": "https://www.techradar.com/phones/nothing-phones/i-went-hands-on-with-the-nothing-phone-3-and-it-might-just-be-the-most-interesting-phone-of-the-year-heres-why",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20251006215600/https://www.techradar.com/phones/nothing-phones/i-went-hands-on-with-the-nothing-phone-3-and-it-might-just-be-the-most-interesting-phone-of-the-year-heres-why",
+      "https://web.archive.org/web/20250828124117/https://www.techradar.com/phones/nothing-phones/i-went-hands-on-with-the-nothing-phone-3-and-it-might-just-be-the-most-interesting-phone-of-the-year-heres-why",
+      "https://web.archive.org/web/20250703132623/https://www.techradar.com/phones/nothing-phones/i-went-hands-on-with-the-nothing-phone-3-and-it-might-just-be-the-most-interesting-phone-of-the-year-heres-why",
+      "https://web.archive.org/web/20250702114650/https://www.techradar.com/phones/nothing-phones/i-went-hands-on-with-the-nothing-phone-3-and-it-might-just-be-the-most-interesting-phone-of-the-year-heres-why",
+      "https://web.archive.org/web/20250702132219/https://www.techradar.com/phones/nothing-phones/i-went-hands-on-with-the-nothing-phone-3-and-it-might-just-be-the-most-interesting-phone-of-the-year-heres-why"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20251006215600/https://www.techradar.com/phones/nothing-phones/i-went-hands-on-with-the-nothing-phone-3-and-it-might-just-be-the-most-interesting-phone-of-the-year-heres-why": "validation_failed",
+      "https://web.archive.org/web/20250828124117/https://www.techradar.com/phones/nothing-phones/i-went-hands-on-with-the-nothing-phone-3-and-it-might-just-be-the-most-interesting-phone-of-the-year-heres-why": "validation_failed",
+      "https://web.archive.org/web/20250703132623/https://www.techradar.com/phones/nothing-phones/i-went-hands-on-with-the-nothing-phone-3-and-it-might-just-be-the-most-interesting-phone-of-the-year-heres-why": "validation_failed",
+      "https://web.archive.org/web/20250702114650/https://www.techradar.com/phones/nothing-phones/i-went-hands-on-with-the-nothing-phone-3-and-it-might-just-be-the-most-interesting-phone-of-the-year-heres-why": "validation_failed",
+      "https://web.archive.org/web/20250702132219/https://www.techradar.com/phones/nothing-phones/i-went-hands-on-with-the-nothing-phone-3-and-it-might-just-be-the-most-interesting-phone-of-the-year-heres-why": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 3,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-09T22:58:39.154Z"
+  },
+  "https://www.androidcentral.com/phones/heres-what-i-want-from-nothing-phone-3-after-using-phone-3a-pro": {
+    "url": "https://www.androidcentral.com/phones/heres-what-i-want-from-nothing-phone-3-after-using-phone-3a-pro",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250917212437/https://www.androidcentral.com/phones/heres-what-i-want-from-nothing-phone-3-after-using-phone-3a-pro",
+      "https://web.archive.org/web/20250721092302/https://www.androidcentral.com/phones/heres-what-i-want-from-nothing-phone-3-after-using-phone-3a-pro",
+      "https://web.archive.org/web/20250410005725/https://www.androidcentral.com/phones/heres-what-i-want-from-nothing-phone-3-after-using-phone-3a-pro",
+      "https://web.archive.org/web/20250724071102/https://www.androidcentral.com/phones/heres-what-i-want-from-nothing-phone-3-after-using-phone-3a-pro",
+      "https://web.archive.org/web/20250406164446/https://www.androidcentral.com/phones/heres-what-i-want-from-nothing-phone-3-after-using-phone-3a-pro"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250917212437/https://www.androidcentral.com/phones/heres-what-i-want-from-nothing-phone-3-after-using-phone-3a-pro": "validation_failed",
+      "https://web.archive.org/web/20250721092302/https://www.androidcentral.com/phones/heres-what-i-want-from-nothing-phone-3-after-using-phone-3a-pro": "validation_failed",
+      "https://web.archive.org/web/20250410005725/https://www.androidcentral.com/phones/heres-what-i-want-from-nothing-phone-3-after-using-phone-3a-pro": "validation_failed",
+      "https://web.archive.org/web/20250724071102/https://www.androidcentral.com/phones/heres-what-i-want-from-nothing-phone-3-after-using-phone-3a-pro": "validation_failed",
+      "https://web.archive.org/web/20250406164446/https://www.androidcentral.com/phones/heres-what-i-want-from-nothing-phone-3-after-using-phone-3a-pro": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 3,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-09T22:58:40.641Z"
+  },
+  "https://www.gsmarena.com/apple_iphone_se_2022-review-2405p3.php": {
+    "url": "https://www.gsmarena.com/apple_iphone_se_2022-review-2405p3.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250806130803/https://www.gsmarena.com/apple_iphone_se_2022-review-2405p3.php",
+      "https://web.archive.org/web/20250802093204/https://www.gsmarena.com/apple_iphone_se_2022-review-2405p3.php",
+      "https://web.archive.org/web/20250317194709/https://www.gsmarena.com/apple_iphone_se_2022-review-2405p3.php",
+      "https://web.archive.org/web/20250304094210/https://www.gsmarena.com/apple_iphone_se_2022-review-2405p3.php",
+      "https://web.archive.org/web/20250214100907/https://www.gsmarena.com/apple_iphone_se_2022-review-2405p3.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250806130803/https://www.gsmarena.com/apple_iphone_se_2022-review-2405p3.php": "validation_failed",
+      "https://web.archive.org/web/20250802093204/https://www.gsmarena.com/apple_iphone_se_2022-review-2405p3.php": "validation_failed",
+      "https://web.archive.org/web/20250317194709/https://www.gsmarena.com/apple_iphone_se_2022-review-2405p3.php": "validation_failed",
+      "https://web.archive.org/web/20250304094210/https://www.gsmarena.com/apple_iphone_se_2022-review-2405p3.php": "validation_failed",
+      "https://web.archive.org/web/20250214100907/https://www.gsmarena.com/apple_iphone_se_2022-review-2405p3.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 2,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-10T02:07:28.714Z"
+  },
+  "https://www.tomsguide.com/phones/iphones/iphone-se-4-apple-is-about-to-kill-these-iphone-features-forever": {
+    "url": "https://www.tomsguide.com/phones/iphones/iphone-se-4-apple-is-about-to-kill-these-iphone-features-forever",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250313102144/https://www.tomsguide.com/phones/iphones/iphone-se-4-apple-is-about-to-kill-these-iphone-features-forever",
+      "https://web.archive.org/web/20250321200133/https://www.tomsguide.com/phones/iphones/iphone-se-4-apple-is-about-to-kill-these-iphone-features-forever",
+      "https://web.archive.org/web/20250307225516/https://www.tomsguide.com/phones/iphones/iphone-se-4-apple-is-about-to-kill-these-iphone-features-forever",
+      "https://web.archive.org/web/20250427000952/https://www.tomsguide.com/phones/iphones/iphone-se-4-apple-is-about-to-kill-these-iphone-features-forever",
+      "https://web.archive.org/web/20250622080952/https://www.tomsguide.com/phones/iphones/iphone-se-4-apple-is-about-to-kill-these-iphone-features-forever"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250313102144/https://www.tomsguide.com/phones/iphones/iphone-se-4-apple-is-about-to-kill-these-iphone-features-forever": "validation_failed",
+      "https://web.archive.org/web/20250321200133/https://www.tomsguide.com/phones/iphones/iphone-se-4-apple-is-about-to-kill-these-iphone-features-forever": "validation_failed",
+      "https://web.archive.org/web/20250307225516/https://www.tomsguide.com/phones/iphones/iphone-se-4-apple-is-about-to-kill-these-iphone-features-forever": "validation_failed",
+      "https://web.archive.org/web/20250427000952/https://www.tomsguide.com/phones/iphones/iphone-se-4-apple-is-about-to-kill-these-iphone-features-forever": "validation_failed",
+      "https://web.archive.org/web/20250622080952/https://www.tomsguide.com/phones/iphones/iphone-se-4-apple-is-about-to-kill-these-iphone-features-forever": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 2,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-10T05:49:30.966Z"
+  },
+  "https://www.notebookcheck.net/iPhone-SE-4-All-that-we-know-about-Apple-s-upcoming-budget-iPhone.961825.0.html": {
+    "url": "https://www.notebookcheck.net/iPhone-SE-4-All-that-we-know-about-Apple-s-upcoming-budget-iPhone.961825.0.html",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250224121226/https://www.notebookcheck.net/iPhone-SE-4-All-that-we-know-about-Apple-s-upcoming-budget-iPhone.961825.0.html"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250224121226/https://www.notebookcheck.net/iPhone-SE-4-All-that-we-know-about-Apple-s-upcoming-budget-iPhone.961825.0.html": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 2,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-10T05:49:42.411Z"
+  },
+  "https://www.androidauthority.com/iphone-se-4-possible-launch-alongside-iphone-16-3477248/": {
+    "url": "https://www.androidauthority.com/iphone-se-4-possible-launch-alongside-iphone-16-3477248/",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20240907070506/https://www.androidauthority.com/iphone-se-4-possible-launch-alongside-iphone-16-3477248/",
+      "https://web.archive.org/web/20240902214902/https://www.androidauthority.com/iphone-se-4-possible-launch-alongside-iphone-16-3477248/",
+      "https://web.archive.org/web/20240903180413/https://www.androidauthority.com/iphone-se-4-possible-launch-alongside-iphone-16-3477248/",
+      "https://web.archive.org/web/20241207054928/https://www.androidauthority.com/iphone-se-4-possible-launch-alongside-iphone-16-3477248/",
+      "https://web.archive.org/web/20240914082804/https://www.androidauthority.com/iphone-se-4-possible-launch-alongside-iphone-16-3477248/"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20240907070506/https://www.androidauthority.com/iphone-se-4-possible-launch-alongside-iphone-16-3477248/": "validation_failed",
+      "https://web.archive.org/web/20240902214902/https://www.androidauthority.com/iphone-se-4-possible-launch-alongside-iphone-16-3477248/": "validation_failed",
+      "https://web.archive.org/web/20240903180413/https://www.androidauthority.com/iphone-se-4-possible-launch-alongside-iphone-16-3477248/": "validation_failed",
+      "https://web.archive.org/web/20241207054928/https://www.androidauthority.com/iphone-se-4-possible-launch-alongside-iphone-16-3477248/": "validation_failed",
+      "https://web.archive.org/web/20240914082804/https://www.androidauthority.com/iphone-se-4-possible-launch-alongside-iphone-16-3477248/": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 2,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-10T05:49:44.855Z"
+  },
+  "https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php": {
+    "url": "https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20251202081222/https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php",
+      "https://web.archive.org/web/20250910160928/https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php",
+      "https://web.archive.org/web/20250915211808/https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php",
+      "https://web.archive.org/web/20250914125534/https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php",
+      "https://web.archive.org/web/20250821022629/https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20251202081222/https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php": "validation_failed",
+      "https://web.archive.org/web/20250910160928/https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php": "validation_failed",
+      "https://web.archive.org/web/20250915211808/https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php": "validation_failed",
+      "https://web.archive.org/web/20250914125534/https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php": "validation_failed",
+      "https://web.archive.org/web/20250821022629/https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 2,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-10T05:50:02.228Z"
+  },
+  "https://www.gsmarena.com/nothing_phone_(3)_5g-13969.php": {
+    "url": "https://www.gsmarena.com/nothing_phone_(3)_5g-13969.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20251007152307/https://www.gsmarena.com/nothing_phone_(3)_5g-13969.php",
+      "https://web.archive.org/web/20251211191401/https://www.gsmarena.com/nothing_phone_(3)_5g-13969.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20251007152307/https://www.gsmarena.com/nothing_phone_(3)_5g-13969.php": "validation_failed",
+      "https://web.archive.org/web/20251211191401/https://www.gsmarena.com/nothing_phone_(3)_5g-13969.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 2,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-10T05:50:10.691Z"
+  },
+  "https://www.gsmarena.com/nothing_phone_3-review-2853.php": {
+    "url": "https://www.gsmarena.com/nothing_phone_3-review-2853.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250716193030/https://www.gsmarena.com/nothing_phone_3-review-2853.php",
+      "https://web.archive.org/web/20250828134750/https://www.gsmarena.com/nothing_phone_3-review-2853.php",
+      "https://web.archive.org/web/20251001150300/https://www.gsmarena.com/nothing_phone_3-review-2853.php",
+      "https://web.archive.org/web/20250716103222/https://www.gsmarena.com/nothing_phone_3-review-2853.php",
+      "https://web.archive.org/web/20250916082823/https://www.gsmarena.com/nothing_phone_3-review-2853.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250716193030/https://www.gsmarena.com/nothing_phone_3-review-2853.php": "validation_failed",
+      "https://web.archive.org/web/20250828134750/https://www.gsmarena.com/nothing_phone_3-review-2853.php": "validation_failed",
+      "https://web.archive.org/web/20251001150300/https://www.gsmarena.com/nothing_phone_3-review-2853.php": "validation_failed",
+      "https://web.archive.org/web/20250716103222/https://www.gsmarena.com/nothing_phone_3-review-2853.php": "validation_failed",
+      "https://web.archive.org/web/20250916082823/https://www.gsmarena.com/nothing_phone_3-review-2853.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 2,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-10T05:50:12.311Z"
+  },
+  "https://www.gsmarena.com/honor_magic7_pro-13480.php": {
+    "url": "https://www.gsmarena.com/honor_magic7_pro-13480.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20251010130238/https://www.gsmarena.com/honor_magic7_pro-13480.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20251010130238/https://www.gsmarena.com/honor_magic7_pro-13480.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T02:20:22.003Z"
+  },
+  "https://www.gsmarena.com/samsung_galaxy_s25_plus-review-2795.php": {
+    "url": "https://www.gsmarena.com/samsung_galaxy_s25_plus-review-2795.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250528025027/https://www.gsmarena.com/samsung_galaxy_s25_plus-review-2795.php",
+      "https://web.archive.org/web/20250512021913/https://www.gsmarena.com/samsung_galaxy_s25_plus-review-2795.php",
+      "https://web.archive.org/web/20250426211501/https://www.gsmarena.com/samsung_galaxy_s25_plus-review-2795.php",
+      "https://web.archive.org/web/20250425184452/https://www.gsmarena.com/samsung_galaxy_s25_plus-review-2795.php",
+      "https://web.archive.org/web/20250605173655/https://www.gsmarena.com/samsung_galaxy_s25_plus-review-2795.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250528025027/https://www.gsmarena.com/samsung_galaxy_s25_plus-review-2795.php": "validation_failed",
+      "https://web.archive.org/web/20250512021913/https://www.gsmarena.com/samsung_galaxy_s25_plus-review-2795.php": "validation_failed",
+      "https://web.archive.org/web/20250426211501/https://www.gsmarena.com/samsung_galaxy_s25_plus-review-2795.php": "validation_failed",
+      "https://web.archive.org/web/20250425184452/https://www.gsmarena.com/samsung_galaxy_s25_plus-review-2795.php": "validation_failed",
+      "https://web.archive.org/web/20250605173655/https://www.gsmarena.com/samsung_galaxy_s25_plus-review-2795.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:51:26.251Z"
+  },
+  "https://www.gsmarena.com/samsung_galaxy_s25+-13609.php": {
+    "url": "https://www.gsmarena.com/samsung_galaxy_s25+-13609.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250730115216/https://www.gsmarena.com/samsung_galaxy_s25+-13609.php",
+      "https://web.archive.org/web/20250806081730/https://www.gsmarena.com/samsung_galaxy_s25+-13609.php",
+      "https://web.archive.org/web/20250630084200/https://www.gsmarena.com/samsung_galaxy_s25+-13609.php",
+      "https://web.archive.org/web/20250906120413/https://www.gsmarena.com/samsung_galaxy_s25+-13609.php",
+      "https://web.archive.org/web/20250403113006/https://www.gsmarena.com/samsung_galaxy_s25+-13609.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250730115216/https://www.gsmarena.com/samsung_galaxy_s25+-13609.php": "validation_failed",
+      "https://web.archive.org/web/20250806081730/https://www.gsmarena.com/samsung_galaxy_s25+-13609.php": "validation_failed",
+      "https://web.archive.org/web/20250630084200/https://www.gsmarena.com/samsung_galaxy_s25+-13609.php": "validation_failed",
+      "https://web.archive.org/web/20250906120413/https://www.gsmarena.com/samsung_galaxy_s25+-13609.php": "validation_failed",
+      "https://web.archive.org/web/20250403113006/https://www.gsmarena.com/samsung_galaxy_s25+-13609.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:51:37.086Z"
+  },
+  "https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-s25": {
+    "url": "https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-s25",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250123181044/https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-s25",
+      "https://web.archive.org/web/20250123202436/https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-s25",
+      "https://web.archive.org/web/20250402202204/https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-s25",
+      "https://web.archive.org/web/20250406011525/https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-s25",
+      "https://web.archive.org/web/20250127192534/https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-s25"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250123181044/https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-s25": "validation_failed",
+      "https://web.archive.org/web/20250123202436/https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-s25": "validation_failed",
+      "https://web.archive.org/web/20250402202204/https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-s25": "validation_failed",
+      "https://web.archive.org/web/20250406011525/https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-s25": "validation_failed",
+      "https://web.archive.org/web/20250127192534/https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-s25": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:51:25.648Z"
+  },
+  "https://www.androidauthority.com/samsung-galaxy-s25-plus-s-pen-3529774/": {
+    "url": "https://www.androidauthority.com/samsung-galaxy-s25-plus-s-pen-3529774/",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250813192922/https://www.androidauthority.com/samsung-galaxy-s25-plus-s-pen-3529774/",
+      "https://web.archive.org/web/20250317210142/https://www.androidauthority.com/samsung-galaxy-s25-plus-s-pen-3529774/",
+      "https://web.archive.org/web/20250327171011/https://www.androidauthority.com/samsung-galaxy-s25-plus-s-pen-3529774/",
+      "https://web.archive.org/web/20250406001119/https://www.androidauthority.com/samsung-galaxy-s25-plus-s-pen-3529774/",
+      "https://web.archive.org/web/20250302153924/https://www.androidauthority.com/samsung-galaxy-s25-plus-s-pen-3529774/"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250813192922/https://www.androidauthority.com/samsung-galaxy-s25-plus-s-pen-3529774/": "validation_failed",
+      "https://web.archive.org/web/20250317210142/https://www.androidauthority.com/samsung-galaxy-s25-plus-s-pen-3529774/": "validation_failed",
+      "https://web.archive.org/web/20250327171011/https://www.androidauthority.com/samsung-galaxy-s25-plus-s-pen-3529774/": "validation_failed",
+      "https://web.archive.org/web/20250406001119/https://www.androidauthority.com/samsung-galaxy-s25-plus-s-pen-3529774/": "validation_failed",
+      "https://web.archive.org/web/20250302153924/https://www.androidauthority.com/samsung-galaxy-s25-plus-s-pen-3529774/": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:51:52.931Z"
+  },
+  "https://www.theverge.com/reviews/610404/samsung-galaxy-s25-plus-review-screen-battery-camera": {
+    "url": "https://www.theverge.com/reviews/610404/samsung-galaxy-s25-plus-review-screen-battery-camera",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250909031218/https://www.theverge.com/reviews/610404/samsung-galaxy-s25-plus-review-screen-battery-camera",
+      "https://web.archive.org/web/20250908005020/https://www.theverge.com/reviews/610404/samsung-galaxy-s25-plus-review-screen-battery-camera",
+      "https://web.archive.org/web/20250728235509/https://www.theverge.com/reviews/610404/samsung-galaxy-s25-plus-review-screen-battery-camera",
+      "https://web.archive.org/web/20250724114844/https://www.theverge.com/reviews/610404/samsung-galaxy-s25-plus-review-screen-battery-camera",
+      "https://web.archive.org/web/20250803233123/https://www.theverge.com/reviews/610404/samsung-galaxy-s25-plus-review-screen-battery-camera"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250909031218/https://www.theverge.com/reviews/610404/samsung-galaxy-s25-plus-review-screen-battery-camera": "validation_failed",
+      "https://web.archive.org/web/20250908005020/https://www.theverge.com/reviews/610404/samsung-galaxy-s25-plus-review-screen-battery-camera": "validation_failed",
+      "https://web.archive.org/web/20250728235509/https://www.theverge.com/reviews/610404/samsung-galaxy-s25-plus-review-screen-battery-camera": "validation_failed",
+      "https://web.archive.org/web/20250724114844/https://www.theverge.com/reviews/610404/samsung-galaxy-s25-plus-review-screen-battery-camera": "validation_failed",
+      "https://web.archive.org/web/20250803233123/https://www.theverge.com/reviews/610404/samsung-galaxy-s25-plus-review-screen-battery-camera": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:51:55.544Z"
+  },
+  "https://www.theverge.com/2025/1/22/24348458/samsung-galaxy-s25-plus-price-release-date-specs-features-ai": {
+    "url": "https://www.theverge.com/2025/1/22/24348458/samsung-galaxy-s25-plus-price-release-date-specs-features-ai",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250909194349/https://www.theverge.com/2025/1/22/24348458/samsung-galaxy-s25-plus-price-release-date-specs-features-ai",
+      "https://web.archive.org/web/20250718184204/https://www.theverge.com/2025/1/22/24348458/samsung-galaxy-s25-plus-price-release-date-specs-features-ai",
+      "https://web.archive.org/web/20250717023348/https://www.theverge.com/2025/1/22/24348458/samsung-galaxy-s25-plus-price-release-date-specs-features-ai",
+      "https://web.archive.org/web/20250405165215/https://www.theverge.com/2025/1/22/24348458/samsung-galaxy-s25-plus-price-release-date-specs-features-ai",
+      "https://web.archive.org/web/20250219095653/https://www.theverge.com/2025/1/22/24348458/samsung-galaxy-s25-plus-price-release-date-specs-features-ai"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250909194349/https://www.theverge.com/2025/1/22/24348458/samsung-galaxy-s25-plus-price-release-date-specs-features-ai": "validation_failed",
+      "https://web.archive.org/web/20250718184204/https://www.theverge.com/2025/1/22/24348458/samsung-galaxy-s25-plus-price-release-date-specs-features-ai": "validation_failed",
+      "https://web.archive.org/web/20250717023348/https://www.theverge.com/2025/1/22/24348458/samsung-galaxy-s25-plus-price-release-date-specs-features-ai": "validation_failed",
+      "https://web.archive.org/web/20250405165215/https://www.theverge.com/2025/1/22/24348458/samsung-galaxy-s25-plus-price-release-date-specs-features-ai": "validation_failed",
+      "https://web.archive.org/web/20250219095653/https://www.theverge.com/2025/1/22/24348458/samsung-galaxy-s25-plus-price-release-date-specs-features-ai": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:52:03.187Z"
+  },
+  "https://www.androidauthority.com/real-issue-oneplus-open-2-delay-3525976/": {
+    "url": "https://www.androidauthority.com/real-issue-oneplus-open-2-delay-3525976/",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250219155311/https://www.androidauthority.com/real-issue-oneplus-open-2-delay-3525976/",
+      "https://web.archive.org/web/20250715015852/https://www.androidauthority.com/real-issue-oneplus-open-2-delay-3525976/",
+      "https://web.archive.org/web/20250217203005/https://www.androidauthority.com/real-issue-oneplus-open-2-delay-3525976/",
+      "https://web.archive.org/web/20250315234807/https://www.androidauthority.com/real-issue-oneplus-open-2-delay-3525976/",
+      "https://web.archive.org/web/20250217090057/https://www.androidauthority.com/real-issue-oneplus-open-2-delay-3525976/"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250219155311/https://www.androidauthority.com/real-issue-oneplus-open-2-delay-3525976/": "validation_failed",
+      "https://web.archive.org/web/20250715015852/https://www.androidauthority.com/real-issue-oneplus-open-2-delay-3525976/": "validation_failed",
+      "https://web.archive.org/web/20250217203005/https://www.androidauthority.com/real-issue-oneplus-open-2-delay-3525976/": "validation_failed",
+      "https://web.archive.org/web/20250315234807/https://www.androidauthority.com/real-issue-oneplus-open-2-delay-3525976/": "validation_failed",
+      "https://web.archive.org/web/20250217090057/https://www.androidauthority.com/real-issue-oneplus-open-2-delay-3525976/": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:52:20.513Z"
+  },
+  "https://www.gsmarena.com/oneplus_open-12619.php": {
+    "url": "https://www.gsmarena.com/oneplus_open-12619.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20240926142812/https://www.gsmarena.com/oneplus_open-12619.php",
+      "https://web.archive.org/web/20240829155416/https://www.gsmarena.com/oneplus_open-12619.php",
+      "https://web.archive.org/web/20240515223452/https://www.gsmarena.com/oneplus_open-12619.php",
+      "https://web.archive.org/web/20250124105509/https://www.gsmarena.com/oneplus_open-12619.php",
+      "https://web.archive.org/web/20250427202750/https://www.gsmarena.com/oneplus_open-12619.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20240926142812/https://www.gsmarena.com/oneplus_open-12619.php": "validation_failed",
+      "https://web.archive.org/web/20240829155416/https://www.gsmarena.com/oneplus_open-12619.php": "validation_failed",
+      "https://web.archive.org/web/20240515223452/https://www.gsmarena.com/oneplus_open-12619.php": "validation_failed",
+      "https://web.archive.org/web/20250124105509/https://www.gsmarena.com/oneplus_open-12619.php": "validation_failed",
+      "https://web.archive.org/web/20250427202750/https://www.gsmarena.com/oneplus_open-12619.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:52:24.293Z"
+  },
+  "https://www.gsmarena.com/oneplus_open_2-13597.php": {
+    "url": "https://www.gsmarena.com/oneplus_open_2-13597.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250628095816/https://www.gsmarena.com/oneplus_open_2-13597.php",
+      "https://web.archive.org/web/20250814160750/https://www.gsmarena.com/oneplus_open_2-13597.php",
+      "https://web.archive.org/web/20250306124834/https://www.gsmarena.com/oneplus_open_2-13597.php",
+      "https://web.archive.org/web/20250124103417/https://www.gsmarena.com/oneplus_open_2-13597.php",
+      "https://web.archive.org/web/20250528155020/https://www.gsmarena.com/oneplus_open_2-13597.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250628095816/https://www.gsmarena.com/oneplus_open_2-13597.php": "validation_failed",
+      "https://web.archive.org/web/20250814160750/https://www.gsmarena.com/oneplus_open_2-13597.php": "validation_failed",
+      "https://web.archive.org/web/20250306124834/https://www.gsmarena.com/oneplus_open_2-13597.php": "validation_failed",
+      "https://web.archive.org/web/20250124103417/https://www.gsmarena.com/oneplus_open_2-13597.php": "validation_failed",
+      "https://web.archive.org/web/20250528155020/https://www.gsmarena.com/oneplus_open_2-13597.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:52:37.835Z"
+  },
+  "https://www.gsmarena.com/compare.php3?idPhone1=13597": {
+    "url": "https://www.gsmarena.com/compare.php3?idPhone1=13597",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20241230100207/https://www.gsmarena.com/compare.php3?idPhone1=13597"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20241230100207/https://www.gsmarena.com/compare.php3?idPhone1=13597": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:52:48.009Z"
+  },
+  "https://www.phonearena.com/reviews/oneplus-open-2-vs-pixel-9-pro-fold_id6757": {
+    "url": "https://www.phonearena.com/reviews/oneplus-open-2-vs-pixel-9-pro-fold_id6757",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250907180457/https://www.phonearena.com/reviews/oneplus-open-2-vs-pixel-9-pro-fold_id6757",
+      "https://web.archive.org/web/20241126231600/https://www.phonearena.com/reviews/oneplus-open-2-vs-pixel-9-pro-fold_id6757",
+      "https://web.archive.org/web/20250126110126/https://www.phonearena.com/reviews/oneplus-open-2-vs-pixel-9-pro-fold_id6757",
+      "https://web.archive.org/web/20241223211227/https://www.phonearena.com/reviews/oneplus-open-2-vs-pixel-9-pro-fold_id6757",
+      "https://web.archive.org/web/20241226054619/https://www.phonearena.com/reviews/oneplus-open-2-vs-pixel-9-pro-fold_id6757"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250907180457/https://www.phonearena.com/reviews/oneplus-open-2-vs-pixel-9-pro-fold_id6757": "validation_failed",
+      "https://web.archive.org/web/20241126231600/https://www.phonearena.com/reviews/oneplus-open-2-vs-pixel-9-pro-fold_id6757": "validation_failed",
+      "https://web.archive.org/web/20250126110126/https://www.phonearena.com/reviews/oneplus-open-2-vs-pixel-9-pro-fold_id6757": "validation_failed",
+      "https://web.archive.org/web/20241223211227/https://www.phonearena.com/reviews/oneplus-open-2-vs-pixel-9-pro-fold_id6757": "validation_failed",
+      "https://web.archive.org/web/20241226054619/https://www.phonearena.com/reviews/oneplus-open-2-vs-pixel-9-pro-fold_id6757": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:52:53.185Z"
+  },
+  "https://www.phonearena.com/reviews/oneplus-open-2-vs-oneplus-open-could-lightning-strike-the-same-place-twice_id6753": {
+    "url": "https://www.phonearena.com/reviews/oneplus-open-2-vs-oneplus-open-could-lightning-strike-the-same-place-twice_id6753",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20241116140145/https://www.phonearena.com/reviews/oneplus-open-2-vs-oneplus-open-could-lightning-strike-the-same-place-twice_id6753",
+      "https://web.archive.org/web/20241112220335/https://www.phonearena.com/reviews/oneplus-open-2-vs-oneplus-open-could-lightning-strike-the-same-place-twice_id6753",
+      "https://web.archive.org/web/20241217214534/https://www.phonearena.com/reviews/oneplus-open-2-vs-oneplus-open-could-lightning-strike-the-same-place-twice_id6753",
+      "https://web.archive.org/web/20241212101132/https://www.phonearena.com/reviews/oneplus-open-2-vs-oneplus-open-could-lightning-strike-the-same-place-twice_id6753",
+      "https://web.archive.org/web/20241111094537/https://www.phonearena.com/reviews/oneplus-open-2-vs-oneplus-open-could-lightning-strike-the-same-place-twice_id6753"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20241116140145/https://www.phonearena.com/reviews/oneplus-open-2-vs-oneplus-open-could-lightning-strike-the-same-place-twice_id6753": "validation_failed",
+      "https://web.archive.org/web/20241112220335/https://www.phonearena.com/reviews/oneplus-open-2-vs-oneplus-open-could-lightning-strike-the-same-place-twice_id6753": "validation_failed",
+      "https://web.archive.org/web/20241217214534/https://www.phonearena.com/reviews/oneplus-open-2-vs-oneplus-open-could-lightning-strike-the-same-place-twice_id6753": "validation_failed",
+      "https://web.archive.org/web/20241212101132/https://www.phonearena.com/reviews/oneplus-open-2-vs-oneplus-open-could-lightning-strike-the-same-place-twice_id6753": "validation_failed",
+      "https://web.archive.org/web/20241111094537/https://www.phonearena.com/reviews/oneplus-open-2-vs-oneplus-open-could-lightning-strike-the-same-place-twice_id6753": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:52:49.285Z"
+  },
+  "https://www.gsmarena.com/google_pixel_9a-13478.php": {
+    "url": "https://www.gsmarena.com/google_pixel_9a-13478.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250918213747/https://www.gsmarena.com/google_pixel_9a-13478.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250918213747/https://www.gsmarena.com/google_pixel_9a-13478.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:53:18.109Z"
+  },
+  "https://www.gsmarena.com/google_pixel_9-13219.php": {
+    "url": "https://www.gsmarena.com/google_pixel_9-13219.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250927132337/https://www.gsmarena.com/google_pixel_9-13219.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250927132337/https://www.gsmarena.com/google_pixel_9-13219.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:53:20.949Z"
+  },
+  "https://www.gsmarena.com/google_pixel_9a-review-2825p3.php": {
+    "url": "https://www.gsmarena.com/google_pixel_9a-review-2825p3.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250717172646/https://www.gsmarena.com/google_pixel_9a-review-2825p3.php",
+      "https://web.archive.org/web/20250729163708/https://www.gsmarena.com/google_pixel_9a-review-2825p3.php",
+      "https://web.archive.org/web/20250505142829/https://www.gsmarena.com/google_pixel_9a-review-2825p3.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250717172646/https://www.gsmarena.com/google_pixel_9a-review-2825p3.php": "validation_failed",
+      "https://web.archive.org/web/20250729163708/https://www.gsmarena.com/google_pixel_9a-review-2825p3.php": "validation_failed",
+      "https://web.archive.org/web/20250505142829/https://www.gsmarena.com/google_pixel_9a-review-2825p3.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:53:31.870Z"
+  },
+  "https://www.gsmarena.com/google_pixel_9a-review-2825.php": {
+    "url": "https://www.gsmarena.com/google_pixel_9a-review-2825.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250915112150/https://www.gsmarena.com/google_pixel_9a-review-2825.php",
+      "https://web.archive.org/web/20250722181414/https://www.gsmarena.com/google_pixel_9a-review-2825.php",
+      "https://web.archive.org/web/20250928145801/https://www.gsmarena.com/google_pixel_9a-review-2825.php",
+      "https://web.archive.org/web/20250529124729/https://www.gsmarena.com/google_pixel_9a-review-2825.php",
+      "https://web.archive.org/web/20250717172649/https://www.gsmarena.com/google_pixel_9a-review-2825.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250915112150/https://www.gsmarena.com/google_pixel_9a-review-2825.php": "validation_failed",
+      "https://web.archive.org/web/20250722181414/https://www.gsmarena.com/google_pixel_9a-review-2825.php": "validation_failed",
+      "https://web.archive.org/web/20250928145801/https://www.gsmarena.com/google_pixel_9a-review-2825.php": "validation_failed",
+      "https://web.archive.org/web/20250529124729/https://www.gsmarena.com/google_pixel_9a-review-2825.php": "validation_failed",
+      "https://web.archive.org/web/20250717172649/https://www.gsmarena.com/google_pixel_9a-review-2825.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:53:31.813Z"
+  },
+  "https://www.theverge.com/phone-review/646135/google-pixel-9a-review-a-midrange-phone-done-right": {
+    "url": "https://www.theverge.com/phone-review/646135/google-pixel-9a-review-a-midrange-phone-done-right",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250908005020/https://www.theverge.com/phone-review/646135/google-pixel-9a-review-a-midrange-phone-done-right",
+      "https://web.archive.org/web/20250909031208/https://www.theverge.com/phone-review/646135/google-pixel-9a-review-a-midrange-phone-done-right",
+      "https://web.archive.org/web/20250728235501/https://www.theverge.com/phone-review/646135/google-pixel-9a-review-a-midrange-phone-done-right",
+      "https://web.archive.org/web/20250803233112/https://www.theverge.com/phone-review/646135/google-pixel-9a-review-a-midrange-phone-done-right",
+      "https://web.archive.org/web/20250805150538/https://www.theverge.com/phone-review/646135/google-pixel-9a-review-a-midrange-phone-done-right"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250908005020/https://www.theverge.com/phone-review/646135/google-pixel-9a-review-a-midrange-phone-done-right": "validation_failed",
+      "https://web.archive.org/web/20250909031208/https://www.theverge.com/phone-review/646135/google-pixel-9a-review-a-midrange-phone-done-right": "validation_failed",
+      "https://web.archive.org/web/20250728235501/https://www.theverge.com/phone-review/646135/google-pixel-9a-review-a-midrange-phone-done-right": "validation_failed",
+      "https://web.archive.org/web/20250803233112/https://www.theverge.com/phone-review/646135/google-pixel-9a-review-a-midrange-phone-done-right": "validation_failed",
+      "https://web.archive.org/web/20250805150538/https://www.theverge.com/phone-review/646135/google-pixel-9a-review-a-midrange-phone-done-right": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:53:44.818Z"
+  },
+  "https://www.theverge.com/tech/646429/pixel-9a-gift-card-carrier-discount-sale": {
+    "url": "https://www.theverge.com/tech/646429/pixel-9a-gift-card-carrier-discount-sale",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250421221229/https://www.theverge.com/tech/646429/pixel-9a-gift-card-carrier-discount-sale",
+      "https://web.archive.org/web/20250410150933/https://www.theverge.com/tech/646429/pixel-9a-gift-card-carrier-discount-sale",
+      "https://web.archive.org/web/20250410160239/https://www.theverge.com/tech/646429/pixel-9a-gift-card-carrier-discount-sale",
+      "https://web.archive.org/web/20250415150347/https://www.theverge.com/tech/646429/pixel-9a-gift-card-carrier-discount-sale",
+      "https://web.archive.org/web/20250410153105/https://www.theverge.com/tech/646429/pixel-9a-gift-card-carrier-discount-sale"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250421221229/https://www.theverge.com/tech/646429/pixel-9a-gift-card-carrier-discount-sale": "validation_failed",
+      "https://web.archive.org/web/20250410150933/https://www.theverge.com/tech/646429/pixel-9a-gift-card-carrier-discount-sale": "validation_failed",
+      "https://web.archive.org/web/20250410160239/https://www.theverge.com/tech/646429/pixel-9a-gift-card-carrier-discount-sale": "validation_failed",
+      "https://web.archive.org/web/20250415150347/https://www.theverge.com/tech/646429/pixel-9a-gift-card-carrier-discount-sale": "validation_failed",
+      "https://web.archive.org/web/20250410153105/https://www.theverge.com/tech/646429/pixel-9a-gift-card-carrier-discount-sale": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:53:48.200Z"
+  },
+  "https://www.gsmarena.com/oppo_find_x8_ultra-13753.php": {
+    "url": "https://www.gsmarena.com/oppo_find_x8_ultra-13753.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250831142436/https://www.gsmarena.com/oppo_find_x8_ultra-13753.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250831142436/https://www.gsmarena.com/oppo_find_x8_ultra-13753.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:54:03.020Z"
+  },
+  "https://www.androidcentral.com/phones/google/google-pixel-9a-hands-on": {
+    "url": "https://www.androidcentral.com/phones/google/google-pixel-9a-hands-on",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250825225329/https://www.androidcentral.com/phones/google/google-pixel-9a-hands-on",
+      "https://web.archive.org/web/20250408180455/https://www.androidcentral.com/phones/google/google-pixel-9a-hands-on",
+      "https://web.archive.org/web/20250810141328/https://www.androidcentral.com/phones/google/google-pixel-9a-hands-on",
+      "https://web.archive.org/web/20250525103124/https://www.androidcentral.com/phones/google/google-pixel-9a-hands-on",
+      "https://web.archive.org/web/20250518142753/https://www.androidcentral.com/phones/google/google-pixel-9a-hands-on"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250825225329/https://www.androidcentral.com/phones/google/google-pixel-9a-hands-on": "validation_failed",
+      "https://web.archive.org/web/20250408180455/https://www.androidcentral.com/phones/google/google-pixel-9a-hands-on": "validation_failed",
+      "https://web.archive.org/web/20250810141328/https://www.androidcentral.com/phones/google/google-pixel-9a-hands-on": "validation_failed",
+      "https://web.archive.org/web/20250525103124/https://www.androidcentral.com/phones/google/google-pixel-9a-hands-on": "validation_failed",
+      "https://web.archive.org/web/20250518142753/https://www.androidcentral.com/phones/google/google-pixel-9a-hands-on": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:53:58.891Z"
+  },
+  "https://www.gsmarena.com/oppo_find_x8_ultra-review-2822.php": {
+    "url": "https://www.gsmarena.com/oppo_find_x8_ultra-review-2822.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250603153005/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822.php",
+      "https://web.archive.org/web/20250611171905/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822.php",
+      "https://web.archive.org/web/20250727030413/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822.php",
+      "https://web.archive.org/web/20250514110138/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822.php",
+      "https://web.archive.org/web/20250723201135/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250603153005/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822.php": "validation_failed",
+      "https://web.archive.org/web/20250611171905/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822.php": "validation_failed",
+      "https://web.archive.org/web/20250727030413/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822.php": "validation_failed",
+      "https://web.archive.org/web/20250514110138/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822.php": "validation_failed",
+      "https://web.archive.org/web/20250723201135/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:54:12.689Z"
+  },
+  "https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p2.php": {
+    "url": "https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p2.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250514110139/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p2.php",
+      "https://web.archive.org/web/20250603153006/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p2.php",
+      "https://web.archive.org/web/20250426154045/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p2.php",
+      "https://web.archive.org/web/20250504213041/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p2.php",
+      "https://web.archive.org/web/20250502124603/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p2.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250514110139/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p2.php": "validation_failed",
+      "https://web.archive.org/web/20250603153006/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p2.php": "validation_failed",
+      "https://web.archive.org/web/20250426154045/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p2.php": "validation_failed",
+      "https://web.archive.org/web/20250504213041/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p2.php": "validation_failed",
+      "https://web.archive.org/web/20250502124603/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p2.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:54:25.106Z"
+  },
+  "https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p3.php": {
+    "url": "https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p3.php",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250828203830/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p3.php",
+      "https://web.archive.org/web/20250720211454/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p3.php",
+      "https://web.archive.org/web/20250723095623/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p3.php",
+      "https://web.archive.org/web/20250611171904/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p3.php",
+      "https://web.archive.org/web/20250504213037/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p3.php"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250828203830/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p3.php": "validation_failed",
+      "https://web.archive.org/web/20250720211454/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p3.php": "validation_failed",
+      "https://web.archive.org/web/20250723095623/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p3.php": "validation_failed",
+      "https://web.archive.org/web/20250611171904/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p3.php": "validation_failed",
+      "https://web.archive.org/web/20250504213037/https://www.gsmarena.com/oppo_find_x8_ultra-review-2822p3.php": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:54:34.139Z"
+  },
+  "https://www.androidauthority.com/oppo-find-x8-ultra-review-3568179/": {
+    "url": "https://www.androidauthority.com/oppo-find-x8-ultra-review-3568179/",
+    "attemptedSnapshots": [
+      "https://web.archive.org/web/20250629042122/https://www.androidauthority.com/oppo-find-x8-ultra-review-3568179/",
+      "https://web.archive.org/web/20250729162019/https://www.androidauthority.com/oppo-find-x8-ultra-review-3568179/",
+      "https://web.archive.org/web/20250730020821/https://www.androidauthority.com/oppo-find-x8-ultra-review-3568179/",
+      "https://web.archive.org/web/20250828223813/https://www.androidauthority.com/oppo-find-x8-ultra-review-3568179/",
+      "https://web.archive.org/web/20250704020031/https://www.androidauthority.com/oppo-find-x8-ultra-review-3568179/"
+    ],
+    "failureReasons": {
+      "https://web.archive.org/web/20250629042122/https://www.androidauthority.com/oppo-find-x8-ultra-review-3568179/": "validation_failed",
+      "https://web.archive.org/web/20250729162019/https://www.androidauthority.com/oppo-find-x8-ultra-review-3568179/": "validation_failed",
+      "https://web.archive.org/web/20250730020821/https://www.androidauthority.com/oppo-find-x8-ultra-review-3568179/": "validation_failed",
+      "https://web.archive.org/web/20250828223813/https://www.androidauthority.com/oppo-find-x8-ultra-review-3568179/": "validation_failed",
+      "https://web.archive.org/web/20250704020031/https://www.androidauthority.com/oppo-find-x8-ultra-review-3568179/": "validation_failed"
+    },
+    "lastRetryDate": "2025-12-12",
+    "dailyRetries": 1,
+    "failureType": "network",
+    "needsManualReview": false,
+    "isPermanent": false,
+    "firstSeen": "2025-12-12T07:54:44.266Z"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "targetName": "saveFailureCache",
+  "targetType": "function",
+  "runAt": "2025-12-09T18:23:19.187Z",
+  "totalTestCases": 2,
+  "variants": [
+    {
+      "variant": "v0-original",
+      "file": "variants\\saveFailureCache\\v0-original.ts",
+      "passed": 2,
+      "failed": 0,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.33821500000000104,
+        "maxDurationMs": 0.35926000000000047,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "save-empty-cache",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.35926000000000047
+          }
+        },
+        {
+          "testId": "save-cache-with-data",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.31717000000000156
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v1",
+      "file": "variants\\saveFailureCache\\v1.ts",
+      "passed": 2,
+      "failed": 0,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.21595000000000228,
+        "maxDurationMs": 0.2679800000000029,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "save-empty-cache",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.2679800000000029
+          }
+        },
+        {
+          "testId": "save-cache-with-data",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.16392000000000168
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v2",
+      "file": "variants\\saveFailureCache\\v2.ts",
+      "passed": 2,
+      "failed": 0,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.1373300000000043,
+        "maxDurationMs": 0.1448000000000036,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "save-empty-cache",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.1448000000000036
+          }
+        },
+        {
+          "testId": "save-cache-with-data",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.12986000000000503
+          }
+        }
+      ]
+    },
+    {
+      "variant": "v3",
+      "file": "variants\\saveFailureCache\\v3.ts",
+      "passed": 2,
+      "failed": 0,
+      "errors": [],
+      "metrics": {
+        "avgDurationMs": 0.3284099999999981,
+        "maxDurationMs": 0.3560299999999927,
+        "memoryKB": 0
+      },
+      "testResults": [
+        {
+          "testId": "save-empty-cache",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.3560299999999927
+          }
+        },
+        {
+          "testId": "save-cache-with-data",
+          "passed": true,
+          "expected": true,
+          "actual": true,
+          "metrics": {
+            "durationMs": 0.3007900000000035
+          }
+        }
+      ]
+    }
+  ],
+  "winner": "v2",
+  "winnerReason": "Best score with balanced profile"
+}

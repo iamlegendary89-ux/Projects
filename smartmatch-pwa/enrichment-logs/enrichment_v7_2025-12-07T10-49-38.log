@@ -1,0 +1,13 @@
+{"level":"info","message":"SmartMatch Enrichment Engine v7 - Final","timestamp":"2025-12-07T10:49:38.165Z","elapsed":2}
+{"level":"info","message":"════════════════════════════════════════════════════════════","timestamp":"2025-12-07T10:49:38.177Z","elapsed":14}
+{"level":"info","message":"Account status","timestamp":"2025-12-07T10:49:39.828Z","elapsed":1665,"meta":{"credits":"$0.00"}}
+{"level":"warn","message":"Low credits","timestamp":"2025-12-07T10:49:39.828Z","elapsed":1665,"meta":{"credits":0,"tip":"Add $10+ for 1000 free/day"}}
+{"level":"info","message":"Queue analysis","timestamp":"2025-12-07T10:49:39.833Z","elapsed":1670,"meta":{"total":4,"new":0,"updates":0,"missing":4,"limit":5,"selected":4}}
+{"level":"info","message":"Queued (update)","timestamp":"2025-12-07T10:49:39.833Z","elapsed":1670,"meta":{"phone":"samsung galaxy s25","sources":"7 → 7","newSources":0}}
+{"level":"info","message":"Queued (update)","timestamp":"2025-12-07T10:49:39.834Z","elapsed":1671,"meta":{"phone":"oneplus 13","sources":"6 → 6","newSources":0}}
+{"level":"info","message":"Queued (update)","timestamp":"2025-12-07T10:49:39.833Z","elapsed":1670,"meta":{"phone":"apple iphone 17 pro max","sources":"8 → 8","newSources":0}}
+{"level":"info","message":"[1/4] apple iphone 17 pro max","timestamp":"2025-12-07T10:49:39.835Z","elapsed":1672}
+{"level":"info","message":"Processing queue","timestamp":"2025-12-07T10:49:39.834Z","elapsed":1671,"meta":{"count":4}}
+{"level":"info","message":"Queued (update)","timestamp":"2025-12-07T10:49:39.834Z","elapsed":1671,"meta":{"phone":"apple iphone 15 pro","sources":"8 → 8","newSources":0}}
+{"level":"info","message":"Starting enrichment","timestamp":"2025-12-07T10:49:39.836Z","elapsed":1673,"meta":{"phone":"apple iphone 17 pro max","reviewCount":8,"depth":0}}
+{"level":"info","message":"Sending prompt to LLM","timestamp":"2025-12-07T10:49:39.839Z","elapsed":1676,"meta":{"brand":"apple","model":"iphone 17 pro max","promptLength":197232}}

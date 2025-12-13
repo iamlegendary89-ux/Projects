@@ -1,0 +1,127 @@
+{
+  "phoneId": "samsung_galaxy_s25",
+  "data": {
+    "brand": "samsung",
+    "model": "galaxy s25",
+    "overallScore": 8.56,
+    "category": "flagship",
+    "onePageSummary": "The Samsung Galaxy S25 offers a compact flagship experience with top-tier performance thanks to the Snapdragon 8 Elite chip, but iterative updates leave some areas wanting. Its 6.2-inch Dynamic AMOLED display peaks at 2600 nits (measured 1395 nits by GSMArena) with excellent color accuracy but suffers from 240Hz PWM dimming affecting eye comfort. Camera hardware remains unchanged since the S22, resulting in solid but unremarkable photo quality—low-light and telephoto performance are weak points noted by GSMArena and PhoneArena. Battery life is decent (13h active use) despite the 4000mAh capacity, though 25W charging feels outdated compared to rivals. Software shines with One UI 7 and 7-year updates, while the lightweight design (162g) and IP68 rating impress. However, omissions like UWB and Qi2 magnets frustrate power users.",
+    "pros": [
+      "Powerful Snapdragon 8 Elite chipset with leading benchmarks (mentioned: GSMArena, NotebookCheck)",
+      "Compact lightweight design ideal for one-handed use (mentioned: GSMArena, AndroidCentral)",
+      "Bright AMOLED display with excellent color accuracy (mentioned: DXOMark, TomsGuide)",
+      "Long-term software support with 7 Android updates (mentioned: NotebookCheck, TechRadar)",
+      "Improved AI features including on-device processing (mentioned: AndroidCentral, TomsGuide)"
+    ],
+    "cons": [
+      "Slow 25W wired charging speeds unchanged for years (mentioned: GSMArena, PhoneArena)",
+      "Camera hardware identical to S24/S23 generations (mentioned: NotebookCheck, TechRadar)",
+      "No UWB support or Qi2 magnets without a case (mentioned: AndroidCentral, NotebookCheck)",
+      "PWM dimming at only 240Hz affects eye comfort (mentioned: NotebookCheck, GSMArena)",
+      "Base storage still starts at 128GB UFS 3.1 (mentioned: GSMArena, PhoneArena)"
+    ],
+    "originalAttributes": {
+      "Camera": {
+        "score": 8.11,
+        "explanation": "Main camera uses same 50MP sensor since S22 (GSMArena). Low-light noise and telephoto softness noted by PhoneArena/NotebookCheck. Video stabilization praised but lacks hardware upgrades. (real-time normalized: 7.65 → 7.87) (real-time normalized: 7.87 → 8.11)"
+      },
+      "Battery Endurance": {
+        "score": 9.9,
+        "explanation": "4000mAh battery delivers 13h active use (GSMArena). Slow 25W charging criticized across reviews; wireless Qi2 requires case magnets. (real-time normalized: 7.02 → 8.62) (real-time normalized: 8.62 → 9.90)"
+      },
+      "Performance": {
+        "score": 7.83,
+        "explanation": "Snapdragon 8 Elite dominates benchmarks (AnTuTu 2.19M) but throttles under sustained load per NotebookCheck/TechRadar. (real-time normalized: 9.18 → 7.83)"
+      },
+      "Display": {
+        "score": 8,
+        "explanation": "2600-nit peak brightness (measured 1395 nits), excellent color accuracy (DXOMark score:157), but PWM dimming at 240Hz noted by NotebookCheck. (real-time normalized: 8.42 → 9.86) (real-time normalized: 9.86 → 6.31) (real-time normalized: 6.31 → 8.00)"
+      },
+      "Software Experience": {
+        "score": 9.8,
+        "explanation": "One UI 7 praised for redesign and AI features (AndroidCentral), though bloatware remains an issue (TechRadar). Seven-year update policy. (real-time normalized: 8.30 → 9.80)"
+      },
+      "Design & Build": {
+        "score": 8,
+        "explanation": "Lightweight (162g) with IP68 rating and Gorilla Glass Victus 2 (GSMArena). Compact form factor favored by multiple reviewers. (real-time normalized: 8.56 → 9.86) (real-time normalized: 9.86 → 6.31) (real-time normalized: 6.31 → 8.00)"
+      },
+      "Longevity Value": {
+        "score": 9.8,
+        "explanation": "Seven-year updates offset by iterative hardware; price/performance strong vs iPhone/Pixel but trails Chinese rivals. (real-time normalized: 8.10 → 9.80)"
+      }
+    },
+    "antutu": 2193701,
+    "geekbench": 10050,
+    "dxocamera": null,
+    "dxodisplay": 157,
+    "currentPrice": {
+      "usd": "$859.99",
+      "eur": "€532.18",
+      "inr": "₹61,480",
+      "gbp": "£499.99"
+    },
+    "launchPrice": {
+      "usd": "$799",
+      "gbp": "£799"
+    },
+    "metadata": {
+      "confidence": 0.999,
+      "modelUsed": "tngtech/deepseek-r1t2-chimera:free",
+      "processingVersion": "v7-Final",
+      "processedAt": "2025-12-09T20:29:10.109Z",
+      "processingTimeMs": 64509,
+      "sourceCount": 8,
+      "sourceNames": [
+        "GSMArena",
+        "Gsmarena",
+        "Phonearena",
+        "Dxomark",
+        "Tomsguide",
+        "Techradar",
+        "Notebookcheck Net",
+        "Androidcentral"
+      ],
+      "sourceUrls": [
+        "https://www.gsmarena.com/samsung_galaxy_s25-13610.php",
+        "https://www.gsmarena.com/samsung_galaxy_s25-review-2794.php",
+        "https://www.phonearena.com/reviews/samsung-galaxy-s25-review_id6900",
+        "https://www.dxomark.com/smartphones/Samsung/Galaxy-S25",
+        "https://www.tomsguide.com/phones/samsung-phones/galaxy-s25-review",
+        "https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-s25-review",
+        "https://www.notebookcheck.net/Samsung-Galaxy-S25-review-The-star-among-compact-smartphones-is-losing-ground.989246.0.html",
+        "https://www.androidcentral.com/phones/samsung-galaxy-s25-review"
+      ],
+      "batchMode": true
+    },
+    "attributes": {
+      "Camera": {
+        "score": 6.17,
+        "explanation": "Main camera uses same 50MP sensor since S22 (GSMArena). Low-light noise and telephoto softness noted by PhoneArena/NotebookCheck. Video stabilization praised but lacks hardware upgrades. (real-time normalized: 7.65 → 7.87) (real-time normalized: 7.87 → 8.11)"
+      },
+      "Battery Endurance": {
+        "score": 9.9,
+        "explanation": "4000mAh battery delivers 13h active use (GSMArena). Slow 25W charging criticized across reviews; wireless Qi2 requires case magnets. (real-time normalized: 7.02 → 8.62) (real-time normalized: 8.62 → 9.90)"
+      },
+      "Performance": {
+        "score": 7.75,
+        "explanation": "Snapdragon 8 Elite dominates benchmarks (AnTuTu 2.19M) but throttles under sustained load per NotebookCheck/TechRadar. (real-time normalized: 9.18 → 7.83)"
+      },
+      "Display": {
+        "score": 7.93,
+        "explanation": "2600-nit peak brightness (measured 1395 nits), excellent color accuracy (DXOMark score:157), but PWM dimming at 240Hz noted by NotebookCheck. (real-time normalized: 8.42 → 9.86) (real-time normalized: 9.86 → 6.31) (real-time normalized: 6.31 → 8.00)"
+      },
+      "Software Experience": {
+        "score": 9.8,
+        "explanation": "One UI 7 praised for redesign and AI features (AndroidCentral), though bloatware remains an issue (TechRadar). Seven-year update policy. (real-time normalized: 8.30 → 9.80)"
+      },
+      "Design & Build": {
+        "score": 8,
+        "explanation": "Lightweight (162g) with IP68 rating and Gorilla Glass Victus 2 (GSMArena). Compact form factor favored by multiple reviewers. (real-time normalized: 8.56 → 9.86) (real-time normalized: 9.86 → 6.31) (real-time normalized: 6.31 → 8.00)"
+      },
+      "Longevity Value": {
+        "score": 9.8,
+        "explanation": "Seven-year updates offset by iterative hardware; price/performance strong vs iPhone/Pixel but trails Chinese rivals. (real-time normalized: 8.10 → 9.80)"
+      }
+    }
+  }
+}

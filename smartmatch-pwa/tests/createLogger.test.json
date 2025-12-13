@@ -1,0 +1,17 @@
+{
+    "cases": [
+        {
+            "id": "basic-logger",
+            "input": [
+                "test-logger",
+                {
+                    "PATHS": {
+                        "LOGS": "./logs"
+                    }
+                }
+            ],
+            "expected": null,
+            "description": "Should return logger object with info/warn/error/success methods"
+        }
+    ]
+}

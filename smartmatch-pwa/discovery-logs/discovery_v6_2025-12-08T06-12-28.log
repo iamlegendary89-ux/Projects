@@ -1,0 +1,207 @@
+{"timestamp":"2025-12-08T06:12:28.939Z","level":"INFO","phase":"STARTUP","msg":"Validating environment configuration...","elapsed":35}
+{"timestamp":"2025-12-08T06:12:28.980Z","level":"WARNING","phase":"STARTUP","msg":"Google CSE credentials not configured","elapsed":45}
+{"timestamp":"2025-12-08T06:12:28.981Z","level":"WARNING","phase":"STARTUP","msg":"→ DuckDuckGo primary (recommended)","elapsed":45}
+{"timestamp":"2025-12-08T06:12:28.981Z","level":"SUCCESS","phase":"STARTUP","msg":"Environment validation complete","elapsed":45}
+{"timestamp":"2025-12-08T06:12:28.988Z","level":"INFO","phase":"PHASE 1","msg":"Starting CSE Discovery (Parallel)","elapsed":52}
+{"timestamp":"2025-12-08T06:12:28.988Z","level":"INFO","phase":"PHASE 1","msg":"CSE Credentials Check","meta":{"hasApiKey":false,"hasCseId":false,"apiKeyLength":0},"elapsed":52}
+{"timestamp":"2025-12-08T06:12:28.988Z","level":"WARNING","phase":"PHASE 1","msg":"CSE credentials missing - will use DuckDuckGo fallback only","elapsed":52}
+{"timestamp":"2025-12-08T06:12:28.988Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro gsmarena_specs - already has 1 URL(s)","elapsed":53}
+{"timestamp":"2025-12-08T06:12:28.989Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro gsmarena_review - already has 1 URL(s)","elapsed":53}
+{"timestamp":"2025-12-08T06:12:28.989Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro phonearena_review - already has 1 URL(s)","elapsed":53}
+{"timestamp":"2025-12-08T06:12:28.989Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro dxomark_review - already has 1 URL(s)","elapsed":54}
+{"timestamp":"2025-12-08T06:12:28.990Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro tomsguide_review - already has 1 URL(s)","elapsed":54}
+{"timestamp":"2025-12-08T06:12:28.990Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro techradar_review - already has 1 URL(s)","elapsed":54}
+{"timestamp":"2025-12-08T06:12:28.990Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro notebookcheck_review - already has 1 URL(s)","elapsed":54}
+{"timestamp":"2025-12-08T06:12:28.991Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro androidcentral_review - already has 1 URL(s)","elapsed":55}
+{"timestamp":"2025-12-08T06:12:28.991Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 15 pro androidauthority_review - already has 1 URL(s)","elapsed":55}
+{"timestamp":"2025-12-08T06:12:28.991Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max gsmarena_specs - already has 1 URL(s)","elapsed":55}
+{"timestamp":"2025-12-08T06:12:28.991Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max gsmarena_review - already has 1 URL(s)","elapsed":55}
+{"timestamp":"2025-12-08T06:12:28.991Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max phonearena_review - already has 1 URL(s)","elapsed":56}
+{"timestamp":"2025-12-08T06:12:28.992Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max dxomark_review - already has 1 URL(s)","elapsed":56}
+{"timestamp":"2025-12-08T06:12:28.992Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max tomsguide_review - already has 1 URL(s)","elapsed":56}
+{"timestamp":"2025-12-08T06:12:28.992Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max techradar_review - already has 1 URL(s)","elapsed":56}
+{"timestamp":"2025-12-08T06:12:28.992Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max theverge_review - already has 1 URL(s)","elapsed":57}
+{"timestamp":"2025-12-08T06:12:28.994Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max notebookcheck_review - already has 1 URL(s)","elapsed":58}
+{"timestamp":"2025-12-08T06:12:28.994Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max androidcentral_review - already has 1 URL(s)","elapsed":58}
+{"timestamp":"2025-12-08T06:12:28.995Z","level":"INFO","phase":"PHASE 1","msg":"Skipping apple iphone 17 pro max androidauthority_review - already has 1 URL(s)","elapsed":59}
+{"timestamp":"2025-12-08T06:12:28.995Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 gsmarena_specs - already has 1 URL(s)","elapsed":59}
+{"timestamp":"2025-12-08T06:12:28.995Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 gsmarena_review - already has 1 URL(s)","elapsed":59}
+{"timestamp":"2025-12-08T06:12:28.995Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 phonearena_review - already has 1 URL(s)","elapsed":60}
+{"timestamp":"2025-12-08T06:12:28.996Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 dxomark_review - already has 1 URL(s)","elapsed":60}
+{"timestamp":"2025-12-08T06:12:28.996Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 tomsguide_review - already has 1 URL(s)","elapsed":60}
+{"timestamp":"2025-12-08T06:12:28.996Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 techradar_review - already has 1 URL(s)","elapsed":60}
+{"timestamp":"2025-12-08T06:12:28.996Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 theverge_review - already has 1 URL(s)","elapsed":60}
+{"timestamp":"2025-12-08T06:12:28.997Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 notebookcheck_review - already has 1 URL(s)","elapsed":61}
+{"timestamp":"2025-12-08T06:12:28.997Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 androidcentral_review - already has 1 URL(s)","elapsed":61}
+{"timestamp":"2025-12-08T06:12:28.997Z","level":"INFO","phase":"PHASE 1","msg":"Skipping samsung galaxy s25 androidauthority_review - already has 1 URL(s)","elapsed":61}
+{"timestamp":"2025-12-08T06:12:28.997Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 gsmarena_specs - already has 1 URL(s)","elapsed":62}
+{"timestamp":"2025-12-08T06:12:28.998Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 gsmarena_review - already has 1 URL(s)","elapsed":62}
+{"timestamp":"2025-12-08T06:12:28.998Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 phonearena_review - already has 1 URL(s)","elapsed":62}
+{"timestamp":"2025-12-08T06:12:28.998Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 dxomark_review - already has 1 URL(s)","elapsed":62}
+{"timestamp":"2025-12-08T06:12:28.999Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 tomsguide_review - already has 1 URL(s)","elapsed":63}
+{"timestamp":"2025-12-08T06:12:28.999Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 techradar_review - already has 1 URL(s)","elapsed":63}
+{"timestamp":"2025-12-08T06:12:28.999Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 theverge_review - already has 1 URL(s)","elapsed":63}
+{"timestamp":"2025-12-08T06:12:29.000Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 notebookcheck_review - already has 1 URL(s)","elapsed":64}
+{"timestamp":"2025-12-08T06:12:29.000Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 androidcentral_review - already has 1 URL(s)","elapsed":64}
+{"timestamp":"2025-12-08T06:12:29.000Z","level":"INFO","phase":"PHASE 1","msg":"Skipping oneplus 13 androidauthority_review - already has 1 URL(s)","elapsed":64}
+{"timestamp":"2025-12-08T06:12:29.000Z","level":"INFO","phase":"PHASE 1","msg":"Starting parallel discovery of 1 tasks","elapsed":64}
+{"timestamp":"2025-12-08T06:12:29.000Z","level":"INFO","phase":"PHASE 1","msg":"Processing batch 1/1 (1 tasks)","elapsed":65}
+{"timestamp":"2025-12-08T06:12:29.001Z","level":"INFO","phase":"PHASE 1","msg":"CSE failed for apple iphone 15 pro attempting next query","elapsed":66}
+{"timestamp":"2025-12-08T06:12:30.002Z","level":"INFO","phase":"PHASE 1","msg":"CSE failed for apple iphone 15 pro attempting next query","elapsed":1066}
+{"timestamp":"2025-12-08T06:12:31.004Z","level":"INFO","phase":"PHASE 1","msg":"CSE failed for apple iphone 15 pro attempting next query","elapsed":2068}
+{"timestamp":"2025-12-08T06:12:31.004Z","level":"WARNING","phase":"PHASE 1","msg":"CSE unavailable for apple iphone 15 pro theverge_review, trying DuckDuckGo","elapsed":2069}
+{"timestamp":"2025-12-08T06:12:31.005Z","level":"INFO","phase":"PHASE 1","msg":"DDG Query: \"site:theverge.com apple iphone 15 pro hands-on -intitle:\"Max\" -inurl:Max\"","elapsed":2069}
+{"timestamp":"2025-12-08T06:12:31.715Z","level":"INFO","phase":"PHASE 1","msg":"DDG Results: 3 found","elapsed":2779}
+{"timestamp":"2025-12-08T06:12:31.716Z","level":"SUCCESS","phase":"PHASE 1","msg":"DDG found 3 URLs for apple iphone 15 pro theverge_review","elapsed":2780}
+{"timestamp":"2025-12-08T06:12:31.716Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for apple iphone 15 pro: missing_phone_name","elapsed":2780}
+{"timestamp":"2025-12-08T06:12:31.716Z","level":"INFO","phase":"PHASE 1","msg":"Rejected URL for apple iphone 15 pro: missing_phone_name","elapsed":2780}
+{"timestamp":"2025-12-08T06:12:31.717Z","level":"INFO","phase":"PHASE 1","msg":"Discovery Summary","meta":{"tasksProcessed":1,"successful":0,"zeroResults":1,"errors":0,"urlsFound":0},"elapsed":2781}
+{"timestamp":"2025-12-08T06:12:31.717Z","level":"INFO","phase":"PHASE 2","msg":"Starting Archive Discovery (Optimized Search Patterns)","elapsed":2781}
+{"timestamp":"2025-12-08T06:12:34.860Z","level":"WARNING","phase":"PHASE 2","msg":"No snapshots for https://www.notebookcheck.net/Setting-new-battery-life-records-Apple-iPhone-17-Pro-Max-smartphone-review.1148795.0.html","elapsed":5924}
+{"timestamp":"2025-12-08T06:12:34.860Z","level":"INFO","phase":"SAVE_API","msg":"3 daily retries failed, requesting Archive.org save","elapsed":5924}
+{"timestamp":"2025-12-08T06:12:34.860Z","level":"WARNING","phase":"SAVE_API","msg":"Archive.org credentials missing (IA_ACCESS_KEY/IA_SECRET_KEY). Skipping save request.","elapsed":5925}
+{"timestamp":"2025-12-08T06:12:37.350Z","level":"WARNING","phase":"PHASE 2","msg":"No snapshots for https://www.androidauthority.com/samsung-galaxy-s25-review-3531762/","elapsed":8414}
+{"timestamp":"2025-12-08T06:12:37.351Z","level":"INFO","phase":"SAVE_API","msg":"3 daily retries failed, requesting Archive.org save","elapsed":8415}
+{"timestamp":"2025-12-08T06:12:37.351Z","level":"WARNING","phase":"SAVE_API","msg":"Archive.org credentials missing (IA_ACCESS_KEY/IA_SECRET_KEY). Skipping save request.","elapsed":8415}
+{"timestamp":"2025-12-08T06:13:31.828Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 7 snapshots","elapsed":62892}
+{"timestamp":"2025-12-08T06:13:57.358Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 13 snapshots","elapsed":88422}
+{"timestamp":"2025-12-08T06:14:19.771Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 10 snapshots","elapsed":110835}
+{"timestamp":"2025-12-08T06:15:00.656Z","level":"SUCCESS","phase":"PHASE 2","msg":"Generated 10 snapshots","elapsed":151720}
+{"timestamp":"2025-12-08T06:15:00.657Z","level":"INFO","phase":"PHASE 3","msg":"Starting Content Scraping (Smart Caching)","elapsed":151721}
+{"timestamp":"2025-12-08T06:15:00.659Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 1_gsmarena_specs.txt - already exists","elapsed":151723}
+{"timestamp":"2025-12-08T06:15:00.659Z","level":"INFO","phase":"HERO_IMAGE","msg":"Specs exist but hero missing, downloading...","elapsed":151723}
+{"timestamp":"2025-12-08T06:15:01.276Z","level":"INFO","phase":"HERO_IMAGE","msg":"Starting hero image extraction...","elapsed":152340}
+{"timestamp":"2025-12-08T06:15:01.356Z","level":"INFO","phase":"HERO_IMAGE","msg":"Loaded HTML, looking for image selectors...","elapsed":152420}
+{"timestamp":"2025-12-08T06:15:01.358Z","level":"INFO","phase":"HERO_IMAGE","msg":"Found image src: https://web.archive.org/web/20251012014338im_/https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro.jpg","elapsed":152422}
+{"timestamp":"2025-12-08T06:15:01.359Z","level":"INFO","phase":"HERO_IMAGE","msg":"Final image URL: https://web.archive.org/web/20251012014338im_/https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro.jpg","elapsed":152423}
+{"timestamp":"2025-12-08T06:15:01.359Z","level":"INFO","phase":"HERO_IMAGE","msg":"Downloading image binary data...","elapsed":152423}
+{"timestamp":"2025-12-08T06:15:03.937Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"Downloaded 8568 bytes in 2578ms","elapsed":155001}
+{"timestamp":"2025-12-08T06:15:03.937Z","level":"INFO","phase":"HERO_IMAGE","msg":"Original dir: data/content/apple_iphone_15_pro","elapsed":155001}
+{"timestamp":"2025-12-08T06:15:03.938Z","level":"INFO","phase":"HERO_IMAGE","msg":"Target processed dir: data/processed_content/apple_iphone_15_pro","elapsed":155002}
+{"timestamp":"2025-12-08T06:15:03.938Z","level":"INFO","phase":"HERO_IMAGE","msg":"Creating directory structure...","elapsed":155002}
+{"timestamp":"2025-12-08T06:15:03.939Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"Directory created successfully","elapsed":155004}
+{"timestamp":"2025-12-08T06:15:03.940Z","level":"INFO","phase":"HERO_IMAGE","msg":"Writing image to: data/processed_content/apple_iphone_15_pro/hero_1.jpg","elapsed":155004}
+{"timestamp":"2025-12-08T06:15:03.941Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"Image saved successfully to data/processed_content/apple_iphone_15_pro/hero_1.jpg","elapsed":155005}
+{"timestamp":"2025-12-08T06:15:03.941Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"✅ File exists, size: 8568 bytes","elapsed":155005}
+{"timestamp":"2025-12-08T06:15:03.942Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 2_gsmarena_review.txt - already exists","elapsed":155006}
+{"timestamp":"2025-12-08T06:15:03.942Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 3_phonearena_review.txt - already exists","elapsed":155006}
+{"timestamp":"2025-12-08T06:15:03.942Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 4_dxomark_review.txt - already exists","elapsed":155007}
+{"timestamp":"2025-12-08T06:15:03.943Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 5_tomsguide_review.txt - already exists","elapsed":155007}
+{"timestamp":"2025-12-08T06:15:03.943Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 6_techradar_review.txt - already exists","elapsed":155007}
+{"timestamp":"2025-12-08T06:15:03.944Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 8_notebookcheck_review.txt - already exists","elapsed":155008}
+{"timestamp":"2025-12-08T06:15:03.944Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 10_androidauthority_review.txt - already exists","elapsed":155008}
+{"timestamp":"2025-12-08T06:15:03.944Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 9_androidcentral_review.txt - already exists","elapsed":155008}
+{"timestamp":"2025-12-08T06:15:03.945Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 1_gsmarena_specs.txt - already exists","elapsed":155009}
+{"timestamp":"2025-12-08T06:15:03.946Z","level":"INFO","phase":"HERO_IMAGE","msg":"Specs exist but hero missing, downloading...","elapsed":155010}
+{"timestamp":"2025-12-08T06:15:05.697Z","level":"INFO","phase":"HERO_IMAGE","msg":"Starting hero image extraction...","elapsed":156761}
+{"timestamp":"2025-12-08T06:15:05.732Z","level":"INFO","phase":"HERO_IMAGE","msg":"Loaded HTML, looking for image selectors...","elapsed":156796}
+{"timestamp":"2025-12-08T06:15:05.733Z","level":"INFO","phase":"HERO_IMAGE","msg":"Found image src: https://web.archive.org/web/20251009100151im_/https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17-pro-max.jpg","elapsed":156798}
+{"timestamp":"2025-12-08T06:15:05.734Z","level":"INFO","phase":"HERO_IMAGE","msg":"Final image URL: https://web.archive.org/web/20251009100151im_/https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17-pro-max.jpg","elapsed":156798}
+{"timestamp":"2025-12-08T06:15:05.734Z","level":"INFO","phase":"HERO_IMAGE","msg":"Downloading image binary data...","elapsed":156798}
+{"timestamp":"2025-12-08T06:15:07.672Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"Downloaded 12765 bytes in 1938ms","elapsed":158737}
+{"timestamp":"2025-12-08T06:15:07.673Z","level":"INFO","phase":"HERO_IMAGE","msg":"Original dir: data/content/apple_iphone_17_pro_max","elapsed":158737}
+{"timestamp":"2025-12-08T06:15:07.673Z","level":"INFO","phase":"HERO_IMAGE","msg":"Target processed dir: data/processed_content/apple_iphone_17_pro_max","elapsed":158737}
+{"timestamp":"2025-12-08T06:15:07.673Z","level":"INFO","phase":"HERO_IMAGE","msg":"Creating directory structure...","elapsed":158737}
+{"timestamp":"2025-12-08T06:15:07.674Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"Directory created successfully","elapsed":158738}
+{"timestamp":"2025-12-08T06:15:07.674Z","level":"INFO","phase":"HERO_IMAGE","msg":"Writing image to: data/processed_content/apple_iphone_17_pro_max/hero_1.jpg","elapsed":158738}
+{"timestamp":"2025-12-08T06:15:07.675Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"Image saved successfully to data/processed_content/apple_iphone_17_pro_max/hero_1.jpg","elapsed":158739}
+{"timestamp":"2025-12-08T06:15:07.675Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"✅ File exists, size: 12765 bytes","elapsed":158739}
+{"timestamp":"2025-12-08T06:15:07.676Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 2_gsmarena_review.txt - already exists","elapsed":158740}
+{"timestamp":"2025-12-08T06:15:07.676Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 3_phonearena_review.txt - already exists","elapsed":158740}
+{"timestamp":"2025-12-08T06:15:07.676Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 5_tomsguide_review.txt - already exists","elapsed":158741}
+{"timestamp":"2025-12-08T06:15:07.677Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 6_techradar_review.txt - already exists","elapsed":158741}
+{"timestamp":"2025-12-08T06:15:07.677Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 7_theverge_review.txt - already exists","elapsed":158741}
+{"timestamp":"2025-12-08T06:15:07.678Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 9_androidcentral_review.txt - already exists","elapsed":158742}
+{"timestamp":"2025-12-08T06:15:07.678Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 10_androidauthority_review.txt - already exists","elapsed":158742}
+{"timestamp":"2025-12-08T06:15:07.678Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 4_dxomark_review.txt - already exists","elapsed":158743}
+{"timestamp":"2025-12-08T06:15:07.679Z","level":"INFO","phase":"PHASE 3","msg":"No archive URLs, trying progressive fallback","elapsed":158743}
+{"timestamp":"2025-12-08T06:15:12.665Z","level":"WARNING","phase":"PHASE 3","msg":"recent strategy: no snapshots","elapsed":163729}
+{"timestamp":"2025-12-08T06:15:20.338Z","level":"WARNING","phase":"PHASE 3","msg":"2-year strategy: no snapshots","elapsed":171402}
+{"timestamp":"2025-12-08T06:15:23.573Z","level":"WARNING","phase":"PHASE 3","msg":"5-year strategy: no snapshots","elapsed":174638}
+{"timestamp":"2025-12-08T06:15:23.574Z","level":"ERROR","phase":"PHASE 3","msg":"All fallback strategies exhausted","elapsed":174638}
+{"timestamp":"2025-12-08T06:15:23.575Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 1_gsmarena_specs.txt - already exists","elapsed":174639}
+{"timestamp":"2025-12-08T06:15:23.575Z","level":"INFO","phase":"HERO_IMAGE","msg":"Specs exist but hero missing, downloading...","elapsed":174639}
+{"timestamp":"2025-12-08T06:15:24.396Z","level":"INFO","phase":"HERO_IMAGE","msg":"Starting hero image extraction...","elapsed":175460}
+{"timestamp":"2025-12-08T06:15:24.424Z","level":"INFO","phase":"HERO_IMAGE","msg":"Loaded HTML, looking for image selectors...","elapsed":175488}
+{"timestamp":"2025-12-08T06:15:24.425Z","level":"INFO","phase":"HERO_IMAGE","msg":"Found image src: https://web.archive.org/web/20251010220610im_/https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-sm-s931.jpg","elapsed":175490}
+{"timestamp":"2025-12-08T06:15:24.426Z","level":"INFO","phase":"HERO_IMAGE","msg":"Final image URL: https://web.archive.org/web/20251010220610im_/https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-sm-s931.jpg","elapsed":175490}
+{"timestamp":"2025-12-08T06:15:24.427Z","level":"INFO","phase":"HERO_IMAGE","msg":"Downloading image binary data...","elapsed":175491}
+{"timestamp":"2025-12-08T06:15:26.447Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"Downloaded 5669 bytes in 2020ms","elapsed":177512}
+{"timestamp":"2025-12-08T06:15:26.448Z","level":"INFO","phase":"HERO_IMAGE","msg":"Original dir: data/content/samsung_galaxy_s25","elapsed":177512}
+{"timestamp":"2025-12-08T06:15:26.448Z","level":"INFO","phase":"HERO_IMAGE","msg":"Target processed dir: data/processed_content/samsung_galaxy_s25","elapsed":177512}
+{"timestamp":"2025-12-08T06:15:26.448Z","level":"INFO","phase":"HERO_IMAGE","msg":"Creating directory structure...","elapsed":177512}
+{"timestamp":"2025-12-08T06:15:26.449Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"Directory created successfully","elapsed":177513}
+{"timestamp":"2025-12-08T06:15:26.449Z","level":"INFO","phase":"HERO_IMAGE","msg":"Writing image to: data/processed_content/samsung_galaxy_s25/hero_1.jpg","elapsed":177513}
+{"timestamp":"2025-12-08T06:15:26.450Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"Image saved successfully to data/processed_content/samsung_galaxy_s25/hero_1.jpg","elapsed":177514}
+{"timestamp":"2025-12-08T06:15:26.451Z","level":"SUCCESS","phase":"HERO_IMAGE","msg":"✅ File exists, size: 5669 bytes","elapsed":177515}
+{"timestamp":"2025-12-08T06:15:26.452Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 2_gsmarena_review.txt - already exists","elapsed":177516}
+{"timestamp":"2025-12-08T06:15:26.459Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 3_phonearena_review.txt - already exists","elapsed":177523}
+{"timestamp":"2025-12-08T06:15:26.459Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 4_dxomark_review.txt - already exists","elapsed":177523}
+{"timestamp":"2025-12-08T06:15:26.459Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 5_tomsguide_review.txt - already exists","elapsed":177524}
+{"timestamp":"2025-12-08T06:15:26.460Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 6_techradar_review.txt - already exists","elapsed":177524}
+{"timestamp":"2025-12-08T06:15:26.464Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 8_notebookcheck_review.txt - already exists","elapsed":177528}
+{"timestamp":"2025-12-08T06:15:26.467Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 9_androidcentral_review.txt - already exists","elapsed":177532}
+{"timestamp":"2025-12-08T06:15:26.468Z","level":"INFO","phase":"PHASE 3","msg":"No archive URLs, trying progressive fallback","elapsed":177532}
+{"timestamp":"2025-12-08T06:15:45.919Z","level":"WARNING","phase":"PHASE 3","msg":"recent strategy: no snapshots","elapsed":196983}
+{"timestamp":"2025-12-08T06:16:38.920Z","level":"WARNING","phase":"PHASE 3","msg":"2-year strategy: no snapshots","elapsed":249985}
+{"timestamp":"2025-12-08T06:17:09.103Z","level":"WARNING","phase":"PHASE 3","msg":"5-year strategy: no snapshots","elapsed":280167}
+{"timestamp":"2025-12-08T06:17:09.104Z","level":"ERROR","phase":"PHASE 3","msg":"All fallback strategies exhausted","elapsed":280168}
+{"timestamp":"2025-12-08T06:17:09.104Z","level":"INFO","phase":"PHASE 3","msg":"Validating samsung galaxy s25 theverge_review","meta":{"totalSnapshots":7,"strategy":"recent"},"elapsed":280168}
+{"timestamp":"2025-12-08T06:17:10.672Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 1/7","meta":{"wordCount":1536},"elapsed":281736}
+{"timestamp":"2025-12-08T06:17:10.673Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 1 failed validation","meta":{"wordCount":1536,"minWords":2000},"elapsed":281737}
+{"timestamp":"2025-12-08T06:17:13.276Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 2/7","meta":{"wordCount":1536},"elapsed":284340}
+{"timestamp":"2025-12-08T06:17:13.276Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 2 failed validation","meta":{"wordCount":1536,"minWords":2000},"elapsed":284341}
+{"timestamp":"2025-12-08T06:17:17.451Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 3/7","meta":{"wordCount":1536},"elapsed":288515}
+{"timestamp":"2025-12-08T06:17:17.451Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 3 failed validation","meta":{"wordCount":1536,"minWords":2000},"elapsed":288515}
+{"timestamp":"2025-12-08T06:17:20.307Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 4/7","meta":{"wordCount":1536},"elapsed":291372}
+{"timestamp":"2025-12-08T06:17:20.308Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 4 failed validation","meta":{"wordCount":1536,"minWords":2000},"elapsed":291372}
+{"timestamp":"2025-12-08T06:17:23.811Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 5/7","meta":{"wordCount":1536},"elapsed":294875}
+{"timestamp":"2025-12-08T06:17:23.812Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 5 failed validation","meta":{"wordCount":1536,"minWords":2000},"elapsed":294876}
+{"timestamp":"2025-12-08T06:17:28.227Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 6/7","meta":{"wordCount":1536},"elapsed":299291}
+{"timestamp":"2025-12-08T06:17:28.228Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 6 failed validation","meta":{"wordCount":1536,"minWords":2000},"elapsed":299292}
+{"timestamp":"2025-12-08T06:17:31.129Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 7/7","meta":{"wordCount":1535},"elapsed":302193}
+{"timestamp":"2025-12-08T06:17:31.130Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 7 failed validation","meta":{"wordCount":1535,"minWords":2000},"elapsed":302194}
+{"timestamp":"2025-12-08T06:17:31.135Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 1_gsmarena_specs.txt - already exists","elapsed":302199}
+{"timestamp":"2025-12-08T06:17:31.138Z","level":"INFO","phase":"HERO_IMAGE","msg":"Specs exist but hero missing, downloading...","elapsed":302202}
+{"timestamp":"2025-12-08T06:17:32.830Z","level":"INFO","phase":"HERO_IMAGE","msg":"Starting hero image extraction...","elapsed":303894}
+{"timestamp":"2025-12-08T06:17:32.843Z","level":"INFO","phase":"HERO_IMAGE","msg":"Loaded HTML, looking for image selectors...","elapsed":303907}
+{"timestamp":"2025-12-08T06:17:32.846Z","level":"INFO","phase":"HERO_IMAGE","msg":"Final image URL: https://web.archive.org/web/20251007152622im_/https://fdn2.gsmarena.com/vv/bigpic/oneplus-13.jpg","elapsed":303910}
+{"timestamp":"2025-12-08T06:17:32.846Z","level":"INFO","phase":"HERO_IMAGE","msg":"Downloading image binary data...","elapsed":303911}
+{"timestamp":"2025-12-08T06:17:32.845Z","level":"INFO","phase":"HERO_IMAGE","msg":"Found image src: https://web.archive.org/web/20251007152622im_/https://fdn2.gsmarena.com/vv/bigpic/oneplus-13.jpg","elapsed":303909}
+{"timestamp":"2025-12-08T06:18:03.912Z","level":"WARNING","phase":"HERO_IMAGE","msg":"Attempt 1 failed after 31065ms: HTTP Network Error: https://web.archive.org/web/20251007152622im_/https://fdn2.gsmarena.com/vv/bigpic/oneplus-13.jpg","elapsed":334976}
+{"timestamp":"2025-12-08T06:18:03.912Z","level":"WARNING","phase":"HERO_IMAGE","msg":"Retry attempt 2/3 after 1000ms","elapsed":334976}
+{"timestamp":"2025-12-08T06:18:34.919Z","level":"WARNING","phase":"HERO_IMAGE","msg":"Attempt 2 failed after 62072ms: HTTP Network Error: https://web.archive.org/web/20251007152622im_/https://fdn2.gsmarena.com/vv/bigpic/oneplus-13.jpg","elapsed":365983}
+{"timestamp":"2025-12-08T06:18:34.919Z","level":"WARNING","phase":"HERO_IMAGE","msg":"Retry attempt 3/3 after 2000ms","elapsed":365983}
+{"timestamp":"2025-12-08T06:19:06.947Z","level":"WARNING","phase":"HERO_IMAGE","msg":"Attempt 3 failed after 94100ms: HTTP Network Error: https://web.archive.org/web/20251007152622im_/https://fdn2.gsmarena.com/vv/bigpic/oneplus-13.jpg","elapsed":398011}
+{"timestamp":"2025-12-08T06:19:06.947Z","level":"ERROR","phase":"HERO_IMAGE","msg":"Failed with detailed error: Failed to download image after 3 attempts: HTTP Network Error: https://web.archive.org/web/20251007152622im_/https://fdn2.gsmarena.com/vv/bigpic/oneplus-13.jpg","elapsed":398011}
+{"timestamp":"2025-12-08T06:19:06.948Z","level":"ERROR","phase":"HERO_IMAGE","msg":"Stack trace: Error: Failed to download image after 3 attempts: HTTP Network Error: https://web.archive.org/web/20251007152622im_/https://fdn2.gsmarena.com/vv/bigpic/oneplus-13.jpg\n    at Orchestrator.saveHeroImage (/home/runner/work/smartmatch-pwa/smartmatch-pwa/scripts/discovery.ts:1876:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Orchestrator.runPhase3 (/home/runner/work/smartmatch-pwa/smartmatch-pwa/scripts/discovery.ts:1591:21)\n    at async Orchestrator.run (/home/runner/work/smartmatch-pwa/smartmatch-pwa/scripts/discovery.ts:1945:7)","elapsed":398012}
+{"timestamp":"2025-12-08T06:19:06.948Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 2_gsmarena_review.txt - already exists","elapsed":398012}
+{"timestamp":"2025-12-08T06:19:06.949Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 3_phonearena_review.txt - already exists","elapsed":398013}
+{"timestamp":"2025-12-08T06:19:06.950Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 4_dxomark_review.txt - already exists","elapsed":398014}
+{"timestamp":"2025-12-08T06:19:06.950Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 5_tomsguide_review.txt - already exists","elapsed":398014}
+{"timestamp":"2025-12-08T06:19:06.950Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 6_techradar_review.txt - already exists","elapsed":398014}
+{"timestamp":"2025-12-08T06:19:06.951Z","level":"INFO","phase":"PHASE 3","msg":"Validating oneplus 13 theverge_review","meta":{"totalSnapshots":10,"strategy":"recent"},"elapsed":398015}
+{"timestamp":"2025-12-08T06:20:36.977Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 1 ERROR: HTTP Network Error: https://web.archive.org/web/20250909031221/https://www.theverge.com/24336534/oneplus-13-review-specs-screen-camera-battery","elapsed":488041}
+{"timestamp":"2025-12-08T06:20:41.550Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 2/10","meta":{"wordCount":1862},"elapsed":492615}
+{"timestamp":"2025-12-08T06:20:41.551Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 2 failed validation","meta":{"wordCount":1862,"minWords":2000},"elapsed":492615}
+{"timestamp":"2025-12-08T06:20:44.593Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 3/10","meta":{"wordCount":1863},"elapsed":495657}
+{"timestamp":"2025-12-08T06:20:44.594Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 3 failed validation","meta":{"wordCount":1863,"minWords":2000},"elapsed":495658}
+{"timestamp":"2025-12-08T06:20:48.505Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 4/10","meta":{"wordCount":1863},"elapsed":499569}
+{"timestamp":"2025-12-08T06:20:48.506Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 4 failed validation","meta":{"wordCount":1863,"minWords":2000},"elapsed":499570}
+{"timestamp":"2025-12-08T06:20:51.001Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 5/10","meta":{"wordCount":1863},"elapsed":502065}
+{"timestamp":"2025-12-08T06:20:51.001Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 5 failed validation","meta":{"wordCount":1863,"minWords":2000},"elapsed":502066}
+{"timestamp":"2025-12-08T06:20:53.689Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 6/10","meta":{"wordCount":1848},"elapsed":504753}
+{"timestamp":"2025-12-08T06:20:53.689Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 6 failed validation","meta":{"wordCount":1848,"minWords":2000},"elapsed":504753}
+{"timestamp":"2025-12-08T06:20:56.525Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 7/10","meta":{"wordCount":1848},"elapsed":507589}
+{"timestamp":"2025-12-08T06:20:56.526Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 7 failed validation","meta":{"wordCount":1848,"minWords":2000},"elapsed":507590}
+{"timestamp":"2025-12-08T06:21:00.576Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 8/10","meta":{"wordCount":1868},"elapsed":511640}
+{"timestamp":"2025-12-08T06:21:00.576Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 8 failed validation","meta":{"wordCount":1868,"minWords":2000},"elapsed":511640}
+{"timestamp":"2025-12-08T06:21:03.118Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 9/10","meta":{"wordCount":1848},"elapsed":514182}
+{"timestamp":"2025-12-08T06:21:03.118Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 9 failed validation","meta":{"wordCount":1848,"minWords":2000},"elapsed":514182}
+{"timestamp":"2025-12-08T06:21:06.010Z","level":"INFO","phase":"PHASE 3","msg":"Attempt 10/10","meta":{"wordCount":1869},"elapsed":517074}
+{"timestamp":"2025-12-08T06:21:06.011Z","level":"WARNING","phase":"PHASE 3","msg":"❌ Attempt 10 failed validation","meta":{"wordCount":1869,"minWords":2000},"elapsed":517075}
+{"timestamp":"2025-12-08T06:21:06.012Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 8_notebookcheck_review.txt - already exists","elapsed":517076}
+{"timestamp":"2025-12-08T06:21:06.013Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 9_androidcentral_review.txt - already exists","elapsed":517077}
+{"timestamp":"2025-12-08T06:21:06.013Z","level":"INFO","phase":"PHASE 3","msg":"Skipping 10_androidauthority_review.txt - already exists","elapsed":517077}
+{"timestamp":"2025-12-08T06:21:06.014Z","level":"SUCCESS","phase":"PIPELINE","msg":"Discovery Complete","elapsed":517078}
+{"timestamp":"2025-12-08T06:21:06.014Z","level":"INFO","phase":"TELEMETRY","msg":"Session Summary","meta":{"cseCalls":0,"archiveHits":12,"scrapeSuccess":0,"scrapeFailure":2,"heroDownloads":3,"heroSkipped":0,"heroFailed":0,"startTime":1765174348936},"elapsed":517078}

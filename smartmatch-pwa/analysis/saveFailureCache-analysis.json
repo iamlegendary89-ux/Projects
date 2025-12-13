@@ -1,0 +1,49 @@
+{
+  "targetName": "saveFailureCache",
+  "targetType": "function",
+  "analyzedAt": "2025-12-09T18:24:48.199Z",
+  "recommendation": {
+    "winner": "v2",
+    "reason": "Passed all tests; Zero errors or failures",
+    "confidence": "high",
+    "improvements": []
+  },
+  "comparison": [
+    {
+      "variant": "v2",
+      "passRate": "100%",
+      "avgMs": "0.137",
+      "complexity": 0,
+      "score": 0.97,
+      "primaryMetric": "0.137",
+      "secondaryMetric": "0"
+    },
+    {
+      "variant": "v1",
+      "passRate": "100%",
+      "avgMs": "0.216",
+      "complexity": 0,
+      "score": 0.96,
+      "primaryMetric": "0.216",
+      "secondaryMetric": "0"
+    },
+    {
+      "variant": "v3",
+      "passRate": "100%",
+      "avgMs": "0.328",
+      "complexity": 0,
+      "score": 0.94,
+      "primaryMetric": "0.328",
+      "secondaryMetric": "0"
+    },
+    {
+      "variant": "v0-original",
+      "passRate": "100%",
+      "avgMs": "0.338",
+      "complexity": 0,
+      "score": 0.94,
+      "primaryMetric": "0.338",
+      "secondaryMetric": "0"
+    }
+  ]
+}

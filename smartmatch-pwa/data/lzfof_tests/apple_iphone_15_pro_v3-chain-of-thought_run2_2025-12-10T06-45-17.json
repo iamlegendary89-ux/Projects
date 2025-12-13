@@ -1,0 +1,81 @@
+{
+  "variant": "v3-chain-of-thought",
+  "run": 2,
+  "phone": "apple iphone 15 pro",
+  "timestamp": "2025-12-10T06:45:17.140Z",
+  "model": "tngtech/deepseek-r1t2-chimera:free",
+  "metrics": {
+    "promptLength": 244524,
+    "promptTokens": 65696,
+    "completionTokens": 2068,
+    "totalTokens": 67764,
+    "elapsedMs": 84641
+  },
+  "result": {
+    "summary_1_page": "The iPhone 15 Pro is a premium flagship offering exceptional performance with the A17 Pro chip, a vibrant 120Hz OLED display, and a durable titanium design. Its triple-camera system delivers excellent photo and video quality, though it lacks the Pro Max's 5x zoom. Battery life is solid with 12+ hours of active use, but charging remains slow at 20W. The switch to USB-C and new Action button are welcome additions. While expensive, it offers long-term software support and strong resale value. Key drawbacks include the 128GB base storage and occasional thermal throttling during intensive tasks.",
+    "pros": [
+      "Titanium design for lightness and durability (GSMArena, PhoneArena, NotebookCheck)",
+      "USB-C port for universal connectivity (Android Authority, GSMArena, TechRadar)",
+      "Powerful A17 Pro performance (GSMArena, Tom's Guide, NotebookCheck)",
+      "Excellent camera system with 48MP main sensor (DXOMark, TechRadar, Tom's Guide)",
+      "Bright 120Hz OLED display with HDR support (GSMArena, DXOMark, NotebookCheck)"
+    ],
+    "cons": [
+      "Slow 20W wired charging (Android Authority, GSMArena, Tom's Guide)",
+      "No 5x optical zoom like Pro Max (GSMArena, PhoneArena, TechRadar)",
+      "High starting price (PhoneArena, Tom's Guide, NotebookCheck)",
+      "128GB base storage (GSMArena, PhoneArena, TechRadar)",
+      "Occasional overheating under heavy load (Android Authority, GSMArena)"
+    ],
+    "attributes": [
+      {
+        "name": "Camera",
+        "score": 9.2,
+        "explanation": "48MP main sensor excels in daylight and portraits (24MP default processing). Low-light performance improved with Night mode but shows some noise. Video capabilities are industry-leading with ProRes/LOG support. Selfies are detailed but can be oversharpened. DXOMark score: 154."
+      },
+      {
+        "name": "Battery Endurance",
+        "score": 7.8,
+        "explanation": "3274mAh battery provides 12h58m active use (GSMArena). Efficient A17 Pro chip but 20W charging is slow vs competitors. Includes 80% charge limit for longevity."
+      },
+      {
+        "name": "Performance",
+        "score": 9.6,
+        "explanation": "A17 Pro dominates benchmarks (Geekbench 2922/7172, Antutu 1.56M). Sustained performance dips slightly under heavy loads. Thermal throttling improved post-update. NPU enables advanced ML features."
+      },
+      {
+        "name": "Display",
+        "score": 9.4,
+        "explanation": "6.1\" 120Hz OLED with 2000-nit HDR peak. Excellent color accuracy (DeltaE 0.14) and readability. PWM flickering at 240Hz may affect sensitive users."
+      },
+      {
+        "name": "Software Experience",
+        "score": 9,
+        "explanation": "Clean iOS 17 with Action button customization. 5-6 years of updates expected. Minor bugs addressed quickly (e.g., overheating fix)."
+      },
+      {
+        "name": "Design & Build",
+        "score": 9.3,
+        "explanation": "Titanium frame reduces weight (187g) while maintaining durability. IP68 rating and Ceramic Shield. Haptics are best-in-class."
+      },
+      {
+        "name": "Longevity Value",
+        "score": 8.5,
+        "explanation": "Long update policy (5+ years) and strong resale value. High initial cost but competitive in ultra-premium segment."
+      }
+    ],
+    "antutu": 1566329,
+    "geekbench": 7172,
+    "dxocamera": 154,
+    "dxodisplay": 151,
+    "batteryActiveUse": 12.97,
+    "softwareSupportYears": 6,
+    "currentPrice": {
+      "usd": "$999",
+      "eur": "€1,199"
+    },
+    "launchPrice": {
+      "usd": "$999"
+    }
+  }
+}

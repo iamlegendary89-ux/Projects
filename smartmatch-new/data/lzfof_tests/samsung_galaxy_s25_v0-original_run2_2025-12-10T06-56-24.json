@@ -1,0 +1,84 @@
+{
+  "variant": "v0-original",
+  "run": 2,
+  "phone": "samsung galaxy s25",
+  "timestamp": "2025-12-10T06:56:24.549Z",
+  "model": "tngtech/deepseek-r1t2-chimera:free",
+  "metrics": {
+    "promptLength": 216329,
+    "promptTokens": 60293,
+    "completionTokens": 2329,
+    "totalTokens": 62622,
+    "elapsedMs": 103168
+  },
+  "result": {
+    "summary_1_page": "The Samsung Galaxy S25 is a compact flagship offering top-tier performance with the Snapdragon 8 Elite chip, 12GB RAM, and a bright 120Hz AMOLED display. It excels in AI capabilities and software longevity with 7 years of updates. However, it reuses the same camera hardware since the S22, resulting in mediocre low-light performance and lackluster upgrades. Battery life is solid at 13.15h active use, but 25W charging lags behind competitors. The design is lightweight and durable with IP68 rating, yet lacks UWB and Gorilla Armor glass. Priced at $799, it's a strong choice for compact phone enthusiasts but falls short in camera innovation and charging speed.",
+    "pros": [
+      "Powerful Snapdragon 8 Elite chip with top-tier performance (mentioned: GSMArena, NotebookCheck, AndroidCentral)",
+      "Compact and lightweight design ideal for one-handed use (mentioned: GSMArena, PhoneArena, TechRadar)",
+      "Bright 120Hz AMOLED display with HDR10+ support (mentioned: GSMArena, DXOMark, NotebookCheck)",
+      "Long software support with 7 years of OS updates (mentioned: GSMArena, AndroidCentral, TomsGuide)",
+      "Improved AI features and Gemini integration (mentioned: TomsGuide, AndroidCentral, NotebookCheck)"
+    ],
+    "cons": [
+      "Reused camera hardware since Galaxy S22 with weak low-light performance (mentioned: GSMArena, PhoneArena, NotebookCheck)",
+      "Slow 25W wired charging speeds (mentioned: GSMArena, PhoneArena, TechRadar)",
+      "No ultra-wideband (UWB) support (mentioned: AndroidCentral, NotebookCheck)",
+      "Base model starts with only 128GB storage (mentioned: PhoneArena, NotebookCheck)",
+      "Minimal design changes and lacks Gorilla Armor glass (mentioned: GSMArena, AndroidCentral)"
+    ],
+    "attributes": [
+      {
+        "name": "Camera",
+        "score": 7.45,
+        "explanation": "Main camera hardware unchanged since S22, praised for daylight shots but criticized for soft details and weak low-light (GSMArena, PhoneArena). DXOMark scores not available, but reviews note mediocre telephoto and ultrawide performance. Selfie camera remains capable with AF."
+      },
+      {
+        "name": "Battery Endurance",
+        "score": 7.8,
+        "explanation": "4,000 mAh battery delivers 13.15h active use (GSMArena tested). Efficient Snapdragon 8 Elite improves longevity, but 25W charging is slow (1h 17m full charge). Qi2 wireless and battery protection features noted."
+      },
+      {
+        "name": "Performance",
+        "score": 9.25,
+        "explanation": "Snapdragon 8 Elite dominates benchmarks: AnTuTu 2.19M, GeekBench 10,050 (GSMArena). Sustained performance throttles under load (NotebookCheck), but peak CPU/GPU leads Android flagships. NPU excels in AI tasks (70 tokens/sec)."
+      },
+      {
+        "name": "Display",
+        "score": 8.55,
+        "explanation": "6.2-inch 120Hz LTPO AMOLED with 2600 nits peak brightness (GSMArena). DXOMark display score 157/200, praised for readability but criticized for 240Hz PWM dimming (NotebookCheck). Color accuracy and HDR10+ supported."
+      },
+      {
+        "name": "Software Experience",
+        "score": 8.8,
+        "explanation": "One UI 7 (Android 15) with 7-year update policy (GSMArena). Cleaner interface and AI features praised (AndroidCentral), though some bloat noted. Gemini/Bixby integration improves functionality."
+      },
+      {
+        "name": "Design & Build",
+        "score": 8.7,
+        "explanation": "Lightweight (162g) and compact IP68-rated body with Gorilla Glass Victus 2 (GSMArena). Matte aluminum frame enhances grip. Similar design to S24 criticized for lack of innovation."
+      },
+      {
+        "name": "Longevity Value",
+        "score": 8.5,
+        "explanation": "7-year update policy ensures long-term support (GSMArena). $799 launch price offers strong performance value, but camera and charging shortcomings affect resale. Repairability rated Class C (GSMArena)."
+      }
+    ],
+    "antutu": 2193701,
+    "geekbench": 10050,
+    "dxocamera": null,
+    "dxodisplay": 157,
+    "batteryActiveUse": 13.15,
+    "softwareSupportYears": 7,
+    "currentPrice": {
+      "usd": "$859.99",
+      "cad": "C$682.99",
+      "gbp": "£499.99",
+      "eur": "€532.18",
+      "inr": "₹61,480"
+    },
+    "launchPrice": {
+      "usd": "$799.99"
+    }
+  }
+}

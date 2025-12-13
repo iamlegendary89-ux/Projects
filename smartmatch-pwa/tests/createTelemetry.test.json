@@ -1,0 +1,10 @@
+{
+    "cases": [
+        {
+            "id": "factory-returns-object",
+            "input": [],
+            "expected": "__HAS_INCREMENT_AND_LOG__",
+            "description": "Factory returns object with increment and logSummary methods"
+        }
+    ]
+}

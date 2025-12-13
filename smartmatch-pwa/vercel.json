@@ -1,10 +1,33 @@
 {
-  "buildCommand": "rm -rf node_modules package-lock.json && npm install && npm run build",
-  "outputDirectory": "dist",
+  "regions": ["all"],
+  "functions": {
+    "app/api/recommendations/route.ts": {
+      "runtime": "@vercel/edge"
+    },
+    "app/api/phones/route.ts": {
+      "runtime": "@vercel/edge"
+    },
+    "app/middleware.ts": {
+      "runtime": "@vercel/edge"
+    }
+  },
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=60, s-maxage=300"
+        }
+      ]
+    }
+  ],
   "rewrites": [
     {
-      "source": "/((?!_next/static|_next/image|favicon.ico|robots.txt|sw.js).*)",
-      "destination": "/index.html"
+      "source": "/api/(.*)",
+      "destination": "/api/$1"
     }
-  ]
+  ],
+  "buildCommand": "npm run build",
+  "installCommand": "npm install"
 }

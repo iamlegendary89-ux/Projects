@@ -1,0 +1,40 @@
+{"level":"info","message":"SmartMatch Enrichment Engine v7 - Final","timestamp":"2025-12-08T06:21:49.285Z","elapsed":6}
+{"level":"info","message":"════════════════════════════════════════════════════════════","timestamp":"2025-12-08T06:21:49.324Z","elapsed":45}
+{"level":"info","message":"Account status","timestamp":"2025-12-08T06:21:49.693Z","elapsed":414,"meta":{"credits":"$0.00"}}
+{"level":"warn","message":"Low credits","timestamp":"2025-12-08T06:21:49.694Z","elapsed":415,"meta":{"credits":0,"tip":"Add $10+ for 1000 free/day"}}
+{"level":"info","message":"Queue analysis","timestamp":"2025-12-08T06:21:49.703Z","elapsed":424,"meta":{"total":4,"new":0,"updates":1,"missing":3,"limit":5,"selected":4}}
+{"level":"info","message":"Queued (update)","timestamp":"2025-12-08T06:21:49.704Z","elapsed":425,"meta":{"phone":"apple iphone 17 pro max","sources":"8 → 8","newSources":0}}
+{"level":"info","message":"Queued (update)","timestamp":"2025-12-08T06:21:49.706Z","elapsed":427,"meta":{"phone":"samsung galaxy s25","sources":"7 → 7","newSources":0}}
+{"level":"info","message":"Queued (update)","timestamp":"2025-12-08T06:21:49.706Z","elapsed":427,"meta":{"phone":"oneplus 13","sources":"6 → 8","newSources":2}}
+{"level":"info","message":"Queued (update)","timestamp":"2025-12-08T06:21:49.707Z","elapsed":428,"meta":{"phone":"apple iphone 15 pro","sources":"8 → 8","newSources":0}}
+{"level":"info","message":"Processing queue","timestamp":"2025-12-08T06:21:49.707Z","elapsed":428,"meta":{"count":4}}
+{"level":"info","message":"[1/4] apple iphone 17 pro max","timestamp":"2025-12-08T06:21:49.708Z","elapsed":429}
+{"level":"info","message":"Starting enrichment","timestamp":"2025-12-08T06:21:49.715Z","elapsed":436,"meta":{"phone":"apple iphone 17 pro max","reviewCount":8,"depth":0}}
+{"level":"info","message":"Sending prompt to LLM","timestamp":"2025-12-08T06:21:49.721Z","elapsed":442,"meta":{"brand":"apple","model":"iphone 17 pro max","promptLength":197232}}
+{"level":"info","message":"Received response from LLM","timestamp":"2025-12-08T06:23:29.518Z","elapsed":100239,"meta":{"brand":"apple","model":"iphone 17 pro max","responseLength":4114}}
+{"level":"info","message":"Enrichment complete","timestamp":"2025-12-08T06:23:29.521Z","elapsed":100242,"meta":{"brand":"apple","model":"iphone 17 pro max","overallScore":8.75,"attributesCount":7}}
+{"level":"info","message":"Enrichment complete","timestamp":"2025-12-08T06:23:29.521Z","elapsed":100242,"meta":{"phone":"apple iphone 17 pro max","score":8.75,"category":"flagship","confidence":0.999,"ms":99806}}
+{"level":"info","message":"Done","timestamp":"2025-12-08T06:23:29.523Z","elapsed":100244,"meta":{"phone":"apple iphone 17 pro max","reviews":8,"score":8.75,"conf":"99.9%","remaining":3}}
+{"level":"info","message":"[2/4] samsung galaxy s25","timestamp":"2025-12-08T06:23:29.523Z","elapsed":100244}
+{"level":"info","message":"Starting enrichment","timestamp":"2025-12-08T06:23:29.524Z","elapsed":100245,"meta":{"phone":"samsung galaxy s25","reviewCount":7,"depth":0}}
+{"level":"info","message":"Sending prompt to LLM","timestamp":"2025-12-08T06:23:29.527Z","elapsed":100248,"meta":{"brand":"samsung","model":"galaxy s25","promptLength":208510}}
+{"level":"info","message":"Received response from LLM","timestamp":"2025-12-08T06:25:03.567Z","elapsed":194288,"meta":{"brand":"samsung","model":"galaxy s25","responseLength":3988}}
+{"level":"info","message":"Enrichment complete","timestamp":"2025-12-08T06:25:03.568Z","elapsed":194289,"meta":{"brand":"samsung","model":"galaxy s25","overallScore":8.3,"attributesCount":7}}
+{"level":"info","message":"Enrichment complete","timestamp":"2025-12-08T06:25:03.568Z","elapsed":194289,"meta":{"phone":"samsung galaxy s25","score":8.3,"category":"flagship","confidence":0.999,"ms":94044}}
+{"level":"info","message":"Done","timestamp":"2025-12-08T06:25:03.570Z","elapsed":194291,"meta":{"phone":"samsung galaxy s25","reviews":7,"score":8.3,"conf":"99.9%","remaining":2}}
+{"level":"info","message":"[3/4] oneplus 13","timestamp":"2025-12-08T06:25:03.570Z","elapsed":194291}
+{"level":"info","message":"Starting enrichment","timestamp":"2025-12-08T06:25:03.571Z","elapsed":194292,"meta":{"phone":"oneplus 13","reviewCount":8,"depth":0}}
+{"level":"info","message":"Sending prompt to LLM","timestamp":"2025-12-08T06:25:03.575Z","elapsed":194296,"meta":{"brand":"oneplus","model":"13","promptLength":219800}}
+{"level":"info","message":"Received response from LLM","timestamp":"2025-12-08T06:26:30.096Z","elapsed":280817,"meta":{"brand":"oneplus","model":"13","responseLength":4512}}
+{"level":"info","message":"Enrichment complete","timestamp":"2025-12-08T06:26:30.097Z","elapsed":280818,"meta":{"brand":"oneplus","model":"13","overallScore":8.95,"attributesCount":7}}
+{"level":"info","message":"Enrichment complete","timestamp":"2025-12-08T06:26:30.097Z","elapsed":280818,"meta":{"phone":"oneplus 13","score":8.95,"category":"flagship","confidence":0.999,"ms":86526}}
+{"level":"info","message":"Done","timestamp":"2025-12-08T06:26:30.098Z","elapsed":280819,"meta":{"phone":"oneplus 13","reviews":8,"score":8.95,"conf":"99.9%","remaining":1}}
+{"level":"info","message":"[4/4] apple iphone 15 pro","timestamp":"2025-12-08T06:26:30.099Z","elapsed":280820}
+{"level":"info","message":"Starting enrichment","timestamp":"2025-12-08T06:26:30.099Z","elapsed":280820,"meta":{"phone":"apple iphone 15 pro","reviewCount":8,"depth":0}}
+{"level":"info","message":"Sending prompt to LLM","timestamp":"2025-12-08T06:26:30.102Z","elapsed":280823,"meta":{"brand":"apple","model":"iphone 15 pro","promptLength":240767}}
+{"level":"info","message":"Received response from LLM","timestamp":"2025-12-08T06:28:04.259Z","elapsed":374980,"meta":{"brand":"apple","model":"iphone 15 pro","responseLength":4629}}
+{"level":"info","message":"Enrichment complete","timestamp":"2025-12-08T06:28:04.260Z","elapsed":374981,"meta":{"brand":"apple","model":"iphone 15 pro","overallScore":8.89,"attributesCount":7}}
+{"level":"info","message":"Enrichment complete","timestamp":"2025-12-08T06:28:04.260Z","elapsed":374981,"meta":{"phone":"apple iphone 15 pro","score":8.89,"category":"flagship","confidence":0.999,"ms":94161}}
+{"level":"info","message":"Done","timestamp":"2025-12-08T06:28:04.262Z","elapsed":374983,"meta":{"phone":"apple iphone 15 pro","reviews":8,"score":8.89,"conf":"99.9%","remaining":0}}
+{"level":"info","message":"════════════════════════════════════════════════════════════","timestamp":"2025-12-08T06:28:04.262Z","elapsed":374983}
+{"level":"info","message":"Pipeline complete","timestamp":"2025-12-08T06:28:04.262Z","elapsed":374983,"meta":{"totalReviews":31,"success":4,"total":4}}

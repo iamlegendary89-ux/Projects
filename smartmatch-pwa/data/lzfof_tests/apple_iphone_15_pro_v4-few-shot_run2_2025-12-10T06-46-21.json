@@ -1,0 +1,81 @@
+{
+  "variant": "v4-few-shot",
+  "run": 2,
+  "phone": "apple iphone 15 pro",
+  "timestamp": "2025-12-10T06:46:21.743Z",
+  "model": "tngtech/deepseek-r1t2-chimera:free",
+  "metrics": {
+    "promptLength": 247711,
+    "promptTokens": 66498,
+    "completionTokens": 1391,
+    "totalTokens": 67889,
+    "elapsedMs": 54590
+  },
+  "result": {
+    "summary_1_page": "The iPhone 15 Pro transitions to a titanium frame, reducing weight by 19g while maintaining durability. All 9 sources highlight the A17 Pro chip's leading performance, with sustained gaming noted by GSMArena and NotebookCheck. The 48MP main camera receives universal acclaim, scoring 154 on DXOMark, though low-light performance trails some rivals. Battery life sees modest gains (10%) with 14.5h active use, but 20W charging remains a consistent criticism. USB-C adoption is welcomed but limited to USB 2.0 speeds on base models. iOS 17 features are praised, though Android-first features like RCS are noted as overdue.",
+    "pros": [
+      "Titanium frame reduces weight significantly (GSMArena, PhoneArena, Tom's Guide)",
+      "A17 Pro delivers exceptional sustained performance (NotebookCheck, GSMArena, TechRadar)",
+      "48MP main camera with excellent Portrait mode (DXOMark score 154, praised by 8 sources)",
+      "USB-C finally adopted (universal praise across reviews)",
+      "7 years of software support (Apple confirmation cited by all)"
+    ],
+    "cons": [
+      "20W charging remains slow vs competition (criticized by all 9 sources)",
+      "USB 2.0 speeds on base model is disappointing (The Verge, Android Authority, Tom's Guide)",
+      "Price increase in most markets (mentioned by 6 sources)",
+      "Limited customization vs Android (3 sources)",
+      "No charger in box continues (universal complaint)"
+    ],
+    "attributes": [
+      {
+        "name": "Camera",
+        "score": 9.35,
+        "explanation": "DXOMark 154 (top 10 globally). GSMArena and PhoneArena praise 24MP default mode. Minor low-light weakness vs S24 Ultra noted by 3 sources. Video quality exceptional (Tom's Guide, TechRadar)."
+      },
+      {
+        "name": "Battery Endurance",
+        "score": 7.8,
+        "explanation": "GSMArena measured 86h endurance rating. 20W charging criticized universally. NotebookCheck notes 14.5h active use, efficiency from 3nm chip helps."
+      },
+      {
+        "name": "Performance",
+        "score": 9.65,
+        "explanation": "A17 Pro leads in sustained performance per NotebookCheck thermal testing. Geekbench 7200 multi-core. Ray tracing enabled for gaming (TechRadar, Android Central)."
+      },
+      {
+        "name": "Display",
+        "score": 9.2,
+        "explanation": "ProMotion 120Hz, 2000 nits peak. DisplayMate A+ rating. PWM-free at high brightness. Thinner bezels praised (PhoneArena, GSMArena)."
+      },
+      {
+        "name": "Software Experience",
+        "score": 9.4,
+        "explanation": "iOS 17 praised for StandBy and interactive widgets. 7 years updates confirmed. Minor bugs in initial release noted by 2 sources (Android Authority, Tom's Guide)."
+      },
+      {
+        "name": "Design & Build",
+        "score": 9.1,
+        "explanation": "Titanium praised universally. Action button well-received. 19g lighter than 14 Pro. IP68 rating maintained (NotebookCheck, DXOMark)."
+      },
+      {
+        "name": "Longevity Value",
+        "score": 8.9,
+        "explanation": "7-year support class-leading. High resale value historically. Price increase hurts value proposition (Android Central, TechRadar)."
+      }
+    ],
+    "antutu": 1528000,
+    "geekbench": 7200,
+    "dxocamera": 154,
+    "dxodisplay": 149,
+    "batteryActiveUse": 14.5,
+    "softwareSupportYears": 7,
+    "currentPrice": {
+      "usd": "$999",
+      "eur": "€1199"
+    },
+    "launchPrice": {
+      "usd": "$999"
+    }
+  }
+}

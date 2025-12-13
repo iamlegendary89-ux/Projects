@@ -1,0 +1,83 @@
+{
+  "phoneId": "apple_iphone_17_pro_max",
+  "data": {
+    "brand": "apple",
+    "model": "iphone 17 pro max",
+    "overallScore": 8.75,
+    "category": "flagship",
+    "onePageSummary": "The iPhone 17 Pro Max represents Apple's boldest redesign in years, featuring a controversial 'camera plateau' aluminum unibody design with striking Cosmic Orange color. Consensus across 8 reviews highlights significant upgrades: a triple 48MP camera system with improved 4x/8x telephoto capabilities (GSMArena, DXOMark), a brighter 3000-nit OLED display with anti-reflective coating (GSMArena, DXOMark), and the powerful A19 Pro chip with vapor chamber cooling for better sustained performance (NotebookCheck, GSMArena). Battery life sees measurable gains (GSMArena tested 17h 58m active use), though charging remains slower than Android rivals at 30W peak. Key criticisms include limited Apple Intelligence features versus Google/Samsung (The Verge, Android Authority), iOS 26's buggy Liquid Glass interface (GSMArena, The Verge), and durability concerns with the scratch-prone aluminum frame (GSMArena, PhoneArena). While the telephoto camera improves, it still trails Chinese Android flagships in zoom quality (PhoneArena, AndroidCentral). The Pro Max remains the go-to for creators needing top-tier video capabilities and Apple's industry-leading 5+ year update policy.",
+    "pros": [
+      "Excellent telephoto camera with 4x optical/8x sensor zoom (mentioned: GSMArena, TechRadar, Tom's Guide)",
+      "Bright 3000-nit OLED display with anti-reflective coating (mentioned: DXOMark, GSMArena, PhoneArena)",
+      "Long battery endurance (17h 58m in GSMArena test)",
+      "Durable IP68 rating with Ceramic Shield protection (mentioned: GSMArena, TechRadar)",
+      "Industry-leading video quality with ProRes RAW/Dolby Vision (mentioned: Android Authority, GSMArena)"
+    ],
+    "cons": [
+      "Apple Intelligence lags behind Google/Samsung AI (mentioned: The Verge, Android Authority)",
+      "Slow wired charging vs Android competitors (mentioned: GSMArena, PhoneArena)",
+      "Overheating under sustained loads despite vapor chamber (mentioned: Android Authority, GSMArena)",
+      "iOS 26 Liquid Glass UI has bugs and inconsistencies (mentioned: GSMArena, The Verge)",
+      "Aluminum body prone to scratches (mentioned: GSMArena, PhoneArena)"
+    ],
+    "originalAttributes": {
+      "Camera": {
+        "score": 9.12,
+        "explanation": "DXOMark score: Unspecified but implied high via display rating. GSMArena notes 48MP triple cameras with improved telephoto (4x optical/8x digital), while Android Authority praises low-light and video. Contradiction: PhoneArena finds zoom inferior to Android flagships."
+      },
+      "Battery Endurance": {
+        "score": 8.45,
+        "explanation": "GSMArena measured 17h 58m active use score. TechRadar/Tom's Guide confirm all-day longevity. Charging criticized at 30W peak (50% in 20 mins per GSMArena), slower than Android rivals."
+      },
+      "Performance": {
+        "score": 9.3,
+        "explanation": "A19 Pro dominates benchmarks (GSMArena: Geekbench 6 Single 3891/Multi 10118). NotebookCheck confirms vapor chamber improves thermals but notes throttling under extreme loads (-35% GPU stability)."
+      },
+      "Display": {
+        "score": 9.25,
+        "explanation": "DXOMark scored 151/200 (#25 globally). GSMArena measured 2652 nits peak brightness and praised anti-glare coating. The Verge notes it's slightly dimmer than Pixel 10 Pro XL."
+      },
+      "Software Experience": {
+        "score": 7.8,
+        "explanation": "iOS 26's Liquid Glass UI polarizing; GSMArena/The Verge cite bugs. Cleanliness debated. Update policy remains best-in-class (5+ years). Apple Intelligence lags Gemini/Galaxy AI."
+      },
+      "Design & Build": {
+        "score": 8.2,
+        "explanation": "Cosmic Orange unibody praised for ergonomics (AndroidCentral) but criticized for visible gaps/scratching (GSMArena). IP68 rating maintained. Weight increases marginally to 233g."
+      },
+      "Longevity Value": {
+        "score": 9.4,
+        "explanation": "Apple's 5+ year update policy unmatched. Price increased slightly ($1,199 base) but retains high resale value. Repairability not mentioned."
+      }
+    },
+    "metadata": {
+      "confidence": 0.999,
+      "modelUsed": "tngtech/deepseek-r1t2-chimera:free",
+      "processingVersion": "v7-Final",
+      "processedAt": "2025-12-08T06:23:29.522Z",
+      "processingTimeMs": 99806,
+      "sourceCount": 8,
+      "sourceNames": [
+        "Androidauthority",
+        "Gsmarena",
+        "Phonearena",
+        "Dxomark",
+        "Tomsguide",
+        "Techradar",
+        "Theverge",
+        "Androidcentral"
+      ],
+      "sourceUrls": [
+        "https://www.androidauthority.com/apple-iphone-17-pro-review-3610935/",
+        "https://www.gsmarena.com/apple_iphone_17_pro_max-review-2884.php",
+        "https://www.phonearena.com/reviews/iphone-17-pro-max-review_id7690",
+        "https://www.dxomark.com/smartphones/Apple/iPhone-17-Pro-Max",
+        "https://www.tomsguide.com/phones/iphones/iphone-17-pro-max-review",
+        "https://www.techradar.com/phones/iphone/apple-iphone-17-pro-max-review",
+        "https://www.theverge.com/tech/779265/iphone-17-pro-max-review",
+        "https://www.androidcentral.com/phones/apple-iphone/apple-iphone-17-pro-review"
+      ],
+      "batchMode": true
+    }
+  }
+}

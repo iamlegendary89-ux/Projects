@@ -1,0 +1,61 @@
+{
+  "targetName": "shouldSkipUrl",
+  "targetType": "function",
+  "analyzedAt": "2025-12-09T08:49:02.206Z",
+  "recommendation": {
+    "winner": "v3",
+    "reason": "Best overall score",
+    "confidence": "high",
+    "improvements": []
+  },
+  "comparison": [
+    {
+      "variant": "v3",
+      "passRate": "100%",
+      "primaryMetric": "0.001",
+      "secondaryMetric": "0.000",
+      "complexity": 0,
+      "score": 1
+    },
+    {
+      "variant": "v4",
+      "passRate": "100%",
+      "primaryMetric": "0.001",
+      "secondaryMetric": "0.000",
+      "complexity": 0,
+      "score": 1
+    },
+    {
+      "variant": "v5",
+      "passRate": "100%",
+      "primaryMetric": "0.001",
+      "secondaryMetric": "0.000",
+      "complexity": 0,
+      "score": 1
+    },
+    {
+      "variant": "v1",
+      "passRate": "100%",
+      "primaryMetric": "0.024",
+      "secondaryMetric": "0.000",
+      "complexity": 0,
+      "score": 0.99
+    },
+    {
+      "variant": "v2",
+      "passRate": "86%",
+      "primaryMetric": "0.001",
+      "secondaryMetric": "0.000",
+      "complexity": 0,
+      "score": 0.93
+    },
+    {
+      "variant": "v0-original",
+      "passRate": "0%",
+      "primaryMetric": "0.000",
+      "secondaryMetric": "0.000",
+      "complexity": 1,
+      "score": 0.5
+    }
+  ]
+}

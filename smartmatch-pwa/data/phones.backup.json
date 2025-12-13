@@ -1,0 +1,344 @@
+{
+  "brands": {
+    "apple": {
+      "iphone 15 pro": {
+        "urls": {
+          "gsmarena_specs": [
+            {
+              "cse": "https://www.gsmarena.com/apple_iphone_15_pro-12557.php",
+              "title": "Apple iPhone 15 Pro - Full phone specifications - GSMArena.com",
+              "source": "gsmarena.com",
+              "archive": "https://web.archive.org/web/20251119051013/https://www.gsmarena.com/apple_iphone_15_pro-12557.php"
+            },
+            {
+              "cse": "https://www.gsmarena.com/apple_iphone_15_pro-reviews-12557p2.php",
+              "title": "Google CSE Result",
+              "source": "www.gsmarena.com",
+              "archive": "https://web.archive.org/web/2025*/https://www.gsmarena.com/apple_iphone_15_pro-reviews-12557p2.php"
+            }
+          ],
+          "gsmarena_review": [
+            {
+              "cse": "https://www.gsmarena.com/apple_iphone_15_pro-review-2620.php",
+              "title": "Apple iPhone 15 Pro review - GSMArena.com tests",
+              "source": "gsmarena.com",
+              "archive": "https://web.archive.org/web/20250419200643/https://www.gsmarena.com/apple_iphone_15_pro-review-2620.php"
+            },
+            {
+              "cse": "https://www.gsmarena.com/compare.php3?idPhone1=12548&idPhone2=12771",
+              "title": "Google CSE Result",
+              "source": "www.gsmarena.com",
+              "archive": "https://web.archive.org/web/2025*/https://www.gsmarena.com/compare.php3?idPhone1=12548&idPhone2=12771"
+            },
+            {
+              "cse": "https://www.gsmarena.com/apple_iphone_15-reviews-12559p2.php",
+              "title": "Google CSE Result",
+              "source": "www.gsmarena.com",
+              "archive": "https://web.archive.org/web/2025*/https://www.gsmarena.com/apple_iphone_15-reviews-12559p2.php"
+            }
+          ],
+          "phonearena_review": [
+            {
+              "cse": "https://www.phonearena.com/reviews/apple-iphone-15-pro-review_id5848",
+              "title": "iPhone 15 Pro Review: enter the era of USB-C - PhoneArena",
+              "source": "phonearena.com",
+              "archive": "https://web.archive.org/web/20251119051220/https://www.phonearena.com/reviews/apple-iphone-15-pro-review_id5848"
+            },
+            {
+              "cse": "https://www.gsmarena.com/apple_iphone_15_pro-reviews-12557.php",
+              "title": "Apple iPhone 15 Pro - User opinions and reviews - GSMArena.com",
+              "source": "www.gsmarena.com",
+              "archive": "https://web.archive.org/web/20250307183038/https://www.gsmarena.com/apple_iphone_15_pro-reviews-12557.php"
+            },
+            {
+              "cse": "https://www.reddit.com/r/SonyXperia/comments/gu4d4u/phone_arena_review_is_not_out_yet/",
+              "title": "Google CSE Result",
+              "source": "www.reddit.com",
+              "archive": "https://web.archive.org/web/20241203111836/https://www.reddit.com/r/SonyXperia/comments/gu4d4u/phone_arena_review_is_not_out_yet/"
+            }
+          ],
+          "dxomark_review": [
+            {
+              "cse": "https://www.dxomark.com/smartphones/Apple/iPhone-15-Pro",
+              "title": "Apple iPhone 15 Pro - DXOMARK",
+              "source": "dxomark.com",
+              "archive": "https://web.archive.org/web/20250415200815/https://www.dxomark.com/smartphones/Apple/iPhone-15-Pro"
+            }
+          ],
+          "tomsguide_review": [
+            {
+              "cse": "https://www.tomsguide.com/reviews/iphone-15-pro",
+              "title": "iPhone 15 Pro review: A compact powerhouse - Tom's Guide",
+              "source": "tomsguide.com",
+              "archive": "https://web.archive.org/web/20250911082512/https://www.tomsguide.com/reviews/iphone-15-pro"
+            }
+          ],
+          "techradar_review": [
+            {
+              "cse": "https://www.techradar.com/phones/iphone/iphone-15-pro-review",
+              "title": "iPhone 15 Pro review: pocket paragon - TechRadar",
+              "source": "techradar.com",
+              "archive": "https://web.archive.org/web/20250915155138/https://www.techradar.com/phones/iphone/iphone-15-pro-review"
+            }
+          ],
+          "theverge_review": [
+            {
+              "cse": "https://www.theverge.com/23879619/apple-iphone-15-pro-max-review",
+              "title": "Apple iPhone 15 Pro and Pro Max review: by the numbers",
+              "source": "theverge.com",
+              "archive": "https://web.archive.org/web/20250729001410/https://www.theverge.com/23879619/apple-iphone-15-pro-max-review"
+            },
+            {
+              "cse": "https://www.theverge.com/2013/10/24/5024346/macbook-pro-with-retina-display-review-15-inch-2013",
+              "title": "Google CSE Result",
+              "source": "www.theverge.com",
+              "archive": "https://web.archive.org/web/20251011231225/https://www.theverge.com/2013/10/24/5024346/macbook-pro-with-retina-display-review-15-inch-2013"
+            }
+          ],
+          "notebookcheck_review": [
+            {
+              "cse": "https://www.notebookcheck.net/Apple-iPhone-15-Pro-smartphone-in-review-High-end-phone-as-a-replacement-for-the-PlayStation.761070.0.html",
+              "title": "Apple iPhone 15 Pro smartphone in review - Notebookcheck",
+              "source": "notebookcheck.net",
+              "archive": "https://web.archive.org/web/20250522131359/https://www.notebookcheck.net/Apple-iPhone-15-Pro-smartphone-in-review-High-end-phone-as-a-replacement-for-the-PlayStation.761070.0.html"
+            },
+            {
+              "cse": "https://www.notebookcheck.net/iPhone-15-Pro-Max-Apple-s-big-Pro-did-almost-everything-right-in-our-test.757056.0.html",
+              "title": "Google CSE Result",
+              "source": "www.notebookcheck.net",
+              "archive": "https://web.archive.org/web/2025*/https://www.notebookcheck.net/iPhone-15-Pro-Max-Apple-s-big-Pro-did-almost-everything-right-in-our-test.757056.0.html"
+            }
+          ],
+          "androidcentral_review": [
+            {
+              "cse": "https://www.androidcentral.com/phones/apple-iphone-15-pro-max-long-term-review",
+              "title": "Apple iPhone 15 Pro Max long-term review: So good I almost didn't ...",
+              "source": "androidcentral.com",
+              "archive": "https://web.archive.org/web/20251006195307/https://www.androidcentral.com/phones/apple-iphone-15-pro-max-long-term-review"
+            }
+          ],
+          "androidauthority_review": [
+            {
+              "cse": "https://www.androidauthority.com/apple-iphone-15-pro-review-3368360/",
+              "title": "iPhone 15 Pro review: Is Apple's Android ... - Android Authority",
+              "source": "androidauthority.com",
+              "archive": "https://web.archive.org/web/20250826214833/https://www.androidauthority.com/apple-iphone-15-pro-review-3368360/"
+            }
+          ]
+        },
+        "lastEnriched": "2025-11-28T13:47:27.969Z",
+        "sourceCount": 17,
+        "confidence": 0.999,
+        "status": "destiny_ready"
+      },
+      "iphone 17 pro max": {
+        "urls": {
+          "gsmarena_specs": [
+            {
+              "cse": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+              "title": "Apple iPhone 17 Pro Max - Full phone specifications - GSMArena.com",
+              "source": "gsmarena.com",
+              "archive": "https://web.archive.org/web/20251119054225/https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php"
+            }
+          ],
+          "gsmarena_review": [
+            {
+              "cse": "https://www.gsmarena.com/apple_iphone_17_pro_max-review-2884.php",
+              "title": "Apple iPhone 17 Pro Max review - GSMArena.com tests",
+              "source": "gsmarena.com",
+              "archive": "https://web.archive.org/web/20250925233551/https://www.gsmarena.com/apple_iphone_17_pro_max-review-2884.php"
+            }
+          ],
+          "phonearena_review": [
+            {
+              "cse": "https://www.phonearena.com/reviews/iphone-17-pro-max-review_id7690",
+              "title": "iPhone 17 Pro Max review: hello aluminum, my old friend",
+              "source": "phonearena.com",
+              "archive": "https://web.archive.org/web/20251119052106/https://www.phonearena.com/reviews/iphone-17-pro-max-review_id7690"
+            }
+          ],
+          "dxomark_review": [
+            {
+              "cse": "https://www.dxomark.com/apple-iphone-17-pro-max-display-test/",
+              "title": "Apple iPhone 17 Pro Max Display test - DXOMARK",
+              "source": "dxomark.com"
+            }
+          ],
+          "tomsguide_review": [
+            {
+              "cse": "https://www.tomsguide.com/phones/iphones/iphone-17-pro-max-review",
+              "title": "Apple iPhone 17 Pro Max Review - Tom's Guide",
+              "source": "tomsguide.com",
+              "archive": "https://web.archive.org/web/20251011091407/https://www.tomsguide.com/phones/iphones/iphone-17-pro-max-review"
+            }
+          ],
+          "techradar_review": [
+            {
+              "cse": "https://www.techradar.com/phones/iphone/apple-iphone-17-pro-max-review",
+              "title": "Apple iPhone 17 Pro Max review: a new design and powerful ... - TechRadar",
+              "source": "techradar.com",
+              "archive": "https://web.archive.org/web/20251011221243/https://www.techradar.com/phones/iphone/apple-iphone-17-pro-max-review"
+            }
+          ],
+          "theverge_review": [
+            {
+              "cse": "https://www.theverge.com/tech/779265/iphone-17-pro-max-review",
+              "title": "Apple iPhone 17 Pro and iPhone 17 Pro Max review | The Verge",
+              "source": "theverge.com",
+              "archive": "https://web.archive.org/web/20250924184517/https://www.theverge.com/tech/779265/iphone-17-pro-max-review"
+            }
+          ],
+          "notebookcheck_review": [
+            {
+              "cse": "https://www.notebookcheck.net/Apple-iPhone-17-Pro-Max.1139131.0.html",
+              "title": "Apple iPhone 17 Pro Max - Notebookcheck.net External Reviews",
+              "source": "notebookcheck.net"
+            },
+            {
+              "cse": "https://www.notebookcheck.net/Setting-new-battery-life-records-Apple-iPhone-17-Pro-Max-smartphone-review.1148795.0.html",
+              "title": "Google CSE Result",
+              "source": "www.notebookcheck.net",
+              "archive": "https://web.archive.org/web/2025*/https://www.notebookcheck.net/Setting-new-battery-life-records-Apple-iPhone-17-Pro-Max-smartphone-review.1148795.0.html"
+            },
+            {
+              "cse": "https://www.notebookcheck.net/Apple-iPhone-13-Pro-Max.572412.0.html",
+              "title": "Google CSE Result",
+              "source": "www.notebookcheck.net",
+              "archive": "https://web.archive.org/web/20220919233538/https://www.notebookcheck.net/Apple-iPhone-13-Pro-Max.572412.0.html"
+            }
+          ],
+          "androidcentral_review": [
+            {
+              "cse": "https://www.androidcentral.com/phones/apple-iphone/apple-iphone-17-pro-review",
+              "title": "Review: The iPhone 17 Pro is the upgrade you've always wanted",
+              "source": "androidcentral.com",
+              "archive": "https://web.archive.org/web/20251119052508/https://www.androidcentral.com/phones/apple-iphone/apple-iphone-17-pro-review"
+            }
+          ],
+          "androidauthority_review": [
+            {
+              "cse": "https://www.androidauthority.com/apple-iphone-17-pro-review-3610935/",
+              "title": "iPhone 17 Pro reviewed by an Android user: Time to switch my Pixel?",
+              "source": "androidauthority.com"
+            }
+          ]
+        },
+        "lastEnriched": "2025-11-28T13:50:41.846Z",
+        "sourceCount": 12,
+        "confidence": 0.999,
+        "status": "destiny_ready"
+      }
+    },
+    "samsung": {
+      "galaxy s25": {
+        "urls": {
+          "gsmarena_specs": [
+            {
+              "cse": "https://www.gsmarena.com/samsung_galaxy_s25-13610.php",
+              "title": "Samsung Galaxy S25 - Full phone specifications - GSMArena.com",
+              "source": "gsmarena.com",
+              "archive": "https://web.archive.org/web/20251010220610/https://www.gsmarena.com/samsung_galaxy_s25-13610.php"
+            },
+            {
+              "cse": "https://www.androidpolice.com/google-pixel-9a-already-selling-two-stores/",
+              "title": "Google CSE Result",
+              "source": "www.androidpolice.com",
+              "archive": "https://web.archive.org/web/20250405060218/https://www.androidpolice.com/google-pixel-9a-already-selling-two-stores/"
+            }
+          ],
+          "gsmarena_review": [
+            {
+              "cse": "https://www.gsmarena.com/samsung_galaxy_s25-review-2794.php",
+              "title": "Samsung Galaxy S25 review - GSMArena.com tests",
+              "source": "gsmarena.com",
+              "archive": "https://web.archive.org/web/20250919204534/https://www.gsmarena.com/samsung_galaxy_s25-review-2794.php"
+            },
+            {
+              "cse": "https://m.gsmarena.com/newscomm-66092.php",
+              "title": "Google CSE Result",
+              "source": "m.gsmarena.com",
+              "archive": "https://web.archive.org/web/20250327071627/https://m.gsmarena.com/newscomm-66092.php"
+            }
+          ],
+          "phonearena_review": [
+            {
+              "cse": "https://www.phonearena.com/reviews/samsung-galaxy-s25-review_id6900",
+              "title": "Samsung Galaxy S25 Review: Barely an upgrade - PhoneArena",
+              "source": "phonearena.com",
+              "archive": "https://web.archive.org/web/20250529034212/https://www.phonearena.com/reviews/samsung-galaxy-s25-review_id6900"
+            }
+          ],
+          "dxomark_review": [
+            {
+              "cse": "https://www.dxomark.com/smartphones/Samsung/Galaxy-S25",
+              "title": "Samsung Galaxy S25 - DXOMARK",
+              "source": "dxomark.com",
+              "archive": "https://web.archive.org/web/20250421203309/https://www.dxomark.com/smartphones/Samsung/Galaxy-S25"
+            },
+            {
+              "cse": "https://www.reddit.com/r/Android/comments/9i6iaz/samsung_galaxy_j2_pro_2018_review_simple_and/",
+              "title": "Google CSE Result",
+              "source": "www.reddit.com",
+              "archive": "https://web.archive.org/web/20241216211920/https://www.reddit.com/r/Android/comments/9i6iaz/samsung_galaxy_j2_pro_2018_review_simple_and/"
+            }
+          ],
+          "tomsguide_review": [
+            {
+              "cse": "https://www.tomsguide.com/phones/samsung-phones/galaxy-s25-review",
+              "title": "Samsung Galaxy S25 review: This all-in AI bet pays off",
+              "source": "tomsguide.com",
+              "archive": "https://web.archive.org/web/20250813055331/https://www.tomsguide.com/phones/samsung-phones/galaxy-s25-review"
+            }
+          ],
+          "techradar_review": [
+            {
+              "cse": "https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-s25-review",
+              "title": "Samsung Galaxy S25 review: The most powerful small phone ... - TechRadar",
+              "source": "techradar.com",
+              "archive": "https://web.archive.org/web/20250831050359/https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-s25-review"
+            },
+            {
+              "cse": "https://www.techradar.com/news/audio/the-sound-of-silence-how-dolby-atmos-brought-gravitas-to-gravity-1201069",
+              "title": "Google CSE Result",
+              "source": "www.techradar.com",
+              "archive": "https://web.archive.org/web/20240419064044/https://www.techradar.com/news/audio/the-sound-of-silence-how-dolby-atmos-brought-gravitas-to-gravity-1201069"
+            }
+          ],
+          "theverge_review": [],
+          "notebookcheck_review": [
+            {
+              "cse": "https://www.notebookcheck.net/Samsung-Galaxy-S25-review-The-star-among-compact-smartphones-is-losing-ground.989246.0.html",
+              "title": "Samsung Galaxy S25 review - Notebookcheck",
+              "source": "notebookcheck.net",
+              "archive": "https://web.archive.org/web/20250916062348/https://www.notebookcheck.net/Samsung-Galaxy-S25-review-The-star-among-compact-smartphones-is-losing-ground.989246.0.html"
+            }
+          ],
+          "androidcentral_review": [
+            {
+              "cse": "https://www.androidcentral.com/phones/samsung-galaxy-s25-review",
+              "title": "Samsung Galaxy S25 review: The last compact Android flagship",
+              "source": "androidcentral.com",
+              "archive": "https://web.archive.org/web/20250831052104/https://www.androidcentral.com/phones/samsung-galaxy-s25-review"
+            }
+          ],
+          "androidauthority_review": [
+            {
+              "cse": "https://www.androidauthority.com/samsung-galaxy-s25-review-3531762/",
+              "title": "Samsung Galaxy S25 review: Bigger is not always better",
+              "source": "androidauthority.com"
+            }
+          ]
+        },
+        "lastEnriched": "2025-11-28T13:51:52.323Z",
+        "sourceCount": 13,
+        "confidence": 0.999,
+        "status": "destiny_ready"
+      }
+    }
+  },
+  "metadata": {
+    "lastUpdated": "2025-11-21T19:27:08.041Z",
+    "totalPhones": 3,
+    "totalUrls": 0
+  }
+}

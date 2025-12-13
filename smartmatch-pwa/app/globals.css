@@ -1,0 +1,172 @@
+@import url('https://api.fontshare.com/v2/css?f[]=satoshi@900,700,500,300,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Brand Colors - Onyx UI */
+    --onyx-primary: #00D4FF;
+    --void-black: #1A1A2E;
+    --pure-light: #F5F5F5;
+    --accent-indigo: #4D4DFF;
+    --accent-violet: #C07CFF;
+    --glass-border: rgba(255, 255, 255, 0.15);
+
+    /* System Colors (Mapping to Shadcn/Tailwind) */
+    --background: 240 30% 14%;
+    /* Void Black HSL approx */
+    --foreground: 0 0% 96%;
+    /* Pure Light HSL approx */
+
+    --card: 240 30% 14%;
+    --card-foreground: 0 0% 96%;
+
+    --popover: 240 30% 14%;
+    --popover-foreground: 0 0% 96%;
+
+    --primary: 190 100% 50%;
+    /* Soul Cyan */
+    --primary-foreground: 240 30% 14%;
+
+    --secondary: 240 100% 65%;
+    /* Accent Indigo */
+    --secondary-foreground: 0 0% 96%;
+
+    --muted: 240 20% 20%;
+    --muted-foreground: 240 5% 65%;
+
+    --accent: 275 100% 75%;
+    /* Accent Violet */
+    --accent-foreground: 240 30% 14%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 240 20% 20%;
+    --input: 240 20% 20%;
+    --ring: 190 100% 50%;
+
+    --radius: 0.5rem;
+
+    /* Archetype Colors (Placeholders - to be refined) */
+    --visionary: #00D4FF;
+    --endurance: #FF4D4D;
+    --investor: #00FF94;
+    --purist: #FFFFFF;
+    --longevity: #FFD700;
+    --devotee: #FF69B4;
+    --curator: #9370DB;
+    --connoisseur: #8A2BE2;
+    --disciplinarian: #708090;
+    --efficiency: #4682B4;
+    --creator: #FF8C00;
+    --realist: #A9A9A9;
+  }
+
+  .dark {
+    --background: 240 30% 14%;
+    --foreground: 0 0% 96%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    background-color: var(--void-black);
+    color: var(--pure-light);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-heading;
+  }
+}
+
+/* Utility: Hide scrollbar but keep functionality */
+@layer utilities {
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* High Contrast Mode */
+.high-contrast {
+  --background: 0 0% 0%;
+  --foreground: 0 0% 100%;
+  --glass-border: rgba(255, 255, 255, 0.5);
+}
+
+.high-contrast body {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+
+.high-contrast button,
+.high-contrast a {
+  border: 1px solid rgba(255, 255, 255, 0.5) !important;
+}
+
+.high-contrast .text-white\/50,
+.high-contrast .text-white\/60,
+.high-contrast .text-white\/70 {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+/* Reduced Motion - disable animations */
+@media (prefers-reduced-motion: reduce) {
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+.reduce-motion *,
+.reduce-motion *::before,
+.reduce-motion *::after {
+  animation-duration: 0.01ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.01ms !important;
+}
+
+/* Skip to content link for keyboard navigation */
+.skip-to-content {
+  position: absolute;
+  top: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--onyx-primary);
+  color: black;
+  padding: 8px 16px;
+  z-index: 100;
+  border-radius: 0 0 8px 8px;
+  font-weight: 600;
+}
+
+.skip-to-content:focus {
+  top: 0;
+}
+
+/* Enhanced focus indicators for WCAG */
+*:focus-visible {
+  outline: 2px solid var(--onyx-primary);
+  outline-offset: 2px;
+}
