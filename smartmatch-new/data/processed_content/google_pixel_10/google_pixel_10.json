@@ -3,7 +3,7 @@
   "data": {
     "brand": "google",
     "model": "pixel 10",
-    "overallScore": 9.22,
+    "overallScore": 8.25,
     "category": "flagship",
     "onePageSummary": "The Google Pixel 10 emerges as a competitive mid-range flagship with notable upgrades like a 5X telephoto camera and Qi2 magnetic charging. Reviews from PhoneArena, DXOMark, TechRadar, and NotebookCheck highlight its strengths in camera versatility (DXOMark score: 163), vibrant display (up to 3,000 nits brightness), and industry-leading seven-year software update promise. However, it lags behind rivals in raw performance (Tensor G5 trails Snapdragon 8 Elite in benchmarks) and gaming endurance. The base model's 128GB storage feels outdated compared to competitors. While AI features like Live Translate impress, Magic Cue remains inconsistent. Battery life is solid for daily use but dips under heavy loads. Priced at $799, it's best purchased during discounts.",
     "pros": [
@@ -85,33 +85,34 @@
     },
     "attributes": {
       "Camera": {
-        "score": 7.93,
-        "explanation": "DXOMark score: 163/200 (5th globally). PhoneArena praises telephoto versatility but notes noise in low-light (7.6 photo score). TechRadar highlights Pro-like results but flags detail loss in zoom/ultra-wide. (real-time normalized: 8.45 → 7.93)"
+        "score": 8.45,
+        "explanation": "DXOMark score: 163/200 (5th globally). PhoneArena praises telephoto versatility but notes noise in low-light (7.6 photo score). TechRadar highlights Pro-like results but flags detail loss in zoom/ultra-wide."
       },
       "Battery Endurance": {
-        "score": 9.81,
-        "explanation": "PhoneArena measured 21h browsing but only 5h gaming. TechRadar reported 13h15m mixed use. Efficient daily use but heavy throttling under load. (real-time normalized: 7.2 → 9.81)"
+        "score": 7.2,
+        "explanation": "PhoneArena measured 21h browsing but only 5h gaming. TechRadar reported 13h15m mixed use. Efficient daily use but heavy throttling under load."
       },
       "Performance": {
-        "score": 7.98,
-        "explanation": "Geekbench 6: 2298 single/5579 multi-core (PhoneArena). NotebookCheck shows Tensor G5 trails Snapdragon 8 Elite by ~30% in GPU tests. Sustained gaming performance weak. (real-time normalized: 6.8 → 7.98)"
+        "score": 6.8,
+        "explanation": "Geekbench 6: 2298 single/5579 multi-core (PhoneArena). NotebookCheck shows Tensor G5 trails Snapdragon 8 Elite by ~30% in GPU tests. Sustained gaming performance weak."
       },
       "Display": {
-        "score": 10,
-        "explanation": "3,000-nit peak brightness (PhoneArena), excellent color accuracy. NotebookCheck flags PWM flickering at 240Hz affecting eye comfort. (real-time normalized: 8.9 → 10.00)"
+        "score": 8.9,
+        "explanation": "3,000-nit peak brightness (PhoneArena), excellent color accuracy. NotebookCheck flags PWM flickering at 240Hz affecting eye comfort."
       },
       "Software Experience": {
-        "score": 9.8,
-        "explanation": "Clean Android 16 with Gemini AI. Seven-year updates (all sources). TechRadar criticizes missing Pro-exclusive features like call screening. (real-time normalized: 8.6 → 9.80)"
+        "score": 8.6,
+        "explanation": "Clean Android 16 with Gemini AI. Seven-year updates (all sources). TechRadar criticizes missing Pro-exclusive features like call screening."
       },
       "Design & Build": {
         "score": 8.7,
         "explanation": "Premium aluminum/glass build with IP68 rating (PhoneArena, NotebookCheck). Qi2 magnets add minimal bulk."
       },
       "Longevity Value": {
-        "score": 9.8,
-        "explanation": "Seven-year update policy (highest weight). $799 launch price undercuts rivals but storage concerns hurt price/performance. (real-time normalized: 9.1 → 9.80)"
+        "score": 9.1,
+        "explanation": "Seven-year update policy (highest weight). $799 launch price undercuts rivals but storage concerns hurt price/performance."
       }
-    }
+    },
+    "originalOverallScore": 8.25
   }
 }

@@ -3,7 +3,7 @@
   "data": {
     "brand": "samsung",
     "model": "galaxy z flip 7",
-    "overallScore": null,
+    "overallScore": 7.36,
     "category": "premium",
     "onePageSummary": "The Samsung Galaxy Z Flip 7 showcases significant hardware improvements over its predecessor, particularly with its expansive 4.1-inch cover screen (2600 nits peak brightness, 120Hz) and thinner folded profile of 13.7mm praised by Android Authority, GSMArena, and The Verge. The inner display's reduced crease and more conventional aspect ratio enhance usability according to multiple reviews. However, Samsung's restrictive cover screen software limitations—including inability to customize widgets or multitask—draw unanimous criticism across sources like TechRadar and Tom's Guide despite DXOMark's high display score of 155/200 for video performance and color accuracy.\n\nPerformance is mixed due to the Exynos 2500 chipset replacing Qualcomm's Snapdragon; benchmarks cited by Android Authority and NotebookCheck show it trailing rivals like the Motorola Razr Ultra in CPU tasks while maintaining cooler thermals during GPU loads. Battery life is adequate for a day with light use (4300mAh), but slow 25W charging (91 minutes) and heat issues during charging are noted by all reviewers.\n\nCamera performance remains unchanged from the Z Flip 6: competent in daylight with natural colors but struggles in low-light scenarios and with moving subjects as per sample images from PhoneArena and Android Central reviews—though selfies benefit from using primary cameras when folded.\n\nThe phone's standout longevity feature is its industry-leading seven-year software update promise highlighted by GSMArena and The Verge—a key advantage over Motorola—while Samsung's repair network adds value despite a $1,099 MSRP that reviewers argue feels steep given compromises.",
     "pros": [
@@ -95,33 +95,34 @@
     },
     "attributes": {
       "Camera": {
-        "score": 7.75,
-        "explanation": "Main camera delivers natural colors in daylight but struggles with low-light noise and motion blur as per Android Authority samples; selfies excel via primary cameras when folded. (real-time normalized: 7.42 → 7.75)"
+        "score": 7.42,
+        "explanation": "Main camera delivers natural colors in daylight but struggles with low-light noise and motion blur as per Android Authority samples; selfies excel via primary cameras when folded."
       },
       "Battery Endurance": {
-        "score": 9.85,
-        "explanation": "4300mAh battery provides full-day light use per GSMArena testing; slow charging (91 minutes) and heat issues noted by multiple sources. (real-time normalized: 6.58 → 9.85)"
+        "score": 6.58,
+        "explanation": "4300mAh battery provides full-day light use per GSMArena testing; slow charging (91 minutes) and heat issues noted by multiple sources."
       },
       "Performance": {
-        "score": null,
-        "explanation": "Exynos 2500 shows mixed benchmarks—better GPU than Flip 6 but worse CPU stability vs Snapdragon rivals per NotebookCheck; adequate for daily tasks. (real-time normalized: 6.12 → NaN)"
+        "score": 6.12,
+        "explanation": "Exynos 2500 shows mixed benchmarks—better GPU than Flip 6 but worse CPU stability vs Snapdragon rivals per NotebookCheck; adequate for daily tasks."
       },
       "Display": {
-        "score": 7.75,
-        "explanation": "DXOMark scored display at 155/200 for excellent HDR video and color; cover screen hardware praised universally though software limits functionality. (real-time normalized: 8.52 → 7.75)"
+        "score": 8.52,
+        "explanation": "DXOMark scored display at 155/200 for excellent HDR video and color; cover screen hardware praised universally though software limits functionality."
       },
       "Software Experience": {
-        "score": 9.8,
-        "explanation": "One UI offers clean interface with seven-year update promise; cover screen restrictions require Good Lock workarounds per multiple reviews. (real-time normalized: 7.03 → 9.80)"
+        "score": 7.03,
+        "explanation": "One UI offers clean interface with seven-year update promise; cover screen restrictions require Good Lock workarounds per multiple reviews."
       },
       "Design & Build": {
         "score": 8.21,
         "explanation": "Thinner hinge mechanism reduces crease visibility; premium materials balance durability though no IP rating noted by DXOMark."
       },
       "Longevity Value": {
-        "score": 9.8,
-        "explanation": "Seven-year update policy leads the market; high MSRP offsets repairability advantages versus Motorola Razr value. (real-time normalized: 7.65 → 9.80)"
+        "score": 7.65,
+        "explanation": "Seven-year update policy leads the market; high MSRP offsets repairability advantages versus Motorola Razr value."
       }
-    }
+    },
+    "originalOverallScore": 7.36
   }
 }

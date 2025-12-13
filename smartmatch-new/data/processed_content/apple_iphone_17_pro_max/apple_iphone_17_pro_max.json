@@ -3,7 +3,7 @@
   "data": {
     "brand": "apple",
     "model": "iphone 17 pro max",
-    "overallScore": 8.47,
+    "overallScore": 8.78,
     "category": "flagship",
     "onePageSummary": "The iPhone 17 Pro Max introduces a bold redesign with an aluminum unibody and prominent camera plateau, available in striking Cosmic Orange. It features a 6.9-inch LTPO Super Retina XDR OLED display with 3000 nits peak brightness and improved anti-reflective coating. Powered by the A19 Pro chip with vapor chamber cooling, it delivers top-tier performance (AnTuTu 2,600,583; GeekBench 10,118 multicore) and better sustained thermals, though some heat issues persist. The triple 48MP camera system includes a new 4x telephoto lens with 8x optical-quality zoom, praised for photo quality but slightly behind Android rivals in low-light. Video capabilities remain class-leading. Battery life sees meaningful gains (17:58h active use), though charging remains slower than competitors (40W wired). iOS 26's Liquid Glass UI refreshes the experience but has minor bugs. Apple Intelligence lags behind Google/Samsung in functionality. Durability is enhanced with Ceramic Shield 2, but aluminum is prone to scratches. Priced from $1,199, it offers strong longevity with Apple's update policy.",
     "pros": [
@@ -95,19 +95,19 @@
     },
     "attributes": {
       "Camera": {
-        "score": 5.96,
+        "score": 8.11,
         "explanation": "DXOMark score: 151/200. GSMArena, TechRadar praise telephoto upgrade and video excellence. Low-light slightly behind Chinese rivals per TechRadar. Selfie Center Stage innovation noted by multiple sources. (real-time normalized: 9.15 → 7.87) (real-time normalized: 7.87 → 8.11)"
       },
       "Battery Endurance": {
-        "score": 9.83,
+        "score": 9.9,
         "explanation": "GSMArena tested 17:58h active use. Improved capacity (4823/5088mAh) and efficiency praised by The Verge/Android Central. Charging limited to 40W wired (slower than Android peers). Degradation not mentioned. (real-time normalized: 8.42 → 8.62) (real-time normalized: 8.62 → 9.90)"
       },
       "Performance": {
-        "score": 7.93,
+        "score": 7.83,
         "explanation": "A19 Pro dominates benchmarks (GeekBench 10,118 multi-core). Vapor chamber improves sustained performance per GSMArena/TechRadar. Minor throttling noted by Android Authority. (real-time normalized: 9.55 → 7.83)"
       },
       "Display": {
-        "score": 7.49,
+        "score": 8,
         "explanation": "DXOMark score: 151/200. 3000-nit brightness and anti-glare coating praised by PhoneArena/GSMArena. Color accuracy and HDR support excellent across reviews. (real-time normalized: 9.30 → 9.86) (real-time normalized: 9.86 → 6.31) (real-time normalized: 6.31 → 8.00)"
       },
       "Software Experience": {
@@ -122,6 +122,7 @@
         "score": 9.8,
         "explanation": "Apple's industry-leading update policy (5+ years). High price justified for pros per TechRadar. Resale value remains strong. (real-time normalized: 9.20 → 9.80)"
       }
-    }
+    },
+    "originalOverallScore": 8.78
   }
 }

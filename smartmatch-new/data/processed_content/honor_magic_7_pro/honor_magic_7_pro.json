@@ -3,7 +3,7 @@
   "data": {
     "brand": "honor",
     "model": "magic 7 pro",
-    "overallScore": 8.65,
+    "overallScore": 8.52,
     "category": "flagship",
     "onePageSummary": "The Honor Magic 7 Pro emerges as a formidable Android flagship with iterative improvements over its predecessor. It features Qualcomm's Snapdragon 8 Elite chipset delivering top-tier performance (Geekbench Multi: 9377), though thermal throttling under sustained loads is noted by multiple reviewers (PhoneArena, GSMArena). The camera system excels with a versatile triple setup including a standout 200MP telephoto lens (3x optical zoom), earning a DXOMark score of 148 for strong detail and low-light capabilities despite occasional processing artifacts. The display impresses with excellent color accuracy (ΔE rgbcmy: 1.41) and innovative eye-comfort technologies like AI Defocus, though peak brightness trails rivals at ~1500 nits. Battery life is solid (21h 26m web browsing) despite a reduced 5,270mAh global capacity vs China's 5,850mAh model, complemented by blazing 100W wired charging (98% in 30 mins). Software promises five years of OS updates on MagicOS 9.0 with practical AI features like enhanced Magic Portal. However, its €1,799 price and limited brand recognition in Western markets pose challenges against established flagships.",
     "pros": [
@@ -93,33 +93,34 @@
     },
     "attributes": {
       "Camera": {
-        "score": 4.93,
-        "explanation": "DXOMark score: 148/200 highlights strong telephoto detail and low-light performance. Main camera praised for consistency across sources (PhoneArena: Photo Score 143), though video lacks HDR support and shows occasional exposure instability. (real-time normalized: 8.42 → 4.93)"
+        "score": 8.42,
+        "explanation": "DXOMark score: 148/200 highlights strong telephoto detail and low-light performance. Main camera praised for consistency across sources (PhoneArena: Photo Score 143), though video lacks HDR support and shows occasional exposure instability."
       },
       "Battery Endurance": {
-        "score": 9.9,
-        "explanation": "Efficient silicon-carbon tech delivers 21h+ web browsing despite smaller EU battery (5270mAh). Fast charging excels with 100W wired (98% in 30 mins per GSMArena), though video streaming endurance trails rivals at 8h. (real-time normalized: 8.65 → 9.90)"
+        "score": 8.65,
+        "explanation": "Efficient silicon-carbon tech delivers 21h+ web browsing despite smaller EU battery (5270mAh). Fast charging excels with 100W wired (98% in 30 mins per GSMArena), though video streaming endurance trails rivals at 8h."
       },
       "Performance": {
-        "score": 7.49,
-        "explanation": "Snapdragon 8 Elite dominates benchmarks (Geekbench Multi:9377), matching Apple A18 Pro in single-core tasks. Sustained performance docked for throttling under load (3DMark Extreme stress tests show thermal limits). (real-time normalized: 9.18 → 7.49)"
+        "score": 9.18,
+        "explanation": "Snapdragon 8 Elite dominates benchmarks (Geekbench Multi:9377), matching Apple A18 Pro in single-core tasks. Sustained performance docked for throttling under load (3DMark Extreme stress tests show thermal limits)."
       },
       "Display": {
-        "score": 10,
-        "explanation": "LTPO OLED with excellent color accuracy (ΔE rgbcmy:1.41) and innovative eye-comfort features noted by The Verge. Brightness peaks at ~1500 nits consistently across APL levels but trails class leaders. (real-time normalized: 8.76 → 10.00)"
+        "score": 8.76,
+        "explanation": "LTPO OLED with excellent color accuracy (ΔE rgbcmy:1.41) and innovative eye-comfort features noted by The Verge. Brightness peaks at ~1500 nits consistently across APL levels but trails class leaders."
       },
       "Software Experience": {
-        "score": 9.8,
-        "explanation": "MagicOS 9 offers polished AI utilities like Magic Portal and five-year update policy praised by GSMArena. Clean interface with minor feature overlap noted. (real-time normalized: 8.3 → 9.80)"
+        "score": 8.3,
+        "explanation": "MagicOS 9 offers polished AI utilities like Magic Portal and five-year update policy praised by GSMArena. Clean interface with minor feature overlap noted."
       },
       "Design & Build": {
         "score": 8.5,
         "explanation": "Premium materials with flat-screen design upgrade and IP69 rating (sauna-resistant). Weight distribution balanced at 223g per NotebookCheck measurements."
       },
       "Longevity Value": {
-        "score": 9.8,
-        "explanation": "Five-year OS updates enhance longevity but high launch price impacts price/performance ratio against rivals like Galaxy S24 Ultra. (real-time normalized: 7.85 → 9.80)"
+        "score": 7.85,
+        "explanation": "Five-year OS updates enhance longevity but high launch price impacts price/performance ratio against rivals like Galaxy S24 Ultra."
       }
-    }
+    },
+    "originalOverallScore": 8.52
   }
 }

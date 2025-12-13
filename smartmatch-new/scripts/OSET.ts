@@ -474,8 +474,18 @@ async function main() {
     try {
       const { input, originalData, file } = item;
 
-      // Forensics Fix: Ensure attributes exists (Enrichment v7 backward compatibility)
-      if (!originalData.data.attributes && originalData.data.originalAttributes) {
+      // CRITICAL FIX: Always start from originalAttributes to prevent re-normalization
+      // This ensures we never normalize already-normalized scores
+      if (originalData.data.originalAttributes) {
+        // Check if already OSET-processed by looking at first attribute's explanation
+        const firstAttr = Object.values(originalData.data.attributes || {})[0] as { explanation?: string } | undefined;
+        if (firstAttr?.explanation?.includes("(real-time normalized")) {
+          // Already processed - RESET attributes from originalAttributes
+          originalData.data.attributes = JSON.parse(JSON.stringify(originalData.data.originalAttributes));
+          console.log(`🔄 Resetting ${input.phoneId} from originalAttributes (was double-normalized)`);
+        }
+      } else if (!originalData.data.attributes && originalData.data.originalAttributes) {
+        // Backward compat: no attributes, copy from original
         originalData.data.attributes = JSON.parse(JSON.stringify(originalData.data.originalAttributes));
       }
 

@@ -3,7 +3,7 @@
   "data": {
     "brand": "samsung",
     "model": "galaxy s25",
-    "overallScore": 8.56,
+    "overallScore": 8.78,
     "category": "flagship",
     "onePageSummary": "The Samsung Galaxy S25 offers a compact flagship experience with top-tier performance thanks to the Snapdragon 8 Elite chip, but iterative updates leave some areas wanting. Its 6.2-inch Dynamic AMOLED display peaks at 2600 nits (measured 1395 nits by GSMArena) with excellent color accuracy but suffers from 240Hz PWM dimming affecting eye comfort. Camera hardware remains unchanged since the S22, resulting in solid but unremarkable photo quality—low-light and telephoto performance are weak points noted by GSMArena and PhoneArena. Battery life is decent (13h active use) despite the 4000mAh capacity, though 25W charging feels outdated compared to rivals. Software shines with One UI 7 and 7-year updates, while the lightweight design (162g) and IP68 rating impress. However, omissions like UWB and Qi2 magnets frustrate power users.",
     "pros": [
@@ -95,7 +95,7 @@
     },
     "attributes": {
       "Camera": {
-        "score": 6.17,
+        "score": 8.11,
         "explanation": "Main camera uses same 50MP sensor since S22 (GSMArena). Low-light noise and telephoto softness noted by PhoneArena/NotebookCheck. Video stabilization praised but lacks hardware upgrades. (real-time normalized: 7.65 → 7.87) (real-time normalized: 7.87 → 8.11)"
       },
       "Battery Endurance": {
@@ -103,11 +103,11 @@
         "explanation": "4000mAh battery delivers 13h active use (GSMArena). Slow 25W charging criticized across reviews; wireless Qi2 requires case magnets. (real-time normalized: 7.02 → 8.62) (real-time normalized: 8.62 → 9.90)"
       },
       "Performance": {
-        "score": 7.75,
+        "score": 7.83,
         "explanation": "Snapdragon 8 Elite dominates benchmarks (AnTuTu 2.19M) but throttles under sustained load per NotebookCheck/TechRadar. (real-time normalized: 9.18 → 7.83)"
       },
       "Display": {
-        "score": 7.93,
+        "score": 8,
         "explanation": "2600-nit peak brightness (measured 1395 nits), excellent color accuracy (DXOMark score:157), but PWM dimming at 240Hz noted by NotebookCheck. (real-time normalized: 8.42 → 9.86) (real-time normalized: 9.86 → 6.31) (real-time normalized: 6.31 → 8.00)"
       },
       "Software Experience": {
@@ -122,6 +122,7 @@
         "score": 9.8,
         "explanation": "Seven-year updates offset by iterative hardware; price/performance strong vs iPhone/Pixel but trails Chinese rivals. (real-time normalized: 8.10 → 9.80)"
       }
-    }
+    },
+    "originalOverallScore": 8.78
   }
 }

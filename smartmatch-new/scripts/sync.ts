@@ -8,15 +8,26 @@ import { fileURLToPath } from "url";
 import { randomUUID } from "crypto";
 import pLimit from "p-limit";
 import { z } from "zod";
-import {
-  initializeTelemetry,
-  shutdownTelemetry,
-  startSpan,
-  endSpan,
-  recordWorkflowRun,
-  recordWorkflowStep,
-  recordDbUpsert,
-} from "../lib/telemetry/telemetry.js";
+// Telemetry commented out - using no-op stubs
+// import {
+//   initializeTelemetry,
+//   shutdownTelemetry,
+//   startSpan,
+//   endSpan,
+//   recordWorkflowRun,
+//   recordWorkflowStep,
+//   recordDbUpsert,
+// } from "../lib/telemetry/telemetry.js";
+
+// No-op telemetry stubs
+const initializeTelemetry = async () => { };
+const shutdownTelemetry = async () => { };
+const startSpan = () => ({});
+const endSpan = () => { };
+const recordWorkflowRun = () => { };
+const recordWorkflowStep = () => { };
+const recordDbUpsert = () => { };
+
 
 // -----------------------------------------------------------------------------
 // Configuration & Constants

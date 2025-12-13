@@ -3,7 +3,7 @@
   "data": {
     "brand": "oneplus",
     "model": "13",
-    "overallScore": 8.77,
+    "overallScore": 8.78,
     "category": "flagship",
     "onePageSummary": "The OnePlus 13 emerges as a flagship contender with significant improvements across key areas. Powered by the Snapdragon 8 Elite chipset, it delivers top-tier performance (AnTuTu 2,690,491) and efficient battery management from its 6,000 mAh silicon-carbon battery, achieving 15.47h active use. The 6.82-inch AMOLED display earns an A++ rating from DisplayMate and DXOMark score of 143, offering exceptional brightness up to 4,500 nits and 120Hz LTPO refresh rate. Camera performance sees major upgrades with Hasselblad-tuned triple 50MP sensors, praised for zoom capabilities and daylight photography though low-light processing shows minor weaknesses. Design features IP68/IP69 durability and eco-leather options, while OxygenOS 15 streamlines software with AI features but limits updates to 4 OS/6 security years. Fast charging (100W wired/50W wireless) remains a standout feature, though thermal throttling under sustained load and a $100 price hike over its predecessor are noted drawbacks.",
     "pros": [
@@ -97,19 +97,19 @@
     },
     "attributes": {
       "Camera": {
-        "score": 6.13,
+        "score": 8.11,
         "explanation": "Strong main/telephoto performance with Hasselblad tuning praised by GSMArena and TomsGuide. Low-light limitations noted by Android Authority and DXOMark video score of 124. (real-time normalized: 8.72 → 8.11)"
       },
       "Battery Endurance": {
-        "score": 10,
+        "score": 9.9,
         "explanation": "Record 15.47h active use (GSMArena) and 19h45m lab runtime (TomsGuide). Silicon battery enables high efficiency despite throttling concerns per NotebookCheck. (real-time normalized: 9.45 → 9.90)"
       },
       "Performance": {
-        "score": 6.88,
+        "score": 7.83,
         "explanation": "Snapdragon 8 Elite dominates benchmarks (Geekbench 9,278 multi-core) but shows ~50% throttling in sustained loads per NotebookCheck and TechRadar tests. (real-time normalized: 9.28 → 7.83)"
       },
       "Display": {
-        "score": 10,
+        "score": 8,
         "explanation": "DXOMark display score of 143/200 with A++ DisplayMate rating. Boasts 4500-nit peak brightness and 2160Hz PWM noted by GSMArena and Android Authority. (real-time normalized: 9.61 → 8.00)"
       },
       "Software Experience": {
@@ -124,6 +124,7 @@
         "score": 9.8,
         "explanation": "4-year update policy trails industry leaders; strong price/performance at $899 launch MSRP but import models lack repairability info per NotebookCheck. (real-time normalized: 7.30 → 9.80)"
       }
-    }
+    },
+    "originalOverallScore": 8.78
   }
 }
